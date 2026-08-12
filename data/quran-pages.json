@@ -1,0 +1,3626 @@
+[
+  {
+    "page": 1,
+    "page_string": "001",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/001.jpg",
+    "full_path": "/quran/pages/001.jpg"
+  },
+  {
+    "page": 2,
+    "page_string": "002",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/002.jpg",
+    "full_path": "/quran/pages/002.jpg"
+  },
+  {
+    "page": 3,
+    "page_string": "003",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/003.jpg",
+    "full_path": "/quran/pages/003.jpg"
+  },
+  {
+    "page": 4,
+    "page_string": "004",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/004.jpg",
+    "full_path": "/quran/pages/004.jpg"
+  },
+  {
+    "page": 5,
+    "page_string": "005",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/005.jpg",
+    "full_path": "/quran/pages/005.jpg"
+  },
+  {
+    "page": 6,
+    "page_string": "006",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/006.jpg",
+    "full_path": "/quran/pages/006.jpg"
+  },
+  {
+    "page": 7,
+    "page_string": "007",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/007.jpg",
+    "full_path": "/quran/pages/007.jpg"
+  },
+  {
+    "page": 8,
+    "page_string": "008",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/008.jpg",
+    "full_path": "/quran/pages/008.jpg"
+  },
+  {
+    "page": 9,
+    "page_string": "009",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/009.jpg",
+    "full_path": "/quran/pages/009.jpg"
+  },
+  {
+    "page": 10,
+    "page_string": "010",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/010.jpg",
+    "full_path": "/quran/pages/010.jpg"
+  },
+  {
+    "page": 11,
+    "page_string": "011",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/011.jpg",
+    "full_path": "/quran/pages/011.jpg"
+  },
+  {
+    "page": 12,
+    "page_string": "012",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/012.jpg",
+    "full_path": "/quran/pages/012.jpg"
+  },
+  {
+    "page": 13,
+    "page_string": "013",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/013.jpg",
+    "full_path": "/quran/pages/013.jpg"
+  },
+  {
+    "page": 14,
+    "page_string": "014",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/014.jpg",
+    "full_path": "/quran/pages/014.jpg"
+  },
+  {
+    "page": 15,
+    "page_string": "015",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/015.jpg",
+    "full_path": "/quran/pages/015.jpg"
+  },
+  {
+    "page": 16,
+    "page_string": "016",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/016.jpg",
+    "full_path": "/quran/pages/016.jpg"
+  },
+  {
+    "page": 17,
+    "page_string": "017",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/017.jpg",
+    "full_path": "/quran/pages/017.jpg"
+  },
+  {
+    "page": 18,
+    "page_string": "018",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/018.jpg",
+    "full_path": "/quran/pages/018.jpg"
+  },
+  {
+    "page": 19,
+    "page_string": "019",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/019.jpg",
+    "full_path": "/quran/pages/019.jpg"
+  },
+  {
+    "page": 20,
+    "page_string": "020",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/020.jpg",
+    "full_path": "/quran/pages/020.jpg"
+  },
+  {
+    "page": 21,
+    "page_string": "021",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/021.jpg",
+    "full_path": "/quran/pages/021.jpg"
+  },
+  {
+    "page": 22,
+    "page_string": "022",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/022.jpg",
+    "full_path": "/quran/pages/022.jpg"
+  },
+  {
+    "page": 23,
+    "page_string": "023",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/023.jpg",
+    "full_path": "/quran/pages/023.jpg"
+  },
+  {
+    "page": 24,
+    "page_string": "024",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/024.jpg",
+    "full_path": "/quran/pages/024.jpg"
+  },
+  {
+    "page": 25,
+    "page_string": "025",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/025.jpg",
+    "full_path": "/quran/pages/025.jpg"
+  },
+  {
+    "page": 26,
+    "page_string": "026",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/026.jpg",
+    "full_path": "/quran/pages/026.jpg"
+  },
+  {
+    "page": 27,
+    "page_string": "027",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/027.jpg",
+    "full_path": "/quran/pages/027.jpg"
+  },
+  {
+    "page": 28,
+    "page_string": "028",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/028.jpg",
+    "full_path": "/quran/pages/028.jpg"
+  },
+  {
+    "page": 29,
+    "page_string": "029",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/029.jpg",
+    "full_path": "/quran/pages/029.jpg"
+  },
+  {
+    "page": 30,
+    "page_string": "030",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/030.jpg",
+    "full_path": "/quran/pages/030.jpg"
+  },
+  {
+    "page": 31,
+    "page_string": "031",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/031.jpg",
+    "full_path": "/quran/pages/031.jpg"
+  },
+  {
+    "page": 32,
+    "page_string": "032",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/032.jpg",
+    "full_path": "/quran/pages/032.jpg"
+  },
+  {
+    "page": 33,
+    "page_string": "033",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/033.jpg",
+    "full_path": "/quran/pages/033.jpg"
+  },
+  {
+    "page": 34,
+    "page_string": "034",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/034.jpg",
+    "full_path": "/quran/pages/034.jpg"
+  },
+  {
+    "page": 35,
+    "page_string": "035",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/035.jpg",
+    "full_path": "/quran/pages/035.jpg"
+  },
+  {
+    "page": 36,
+    "page_string": "036",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/036.jpg",
+    "full_path": "/quran/pages/036.jpg"
+  },
+  {
+    "page": 37,
+    "page_string": "037",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/037.jpg",
+    "full_path": "/quran/pages/037.jpg"
+  },
+  {
+    "page": 38,
+    "page_string": "038",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/038.jpg",
+    "full_path": "/quran/pages/038.jpg"
+  },
+  {
+    "page": 39,
+    "page_string": "039",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/039.jpg",
+    "full_path": "/quran/pages/039.jpg"
+  },
+  {
+    "page": 40,
+    "page_string": "040",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/040.jpg",
+    "full_path": "/quran/pages/040.jpg"
+  },
+  {
+    "page": 41,
+    "page_string": "041",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/041.jpg",
+    "full_path": "/quran/pages/041.jpg"
+  },
+  {
+    "page": 42,
+    "page_string": "042",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/042.jpg",
+    "full_path": "/quran/pages/042.jpg"
+  },
+  {
+    "page": 43,
+    "page_string": "043",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/043.jpg",
+    "full_path": "/quran/pages/043.jpg"
+  },
+  {
+    "page": 44,
+    "page_string": "044",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/044.jpg",
+    "full_path": "/quran/pages/044.jpg"
+  },
+  {
+    "page": 45,
+    "page_string": "045",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/045.jpg",
+    "full_path": "/quran/pages/045.jpg"
+  },
+  {
+    "page": 46,
+    "page_string": "046",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/046.jpg",
+    "full_path": "/quran/pages/046.jpg"
+  },
+  {
+    "page": 47,
+    "page_string": "047",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/047.jpg",
+    "full_path": "/quran/pages/047.jpg"
+  },
+  {
+    "page": 48,
+    "page_string": "048",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/048.jpg",
+    "full_path": "/quran/pages/048.jpg"
+  },
+  {
+    "page": 49,
+    "page_string": "049",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/049.jpg",
+    "full_path": "/quran/pages/049.jpg"
+  },
+  {
+    "page": 50,
+    "page_string": "050",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/050.jpg",
+    "full_path": "/quran/pages/050.jpg"
+  },
+  {
+    "page": 51,
+    "page_string": "051",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/051.jpg",
+    "full_path": "/quran/pages/051.jpg"
+  },
+  {
+    "page": 52,
+    "page_string": "052",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/052.jpg",
+    "full_path": "/quran/pages/052.jpg"
+  },
+  {
+    "page": 53,
+    "page_string": "053",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/053.jpg",
+    "full_path": "/quran/pages/053.jpg"
+  },
+  {
+    "page": 54,
+    "page_string": "054",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/054.jpg",
+    "full_path": "/quran/pages/054.jpg"
+  },
+  {
+    "page": 55,
+    "page_string": "055",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/055.jpg",
+    "full_path": "/quran/pages/055.jpg"
+  },
+  {
+    "page": 56,
+    "page_string": "056",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/056.jpg",
+    "full_path": "/quran/pages/056.jpg"
+  },
+  {
+    "page": 57,
+    "page_string": "057",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/057.jpg",
+    "full_path": "/quran/pages/057.jpg"
+  },
+  {
+    "page": 58,
+    "page_string": "058",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/058.jpg",
+    "full_path": "/quran/pages/058.jpg"
+  },
+  {
+    "page": 59,
+    "page_string": "059",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/059.jpg",
+    "full_path": "/quran/pages/059.jpg"
+  },
+  {
+    "page": 60,
+    "page_string": "060",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/060.jpg",
+    "full_path": "/quran/pages/060.jpg"
+  },
+  {
+    "page": 61,
+    "page_string": "061",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/061.jpg",
+    "full_path": "/quran/pages/061.jpg"
+  },
+  {
+    "page": 62,
+    "page_string": "062",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/062.jpg",
+    "full_path": "/quran/pages/062.jpg"
+  },
+  {
+    "page": 63,
+    "page_string": "063",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/063.jpg",
+    "full_path": "/quran/pages/063.jpg"
+  },
+  {
+    "page": 64,
+    "page_string": "064",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/064.jpg",
+    "full_path": "/quran/pages/064.jpg"
+  },
+  {
+    "page": 65,
+    "page_string": "065",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/065.jpg",
+    "full_path": "/quran/pages/065.jpg"
+  },
+  {
+    "page": 66,
+    "page_string": "066",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/066.jpg",
+    "full_path": "/quran/pages/066.jpg"
+  },
+  {
+    "page": 67,
+    "page_string": "067",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/067.jpg",
+    "full_path": "/quran/pages/067.jpg"
+  },
+  {
+    "page": 68,
+    "page_string": "068",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/068.jpg",
+    "full_path": "/quran/pages/068.jpg"
+  },
+  {
+    "page": 69,
+    "page_string": "069",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/069.jpg",
+    "full_path": "/quran/pages/069.jpg"
+  },
+  {
+    "page": 70,
+    "page_string": "070",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/070.jpg",
+    "full_path": "/quran/pages/070.jpg"
+  },
+  {
+    "page": 71,
+    "page_string": "071",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/071.jpg",
+    "full_path": "/quran/pages/071.jpg"
+  },
+  {
+    "page": 72,
+    "page_string": "072",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/072.jpg",
+    "full_path": "/quran/pages/072.jpg"
+  },
+  {
+    "page": 73,
+    "page_string": "073",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/073.jpg",
+    "full_path": "/quran/pages/073.jpg"
+  },
+  {
+    "page": 74,
+    "page_string": "074",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/074.jpg",
+    "full_path": "/quran/pages/074.jpg"
+  },
+  {
+    "page": 75,
+    "page_string": "075",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/075.jpg",
+    "full_path": "/quran/pages/075.jpg"
+  },
+  {
+    "page": 76,
+    "page_string": "076",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/076.jpg",
+    "full_path": "/quran/pages/076.jpg"
+  },
+  {
+    "page": 77,
+    "page_string": "077",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/077.jpg",
+    "full_path": "/quran/pages/077.jpg"
+  },
+  {
+    "page": 78,
+    "page_string": "078",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/078.jpg",
+    "full_path": "/quran/pages/078.jpg"
+  },
+  {
+    "page": 79,
+    "page_string": "079",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/079.jpg",
+    "full_path": "/quran/pages/079.jpg"
+  },
+  {
+    "page": 80,
+    "page_string": "080",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/080.jpg",
+    "full_path": "/quran/pages/080.jpg"
+  },
+  {
+    "page": 81,
+    "page_string": "081",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/081.jpg",
+    "full_path": "/quran/pages/081.jpg"
+  },
+  {
+    "page": 82,
+    "page_string": "082",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/082.jpg",
+    "full_path": "/quran/pages/082.jpg"
+  },
+  {
+    "page": 83,
+    "page_string": "083",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/083.jpg",
+    "full_path": "/quran/pages/083.jpg"
+  },
+  {
+    "page": 84,
+    "page_string": "084",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/084.jpg",
+    "full_path": "/quran/pages/084.jpg"
+  },
+  {
+    "page": 85,
+    "page_string": "085",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/085.jpg",
+    "full_path": "/quran/pages/085.jpg"
+  },
+  {
+    "page": 86,
+    "page_string": "086",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/086.jpg",
+    "full_path": "/quran/pages/086.jpg"
+  },
+  {
+    "page": 87,
+    "page_string": "087",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/087.jpg",
+    "full_path": "/quran/pages/087.jpg"
+  },
+  {
+    "page": 88,
+    "page_string": "088",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/088.jpg",
+    "full_path": "/quran/pages/088.jpg"
+  },
+  {
+    "page": 89,
+    "page_string": "089",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/089.jpg",
+    "full_path": "/quran/pages/089.jpg"
+  },
+  {
+    "page": 90,
+    "page_string": "090",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/090.jpg",
+    "full_path": "/quran/pages/090.jpg"
+  },
+  {
+    "page": 91,
+    "page_string": "091",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/091.jpg",
+    "full_path": "/quran/pages/091.jpg"
+  },
+  {
+    "page": 92,
+    "page_string": "092",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/092.jpg",
+    "full_path": "/quran/pages/092.jpg"
+  },
+  {
+    "page": 93,
+    "page_string": "093",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/093.jpg",
+    "full_path": "/quran/pages/093.jpg"
+  },
+  {
+    "page": 94,
+    "page_string": "094",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/094.jpg",
+    "full_path": "/quran/pages/094.jpg"
+  },
+  {
+    "page": 95,
+    "page_string": "095",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/095.jpg",
+    "full_path": "/quran/pages/095.jpg"
+  },
+  {
+    "page": 96,
+    "page_string": "096",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/096.jpg",
+    "full_path": "/quran/pages/096.jpg"
+  },
+  {
+    "page": 97,
+    "page_string": "097",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/097.jpg",
+    "full_path": "/quran/pages/097.jpg"
+  },
+  {
+    "page": 98,
+    "page_string": "098",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/098.jpg",
+    "full_path": "/quran/pages/098.jpg"
+  },
+  {
+    "page": 99,
+    "page_string": "099",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/099.jpg",
+    "full_path": "/quran/pages/099.jpg"
+  },
+  {
+    "page": 100,
+    "page_string": "100",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/100.jpg",
+    "full_path": "/quran/pages/100.jpg"
+  },
+  {
+    "page": 101,
+    "page_string": "101",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/101.jpg",
+    "full_path": "/quran/pages/101.jpg"
+  },
+  {
+    "page": 102,
+    "page_string": "102",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/102.jpg",
+    "full_path": "/quran/pages/102.jpg"
+  },
+  {
+    "page": 103,
+    "page_string": "103",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/103.jpg",
+    "full_path": "/quran/pages/103.jpg"
+  },
+  {
+    "page": 104,
+    "page_string": "104",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/104.jpg",
+    "full_path": "/quran/pages/104.jpg"
+  },
+  {
+    "page": 105,
+    "page_string": "105",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/105.jpg",
+    "full_path": "/quran/pages/105.jpg"
+  },
+  {
+    "page": 106,
+    "page_string": "106",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/106.jpg",
+    "full_path": "/quran/pages/106.jpg"
+  },
+  {
+    "page": 107,
+    "page_string": "107",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/107.jpg",
+    "full_path": "/quran/pages/107.jpg"
+  },
+  {
+    "page": 108,
+    "page_string": "108",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/108.jpg",
+    "full_path": "/quran/pages/108.jpg"
+  },
+  {
+    "page": 109,
+    "page_string": "109",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/109.jpg",
+    "full_path": "/quran/pages/109.jpg"
+  },
+  {
+    "page": 110,
+    "page_string": "110",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/110.jpg",
+    "full_path": "/quran/pages/110.jpg"
+  },
+  {
+    "page": 111,
+    "page_string": "111",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/111.jpg",
+    "full_path": "/quran/pages/111.jpg"
+  },
+  {
+    "page": 112,
+    "page_string": "112",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/112.jpg",
+    "full_path": "/quran/pages/112.jpg"
+  },
+  {
+    "page": 113,
+    "page_string": "113",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/113.jpg",
+    "full_path": "/quran/pages/113.jpg"
+  },
+  {
+    "page": 114,
+    "page_string": "114",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/114.jpg",
+    "full_path": "/quran/pages/114.jpg"
+  },
+  {
+    "page": 115,
+    "page_string": "115",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/115.jpg",
+    "full_path": "/quran/pages/115.jpg"
+  },
+  {
+    "page": 116,
+    "page_string": "116",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/116.jpg",
+    "full_path": "/quran/pages/116.jpg"
+  },
+  {
+    "page": 117,
+    "page_string": "117",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/117.jpg",
+    "full_path": "/quran/pages/117.jpg"
+  },
+  {
+    "page": 118,
+    "page_string": "118",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/118.jpg",
+    "full_path": "/quran/pages/118.jpg"
+  },
+  {
+    "page": 119,
+    "page_string": "119",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/119.jpg",
+    "full_path": "/quran/pages/119.jpg"
+  },
+  {
+    "page": 120,
+    "page_string": "120",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/120.jpg",
+    "full_path": "/quran/pages/120.jpg"
+  },
+  {
+    "page": 121,
+    "page_string": "121",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/121.jpg",
+    "full_path": "/quran/pages/121.jpg"
+  },
+  {
+    "page": 122,
+    "page_string": "122",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/122.jpg",
+    "full_path": "/quran/pages/122.jpg"
+  },
+  {
+    "page": 123,
+    "page_string": "123",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/123.jpg",
+    "full_path": "/quran/pages/123.jpg"
+  },
+  {
+    "page": 124,
+    "page_string": "124",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/124.jpg",
+    "full_path": "/quran/pages/124.jpg"
+  },
+  {
+    "page": 125,
+    "page_string": "125",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/125.jpg",
+    "full_path": "/quran/pages/125.jpg"
+  },
+  {
+    "page": 126,
+    "page_string": "126",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/126.jpg",
+    "full_path": "/quran/pages/126.jpg"
+  },
+  {
+    "page": 127,
+    "page_string": "127",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/127.jpg",
+    "full_path": "/quran/pages/127.jpg"
+  },
+  {
+    "page": 128,
+    "page_string": "128",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/128.jpg",
+    "full_path": "/quran/pages/128.jpg"
+  },
+  {
+    "page": 129,
+    "page_string": "129",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/129.jpg",
+    "full_path": "/quran/pages/129.jpg"
+  },
+  {
+    "page": 130,
+    "page_string": "130",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/130.jpg",
+    "full_path": "/quran/pages/130.jpg"
+  },
+  {
+    "page": 131,
+    "page_string": "131",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/131.jpg",
+    "full_path": "/quran/pages/131.jpg"
+  },
+  {
+    "page": 132,
+    "page_string": "132",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/132.jpg",
+    "full_path": "/quran/pages/132.jpg"
+  },
+  {
+    "page": 133,
+    "page_string": "133",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/133.jpg",
+    "full_path": "/quran/pages/133.jpg"
+  },
+  {
+    "page": 134,
+    "page_string": "134",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/134.jpg",
+    "full_path": "/quran/pages/134.jpg"
+  },
+  {
+    "page": 135,
+    "page_string": "135",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/135.jpg",
+    "full_path": "/quran/pages/135.jpg"
+  },
+  {
+    "page": 136,
+    "page_string": "136",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/136.jpg",
+    "full_path": "/quran/pages/136.jpg"
+  },
+  {
+    "page": 137,
+    "page_string": "137",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/137.jpg",
+    "full_path": "/quran/pages/137.jpg"
+  },
+  {
+    "page": 138,
+    "page_string": "138",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/138.jpg",
+    "full_path": "/quran/pages/138.jpg"
+  },
+  {
+    "page": 139,
+    "page_string": "139",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/139.jpg",
+    "full_path": "/quran/pages/139.jpg"
+  },
+  {
+    "page": 140,
+    "page_string": "140",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/140.jpg",
+    "full_path": "/quran/pages/140.jpg"
+  },
+  {
+    "page": 141,
+    "page_string": "141",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/141.jpg",
+    "full_path": "/quran/pages/141.jpg"
+  },
+  {
+    "page": 142,
+    "page_string": "142",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/142.jpg",
+    "full_path": "/quran/pages/142.jpg"
+  },
+  {
+    "page": 143,
+    "page_string": "143",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/143.jpg",
+    "full_path": "/quran/pages/143.jpg"
+  },
+  {
+    "page": 144,
+    "page_string": "144",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/144.jpg",
+    "full_path": "/quran/pages/144.jpg"
+  },
+  {
+    "page": 145,
+    "page_string": "145",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/145.jpg",
+    "full_path": "/quran/pages/145.jpg"
+  },
+  {
+    "page": 146,
+    "page_string": "146",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/146.jpg",
+    "full_path": "/quran/pages/146.jpg"
+  },
+  {
+    "page": 147,
+    "page_string": "147",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/147.jpg",
+    "full_path": "/quran/pages/147.jpg"
+  },
+  {
+    "page": 148,
+    "page_string": "148",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/148.jpg",
+    "full_path": "/quran/pages/148.jpg"
+  },
+  {
+    "page": 149,
+    "page_string": "149",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/149.jpg",
+    "full_path": "/quran/pages/149.jpg"
+  },
+  {
+    "page": 150,
+    "page_string": "150",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/150.jpg",
+    "full_path": "/quran/pages/150.jpg"
+  },
+  {
+    "page": 151,
+    "page_string": "151",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/151.jpg",
+    "full_path": "/quran/pages/151.jpg"
+  },
+  {
+    "page": 152,
+    "page_string": "152",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/152.jpg",
+    "full_path": "/quran/pages/152.jpg"
+  },
+  {
+    "page": 153,
+    "page_string": "153",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/153.jpg",
+    "full_path": "/quran/pages/153.jpg"
+  },
+  {
+    "page": 154,
+    "page_string": "154",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/154.jpg",
+    "full_path": "/quran/pages/154.jpg"
+  },
+  {
+    "page": 155,
+    "page_string": "155",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/155.jpg",
+    "full_path": "/quran/pages/155.jpg"
+  },
+  {
+    "page": 156,
+    "page_string": "156",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/156.jpg",
+    "full_path": "/quran/pages/156.jpg"
+  },
+  {
+    "page": 157,
+    "page_string": "157",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/157.jpg",
+    "full_path": "/quran/pages/157.jpg"
+  },
+  {
+    "page": 158,
+    "page_string": "158",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/158.jpg",
+    "full_path": "/quran/pages/158.jpg"
+  },
+  {
+    "page": 159,
+    "page_string": "159",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/159.jpg",
+    "full_path": "/quran/pages/159.jpg"
+  },
+  {
+    "page": 160,
+    "page_string": "160",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/160.jpg",
+    "full_path": "/quran/pages/160.jpg"
+  },
+  {
+    "page": 161,
+    "page_string": "161",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/161.jpg",
+    "full_path": "/quran/pages/161.jpg"
+  },
+  {
+    "page": 162,
+    "page_string": "162",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/162.jpg",
+    "full_path": "/quran/pages/162.jpg"
+  },
+  {
+    "page": 163,
+    "page_string": "163",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/163.jpg",
+    "full_path": "/quran/pages/163.jpg"
+  },
+  {
+    "page": 164,
+    "page_string": "164",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/164.jpg",
+    "full_path": "/quran/pages/164.jpg"
+  },
+  {
+    "page": 165,
+    "page_string": "165",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/165.jpg",
+    "full_path": "/quran/pages/165.jpg"
+  },
+  {
+    "page": 166,
+    "page_string": "166",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/166.jpg",
+    "full_path": "/quran/pages/166.jpg"
+  },
+  {
+    "page": 167,
+    "page_string": "167",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/167.jpg",
+    "full_path": "/quran/pages/167.jpg"
+  },
+  {
+    "page": 168,
+    "page_string": "168",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/168.jpg",
+    "full_path": "/quran/pages/168.jpg"
+  },
+  {
+    "page": 169,
+    "page_string": "169",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/169.jpg",
+    "full_path": "/quran/pages/169.jpg"
+  },
+  {
+    "page": 170,
+    "page_string": "170",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/170.jpg",
+    "full_path": "/quran/pages/170.jpg"
+  },
+  {
+    "page": 171,
+    "page_string": "171",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/171.jpg",
+    "full_path": "/quran/pages/171.jpg"
+  },
+  {
+    "page": 172,
+    "page_string": "172",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/172.jpg",
+    "full_path": "/quran/pages/172.jpg"
+  },
+  {
+    "page": 173,
+    "page_string": "173",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/173.jpg",
+    "full_path": "/quran/pages/173.jpg"
+  },
+  {
+    "page": 174,
+    "page_string": "174",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/174.jpg",
+    "full_path": "/quran/pages/174.jpg"
+  },
+  {
+    "page": 175,
+    "page_string": "175",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/175.jpg",
+    "full_path": "/quran/pages/175.jpg"
+  },
+  {
+    "page": 176,
+    "page_string": "176",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/176.jpg",
+    "full_path": "/quran/pages/176.jpg"
+  },
+  {
+    "page": 177,
+    "page_string": "177",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/177.jpg",
+    "full_path": "/quran/pages/177.jpg"
+  },
+  {
+    "page": 178,
+    "page_string": "178",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/178.jpg",
+    "full_path": "/quran/pages/178.jpg"
+  },
+  {
+    "page": 179,
+    "page_string": "179",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/179.jpg",
+    "full_path": "/quran/pages/179.jpg"
+  },
+  {
+    "page": 180,
+    "page_string": "180",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/180.jpg",
+    "full_path": "/quran/pages/180.jpg"
+  },
+  {
+    "page": 181,
+    "page_string": "181",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/181.jpg",
+    "full_path": "/quran/pages/181.jpg"
+  },
+  {
+    "page": 182,
+    "page_string": "182",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/182.jpg",
+    "full_path": "/quran/pages/182.jpg"
+  },
+  {
+    "page": 183,
+    "page_string": "183",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/183.jpg",
+    "full_path": "/quran/pages/183.jpg"
+  },
+  {
+    "page": 184,
+    "page_string": "184",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/184.jpg",
+    "full_path": "/quran/pages/184.jpg"
+  },
+  {
+    "page": 185,
+    "page_string": "185",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/185.jpg",
+    "full_path": "/quran/pages/185.jpg"
+  },
+  {
+    "page": 186,
+    "page_string": "186",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/186.jpg",
+    "full_path": "/quran/pages/186.jpg"
+  },
+  {
+    "page": 187,
+    "page_string": "187",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/187.jpg",
+    "full_path": "/quran/pages/187.jpg"
+  },
+  {
+    "page": 188,
+    "page_string": "188",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/188.jpg",
+    "full_path": "/quran/pages/188.jpg"
+  },
+  {
+    "page": 189,
+    "page_string": "189",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/189.jpg",
+    "full_path": "/quran/pages/189.jpg"
+  },
+  {
+    "page": 190,
+    "page_string": "190",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/190.jpg",
+    "full_path": "/quran/pages/190.jpg"
+  },
+  {
+    "page": 191,
+    "page_string": "191",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/191.jpg",
+    "full_path": "/quran/pages/191.jpg"
+  },
+  {
+    "page": 192,
+    "page_string": "192",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/192.jpg",
+    "full_path": "/quran/pages/192.jpg"
+  },
+  {
+    "page": 193,
+    "page_string": "193",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/193.jpg",
+    "full_path": "/quran/pages/193.jpg"
+  },
+  {
+    "page": 194,
+    "page_string": "194",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/194.jpg",
+    "full_path": "/quran/pages/194.jpg"
+  },
+  {
+    "page": 195,
+    "page_string": "195",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/195.jpg",
+    "full_path": "/quran/pages/195.jpg"
+  },
+  {
+    "page": 196,
+    "page_string": "196",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/196.jpg",
+    "full_path": "/quran/pages/196.jpg"
+  },
+  {
+    "page": 197,
+    "page_string": "197",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/197.jpg",
+    "full_path": "/quran/pages/197.jpg"
+  },
+  {
+    "page": 198,
+    "page_string": "198",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/198.jpg",
+    "full_path": "/quran/pages/198.jpg"
+  },
+  {
+    "page": 199,
+    "page_string": "199",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/199.jpg",
+    "full_path": "/quran/pages/199.jpg"
+  },
+  {
+    "page": 200,
+    "page_string": "200",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/200.jpg",
+    "full_path": "/quran/pages/200.jpg"
+  },
+  {
+    "page": 201,
+    "page_string": "201",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/201.jpg",
+    "full_path": "/quran/pages/201.jpg"
+  },
+  {
+    "page": 202,
+    "page_string": "202",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/202.jpg",
+    "full_path": "/quran/pages/202.jpg"
+  },
+  {
+    "page": 203,
+    "page_string": "203",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/203.jpg",
+    "full_path": "/quran/pages/203.jpg"
+  },
+  {
+    "page": 204,
+    "page_string": "204",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/204.jpg",
+    "full_path": "/quran/pages/204.jpg"
+  },
+  {
+    "page": 205,
+    "page_string": "205",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/205.jpg",
+    "full_path": "/quran/pages/205.jpg"
+  },
+  {
+    "page": 206,
+    "page_string": "206",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/206.jpg",
+    "full_path": "/quran/pages/206.jpg"
+  },
+  {
+    "page": 207,
+    "page_string": "207",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/207.jpg",
+    "full_path": "/quran/pages/207.jpg"
+  },
+  {
+    "page": 208,
+    "page_string": "208",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/208.jpg",
+    "full_path": "/quran/pages/208.jpg"
+  },
+  {
+    "page": 209,
+    "page_string": "209",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/209.jpg",
+    "full_path": "/quran/pages/209.jpg"
+  },
+  {
+    "page": 210,
+    "page_string": "210",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/210.jpg",
+    "full_path": "/quran/pages/210.jpg"
+  },
+  {
+    "page": 211,
+    "page_string": "211",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/211.jpg",
+    "full_path": "/quran/pages/211.jpg"
+  },
+  {
+    "page": 212,
+    "page_string": "212",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/212.jpg",
+    "full_path": "/quran/pages/212.jpg"
+  },
+  {
+    "page": 213,
+    "page_string": "213",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/213.jpg",
+    "full_path": "/quran/pages/213.jpg"
+  },
+  {
+    "page": 214,
+    "page_string": "214",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/214.jpg",
+    "full_path": "/quran/pages/214.jpg"
+  },
+  {
+    "page": 215,
+    "page_string": "215",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/215.jpg",
+    "full_path": "/quran/pages/215.jpg"
+  },
+  {
+    "page": 216,
+    "page_string": "216",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/216.jpg",
+    "full_path": "/quran/pages/216.jpg"
+  },
+  {
+    "page": 217,
+    "page_string": "217",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/217.jpg",
+    "full_path": "/quran/pages/217.jpg"
+  },
+  {
+    "page": 218,
+    "page_string": "218",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/218.jpg",
+    "full_path": "/quran/pages/218.jpg"
+  },
+  {
+    "page": 219,
+    "page_string": "219",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/219.jpg",
+    "full_path": "/quran/pages/219.jpg"
+  },
+  {
+    "page": 220,
+    "page_string": "220",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/220.jpg",
+    "full_path": "/quran/pages/220.jpg"
+  },
+  {
+    "page": 221,
+    "page_string": "221",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/221.jpg",
+    "full_path": "/quran/pages/221.jpg"
+  },
+  {
+    "page": 222,
+    "page_string": "222",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/222.jpg",
+    "full_path": "/quran/pages/222.jpg"
+  },
+  {
+    "page": 223,
+    "page_string": "223",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/223.jpg",
+    "full_path": "/quran/pages/223.jpg"
+  },
+  {
+    "page": 224,
+    "page_string": "224",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/224.jpg",
+    "full_path": "/quran/pages/224.jpg"
+  },
+  {
+    "page": 225,
+    "page_string": "225",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/225.jpg",
+    "full_path": "/quran/pages/225.jpg"
+  },
+  {
+    "page": 226,
+    "page_string": "226",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/226.jpg",
+    "full_path": "/quran/pages/226.jpg"
+  },
+  {
+    "page": 227,
+    "page_string": "227",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/227.jpg",
+    "full_path": "/quran/pages/227.jpg"
+  },
+  {
+    "page": 228,
+    "page_string": "228",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/228.jpg",
+    "full_path": "/quran/pages/228.jpg"
+  },
+  {
+    "page": 229,
+    "page_string": "229",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/229.jpg",
+    "full_path": "/quran/pages/229.jpg"
+  },
+  {
+    "page": 230,
+    "page_string": "230",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/230.jpg",
+    "full_path": "/quran/pages/230.jpg"
+  },
+  {
+    "page": 231,
+    "page_string": "231",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/231.jpg",
+    "full_path": "/quran/pages/231.jpg"
+  },
+  {
+    "page": 232,
+    "page_string": "232",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/232.jpg",
+    "full_path": "/quran/pages/232.jpg"
+  },
+  {
+    "page": 233,
+    "page_string": "233",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/233.jpg",
+    "full_path": "/quran/pages/233.jpg"
+  },
+  {
+    "page": 234,
+    "page_string": "234",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/234.jpg",
+    "full_path": "/quran/pages/234.jpg"
+  },
+  {
+    "page": 235,
+    "page_string": "235",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/235.jpg",
+    "full_path": "/quran/pages/235.jpg"
+  },
+  {
+    "page": 236,
+    "page_string": "236",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/236.jpg",
+    "full_path": "/quran/pages/236.jpg"
+  },
+  {
+    "page": 237,
+    "page_string": "237",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/237.jpg",
+    "full_path": "/quran/pages/237.jpg"
+  },
+  {
+    "page": 238,
+    "page_string": "238",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/238.jpg",
+    "full_path": "/quran/pages/238.jpg"
+  },
+  {
+    "page": 239,
+    "page_string": "239",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/239.jpg",
+    "full_path": "/quran/pages/239.jpg"
+  },
+  {
+    "page": 240,
+    "page_string": "240",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/240.jpg",
+    "full_path": "/quran/pages/240.jpg"
+  },
+  {
+    "page": 241,
+    "page_string": "241",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/241.jpg",
+    "full_path": "/quran/pages/241.jpg"
+  },
+  {
+    "page": 242,
+    "page_string": "242",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/242.jpg",
+    "full_path": "/quran/pages/242.jpg"
+  },
+  {
+    "page": 243,
+    "page_string": "243",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/243.jpg",
+    "full_path": "/quran/pages/243.jpg"
+  },
+  {
+    "page": 244,
+    "page_string": "244",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/244.jpg",
+    "full_path": "/quran/pages/244.jpg"
+  },
+  {
+    "page": 245,
+    "page_string": "245",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/245.jpg",
+    "full_path": "/quran/pages/245.jpg"
+  },
+  {
+    "page": 246,
+    "page_string": "246",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/246.jpg",
+    "full_path": "/quran/pages/246.jpg"
+  },
+  {
+    "page": 247,
+    "page_string": "247",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/247.jpg",
+    "full_path": "/quran/pages/247.jpg"
+  },
+  {
+    "page": 248,
+    "page_string": "248",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/248.jpg",
+    "full_path": "/quran/pages/248.jpg"
+  },
+  {
+    "page": 249,
+    "page_string": "249",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/249.jpg",
+    "full_path": "/quran/pages/249.jpg"
+  },
+  {
+    "page": 250,
+    "page_string": "250",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/250.jpg",
+    "full_path": "/quran/pages/250.jpg"
+  },
+  {
+    "page": 251,
+    "page_string": "251",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/251.jpg",
+    "full_path": "/quran/pages/251.jpg"
+  },
+  {
+    "page": 252,
+    "page_string": "252",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/252.jpg",
+    "full_path": "/quran/pages/252.jpg"
+  },
+  {
+    "page": 253,
+    "page_string": "253",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/253.jpg",
+    "full_path": "/quran/pages/253.jpg"
+  },
+  {
+    "page": 254,
+    "page_string": "254",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/254.jpg",
+    "full_path": "/quran/pages/254.jpg"
+  },
+  {
+    "page": 255,
+    "page_string": "255",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/255.jpg",
+    "full_path": "/quran/pages/255.jpg"
+  },
+  {
+    "page": 256,
+    "page_string": "256",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/256.jpg",
+    "full_path": "/quran/pages/256.jpg"
+  },
+  {
+    "page": 257,
+    "page_string": "257",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/257.jpg",
+    "full_path": "/quran/pages/257.jpg"
+  },
+  {
+    "page": 258,
+    "page_string": "258",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/258.jpg",
+    "full_path": "/quran/pages/258.jpg"
+  },
+  {
+    "page": 259,
+    "page_string": "259",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/259.jpg",
+    "full_path": "/quran/pages/259.jpg"
+  },
+  {
+    "page": 260,
+    "page_string": "260",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/260.jpg",
+    "full_path": "/quran/pages/260.jpg"
+  },
+  {
+    "page": 261,
+    "page_string": "261",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/261.jpg",
+    "full_path": "/quran/pages/261.jpg"
+  },
+  {
+    "page": 262,
+    "page_string": "262",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/262.jpg",
+    "full_path": "/quran/pages/262.jpg"
+  },
+  {
+    "page": 263,
+    "page_string": "263",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/263.jpg",
+    "full_path": "/quran/pages/263.jpg"
+  },
+  {
+    "page": 264,
+    "page_string": "264",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/264.jpg",
+    "full_path": "/quran/pages/264.jpg"
+  },
+  {
+    "page": 265,
+    "page_string": "265",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/265.jpg",
+    "full_path": "/quran/pages/265.jpg"
+  },
+  {
+    "page": 266,
+    "page_string": "266",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/266.jpg",
+    "full_path": "/quran/pages/266.jpg"
+  },
+  {
+    "page": 267,
+    "page_string": "267",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/267.jpg",
+    "full_path": "/quran/pages/267.jpg"
+  },
+  {
+    "page": 268,
+    "page_string": "268",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/268.jpg",
+    "full_path": "/quran/pages/268.jpg"
+  },
+  {
+    "page": 269,
+    "page_string": "269",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/269.jpg",
+    "full_path": "/quran/pages/269.jpg"
+  },
+  {
+    "page": 270,
+    "page_string": "270",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/270.jpg",
+    "full_path": "/quran/pages/270.jpg"
+  },
+  {
+    "page": 271,
+    "page_string": "271",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/271.jpg",
+    "full_path": "/quran/pages/271.jpg"
+  },
+  {
+    "page": 272,
+    "page_string": "272",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/272.jpg",
+    "full_path": "/quran/pages/272.jpg"
+  },
+  {
+    "page": 273,
+    "page_string": "273",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/273.jpg",
+    "full_path": "/quran/pages/273.jpg"
+  },
+  {
+    "page": 274,
+    "page_string": "274",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/274.jpg",
+    "full_path": "/quran/pages/274.jpg"
+  },
+  {
+    "page": 275,
+    "page_string": "275",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/275.jpg",
+    "full_path": "/quran/pages/275.jpg"
+  },
+  {
+    "page": 276,
+    "page_string": "276",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/276.jpg",
+    "full_path": "/quran/pages/276.jpg"
+  },
+  {
+    "page": 277,
+    "page_string": "277",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/277.jpg",
+    "full_path": "/quran/pages/277.jpg"
+  },
+  {
+    "page": 278,
+    "page_string": "278",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/278.jpg",
+    "full_path": "/quran/pages/278.jpg"
+  },
+  {
+    "page": 279,
+    "page_string": "279",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/279.jpg",
+    "full_path": "/quran/pages/279.jpg"
+  },
+  {
+    "page": 280,
+    "page_string": "280",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/280.jpg",
+    "full_path": "/quran/pages/280.jpg"
+  },
+  {
+    "page": 281,
+    "page_string": "281",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/281.jpg",
+    "full_path": "/quran/pages/281.jpg"
+  },
+  {
+    "page": 282,
+    "page_string": "282",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/282.jpg",
+    "full_path": "/quran/pages/282.jpg"
+  },
+  {
+    "page": 283,
+    "page_string": "283",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/283.jpg",
+    "full_path": "/quran/pages/283.jpg"
+  },
+  {
+    "page": 284,
+    "page_string": "284",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/284.jpg",
+    "full_path": "/quran/pages/284.jpg"
+  },
+  {
+    "page": 285,
+    "page_string": "285",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/285.jpg",
+    "full_path": "/quran/pages/285.jpg"
+  },
+  {
+    "page": 286,
+    "page_string": "286",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/286.jpg",
+    "full_path": "/quran/pages/286.jpg"
+  },
+  {
+    "page": 287,
+    "page_string": "287",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/287.jpg",
+    "full_path": "/quran/pages/287.jpg"
+  },
+  {
+    "page": 288,
+    "page_string": "288",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/288.jpg",
+    "full_path": "/quran/pages/288.jpg"
+  },
+  {
+    "page": 289,
+    "page_string": "289",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/289.jpg",
+    "full_path": "/quran/pages/289.jpg"
+  },
+  {
+    "page": 290,
+    "page_string": "290",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/290.jpg",
+    "full_path": "/quran/pages/290.jpg"
+  },
+  {
+    "page": 291,
+    "page_string": "291",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/291.jpg",
+    "full_path": "/quran/pages/291.jpg"
+  },
+  {
+    "page": 292,
+    "page_string": "292",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/292.jpg",
+    "full_path": "/quran/pages/292.jpg"
+  },
+  {
+    "page": 293,
+    "page_string": "293",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/293.jpg",
+    "full_path": "/quran/pages/293.jpg"
+  },
+  {
+    "page": 294,
+    "page_string": "294",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/294.jpg",
+    "full_path": "/quran/pages/294.jpg"
+  },
+  {
+    "page": 295,
+    "page_string": "295",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/295.jpg",
+    "full_path": "/quran/pages/295.jpg"
+  },
+  {
+    "page": 296,
+    "page_string": "296",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/296.jpg",
+    "full_path": "/quran/pages/296.jpg"
+  },
+  {
+    "page": 297,
+    "page_string": "297",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/297.jpg",
+    "full_path": "/quran/pages/297.jpg"
+  },
+  {
+    "page": 298,
+    "page_string": "298",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/298.jpg",
+    "full_path": "/quran/pages/298.jpg"
+  },
+  {
+    "page": 299,
+    "page_string": "299",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/299.jpg",
+    "full_path": "/quran/pages/299.jpg"
+  },
+  {
+    "page": 300,
+    "page_string": "300",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/300.jpg",
+    "full_path": "/quran/pages/300.jpg"
+  },
+  {
+    "page": 301,
+    "page_string": "301",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/301.jpg",
+    "full_path": "/quran/pages/301.jpg"
+  },
+  {
+    "page": 302,
+    "page_string": "302",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/302.jpg",
+    "full_path": "/quran/pages/302.jpg"
+  },
+  {
+    "page": 303,
+    "page_string": "303",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/303.jpg",
+    "full_path": "/quran/pages/303.jpg"
+  },
+  {
+    "page": 304,
+    "page_string": "304",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/304.jpg",
+    "full_path": "/quran/pages/304.jpg"
+  },
+  {
+    "page": 305,
+    "page_string": "305",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/305.jpg",
+    "full_path": "/quran/pages/305.jpg"
+  },
+  {
+    "page": 306,
+    "page_string": "306",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/306.jpg",
+    "full_path": "/quran/pages/306.jpg"
+  },
+  {
+    "page": 307,
+    "page_string": "307",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/307.jpg",
+    "full_path": "/quran/pages/307.jpg"
+  },
+  {
+    "page": 308,
+    "page_string": "308",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/308.jpg",
+    "full_path": "/quran/pages/308.jpg"
+  },
+  {
+    "page": 309,
+    "page_string": "309",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/309.jpg",
+    "full_path": "/quran/pages/309.jpg"
+  },
+  {
+    "page": 310,
+    "page_string": "310",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/310.jpg",
+    "full_path": "/quran/pages/310.jpg"
+  },
+  {
+    "page": 311,
+    "page_string": "311",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/311.jpg",
+    "full_path": "/quran/pages/311.jpg"
+  },
+  {
+    "page": 312,
+    "page_string": "312",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/312.jpg",
+    "full_path": "/quran/pages/312.jpg"
+  },
+  {
+    "page": 313,
+    "page_string": "313",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/313.jpg",
+    "full_path": "/quran/pages/313.jpg"
+  },
+  {
+    "page": 314,
+    "page_string": "314",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/314.jpg",
+    "full_path": "/quran/pages/314.jpg"
+  },
+  {
+    "page": 315,
+    "page_string": "315",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/315.jpg",
+    "full_path": "/quran/pages/315.jpg"
+  },
+  {
+    "page": 316,
+    "page_string": "316",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/316.jpg",
+    "full_path": "/quran/pages/316.jpg"
+  },
+  {
+    "page": 317,
+    "page_string": "317",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/317.jpg",
+    "full_path": "/quran/pages/317.jpg"
+  },
+  {
+    "page": 318,
+    "page_string": "318",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/318.jpg",
+    "full_path": "/quran/pages/318.jpg"
+  },
+  {
+    "page": 319,
+    "page_string": "319",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/319.jpg",
+    "full_path": "/quran/pages/319.jpg"
+  },
+  {
+    "page": 320,
+    "page_string": "320",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/320.jpg",
+    "full_path": "/quran/pages/320.jpg"
+  },
+  {
+    "page": 321,
+    "page_string": "321",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/321.jpg",
+    "full_path": "/quran/pages/321.jpg"
+  },
+  {
+    "page": 322,
+    "page_string": "322",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/322.jpg",
+    "full_path": "/quran/pages/322.jpg"
+  },
+  {
+    "page": 323,
+    "page_string": "323",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/323.jpg",
+    "full_path": "/quran/pages/323.jpg"
+  },
+  {
+    "page": 324,
+    "page_string": "324",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/324.jpg",
+    "full_path": "/quran/pages/324.jpg"
+  },
+  {
+    "page": 325,
+    "page_string": "325",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/325.jpg",
+    "full_path": "/quran/pages/325.jpg"
+  },
+  {
+    "page": 326,
+    "page_string": "326",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/326.jpg",
+    "full_path": "/quran/pages/326.jpg"
+  },
+  {
+    "page": 327,
+    "page_string": "327",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/327.jpg",
+    "full_path": "/quran/pages/327.jpg"
+  },
+  {
+    "page": 328,
+    "page_string": "328",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/328.jpg",
+    "full_path": "/quran/pages/328.jpg"
+  },
+  {
+    "page": 329,
+    "page_string": "329",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/329.jpg",
+    "full_path": "/quran/pages/329.jpg"
+  },
+  {
+    "page": 330,
+    "page_string": "330",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/330.jpg",
+    "full_path": "/quran/pages/330.jpg"
+  },
+  {
+    "page": 331,
+    "page_string": "331",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/331.jpg",
+    "full_path": "/quran/pages/331.jpg"
+  },
+  {
+    "page": 332,
+    "page_string": "332",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/332.jpg",
+    "full_path": "/quran/pages/332.jpg"
+  },
+  {
+    "page": 333,
+    "page_string": "333",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/333.jpg",
+    "full_path": "/quran/pages/333.jpg"
+  },
+  {
+    "page": 334,
+    "page_string": "334",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/334.jpg",
+    "full_path": "/quran/pages/334.jpg"
+  },
+  {
+    "page": 335,
+    "page_string": "335",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/335.jpg",
+    "full_path": "/quran/pages/335.jpg"
+  },
+  {
+    "page": 336,
+    "page_string": "336",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/336.jpg",
+    "full_path": "/quran/pages/336.jpg"
+  },
+  {
+    "page": 337,
+    "page_string": "337",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/337.jpg",
+    "full_path": "/quran/pages/337.jpg"
+  },
+  {
+    "page": 338,
+    "page_string": "338",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/338.jpg",
+    "full_path": "/quran/pages/338.jpg"
+  },
+  {
+    "page": 339,
+    "page_string": "339",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/339.jpg",
+    "full_path": "/quran/pages/339.jpg"
+  },
+  {
+    "page": 340,
+    "page_string": "340",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/340.jpg",
+    "full_path": "/quran/pages/340.jpg"
+  },
+  {
+    "page": 341,
+    "page_string": "341",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/341.jpg",
+    "full_path": "/quran/pages/341.jpg"
+  },
+  {
+    "page": 342,
+    "page_string": "342",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/342.jpg",
+    "full_path": "/quran/pages/342.jpg"
+  },
+  {
+    "page": 343,
+    "page_string": "343",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/343.jpg",
+    "full_path": "/quran/pages/343.jpg"
+  },
+  {
+    "page": 344,
+    "page_string": "344",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/344.jpg",
+    "full_path": "/quran/pages/344.jpg"
+  },
+  {
+    "page": 345,
+    "page_string": "345",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/345.jpg",
+    "full_path": "/quran/pages/345.jpg"
+  },
+  {
+    "page": 346,
+    "page_string": "346",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/346.jpg",
+    "full_path": "/quran/pages/346.jpg"
+  },
+  {
+    "page": 347,
+    "page_string": "347",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/347.jpg",
+    "full_path": "/quran/pages/347.jpg"
+  },
+  {
+    "page": 348,
+    "page_string": "348",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/348.jpg",
+    "full_path": "/quran/pages/348.jpg"
+  },
+  {
+    "page": 349,
+    "page_string": "349",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/349.jpg",
+    "full_path": "/quran/pages/349.jpg"
+  },
+  {
+    "page": 350,
+    "page_string": "350",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/350.jpg",
+    "full_path": "/quran/pages/350.jpg"
+  },
+  {
+    "page": 351,
+    "page_string": "351",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/351.jpg",
+    "full_path": "/quran/pages/351.jpg"
+  },
+  {
+    "page": 352,
+    "page_string": "352",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/352.jpg",
+    "full_path": "/quran/pages/352.jpg"
+  },
+  {
+    "page": 353,
+    "page_string": "353",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/353.jpg",
+    "full_path": "/quran/pages/353.jpg"
+  },
+  {
+    "page": 354,
+    "page_string": "354",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/354.jpg",
+    "full_path": "/quran/pages/354.jpg"
+  },
+  {
+    "page": 355,
+    "page_string": "355",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/355.jpg",
+    "full_path": "/quran/pages/355.jpg"
+  },
+  {
+    "page": 356,
+    "page_string": "356",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/356.jpg",
+    "full_path": "/quran/pages/356.jpg"
+  },
+  {
+    "page": 357,
+    "page_string": "357",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/357.jpg",
+    "full_path": "/quran/pages/357.jpg"
+  },
+  {
+    "page": 358,
+    "page_string": "358",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/358.jpg",
+    "full_path": "/quran/pages/358.jpg"
+  },
+  {
+    "page": 359,
+    "page_string": "359",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/359.jpg",
+    "full_path": "/quran/pages/359.jpg"
+  },
+  {
+    "page": 360,
+    "page_string": "360",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/360.jpg",
+    "full_path": "/quran/pages/360.jpg"
+  },
+  {
+    "page": 361,
+    "page_string": "361",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/361.jpg",
+    "full_path": "/quran/pages/361.jpg"
+  },
+  {
+    "page": 362,
+    "page_string": "362",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/362.jpg",
+    "full_path": "/quran/pages/362.jpg"
+  },
+  {
+    "page": 363,
+    "page_string": "363",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/363.jpg",
+    "full_path": "/quran/pages/363.jpg"
+  },
+  {
+    "page": 364,
+    "page_string": "364",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/364.jpg",
+    "full_path": "/quran/pages/364.jpg"
+  },
+  {
+    "page": 365,
+    "page_string": "365",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/365.jpg",
+    "full_path": "/quran/pages/365.jpg"
+  },
+  {
+    "page": 366,
+    "page_string": "366",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/366.jpg",
+    "full_path": "/quran/pages/366.jpg"
+  },
+  {
+    "page": 367,
+    "page_string": "367",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/367.jpg",
+    "full_path": "/quran/pages/367.jpg"
+  },
+  {
+    "page": 368,
+    "page_string": "368",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/368.jpg",
+    "full_path": "/quran/pages/368.jpg"
+  },
+  {
+    "page": 369,
+    "page_string": "369",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/369.jpg",
+    "full_path": "/quran/pages/369.jpg"
+  },
+  {
+    "page": 370,
+    "page_string": "370",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/370.jpg",
+    "full_path": "/quran/pages/370.jpg"
+  },
+  {
+    "page": 371,
+    "page_string": "371",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/371.jpg",
+    "full_path": "/quran/pages/371.jpg"
+  },
+  {
+    "page": 372,
+    "page_string": "372",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/372.jpg",
+    "full_path": "/quran/pages/372.jpg"
+  },
+  {
+    "page": 373,
+    "page_string": "373",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/373.jpg",
+    "full_path": "/quran/pages/373.jpg"
+  },
+  {
+    "page": 374,
+    "page_string": "374",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/374.jpg",
+    "full_path": "/quran/pages/374.jpg"
+  },
+  {
+    "page": 375,
+    "page_string": "375",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/375.jpg",
+    "full_path": "/quran/pages/375.jpg"
+  },
+  {
+    "page": 376,
+    "page_string": "376",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/376.jpg",
+    "full_path": "/quran/pages/376.jpg"
+  },
+  {
+    "page": 377,
+    "page_string": "377",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/377.jpg",
+    "full_path": "/quran/pages/377.jpg"
+  },
+  {
+    "page": 378,
+    "page_string": "378",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/378.jpg",
+    "full_path": "/quran/pages/378.jpg"
+  },
+  {
+    "page": 379,
+    "page_string": "379",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/379.jpg",
+    "full_path": "/quran/pages/379.jpg"
+  },
+  {
+    "page": 380,
+    "page_string": "380",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/380.jpg",
+    "full_path": "/quran/pages/380.jpg"
+  },
+  {
+    "page": 381,
+    "page_string": "381",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/381.jpg",
+    "full_path": "/quran/pages/381.jpg"
+  },
+  {
+    "page": 382,
+    "page_string": "382",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/382.jpg",
+    "full_path": "/quran/pages/382.jpg"
+  },
+  {
+    "page": 383,
+    "page_string": "383",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/383.jpg",
+    "full_path": "/quran/pages/383.jpg"
+  },
+  {
+    "page": 384,
+    "page_string": "384",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/384.jpg",
+    "full_path": "/quran/pages/384.jpg"
+  },
+  {
+    "page": 385,
+    "page_string": "385",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/385.jpg",
+    "full_path": "/quran/pages/385.jpg"
+  },
+  {
+    "page": 386,
+    "page_string": "386",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/386.jpg",
+    "full_path": "/quran/pages/386.jpg"
+  },
+  {
+    "page": 387,
+    "page_string": "387",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/387.jpg",
+    "full_path": "/quran/pages/387.jpg"
+  },
+  {
+    "page": 388,
+    "page_string": "388",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/388.jpg",
+    "full_path": "/quran/pages/388.jpg"
+  },
+  {
+    "page": 389,
+    "page_string": "389",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/389.jpg",
+    "full_path": "/quran/pages/389.jpg"
+  },
+  {
+    "page": 390,
+    "page_string": "390",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/390.jpg",
+    "full_path": "/quran/pages/390.jpg"
+  },
+  {
+    "page": 391,
+    "page_string": "391",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/391.jpg",
+    "full_path": "/quran/pages/391.jpg"
+  },
+  {
+    "page": 392,
+    "page_string": "392",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/392.jpg",
+    "full_path": "/quran/pages/392.jpg"
+  },
+  {
+    "page": 393,
+    "page_string": "393",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/393.jpg",
+    "full_path": "/quran/pages/393.jpg"
+  },
+  {
+    "page": 394,
+    "page_string": "394",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/394.jpg",
+    "full_path": "/quran/pages/394.jpg"
+  },
+  {
+    "page": 395,
+    "page_string": "395",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/395.jpg",
+    "full_path": "/quran/pages/395.jpg"
+  },
+  {
+    "page": 396,
+    "page_string": "396",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/396.jpg",
+    "full_path": "/quran/pages/396.jpg"
+  },
+  {
+    "page": 397,
+    "page_string": "397",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/397.jpg",
+    "full_path": "/quran/pages/397.jpg"
+  },
+  {
+    "page": 398,
+    "page_string": "398",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/398.jpg",
+    "full_path": "/quran/pages/398.jpg"
+  },
+  {
+    "page": 399,
+    "page_string": "399",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/399.jpg",
+    "full_path": "/quran/pages/399.jpg"
+  },
+  {
+    "page": 400,
+    "page_string": "400",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/400.jpg",
+    "full_path": "/quran/pages/400.jpg"
+  },
+  {
+    "page": 401,
+    "page_string": "401",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/401.jpg",
+    "full_path": "/quran/pages/401.jpg"
+  },
+  {
+    "page": 402,
+    "page_string": "402",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/402.jpg",
+    "full_path": "/quran/pages/402.jpg"
+  },
+  {
+    "page": 403,
+    "page_string": "403",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/403.jpg",
+    "full_path": "/quran/pages/403.jpg"
+  },
+  {
+    "page": 404,
+    "page_string": "404",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/404.jpg",
+    "full_path": "/quran/pages/404.jpg"
+  },
+  {
+    "page": 405,
+    "page_string": "405",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/405.jpg",
+    "full_path": "/quran/pages/405.jpg"
+  },
+  {
+    "page": 406,
+    "page_string": "406",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/406.jpg",
+    "full_path": "/quran/pages/406.jpg"
+  },
+  {
+    "page": 407,
+    "page_string": "407",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/407.jpg",
+    "full_path": "/quran/pages/407.jpg"
+  },
+  {
+    "page": 408,
+    "page_string": "408",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/408.jpg",
+    "full_path": "/quran/pages/408.jpg"
+  },
+  {
+    "page": 409,
+    "page_string": "409",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/409.jpg",
+    "full_path": "/quran/pages/409.jpg"
+  },
+  {
+    "page": 410,
+    "page_string": "410",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/410.jpg",
+    "full_path": "/quran/pages/410.jpg"
+  },
+  {
+    "page": 411,
+    "page_string": "411",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/411.jpg",
+    "full_path": "/quran/pages/411.jpg"
+  },
+  {
+    "page": 412,
+    "page_string": "412",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/412.jpg",
+    "full_path": "/quran/pages/412.jpg"
+  },
+  {
+    "page": 413,
+    "page_string": "413",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/413.jpg",
+    "full_path": "/quran/pages/413.jpg"
+  },
+  {
+    "page": 414,
+    "page_string": "414",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/414.jpg",
+    "full_path": "/quran/pages/414.jpg"
+  },
+  {
+    "page": 415,
+    "page_string": "415",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/415.jpg",
+    "full_path": "/quran/pages/415.jpg"
+  },
+  {
+    "page": 416,
+    "page_string": "416",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/416.jpg",
+    "full_path": "/quran/pages/416.jpg"
+  },
+  {
+    "page": 417,
+    "page_string": "417",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/417.jpg",
+    "full_path": "/quran/pages/417.jpg"
+  },
+  {
+    "page": 418,
+    "page_string": "418",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/418.jpg",
+    "full_path": "/quran/pages/418.jpg"
+  },
+  {
+    "page": 419,
+    "page_string": "419",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/419.jpg",
+    "full_path": "/quran/pages/419.jpg"
+  },
+  {
+    "page": 420,
+    "page_string": "420",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/420.jpg",
+    "full_path": "/quran/pages/420.jpg"
+  },
+  {
+    "page": 421,
+    "page_string": "421",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/421.jpg",
+    "full_path": "/quran/pages/421.jpg"
+  },
+  {
+    "page": 422,
+    "page_string": "422",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/422.jpg",
+    "full_path": "/quran/pages/422.jpg"
+  },
+  {
+    "page": 423,
+    "page_string": "423",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/423.jpg",
+    "full_path": "/quran/pages/423.jpg"
+  },
+  {
+    "page": 424,
+    "page_string": "424",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/424.jpg",
+    "full_path": "/quran/pages/424.jpg"
+  },
+  {
+    "page": 425,
+    "page_string": "425",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/425.jpg",
+    "full_path": "/quran/pages/425.jpg"
+  },
+  {
+    "page": 426,
+    "page_string": "426",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/426.jpg",
+    "full_path": "/quran/pages/426.jpg"
+  },
+  {
+    "page": 427,
+    "page_string": "427",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/427.jpg",
+    "full_path": "/quran/pages/427.jpg"
+  },
+  {
+    "page": 428,
+    "page_string": "428",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/428.jpg",
+    "full_path": "/quran/pages/428.jpg"
+  },
+  {
+    "page": 429,
+    "page_string": "429",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/429.jpg",
+    "full_path": "/quran/pages/429.jpg"
+  },
+  {
+    "page": 430,
+    "page_string": "430",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/430.jpg",
+    "full_path": "/quran/pages/430.jpg"
+  },
+  {
+    "page": 431,
+    "page_string": "431",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/431.jpg",
+    "full_path": "/quran/pages/431.jpg"
+  },
+  {
+    "page": 432,
+    "page_string": "432",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/432.jpg",
+    "full_path": "/quran/pages/432.jpg"
+  },
+  {
+    "page": 433,
+    "page_string": "433",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/433.jpg",
+    "full_path": "/quran/pages/433.jpg"
+  },
+  {
+    "page": 434,
+    "page_string": "434",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/434.jpg",
+    "full_path": "/quran/pages/434.jpg"
+  },
+  {
+    "page": 435,
+    "page_string": "435",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/435.jpg",
+    "full_path": "/quran/pages/435.jpg"
+  },
+  {
+    "page": 436,
+    "page_string": "436",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/436.jpg",
+    "full_path": "/quran/pages/436.jpg"
+  },
+  {
+    "page": 437,
+    "page_string": "437",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/437.jpg",
+    "full_path": "/quran/pages/437.jpg"
+  },
+  {
+    "page": 438,
+    "page_string": "438",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/438.jpg",
+    "full_path": "/quran/pages/438.jpg"
+  },
+  {
+    "page": 439,
+    "page_string": "439",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/439.jpg",
+    "full_path": "/quran/pages/439.jpg"
+  },
+  {
+    "page": 440,
+    "page_string": "440",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/440.jpg",
+    "full_path": "/quran/pages/440.jpg"
+  },
+  {
+    "page": 441,
+    "page_string": "441",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/441.jpg",
+    "full_path": "/quran/pages/441.jpg"
+  },
+  {
+    "page": 442,
+    "page_string": "442",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/442.jpg",
+    "full_path": "/quran/pages/442.jpg"
+  },
+  {
+    "page": 443,
+    "page_string": "443",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/443.jpg",
+    "full_path": "/quran/pages/443.jpg"
+  },
+  {
+    "page": 444,
+    "page_string": "444",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/444.jpg",
+    "full_path": "/quran/pages/444.jpg"
+  },
+  {
+    "page": 445,
+    "page_string": "445",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/445.jpg",
+    "full_path": "/quran/pages/445.jpg"
+  },
+  {
+    "page": 446,
+    "page_string": "446",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/446.jpg",
+    "full_path": "/quran/pages/446.jpg"
+  },
+  {
+    "page": 447,
+    "page_string": "447",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/447.jpg",
+    "full_path": "/quran/pages/447.jpg"
+  },
+  {
+    "page": 448,
+    "page_string": "448",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/448.jpg",
+    "full_path": "/quran/pages/448.jpg"
+  },
+  {
+    "page": 449,
+    "page_string": "449",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/449.jpg",
+    "full_path": "/quran/pages/449.jpg"
+  },
+  {
+    "page": 450,
+    "page_string": "450",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/450.jpg",
+    "full_path": "/quran/pages/450.jpg"
+  },
+  {
+    "page": 451,
+    "page_string": "451",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/451.jpg",
+    "full_path": "/quran/pages/451.jpg"
+  },
+  {
+    "page": 452,
+    "page_string": "452",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/452.jpg",
+    "full_path": "/quran/pages/452.jpg"
+  },
+  {
+    "page": 453,
+    "page_string": "453",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/453.jpg",
+    "full_path": "/quran/pages/453.jpg"
+  },
+  {
+    "page": 454,
+    "page_string": "454",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/454.jpg",
+    "full_path": "/quran/pages/454.jpg"
+  },
+  {
+    "page": 455,
+    "page_string": "455",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/455.jpg",
+    "full_path": "/quran/pages/455.jpg"
+  },
+  {
+    "page": 456,
+    "page_string": "456",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/456.jpg",
+    "full_path": "/quran/pages/456.jpg"
+  },
+  {
+    "page": 457,
+    "page_string": "457",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/457.jpg",
+    "full_path": "/quran/pages/457.jpg"
+  },
+  {
+    "page": 458,
+    "page_string": "458",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/458.jpg",
+    "full_path": "/quran/pages/458.jpg"
+  },
+  {
+    "page": 459,
+    "page_string": "459",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/459.jpg",
+    "full_path": "/quran/pages/459.jpg"
+  },
+  {
+    "page": 460,
+    "page_string": "460",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/460.jpg",
+    "full_path": "/quran/pages/460.jpg"
+  },
+  {
+    "page": 461,
+    "page_string": "461",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/461.jpg",
+    "full_path": "/quran/pages/461.jpg"
+  },
+  {
+    "page": 462,
+    "page_string": "462",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/462.jpg",
+    "full_path": "/quran/pages/462.jpg"
+  },
+  {
+    "page": 463,
+    "page_string": "463",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/463.jpg",
+    "full_path": "/quran/pages/463.jpg"
+  },
+  {
+    "page": 464,
+    "page_string": "464",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/464.jpg",
+    "full_path": "/quran/pages/464.jpg"
+  },
+  {
+    "page": 465,
+    "page_string": "465",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/465.jpg",
+    "full_path": "/quran/pages/465.jpg"
+  },
+  {
+    "page": 466,
+    "page_string": "466",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/466.jpg",
+    "full_path": "/quran/pages/466.jpg"
+  },
+  {
+    "page": 467,
+    "page_string": "467",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/467.jpg",
+    "full_path": "/quran/pages/467.jpg"
+  },
+  {
+    "page": 468,
+    "page_string": "468",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/468.jpg",
+    "full_path": "/quran/pages/468.jpg"
+  },
+  {
+    "page": 469,
+    "page_string": "469",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/469.jpg",
+    "full_path": "/quran/pages/469.jpg"
+  },
+  {
+    "page": 470,
+    "page_string": "470",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/470.jpg",
+    "full_path": "/quran/pages/470.jpg"
+  },
+  {
+    "page": 471,
+    "page_string": "471",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/471.jpg",
+    "full_path": "/quran/pages/471.jpg"
+  },
+  {
+    "page": 472,
+    "page_string": "472",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/472.jpg",
+    "full_path": "/quran/pages/472.jpg"
+  },
+  {
+    "page": 473,
+    "page_string": "473",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/473.jpg",
+    "full_path": "/quran/pages/473.jpg"
+  },
+  {
+    "page": 474,
+    "page_string": "474",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/474.jpg",
+    "full_path": "/quran/pages/474.jpg"
+  },
+  {
+    "page": 475,
+    "page_string": "475",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/475.jpg",
+    "full_path": "/quran/pages/475.jpg"
+  },
+  {
+    "page": 476,
+    "page_string": "476",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/476.jpg",
+    "full_path": "/quran/pages/476.jpg"
+  },
+  {
+    "page": 477,
+    "page_string": "477",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/477.jpg",
+    "full_path": "/quran/pages/477.jpg"
+  },
+  {
+    "page": 478,
+    "page_string": "478",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/478.jpg",
+    "full_path": "/quran/pages/478.jpg"
+  },
+  {
+    "page": 479,
+    "page_string": "479",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/479.jpg",
+    "full_path": "/quran/pages/479.jpg"
+  },
+  {
+    "page": 480,
+    "page_string": "480",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/480.jpg",
+    "full_path": "/quran/pages/480.jpg"
+  },
+  {
+    "page": 481,
+    "page_string": "481",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/481.jpg",
+    "full_path": "/quran/pages/481.jpg"
+  },
+  {
+    "page": 482,
+    "page_string": "482",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/482.jpg",
+    "full_path": "/quran/pages/482.jpg"
+  },
+  {
+    "page": 483,
+    "page_string": "483",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/483.jpg",
+    "full_path": "/quran/pages/483.jpg"
+  },
+  {
+    "page": 484,
+    "page_string": "484",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/484.jpg",
+    "full_path": "/quran/pages/484.jpg"
+  },
+  {
+    "page": 485,
+    "page_string": "485",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/485.jpg",
+    "full_path": "/quran/pages/485.jpg"
+  },
+  {
+    "page": 486,
+    "page_string": "486",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/486.jpg",
+    "full_path": "/quran/pages/486.jpg"
+  },
+  {
+    "page": 487,
+    "page_string": "487",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/487.jpg",
+    "full_path": "/quran/pages/487.jpg"
+  },
+  {
+    "page": 488,
+    "page_string": "488",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/488.jpg",
+    "full_path": "/quran/pages/488.jpg"
+  },
+  {
+    "page": 489,
+    "page_string": "489",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/489.jpg",
+    "full_path": "/quran/pages/489.jpg"
+  },
+  {
+    "page": 490,
+    "page_string": "490",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/490.jpg",
+    "full_path": "/quran/pages/490.jpg"
+  },
+  {
+    "page": 491,
+    "page_string": "491",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/491.jpg",
+    "full_path": "/quran/pages/491.jpg"
+  },
+  {
+    "page": 492,
+    "page_string": "492",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/492.jpg",
+    "full_path": "/quran/pages/492.jpg"
+  },
+  {
+    "page": 493,
+    "page_string": "493",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/493.jpg",
+    "full_path": "/quran/pages/493.jpg"
+  },
+  {
+    "page": 494,
+    "page_string": "494",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/494.jpg",
+    "full_path": "/quran/pages/494.jpg"
+  },
+  {
+    "page": 495,
+    "page_string": "495",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/495.jpg",
+    "full_path": "/quran/pages/495.jpg"
+  },
+  {
+    "page": 496,
+    "page_string": "496",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/496.jpg",
+    "full_path": "/quran/pages/496.jpg"
+  },
+  {
+    "page": 497,
+    "page_string": "497",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/497.jpg",
+    "full_path": "/quran/pages/497.jpg"
+  },
+  {
+    "page": 498,
+    "page_string": "498",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/498.jpg",
+    "full_path": "/quran/pages/498.jpg"
+  },
+  {
+    "page": 499,
+    "page_string": "499",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/499.jpg",
+    "full_path": "/quran/pages/499.jpg"
+  },
+  {
+    "page": 500,
+    "page_string": "500",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/500.jpg",
+    "full_path": "/quran/pages/500.jpg"
+  },
+  {
+    "page": 501,
+    "page_string": "501",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/501.jpg",
+    "full_path": "/quran/pages/501.jpg"
+  },
+  {
+    "page": 502,
+    "page_string": "502",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/502.jpg",
+    "full_path": "/quran/pages/502.jpg"
+  },
+  {
+    "page": 503,
+    "page_string": "503",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/503.jpg",
+    "full_path": "/quran/pages/503.jpg"
+  },
+  {
+    "page": 504,
+    "page_string": "504",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/504.jpg",
+    "full_path": "/quran/pages/504.jpg"
+  },
+  {
+    "page": 505,
+    "page_string": "505",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/505.jpg",
+    "full_path": "/quran/pages/505.jpg"
+  },
+  {
+    "page": 506,
+    "page_string": "506",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/506.jpg",
+    "full_path": "/quran/pages/506.jpg"
+  },
+  {
+    "page": 507,
+    "page_string": "507",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/507.jpg",
+    "full_path": "/quran/pages/507.jpg"
+  },
+  {
+    "page": 508,
+    "page_string": "508",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/508.jpg",
+    "full_path": "/quran/pages/508.jpg"
+  },
+  {
+    "page": 509,
+    "page_string": "509",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/509.jpg",
+    "full_path": "/quran/pages/509.jpg"
+  },
+  {
+    "page": 510,
+    "page_string": "510",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/510.jpg",
+    "full_path": "/quran/pages/510.jpg"
+  },
+  {
+    "page": 511,
+    "page_string": "511",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/511.jpg",
+    "full_path": "/quran/pages/511.jpg"
+  },
+  {
+    "page": 512,
+    "page_string": "512",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/512.jpg",
+    "full_path": "/quran/pages/512.jpg"
+  },
+  {
+    "page": 513,
+    "page_string": "513",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/513.jpg",
+    "full_path": "/quran/pages/513.jpg"
+  },
+  {
+    "page": 514,
+    "page_string": "514",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/514.jpg",
+    "full_path": "/quran/pages/514.jpg"
+  },
+  {
+    "page": 515,
+    "page_string": "515",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/515.jpg",
+    "full_path": "/quran/pages/515.jpg"
+  },
+  {
+    "page": 516,
+    "page_string": "516",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/516.jpg",
+    "full_path": "/quran/pages/516.jpg"
+  },
+  {
+    "page": 517,
+    "page_string": "517",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/517.jpg",
+    "full_path": "/quran/pages/517.jpg"
+  },
+  {
+    "page": 518,
+    "page_string": "518",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/518.jpg",
+    "full_path": "/quran/pages/518.jpg"
+  },
+  {
+    "page": 519,
+    "page_string": "519",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/519.jpg",
+    "full_path": "/quran/pages/519.jpg"
+  },
+  {
+    "page": 520,
+    "page_string": "520",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/520.jpg",
+    "full_path": "/quran/pages/520.jpg"
+  },
+  {
+    "page": 521,
+    "page_string": "521",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/521.jpg",
+    "full_path": "/quran/pages/521.jpg"
+  },
+  {
+    "page": 522,
+    "page_string": "522",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/522.jpg",
+    "full_path": "/quran/pages/522.jpg"
+  },
+  {
+    "page": 523,
+    "page_string": "523",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/523.jpg",
+    "full_path": "/quran/pages/523.jpg"
+  },
+  {
+    "page": 524,
+    "page_string": "524",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/524.jpg",
+    "full_path": "/quran/pages/524.jpg"
+  },
+  {
+    "page": 525,
+    "page_string": "525",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/525.jpg",
+    "full_path": "/quran/pages/525.jpg"
+  },
+  {
+    "page": 526,
+    "page_string": "526",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/526.jpg",
+    "full_path": "/quran/pages/526.jpg"
+  },
+  {
+    "page": 527,
+    "page_string": "527",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/527.jpg",
+    "full_path": "/quran/pages/527.jpg"
+  },
+  {
+    "page": 528,
+    "page_string": "528",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/528.jpg",
+    "full_path": "/quran/pages/528.jpg"
+  },
+  {
+    "page": 529,
+    "page_string": "529",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/529.jpg",
+    "full_path": "/quran/pages/529.jpg"
+  },
+  {
+    "page": 530,
+    "page_string": "530",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/530.jpg",
+    "full_path": "/quran/pages/530.jpg"
+  },
+  {
+    "page": 531,
+    "page_string": "531",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/531.jpg",
+    "full_path": "/quran/pages/531.jpg"
+  },
+  {
+    "page": 532,
+    "page_string": "532",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/532.jpg",
+    "full_path": "/quran/pages/532.jpg"
+  },
+  {
+    "page": 533,
+    "page_string": "533",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/533.jpg",
+    "full_path": "/quran/pages/533.jpg"
+  },
+  {
+    "page": 534,
+    "page_string": "534",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/534.jpg",
+    "full_path": "/quran/pages/534.jpg"
+  },
+  {
+    "page": 535,
+    "page_string": "535",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/535.jpg",
+    "full_path": "/quran/pages/535.jpg"
+  },
+  {
+    "page": 536,
+    "page_string": "536",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/536.jpg",
+    "full_path": "/quran/pages/536.jpg"
+  },
+  {
+    "page": 537,
+    "page_string": "537",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/537.jpg",
+    "full_path": "/quran/pages/537.jpg"
+  },
+  {
+    "page": 538,
+    "page_string": "538",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/538.jpg",
+    "full_path": "/quran/pages/538.jpg"
+  },
+  {
+    "page": 539,
+    "page_string": "539",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/539.jpg",
+    "full_path": "/quran/pages/539.jpg"
+  },
+  {
+    "page": 540,
+    "page_string": "540",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/540.jpg",
+    "full_path": "/quran/pages/540.jpg"
+  },
+  {
+    "page": 541,
+    "page_string": "541",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/541.jpg",
+    "full_path": "/quran/pages/541.jpg"
+  },
+  {
+    "page": 542,
+    "page_string": "542",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/542.jpg",
+    "full_path": "/quran/pages/542.jpg"
+  },
+  {
+    "page": 543,
+    "page_string": "543",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/543.jpg",
+    "full_path": "/quran/pages/543.jpg"
+  },
+  {
+    "page": 544,
+    "page_string": "544",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/544.jpg",
+    "full_path": "/quran/pages/544.jpg"
+  },
+  {
+    "page": 545,
+    "page_string": "545",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/545.jpg",
+    "full_path": "/quran/pages/545.jpg"
+  },
+  {
+    "page": 546,
+    "page_string": "546",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/546.jpg",
+    "full_path": "/quran/pages/546.jpg"
+  },
+  {
+    "page": 547,
+    "page_string": "547",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/547.jpg",
+    "full_path": "/quran/pages/547.jpg"
+  },
+  {
+    "page": 548,
+    "page_string": "548",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/548.jpg",
+    "full_path": "/quran/pages/548.jpg"
+  },
+  {
+    "page": 549,
+    "page_string": "549",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/549.jpg",
+    "full_path": "/quran/pages/549.jpg"
+  },
+  {
+    "page": 550,
+    "page_string": "550",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/550.jpg",
+    "full_path": "/quran/pages/550.jpg"
+  },
+  {
+    "page": 551,
+    "page_string": "551",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/551.jpg",
+    "full_path": "/quran/pages/551.jpg"
+  },
+  {
+    "page": 552,
+    "page_string": "552",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/552.jpg",
+    "full_path": "/quran/pages/552.jpg"
+  },
+  {
+    "page": 553,
+    "page_string": "553",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/553.jpg",
+    "full_path": "/quran/pages/553.jpg"
+  },
+  {
+    "page": 554,
+    "page_string": "554",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/554.jpg",
+    "full_path": "/quran/pages/554.jpg"
+  },
+  {
+    "page": 555,
+    "page_string": "555",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/555.jpg",
+    "full_path": "/quran/pages/555.jpg"
+  },
+  {
+    "page": 556,
+    "page_string": "556",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/556.jpg",
+    "full_path": "/quran/pages/556.jpg"
+  },
+  {
+    "page": 557,
+    "page_string": "557",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/557.jpg",
+    "full_path": "/quran/pages/557.jpg"
+  },
+  {
+    "page": 558,
+    "page_string": "558",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/558.jpg",
+    "full_path": "/quran/pages/558.jpg"
+  },
+  {
+    "page": 559,
+    "page_string": "559",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/559.jpg",
+    "full_path": "/quran/pages/559.jpg"
+  },
+  {
+    "page": 560,
+    "page_string": "560",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/560.jpg",
+    "full_path": "/quran/pages/560.jpg"
+  },
+  {
+    "page": 561,
+    "page_string": "561",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/561.jpg",
+    "full_path": "/quran/pages/561.jpg"
+  },
+  {
+    "page": 562,
+    "page_string": "562",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/562.jpg",
+    "full_path": "/quran/pages/562.jpg"
+  },
+  {
+    "page": 563,
+    "page_string": "563",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/563.jpg",
+    "full_path": "/quran/pages/563.jpg"
+  },
+  {
+    "page": 564,
+    "page_string": "564",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/564.jpg",
+    "full_path": "/quran/pages/564.jpg"
+  },
+  {
+    "page": 565,
+    "page_string": "565",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/565.jpg",
+    "full_path": "/quran/pages/565.jpg"
+  },
+  {
+    "page": 566,
+    "page_string": "566",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/566.jpg",
+    "full_path": "/quran/pages/566.jpg"
+  },
+  {
+    "page": 567,
+    "page_string": "567",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/567.jpg",
+    "full_path": "/quran/pages/567.jpg"
+  },
+  {
+    "page": 568,
+    "page_string": "568",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/568.jpg",
+    "full_path": "/quran/pages/568.jpg"
+  },
+  {
+    "page": 569,
+    "page_string": "569",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/569.jpg",
+    "full_path": "/quran/pages/569.jpg"
+  },
+  {
+    "page": 570,
+    "page_string": "570",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/570.jpg",
+    "full_path": "/quran/pages/570.jpg"
+  },
+  {
+    "page": 571,
+    "page_string": "571",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/571.jpg",
+    "full_path": "/quran/pages/571.jpg"
+  },
+  {
+    "page": 572,
+    "page_string": "572",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/572.jpg",
+    "full_path": "/quran/pages/572.jpg"
+  },
+  {
+    "page": 573,
+    "page_string": "573",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/573.jpg",
+    "full_path": "/quran/pages/573.jpg"
+  },
+  {
+    "page": 574,
+    "page_string": "574",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/574.jpg",
+    "full_path": "/quran/pages/574.jpg"
+  },
+  {
+    "page": 575,
+    "page_string": "575",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/575.jpg",
+    "full_path": "/quran/pages/575.jpg"
+  },
+  {
+    "page": 576,
+    "page_string": "576",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/576.jpg",
+    "full_path": "/quran/pages/576.jpg"
+  },
+  {
+    "page": 577,
+    "page_string": "577",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/577.jpg",
+    "full_path": "/quran/pages/577.jpg"
+  },
+  {
+    "page": 578,
+    "page_string": "578",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/578.jpg",
+    "full_path": "/quran/pages/578.jpg"
+  },
+  {
+    "page": 579,
+    "page_string": "579",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/579.jpg",
+    "full_path": "/quran/pages/579.jpg"
+  },
+  {
+    "page": 580,
+    "page_string": "580",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/580.jpg",
+    "full_path": "/quran/pages/580.jpg"
+  },
+  {
+    "page": 581,
+    "page_string": "581",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/581.jpg",
+    "full_path": "/quran/pages/581.jpg"
+  },
+  {
+    "page": 582,
+    "page_string": "582",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/582.jpg",
+    "full_path": "/quran/pages/582.jpg"
+  },
+  {
+    "page": 583,
+    "page_string": "583",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/583.jpg",
+    "full_path": "/quran/pages/583.jpg"
+  },
+  {
+    "page": 584,
+    "page_string": "584",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/584.jpg",
+    "full_path": "/quran/pages/584.jpg"
+  },
+  {
+    "page": 585,
+    "page_string": "585",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/585.jpg",
+    "full_path": "/quran/pages/585.jpg"
+  },
+  {
+    "page": 586,
+    "page_string": "586",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/586.jpg",
+    "full_path": "/quran/pages/586.jpg"
+  },
+  {
+    "page": 587,
+    "page_string": "587",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/587.jpg",
+    "full_path": "/quran/pages/587.jpg"
+  },
+  {
+    "page": 588,
+    "page_string": "588",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/588.jpg",
+    "full_path": "/quran/pages/588.jpg"
+  },
+  {
+    "page": 589,
+    "page_string": "589",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/589.jpg",
+    "full_path": "/quran/pages/589.jpg"
+  },
+  {
+    "page": 590,
+    "page_string": "590",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/590.jpg",
+    "full_path": "/quran/pages/590.jpg"
+  },
+  {
+    "page": 591,
+    "page_string": "591",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/591.jpg",
+    "full_path": "/quran/pages/591.jpg"
+  },
+  {
+    "page": 592,
+    "page_string": "592",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/592.jpg",
+    "full_path": "/quran/pages/592.jpg"
+  },
+  {
+    "page": 593,
+    "page_string": "593",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/593.jpg",
+    "full_path": "/quran/pages/593.jpg"
+  },
+  {
+    "page": 594,
+    "page_string": "594",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/594.jpg",
+    "full_path": "/quran/pages/594.jpg"
+  },
+  {
+    "page": 595,
+    "page_string": "595",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/595.jpg",
+    "full_path": "/quran/pages/595.jpg"
+  },
+  {
+    "page": 596,
+    "page_string": "596",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/596.jpg",
+    "full_path": "/quran/pages/596.jpg"
+  },
+  {
+    "page": 597,
+    "page_string": "597",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/597.jpg",
+    "full_path": "/quran/pages/597.jpg"
+  },
+  {
+    "page": 598,
+    "page_string": "598",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/598.jpg",
+    "full_path": "/quran/pages/598.jpg"
+  },
+  {
+    "page": 599,
+    "page_string": "599",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/599.jpg",
+    "full_path": "/quran/pages/599.jpg"
+  },
+  {
+    "page": 600,
+    "page_string": "600",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/600.jpg",
+    "full_path": "/quran/pages/600.jpg"
+  },
+  {
+    "page": 601,
+    "page_string": "601",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/601.jpg",
+    "full_path": "/quran/pages/601.jpg"
+  },
+  {
+    "page": 602,
+    "page_string": "602",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/602.jpg",
+    "full_path": "/quran/pages/602.jpg"
+  },
+  {
+    "page": 603,
+    "page_string": "603",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/603.jpg",
+    "full_path": "/quran/pages/603.jpg"
+  },
+  {
+    "page": 604,
+    "page_string": "604",
+    "image_url": "https://res.cloudinary.com/dfooptvte/image/upload/v1778445060/quran/pages/604.jpg",
+    "full_path": "/quran/pages/604.jpg"
+  }
+]

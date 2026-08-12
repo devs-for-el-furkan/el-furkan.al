@@ -2,6 +2,7 @@ import SurahPage from '@/components/pages/SurahPage';
 import { surahs } from '@/constants/surahs';
 import { Metadata } from 'next';
 import React from 'react';
+
 export async function generateMetadata({ params }: any): Promise<Metadata> {
 	const { slug } = params; // ✅ Removed unnecessary await
 

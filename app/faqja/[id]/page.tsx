@@ -24,11 +24,19 @@ const QuranPage = async ({ params }: any): Promise<any> => {
 	const { id } = await params;
 
 	return (
-		<div className='flex flex-col justify-center items-center max-w-7xl gap-4 mx-auto px-4'>
+		<div className='flex flex-col justify-center items-center max-w-7xl gap-4 mx-auto px-4 my-4 md:my-10'>
 			<h1>Quran page - {id}</h1>
 			{/* <PlayQuran id={id} /> */}
 			<div className='px-3 md:px-6'>
-				<Image src={`/img/quran/${id}.jpg`} className='bg-cover w-full h-full md:w-[700px] md:h-[1100px]' alt='quran page' width={700} height={1100} />
+				<Image
+					src={`/img/quran/${id}.jpg`}
+					alt='quran page'
+					width={700}
+					height={1100}
+					className='bg-cover w-full h-full md:w-[700px] md:h-[1100px]'
+					placeholder='blur'
+					blurDataURL='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR4AWPg5+gHAAHhAqwXIOFgAAAAAElFTkSuQmCC'
+				/>
 			</div>
 
 			<Pagination currentPage={Number(id)} />

@@ -20,7 +20,7 @@ export const surahs: Sura[] = [
 		id: '001',
 		slug: 'al-fatiha',
 		name: 'Al-Fātiha',
-		shqiperuar: 'Al-Fatiha',
+		shqiperuar: 'Al-Fatihah',
 		nameAl: 'Hapja',
 		arabicName: 'الفاتحة',
 		place: 'Mekë',

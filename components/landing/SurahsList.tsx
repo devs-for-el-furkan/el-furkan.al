@@ -14,7 +14,7 @@ const SurahsList = () => {
 		setSortOrder(value);
 	};
 	return (
-		<div className='max-w-7xl flex flex-col gap-4 px-4 md:px-6 w-full'>
+		<div className='max-w-7xl flex flex-col gap-4 px-4 md:px-6 w-full mt-4 md:mt-10 mb-10'>
 			{/* header filter */}
 			<h1 className='text-3xl text-center font-hand font-semibold'>Lista e Sureve</h1>
 			<hr />

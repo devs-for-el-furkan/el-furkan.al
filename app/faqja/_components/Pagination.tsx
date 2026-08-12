@@ -1,5 +1,6 @@
 'use client';
 
+import { InputNumber } from 'antd';
 import { ArrowLeftCircle, ArrowRightCircle } from 'lucide-react';
 import { useRouter } from 'next/navigation';
 import { useState } from 'react';
@@ -8,39 +9,45 @@ export default function Pagination({ currentPage }: { currentPage: number }) {
 	const [page, setPage] = useState(currentPage);
 	const maxPage = 604;
 	const minPage = 1;
-
 	const router = useRouter();
 
-	const nextPage = Math.min(page + 1, maxPage);
-	const prevPage = Math.max(page - 1, minPage);
+	const goToPage = (p: number) => {
+		const safePage = Math.max(minPage, Math.min(maxPage, p));
+
+		const padded = safePage < 10 ? `00${safePage}` : safePage < 100 ? `0${safePage}` : safePage;
+
+		router.push(`/faqja/${padded}`);
+	};
 
 	return (
 		<div className='flex justify-center items-center gap-4 p-4'>
-			<button
-				onClick={() => {
-					if (page < 100 && page > 9) {
-						router.push(`/faqja/0${nextPage}`);
-					} else if (page > 0 && page < 10) {
-						router.push(`/faqja/00${nextPage}`);
-					}
-				}}
-				className='px-4 py-2 rounded-lg disabled:bg-gray-400'
-				disabled={page === maxPage}
-			>
+			<button onClick={() => goToPage(page + 1)} className='px-4 py-2 rounded-lg disabled:bg-gray-400' disabled={page === maxPage}>
 				<ArrowLeftCircle />
 			</button>
-			<span className='px-4 py-2 border rounded-lg'>{page}</span>
-			<button
-				onClick={() => {
-					if (page < 100 && page > 9) {
-						router.push(`/faqja/0${prevPage}`);
-					} else if (page > 0 && page < 10) {
-						router.push(`/faqja/00${prevPage}`);
-					}
+
+			<InputNumber
+				type='number'
+				value={page}
+				size='large'
+				min={minPage}
+				max={maxPage}
+				style={{
+					width: 75,
+					textAlign: 'start',
 				}}
-				className='px-4 py-2  rounded-lg disabled:bg-gray-400'
-				disabled={page === minPage}
-			>
+				parser={(value) => Number(value)}
+				onChange={(e: any) => setPage(Number(e))}
+				onBlur={() => goToPage(page)}
+				onKeyDown={(e) => {
+					if (e.key === 'Enter') goToPage(page);
+				}}
+				className=' text-end border rounded-md font-semibold tracking-widest'
+				formatter={
+					(value) => String(value).padStart(3, '0') // <- 3 digits always
+				}
+			/>
+
+			<button onClick={() => goToPage(page - 1)} className='px-4 py-2 rounded-lg disabled:bg-gray-400' disabled={page === minPage}>
 				<ArrowRightCircle />
 			</button>
 		</div>
