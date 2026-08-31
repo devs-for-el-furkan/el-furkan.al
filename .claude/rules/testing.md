@@ -1,0 +1,1 @@
+There's no test framework configured in this repo. Before telling the user something is done or fixed, run `npm run lint` and `npm run build` — don't just eyeball the diff. For any UI-visible change, start the dev server (`npm run dev`) and click through it in a browser before claiming it works.

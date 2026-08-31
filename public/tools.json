@@ -1,0 +1,25 @@
+{
+  "id": "el-furkan-al",
+  "name": "El-Furkan.al",
+  "tagline": "Reading the Holy Quran in Albanian — surah index, surah pages, and a full 604-page mushaf viewer.",
+  "status": "in-progress",
+  "productionUrl": "https://el-furkan.al",
+  "repoUrl": "https://github.com/dev-kuran-al/lexokuran.al",
+  "role": "Developer",
+  "stack": {
+    "frontend": ["Next.js 15 (App Router)", "React 19", "TypeScript", "Tailwind CSS", "Ant Design"],
+    "backend": [],
+    "infra": ["Cloudinary (mushaf page image hosting)", "Google Analytics"]
+  },
+  "features": [
+    "Full 114-surah index, sortable by canonical Quran order or chronological revelation order",
+    "Individual surah pages showing Arabic name, Albanian name, place and order of revelation, and ayah/word/letter counts",
+    "Browsable mushaf page viewer covering all 604 printed Quran pages with jump-to-page navigation",
+    "Bilingual Arabic/Albanian typography with dedicated Arabic-script and handwritten font families",
+    "Fully responsive layout from mobile to desktop"
+  ],
+  "metrics": {
+    "launched": null,
+    "lastDeploy": null
+  }
+}

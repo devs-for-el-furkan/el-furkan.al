@@ -1,7 +1,9 @@
-import { Settings } from 'lucide-react';
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
+import AuthBtn from './AuthBtn';
+import TranslationGlobe from '@/components/quran/TranslationGlobe';
+import SearchModal from '@/components/quran/SearchModal';
 
 const Navbar = () => {
 	return (
@@ -17,7 +19,11 @@ const Navbar = () => {
 					</div>
 				</Link>
 
-				<Settings />
+				<div className='flex items-center gap-1'>
+					<TranslationGlobe />
+					<SearchModal />
+					<AuthBtn />
+				</div>
 			</div>
 		</nav>
 	);
