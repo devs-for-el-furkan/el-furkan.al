@@ -1,0 +1,63 @@
+{
+  "surah": 113,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 113,
+      "number": 1,
+      "textAr": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "translations": {
+        "sqi-sherifahmeti": "Thuaj: I mbështetem Zotit të agimit",
+        "sqi-hasanefendinahi": "Thuaj: “I lutem dhe mbështetem te Zoti i agimit",
+        "sqi-fetimehdiu": "Thuaj: “Kërkoj mbështetje te Zoti i agimeve"
+      }
+    },
+    {
+      "surah": 113,
+      "number": 2,
+      "textAr": "مِنْ شَرِّ مَا خَلَقَ",
+      "translations": {
+        "sqi-sherifahmeti": "Prej dëmit të çdo krijese, që Ai e krijoi",
+        "sqi-hasanefendinahi": "që të më mbrojë nga sherri i të gjitha krijesave",
+        "sqi-fetimehdiu": "Nga e keqja që e krijon"
+      }
+    },
+    {
+      "surah": 113,
+      "number": 3,
+      "textAr": "وَمِنْ شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe prej errësirës së natës kur ngryset plotësisht",
+        "sqi-hasanefendinahi": "dhe prej sherrit të natës kur kaplon terri",
+        "sqi-fetimehdiu": "Dhe prej së keqes së natës së errët, kur terri mbulon"
+      }
+    },
+    {
+      "surah": 113,
+      "number": 4,
+      "textAr": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe prej dëmit të atyre që lidhin dhe fryejnë nyja",
+        "sqi-hasanefendinahi": "dhe prej sherrit të falltorëve që fryejnë në nyje (bëjnë magji)",
+        "sqi-fetimehdiu": "Edhe prej së keqes së ngatërrimtarit që ngatrresa trillon"
+      }
+    },
+    {
+      "surah": 113,
+      "number": 5,
+      "textAr": "وَمِنْ شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe prej dëmit të smirëkeqit kur sipas smirës vepron",
+        "sqi-hasanefendinahi": "dhe nga sherri i ziliqarit kur e shfaq zilinë!”",
+        "sqi-fetimehdiu": "Edhe prej së keqes së egoistit, kur egoizmi e kaplon”"
+      }
+    }
+  ]
+}

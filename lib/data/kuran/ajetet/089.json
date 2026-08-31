@@ -1,0 +1,309 @@
+{
+	"surah": 89,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 89,
+			"number": 1,
+			"textAr": "وَالْفَجْرِ",
+			"translations": {
+				"sqi-sherifahmeti": "Pasha agimin",
+				"sqi-hasanefendinahi": "Betohem në agimin",
+				"sqi-fetimehdiu": "Pasha agimin"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 2,
+			"textAr": "وَلَيَالٍ عَشْرٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Pasha dhjetë netët",
+				"sqi-hasanefendinahi": "dhe dhjetë netët",
+				"sqi-fetimehdiu": "Pasha dhjetë netët"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 3,
+			"textAr": "وَالشَّفْعِ وَالْوَتْرِ",
+			"translations": {
+				"sqi-sherifahmeti": "Pasha çiftin dhe pasha tekun",
+				"sqi-hasanefendinahi": "dhe në të gjitha që janë çift e tek",
+				"sqi-fetimehdiu": "Pasha çiftin edhe tekët"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 4,
+			"textAr": "وَاللَّيْلِ إِذَا يَسْرِ",
+			"translations": {
+				"sqi-sherifahmeti": "Pasha natën që shkon",
+				"sqi-hasanefendinahi": "dhe natën që shkon",
+				"sqi-fetimehdiu": "Pasha natën kur kalon"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 5,
+			"textAr": "هَلْ فِي ذَٰلِكَ قَسَمٌ لِذِي حِجْرٍ",
+			"translations": {
+				"sqi-sherifahmeti": "A janë këto betime për të mençurin",
+				"sqi-hasanefendinahi": "vallë, a nuk është ky betim për të mençurin",
+				"sqi-fetimehdiu": "A është ky betim për të mençurin"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 6,
+			"textAr": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+			"translations": {
+				"sqi-sherifahmeti": "A nuk e i ti se ç’bëri Zoti yt me Ad-in",
+				"sqi-hasanefendinahi": "Vallë, a nuk di ti se çka ka bërë Zoti yt me Adin",
+				"sqi-fetimehdiu": "A nuk e di se ç’bëri Zoti yt me Ad-in"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 7,
+			"textAr": "إِرَمَ ذَاتِ الْعِمَادِ",
+			"translations": {
+				"sqi-sherifahmeti": "Me banorët e Iremit me ndërtesa të larta",
+				"sqi-hasanefendinahi": "e me banorët e qytetit Iremes, pronarë të pallatee madhështore",
+				"sqi-fetimehdiu": "Banorët e Irem-it, me shtylla (pallatet)"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 8,
+			"textAr": "الَّتِي لَمْ يُخْلَقْ مِثْلُهَا فِي الْبِلَادِ",
+			"translations": {
+				"sqi-sherifahmeti": "Që si ata (populli Ad) nuk është krijuar askush në tokë",
+				"sqi-hasanefendinahi": "çfarë nuk ka pasur askund tjetër",
+				"sqi-fetimehdiu": "Që nuk ka pasur shoq askund"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 9,
+			"textAr": "وَثَمُودَ الَّذِينَ جَابُوا الصَّخْرَ بِالْوَادِ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe me Themudin, të cilët shpuan shkëmbinj në luginën (kura)",
+				"sqi-hasanefendinahi": "dhe si i dënoi themudasit, të cilët kanë gëdhendur shkëmbinj në luginë",
+				"sqi-fetimehdiu": "Edhe Themud-in të cilët skalitën shkrepat në luginë"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 10,
+			"textAr": "وَفِرْعَوْنَ ذِي الْأَوْتَادِ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe me faraonin i fortifikuar me tenda (ushtarake)",
+				"sqi-hasanefendinahi": "dhe Faraonin – pronarin e shtyllave",
+				"sqi-fetimehdiu": "Edhe me Faraonin që kishte tenda"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 11,
+			"textAr": "الَّذِينَ طَغَوْا فِي الْبِلَادِ",
+			"translations": {
+				"sqi-sherifahmeti": "Të cilët e tepruan me krime në tokë",
+				"sqi-hasanefendinahi": "që kanë bërë zullum pa të drejtë në tokë",
+				"sqi-fetimehdiu": "Të cilët bënë krime në tokë"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 12,
+			"textAr": "فَأَكْثَرُوا فِيهَا الْفَسَادَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe në të shtuan shkatërrimin",
+				"sqi-hasanefendinahi": "dhe shtonin ngatërresat",
+				"sqi-fetimehdiu": "Dhe në të e shtuan shkatërrimin"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 13,
+			"textAr": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+			"translations": {
+				"sqi-sherifahmeti": "E All-llahu kundër tyre lëshoi lloj-lloj dënimesh",
+				"sqi-hasanefendinahi": "andaj Zoti yt, e lëshoi mbi ta kamxhikun e dënimit (lloj-lloj dënimesh)",
+				"sqi-fetimehdiu": "Andaj Zoti yt i goditi me shufrën e dënimit"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 14,
+			"textAr": "إِنَّ رَبَّكَ لَبِالْمِرْصَادِ",
+			"translations": {
+				"sqi-sherifahmeti": "Pse Zoti yt është që përcjell (u rri në pritë)",
+				"sqi-hasanefendinahi": "sepse, me të vërtetë, Zoti yt i pret ata në pusi (i përcjellë punët e tyre)",
+				"sqi-fetimehdiu": "Sepse Zoti yt është njëmend në pritë"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 15,
+			"textAr": "فَأَمَّا الْإِنْسَانُ إِذَا مَا ابْتَلَاهُ رَبُّهُ فَأَكْرَمَهُ وَنَعَّمَهُ فَيَقُولُ رَبِّي أَكْرَمَنِ",
+			"translations": {
+				"sqi-sherifahmeti": "E njeriu, kur e sprovon Zoti i tij, e nderon dhe e begaton, ai thotë: “Zoti im më ka nderuar!”",
+				"sqi-hasanefendinahi": "Por, All-llahu kur ta provojë njeriun e ta dhurojë me begati, (ai) thotë: “Zoti im është sjellë në mënyrë bujar endaj meje!”",
+				"sqi-fetimehdiu": "Ndërsa njeriu, kur do Zoti i tij ta sprovojë, e nderon dhe e shpërblen me dhunti, thot: “Zoti im më ka respektuar”"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 16,
+			"textAr": "وَأَمَّا إِذَا مَا ابْتَلَاهُ فَقَدَرَ عَلَيْهِ رِزْقَهُ فَيَقُولُ رَبِّي أَهَانَنِ",
+			"translations": {
+				"sqi-sherifahmeti": "Por, kur për ta sprovuar ia pakëson furnizimin (e varfëron), ai thotë: “Zoti im më ka nënçmuar!”",
+				"sqi-hasanefendinahi": "E, kur ta provojë atë, duke ia munguar furnizimin, atëherë ai thotë: “Zoti im më ka poshtëruar”",
+				"sqi-fetimehdiu": "Por kur, për të sprovuar, ia mungon furnizmin e tij, thot: “Zoti im më ka lënë anash (nëçmuar)”"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 17,
+			"textAr": "كَلَّا ۖ بَلْ لَا تُكْرِمُونَ الْيَتِيمَ",
+			"translations": {
+				"sqi-sherifahmeti": "Jo, nuk është ashtu! Por (punoni edhe më zi) ju nuk përfillnit bonjakun",
+				"sqi-hasanefendinahi": "Jo, jo! Por ju nuk po i respektoni bonjakët",
+				"sqi-fetimehdiu": "Assesi! Por ju nuk e respektoni bonjakun"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 18,
+			"textAr": "وَلَا تَحَاضُّونَ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+			"translations": {
+				"sqi-sherifahmeti": "Nuk cytni njëri-tjetrin për ta ushqyer të varfërin",
+				"sqi-hasanefendinahi": "dhe nuk po e nxitni njëri-tjetrin për t’i ushqyer të varfërit",
+				"sqi-fetimehdiu": "Dhe nuk nxiteni që ta ushqeni varfnjakun"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 19,
+			"textAr": "وَتَأْكُلُونَ التُّرَاثَ أَكْلًا لَمًّا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe ju e hani me të madhe trashëgimin (padrejtë)",
+				"sqi-hasanefendinahi": "kurse trashëgiminë, e hani me lakmi të pangopur",
+				"sqi-fetimehdiu": "Dhe me grykësi e hani trashëgimin"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 20,
+			"textAr": "وَتُحِبُّونَ الْمَالَ حُبًّا جَمًّا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe pasurinë e doni së tepërmi",
+				"sqi-hasanefendinahi": "dhe dëshironi pasuri të pakufishme",
+				"sqi-fetimehdiu": "Dhe për së tepërmi e doni pasurimin"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 21,
+			"textAr": "كَلَّا إِذَا دُكَّتِ الْأَرْضُ دَكًّا دَكًّا",
+			"translations": {
+				"sqi-sherifahmeti": "Jo, mosni ashtu! Kur të dridhet toka njëpasnjëshëm",
+				"sqi-hasanefendinahi": "Por kjo nuk është mirë! Atëherë, kur Toka do të copëtohet në thërmia",
+				"sqi-fetimehdiu": "Por, ani! Se kur të dërmohet toka copë e grimë"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 22,
+			"textAr": "وَجَاءَ رَبُّكَ وَالْمَلَكُ صَفًّا صَفًّا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur të vijë Zoti yt dhe engjëjt qëndrojnë rradhë-rradhë",
+				"sqi-hasanefendinahi": "dhe kur do të arrijë urdhëri i Zotit tënd, e engjëjt të rreshtohen radhë pas radhe",
+				"sqi-fetimehdiu": "Dhe të vijë Zoti yt edhe engjujt radhë-radhë"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 23,
+			"textAr": "وَجِيءَ يَوْمَئِذٍ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ الْإِنْسَانُ وَأَنَّىٰ لَهُ الذِّكْرَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe atë ditë sillet Xhehennemi, ditën kur përkujtohet njeriu, e ç’dobi i bën atij përkujtimi",
+				"sqi-hasanefendinahi": "dhe atë Ditë kur afrohet (prezentohet) skëterra; atëherë njeriu do të kujtohet – por ç’dobi",
+				"sqi-fetimehdiu": "Dhe atëherë kur të sillet xhehennemi – atë ditë njeriu do të kujtohet, por ç’i duhet kujtimi"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 24,
+			"textAr": "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
+			"translations": {
+				"sqi-sherifahmeti": "Thotë: “O, i gjori unë, sikur të isha i parapërgatitur për jetën time!”",
+				"sqi-hasanefendinahi": "dhe thotë: “Ah! Sikur të kisha punuar gjëra të mira në jetën time!”",
+				"sqi-fetimehdiu": "Do të thotë: “Ku është ai fat të isha përgatitur nëjetën time!”"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 25,
+			"textAr": "فَيَوْمَئِذٍ لَا يُعَذِّبُ عَذَابَهُ أَحَدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Pra, ditën kur nuk dënon si Ai askush",
+				"sqi-hasanefendinahi": "Atë Ditë, askush nuk mund të dënojë, si Ai (dënimi i Tij)",
+				"sqi-fetimehdiu": "Atë ditë askush nuk dënon sikur Ai"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 26,
+			"textAr": "وَلَا يُوثِقُ وَثَاقَهُ أَحَدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe nuk do të farkojë pranga si Ai askush",
+				"sqi-hasanefendinahi": "dhe, atë ditë, askush nuk lidhë në pranga si Ai",
+				"sqi-fetimehdiu": "Dhe askush sikur ai nuk farkon në pranga"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 27,
+			"textAr": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ",
+			"translations": {
+				"sqi-sherifahmeti": "O shpirt i qetësuar",
+				"sqi-hasanefendinahi": "E ti, o shpirt i besuar (këmbëngulës në besim)",
+				"sqi-fetimehdiu": "O shpirt i qetësuar"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 28,
+			"textAr": "ارْجِعِي إِلَىٰ رَبِّكِ رَاضِيَةً مَرْضِيَّةً",
+			"translations": {
+				"sqi-sherifahmeti": "Kthehu te Zoti yt i kënaqur (për vehte) e kënaqës (për Zotin)",
+				"sqi-hasanefendinahi": "kthehu te Zoti yt i kënaqur, sepse, edhe Ai është i kënaqur me ty",
+				"sqi-fetimehdiu": "Kthehu te Zoti yt si kënaqës e i kënaqur"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 29,
+			"textAr": "فَادْخُلِي فِي عِبَادِي",
+			"translations": {
+				"sqi-sherifahmeti": "Hyr mes robërve të Mi",
+				"sqi-hasanefendinahi": "prandaj, hynnë mes të dashurve të Mi",
+				"sqi-fetimehdiu": "Hyr në gjiun e robëve të mi"
+			}
+		},
+		{
+			"surah": 89,
+			"number": 30,
+			"textAr": "وَادْخُلِي جَنَّتِي",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe hyr në Xhennetin Tim",
+				"sqi-hasanefendinahi": "dhe hyn në xhennetin Tim",
+				"sqi-fetimehdiu": "Dhe hyr në xhennetin tim"
+			}
+		}
+	]
+}

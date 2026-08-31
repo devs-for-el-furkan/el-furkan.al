@@ -1,0 +1,73 @@
+{
+  "surah": 114,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 114,
+      "number": 1,
+      "textAr": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "translations": {
+        "sqi-sherifahmeti": "Thuaj: “Mbështetem në Zotin e njerëzve",
+        "sqi-hasanefendinahi": "Thuaj: “I lutem dhe i mbështetem Zotit të njerëzve",
+        "sqi-fetimehdiu": "Thuaj: “Mbështetem te Zoti i njerëzve"
+      }
+    },
+    {
+      "surah": 114,
+      "number": 2,
+      "textAr": "مَلِكِ النَّاسِ",
+      "translations": {
+        "sqi-sherifahmeti": "Sunduesin e njerëzve",
+        "sqi-hasanefendinahi": "Sundimtarit të njerëzve",
+        "sqi-fetimehdiu": "Sundues i njerëzve"
+      }
+    },
+    {
+      "surah": 114,
+      "number": 3,
+      "textAr": "إِلَٰهِ النَّاسِ",
+      "translations": {
+        "sqi-sherifahmeti": "Të adhuruarin e njerëzve",
+        "sqi-hasanefendinahi": "Perëndisë së njerëzve",
+        "sqi-fetimehdiu": "Zoti i njerëzve"
+      }
+    },
+    {
+      "surah": 114,
+      "number": 4,
+      "textAr": "مِنْ شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+      "translations": {
+        "sqi-sherifahmeti": "Prej të keqes së cytësit që fshihet",
+        "sqi-hasanefendinahi": "nga sherri i djallit, bezdisës",
+        "sqi-fetimehdiu": "Nga e keqja e djallit – mbrapshtanit"
+      }
+    },
+    {
+      "surah": 114,
+      "number": 5,
+      "textAr": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+      "translations": {
+        "sqi-sherifahmeti": "I cili hedh dyshime në zemrat e njerëzve",
+        "sqi-hasanefendinahi": "i cili fshehurazi hedh dyshime në shpirtërat e njerëzve –",
+        "sqi-fetimehdiu": "I cili fut huti në zemrat e njerëzve"
+      }
+    },
+    {
+      "surah": 114,
+      "number": 6,
+      "textAr": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+      "translations": {
+        "sqi-sherifahmeti": "Qoftë ai nga xhinët ose nga njerëzit”",
+        "sqi-hasanefendinahi": "prej xhindëve dhe prej njerëzve!”",
+        "sqi-fetimehdiu": "Nga exhinët dhe njerëzit"
+      }
+    }
+  ]
+}

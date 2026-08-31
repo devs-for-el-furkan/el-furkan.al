@@ -1,0 +1,373 @@
+{
+  "surah": 83,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 83,
+      "number": 1,
+      "textAr": "وَيْلٌ لِلْمُطَفِّفِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Të mjerët ata që masin e peshojnë",
+        "sqi-hasanefendinahi": "Mjer për ata që kur masin – mungojnë",
+        "sqi-fetimehdiu": "Të mjerë ata që drejtë nuk peshojnë"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 2,
+      "textAr": "الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Ata që kur matin prej njerëzve prej njerëzve, për vete e plotësojnë",
+        "sqi-hasanefendinahi": "të cilët e marrin masën e plotë kur është e marrin vetveten",
+        "sqi-fetimehdiu": "Të cilët kur blejnë e marrin masën e plotë prej tjerëve"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 3,
+      "textAr": "وَإِذَا كَالُوهُمْ أَوْ وَزَنُوهُمْ يُخْسِرُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "E kur u matin të tjerëve ose u peshojnë, u lënë mangu",
+        "sqi-hasanefendinahi": "e, kur t’iu masin të tjerëve me litër ose me kandar – ju pakësojnë",
+        "sqi-fetimehdiu": "Por kur u masin të tjerëve me litër e kandar ua mungojnë"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 4,
+      "textAr": "أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُمْ مَبْعُوثُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "A nuk e donë të tillët se kanë për t’u ringjallur",
+        "sqi-hasanefendinahi": "A nuk mendojnë ata se do të ringjallen",
+        "sqi-fetimehdiu": "A nuk mendojnë ata se do të ringjallen"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 5,
+      "textAr": "لِيَوْمٍ عَظِيمٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Në një ditë të madhe",
+        "sqi-hasanefendinahi": "në një Ditë të madhe (të Kijametit)",
+        "sqi-fetimehdiu": "Në një Ditë të madhe"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 6,
+      "textAr": "يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Në ditën kur njerëzit ngriten (prej varrezave) për të dalë para Zotit të botëve",
+        "sqi-hasanefendinahi": "atë Ditë kur njerëzit do të dalin para Zotit të gjithësisë",
+        "sqi-fetimehdiu": "Në ditën kur njerëzit do të ngriten me urdhër të Zotit të botërave"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 7,
+      "textAr": "كَلَّا إِنَّ كِتَابَ الْفُجَّارِ لَفِي سِجِّينٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Jo, të mos rrinë gafil! Se shënimet e veprave të mëkatarëve janë në Sixhin (në një libër shënimesh të të këqijave më të dëmshme)",
+        "sqi-hasanefendinahi": "Po, po, me të vërtetë, Libri i mëkatarëve është në Sixh-xhin",
+        "sqi-fetimehdiu": "Gjithsesi! Libri i mëkatarëve është me siguri në sixhin"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 8,
+      "textAr": "وَمَا أَدْرَاكَ مَا سِجِّينٌ",
+      "translations": {
+        "sqi-sherifahmeti": "E, ku e di ti se ç’është sixhini",
+        "sqi-hasanefendinahi": "e, ata e di ti se ç’është Sixh-xhin",
+        "sqi-fetimehdiu": "A e di ti ç’është sixhini"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 9,
+      "textAr": "كِتَابٌ مَرْقُومٌ",
+      "translations": {
+        "sqi-sherifahmeti": "Ai është një libër i qendisur (në një qeli në fund të burgut)",
+        "sqi-hasanefendinahi": "(Ai është) Libri i shkruar",
+        "sqi-fetimehdiu": "Një libër i shkruar"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 10,
+      "textAr": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë është shkatërrimi për gënjeshtarët",
+        "sqi-hasanefendinahi": "Mjer atë ditë për përgënjeshtarët",
+        "sqi-fetimehdiu": "Atë ditë mjerë përgënjeshtarët"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 11,
+      "textAr": "الَّذِينَ يُكَذِّبُونَ بِيَوْمِ الدِّينِ",
+      "translations": {
+        "sqi-sherifahmeti": "Të cilët nuk e besojnë ditën e përgjegjësisë",
+        "sqi-hasanefendinahi": "që kanë mohuar Ditën e Kijametit –",
+        "sqi-fetimehdiu": "Të cilët e përgënjeshtrojnë Ditën e Gjykimit"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 12,
+      "textAr": "وَمَا يُكَذِّبُ بِهِ إِلَّا كُلُّ مُعْتَدٍ أَثِيمٍ",
+      "translations": {
+        "sqi-sherifahmeti": "E atë ditë nuk e mohon kush, përveç atij që ka sharruar tepër në mosbesim e në punë të këqija",
+        "sqi-hasanefendinahi": "e atë, e mohon vetëm kundërvajtësi, mëkatari (i madh)",
+        "sqi-fetimehdiu": "Atë e mohon vetëm mëkatari i madh"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 13,
+      "textAr": "إِذَا تُتْلَىٰ عَلَيْهِ آيَاتُنَا قَالَ أَسَاطِيرُ الْأَوَّلِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "E që kur i lexohen atij argumentet Tona, thonë: “Legjenda të të parëve!”",
+        "sqi-hasanefendinahi": "i cili, kur i janë lexuar ajetet Tona, ka thënë: “Trillime të popujve të lashtë!”",
+        "sqi-fetimehdiu": "Që kur i lexohen ajetet tona thonë: “Legjenda të popujve të lashtë”"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 14,
+      "textAr": "كَلَّا ۖ بَلْ ۜ رَانَ عَلَىٰ قُلُوبِهِمْ مَا كَانُوا يَكْسِبُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Jo, nuk është ashtu! Por të këqijat që i punuan, zemrat e tyre ua mbuluan",
+        "sqi-hasanefendinahi": "E, nuk është ashtu! Por, veprat e tyre (të këqia) i kanë ndryshkur zemrat e tyre (i kanë nxirë)",
+        "sqi-fetimehdiu": "Kurrë! Por zemrat e atyre i ka mbuluar ajo që kanë punuar"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 15,
+      "textAr": "كَلَّا إِنَّهُمْ عَنْ رَبِّهِمْ يَوْمَئِذٍ لَمَحْجُوبُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Jo dhe Jo! Atë ditë do të jenë të penguar prej (ta shohin) Zotit të tyre",
+        "sqi-hasanefendinahi": "Jo, jo, atë ditë, me të vërtetë, ata do të jenë të penguar që ta shohin Zotin e tyre",
+        "sqi-fetimehdiu": "Gjithsesi ata, atë ditë, do të jenë larg mëshirës së Zotit të vet"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 16,
+      "textAr": "ثُمَّ إِنَّهُمْ لَصَالُو الْجَحِيمِ",
+      "translations": {
+        "sqi-sherifahmeti": "Pastaj ata do të hyjnë në Xhehennem",
+        "sqi-hasanefendinahi": "pastaj, me siguri, do të hyjnë në skëterrë",
+        "sqi-fetimehdiu": "Pastaj me siguri do t’hyjnë në xhehenem"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 17,
+      "textAr": "ثُمَّ يُقَالُ هَٰذَا الَّذِي كُنْتُمْ بِهِ تُكَذِّبُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe do t’u thuhet: “Ky është ai të cilin e keni përgënjeshtruar!”",
+        "sqi-hasanefendinahi": "e do t’ju thuhet (nga engjëjt e skëterrës): “Qe, kjo është ajo që e keni mohuar!”",
+        "sqi-fetimehdiu": "Pastaj do t’u thuhet: “Ja, kjo është ajo që e keni përgënjeshtruar”"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 18,
+      "textAr": "كَلَّا إِنَّ كِتَابَ الْأَبْرَارِ لَفِي عِلِّيِّينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Jo, nuk janë të njejtë! Se libri i të mirave gjendet në Il-lijjinë",
+        "sqi-hasanefendinahi": "Po, po, me të vërtetë, Libri i të ndershmëve është në Il-lijjin",
+        "sqi-fetimehdiu": "Pa dyshim libri i të mirëve është në Il-lij-jun"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 19,
+      "textAr": "وَمَا أَدْرَاكَ مَا عِلِّيُّونَ",
+      "translations": {
+        "sqi-sherifahmeti": "E ku e di ti se çka është Ilijunë",
+        "sqi-hasanefendinahi": "E, a e di ti se ç’është Il-lijjin",
+        "sqi-fetimehdiu": "A e di ti ç’është Il-lij-juni"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 20,
+      "textAr": "كِتَابٌ مَرْقُومٌ",
+      "translations": {
+        "sqi-sherifahmeti": "Është një llibër i qendisur qartë",
+        "sqi-hasanefendinahi": "Ai është Libri i shkruar",
+        "sqi-fetimehdiu": "Një libër i shkruar"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 21,
+      "textAr": "يَشْهَدُهُ الْمُقَرَّبُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Të cilin e dëshmojnë engjëjt që janë më të të afërmit",
+        "sqi-hasanefendinahi": "që e dëshmojnë të afërmit (engjëjt) e Perëndisë",
+        "sqi-fetimehdiu": "Që e prezentojnë të afërti (tek All-llahu)"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 22,
+      "textAr": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+      "translations": {
+        "sqi-sherifahmeti": "E s’ka dyshim se vepërmirët janë në përjetime e kënaqësi (Xhennet)",
+        "sqi-hasanefendinahi": "Me të vërtetë, të mirët (njerëz) do të gjenden në xhennet",
+        "sqi-fetimehdiu": "Të mirët, njëmend do të jenë në kënaqësi të xhennetit"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 23,
+      "textAr": "عَلَى الْأَرَائِكِ يَنْظُرُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Të mbështetur në kolltukë vështrojnë",
+        "sqi-hasanefendinahi": "e nga divanet – kanapet do të shikojnë",
+        "sqi-fetimehdiu": "Do të shikojnë nga divane"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 24,
+      "textAr": "تَعْرِفُ فِي وُجُوهِهِمْ نَضْرَةَ النَّعِيمِ",
+      "translations": {
+        "sqi-sherifahmeti": "Në fytyrat e tyre mund të kuptosh kënaqësinë e përjetimeve",
+        "sqi-hasanefendinahi": "në fytyrat e tyre do të njohësh freskinë e begative",
+        "sqi-fetimehdiu": "në fytyrat e atyre vërehet gëzimi e lumturia"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 25,
+      "textAr": "يُسْقَوْنَ مِنْ رَحِيقٍ مَخْتُومٍ",
+      "translations": {
+        "sqi-sherifahmeti": "U jepet të pijnë pije në enë të mbyllura",
+        "sqi-hasanefendinahi": "atyre do t’u jepet të pinë nga pijet e mbyllura (të ruajtura)",
+        "sqi-fetimehdiu": "Do t’u jepet të pijnë nga pije të vulosura"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 26,
+      "textAr": "خِتَامُهُ مِسْكٌ ۚ وَفِي ذَٰلِكَ فَلْيَتَنَافَسِ الْمُتَنَافِسُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Pije që në fund asaj i vjen era misk! E për shpërblim të tillë le të garojnë ata që lakmojnë të mirën",
+        "sqi-hasanefendinahi": "vula e të cilave është misk (parfem), - dhe për këtë, le të bëjnë gara garuesit! –",
+        "sqi-fetimehdiu": "Vula e së cilës është misk dhe për këtë le të bëjnë gara konkurentët"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 27,
+      "textAr": "وَمِزَاجُهُ مِنْ تَسْنِيمٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe përzierja e asaj pije është në tensim (uji më i mirë)",
+        "sqi-hasanefendinahi": "(pija) do të jetë e përzier me ujin e Tesnimit",
+        "sqi-fetimehdiu": "Do të jetë e përzier me ujë Tesnimi"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 28,
+      "textAr": "عَيْنًا يَشْرَبُ بِهَا الْمُقَرَّبُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Krua nga i cili do të pijnë më të afërmit e Zotit",
+        "sqi-hasanefendinahi": "nga burimi i të cilit do të pinë të afërmit e Perëndisë (të mirët)",
+        "sqi-fetimehdiu": "Burimesh, prej ku pijnë të afërmit"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 29,
+      "textAr": "إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Mëkatarët ishin ata të cilët i përqeshnin ata që besuan",
+        "sqi-hasanefendinahi": "Me të vërtetë, mëkatarët qeshnin (në jetën e kësaj bote), me ata që besonin",
+        "sqi-fetimehdiu": "Mëkatarët, njëmend, i tallin ata që kishin besuar"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 30,
+      "textAr": "وَإِذَا مَرُّوا بِهِمْ يَتَغَامَزُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kur kalonin (besimtarët) pranë (idhujtarëve), ata ia bënin me sy njëri-tjetrit",
+        "sqi-hasanefendinahi": "kur kalonin pranë tyre, njëri-tjetrit ia bënin me sy",
+        "sqi-fetimehdiu": "Kur kalonin pranë tyre ata ia bëjnë me sy njëri-tjetrit"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 31,
+      "textAr": "وَإِذَا انْقَلَبُوا إِلَىٰ أَهْلِهِمُ انْقَلَبُوا فَكِهِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "E kur ktheheshin te familjet e veta, ktheheshin të kënaqur",
+        "sqi-hasanefendinahi": "e kur ktheheshin te familjet e tyre, ata argëtoheshin në formë tallëse (me besimtarët)",
+        "sqi-fetimehdiu": "Dhe kur ktheheshin në familjet e veta kthehen duke bërë shaka"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 32,
+      "textAr": "وَإِذَا رَأَوْهُمْ قَالُوا إِنَّ هَٰؤُلَاءِ لَضَالُّونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kur i shihnin ata (besimtarët) janë të humbur!”",
+        "sqi-hasanefendinahi": "ata (mëkatarët), kur i shihnin (besimtarët), thonin: “Këta, me të vërtetë, janë të humbur”",
+        "sqi-fetimehdiu": "Dhe kur i shihnin ata atëherë thoshin: “Këta janë me siguri të humbur”"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 33,
+      "textAr": "وَمَا أُرْسِلُوا عَلَيْهِمْ حَافِظِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Po Ne, nuk i caktuam ata (idhujtarët) si rojë të atyre (besimtarëve)",
+        "sqi-hasanefendinahi": "e, ata nuk janë dërguar për kujdestarë të tyre (besimtarëve)",
+        "sqi-fetimehdiu": "Dhe ata nuk janë të dërguar për t’i mbrojtur këta"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 34,
+      "textAr": "فَالْيَوْمَ الَّذِينَ آمَنُوا مِنَ الْكُفَّارِ يَضْحَكُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "E sot, (në ditën e gjykimit), ata që besuan do të tallen me jobesimtarët",
+        "sqi-hasanefendinahi": "Sot, ata që kanë besuar, do t’i përqeshin mohuesit",
+        "sqi-fetimehdiu": "Andaj sot ata që kanë besuar do t’i tallin mosbesimtarët"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 35,
+      "textAr": "عَلَى الْأَرَائِكِ يَنْظُرُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Duke qëndruar të mbështetur (besimtarët) në kolltukë e duke shikuar",
+        "sqi-hasanefendinahi": "e, nga divanet (kanapet) do të shikojnë",
+        "sqi-fetimehdiu": "Do t’i shikojnë nga divane"
+      }
+    },
+    {
+      "surah": 83,
+      "number": 36,
+      "textAr": "هَلْ ثُوِّبَ الْكُفَّارُ مَا كَانُوا يَفْعَلُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "A thua a u shpërblyen jobesimtarët për atë që punuan? (Po)",
+        "sqi-hasanefendinahi": "a janë shpërblyer meritueshëm mohuesit, për veprat që kanë punuar?! (Po)",
+        "sqi-fetimehdiu": "Si po shpërblehen mosbesimtarët për atë që kanë bërë"
+      }
+    }
+  ]
+}

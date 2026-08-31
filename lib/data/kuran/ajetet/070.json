@@ -1,0 +1,453 @@
+{
+  "surah": 70,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 70,
+      "number": 1,
+      "textAr": "سَأَلَ سَائِلٌ بِعَذَابٍ وَاقِعٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Një lutës e kerkoi dënimin e pashmangshëm",
+        "sqi-hasanefendinahi": "Një kurreshtar ka pyetur për dënimin që do të ngjajë",
+        "sqi-fetimehdiu": "Dikush ka pyetur për dënimin që zbatohet"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 2,
+      "textAr": "لِلْكَافِرِينَ لَيْسَ لَهُ دَافِعٌ",
+      "translations": {
+        "sqi-sherifahmeti": "për jobesimtarët. Atë (dënim) s’ka kush që mund ta ndalë",
+        "sqi-hasanefendinahi": "ndaj jobesimtarëve, - për të cilin dënim s’ka pengues",
+        "sqi-fetimehdiu": "Ndaj mosbesimtarëve – atë s’e mbron dot kush"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 3,
+      "textAr": "مِنَ اللَّهِ ذِي الْمَعَارِجِ",
+      "translations": {
+        "sqi-sherifahmeti": "Ai dënim vjen nga All-llahu, pronari ishkallëve të larta (në qiej)",
+        "sqi-hasanefendinahi": "(ai dënim është) prej Perëndisë, Zotit të shkallëve të larta (të mirësisë)",
+        "sqi-fetimehdiu": "Nga All-llahu, Zoti i qiejve"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 4,
+      "textAr": "تَعْرُجُ الْمَلَائِكَةُ وَالرُّوحُ إِلَيْهِ فِي يَوْمٍ كَانَ مِقْدَارُهُ خَمْسِينَ أَلْفَ سَنَةٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Atje ngjiten engjëjt dhe shpirti (Xhibrili) në një ditë që zgjatë pesëdhjetë mijë vjet (ose lartësia e atyre shkallëve është pesëdhjetë mijë vjet)",
+        "sqi-hasanefendinahi": "ngjiten (hipin) tek Ai engjëjt dhe Shpirti (Xhebraili) në një ditë që zgjatë sa pesëdhjetë mijë vjet (sipas llogarisë së kohës sonë në Tokë)",
+        "sqi-fetimehdiu": "Atje ngjiten engjujt dhe Ruhi (Xhibrili) në një ditë që zgjatë pesëdhjetë mijë vjet"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 5,
+      "textAr": "فَاصْبِرْ صَبْرًا جَمِيلًا",
+      "translations": {
+        "sqi-sherifahmeti": "Ti, pra, duro me një durim pa ankesë (të mirë)",
+        "sqi-hasanefendinahi": "andaj, bëhu i durueshëm, me durim të bukur",
+        "sqi-fetimehdiu": "Prandaj duro si ka hije, pa ankime"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 6,
+      "textAr": "إِنَّهُمْ يَرَوْنَهُ بَعِيدًا",
+      "translations": {
+        "sqi-sherifahmeti": "Atyre u duket ai larg",
+        "sqi-hasanefendinahi": "Ata, me të vërtetë, (dënimin) e mendojnë të largët (të pamundshëm)",
+        "sqi-fetimehdiu": "Atyre u duket se është larg"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 7,
+      "textAr": "وَنَرَاهُ قَرِيبًا",
+      "translations": {
+        "sqi-sherifahmeti": "Kurse Neve ai na duket afër",
+        "sqi-hasanefendinahi": "kurse Ne, e dimë të afërt",
+        "sqi-fetimehdiu": "Kurse Ne e shohim se është afër"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 8,
+      "textAr": "يَوْمَ تَكُونُ السَّمَاءُ كَالْمُهْلِ",
+      "translations": {
+        "sqi-sherifahmeti": "Dita kur qielli të bëhet si kallaji i shkrirë",
+        "sqi-hasanefendinahi": "atë Ditë kur qielli do të bëhet si llom i vajit",
+        "sqi-fetimehdiu": "Atë ditë kur qielli të bëhet si fundrrinë rrëshire"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 9,
+      "textAr": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ",
+      "translations": {
+        "sqi-sherifahmeti": "Kodrat të bëhen si leshi i lënurur",
+        "sqi-hasanefendinahi": "e malet do të bëhen si lesh (i shprishur) llojlloj ngjyrash",
+        "sqi-fetimehdiu": "Kurse malet të bëhen si lesh i lënuar"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 10,
+      "textAr": "وَلَا يَسْأَلُ حَمِيمٌ حَمِيمًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe asnjë mik nuk pyet për mikun",
+        "sqi-hasanefendinahi": "kur i afërmi nuk pyet asgjë për të afërmin",
+        "sqi-fetimehdiu": "Dhe nuk pyet miku për mik"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 11,
+      "textAr": "يُبَصَّرُونَهُمْ ۚ يَوَدُّ الْمُجْرِمُ لَوْ يَفْتَدِي مِنْ عَذَابِ يَوْمِئِذٍ بِبَنِيهِ",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe pse ata shihen ndërmjet vete (edhe njihen, por ikin prej njëri-tjetrit). Krimineli dëshiron sikur të kishte paguar dënimin e asaj dite me bijtë e vet",
+        "sqi-hasanefendinahi": "e, njëri-tjetrin do ta shohin. Atëherë, fajtori, dëshiron të paguajë dënimin e asaj Dite me djemtë e vet",
+        "sqi-fetimehdiu": "Do t’u mundësohet të shihen. Mëkatari dëshiron që atë ditë ta kompenzojë veten (lirojë) nga dënimi i asaj dite me fëmijët e vet"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 12,
+      "textAr": "وَصَاحِبَتِهِ وَأَخِيهِ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe me gruan e vet dhe me vëllain e vet",
+        "sqi-hasanefendinahi": "me gruan e vet dhe vëllain e vet",
+        "sqi-fetimehdiu": "Edhe me bashkëshorten e vet, dhe vëlla të vet"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 13,
+      "textAr": "وَفَصِيلَتِهِ الَّتِي تُؤْوِيهِ",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe me të afërmit e tij që ai te ata mbështetej",
+        "sqi-hasanefendinahi": "dhe me farefisin e tij të ngushtë",
+        "sqi-fetimehdiu": "Edhe me familje të vet që e ka strehuar"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 14,
+      "textAr": "وَمَنْ فِي الْأَرْضِ جَمِيعًا ثُمَّ يُنْجِيهِ",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe me krejt çka ka në tokë, e vetëm të kishte shpëtuar",
+        "sqi-hasanefendinahi": "si dhe me të gjithë ata që gjenden në faqe të Tokës – vetëm për të shpëtuar",
+        "sqi-fetimehdiu": "Dhe kush është në tokë, të gjithë së bashku, e ta shpëtojë"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 15,
+      "textAr": "كَلَّا ۖ إِنَّهَا لَظَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Jo, kurrsesi, ajo (para) është Ledhdha - flaka (emër i Xhehennemit)",
+        "sqi-hasanefendinahi": "Jo, kurrsesi! Ai është zjarri",
+        "sqi-fetimehdiu": "Kurrsesi! Ajo është këndellje"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 16,
+      "textAr": "نَزَّاعَةً لِلشَّوَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Është që heq kapakët e kokës",
+        "sqi-hasanefendinahi": "që duke e kapur për kokë",
+        "sqi-fetimehdiu": "Që rrëmben çdo pjesë"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 17,
+      "textAr": "تَدْعُو مَنْ أَدْبَرَ وَتَوَلَّىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Që e thërret (tërheq prej vetes) atë që është zbbrapsur e larguar (prej besimit)",
+        "sqi-hasanefendinahi": "e tërheq kah veti atë (njeri) që ia ka kthyer shpinën dhe i është shmangur të vërtetës",
+        "sqi-fetimehdiu": "E thërret atë që ka kthyer shpinën dhe ka ikur"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 18,
+      "textAr": "وَجَمَعَ فَأَوْعَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe që ka tubuar (pasuri) dhe e ka ruajtur (fshehur)",
+        "sqi-hasanefendinahi": "Dhe ka grumbulluar (pasuri) dhe ka depozituar (duke mos dhënë asgjë)",
+        "sqi-fetimehdiu": "Edhe ka tubuar e ka fshehur"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 19,
+      "textAr": "۞ إِنَّ الْإِنْسَانَ خُلِقَ هَلُوعًا",
+      "translations": {
+        "sqi-sherifahmeti": "Është e vërtetë se njeriu është i prirur të jetë i padurueshëm",
+        "sqi-hasanefendinahi": "Njeriu, me të vërtetë, është krijuar lakmus vetjak",
+        "sqi-fetimehdiu": "Njeriu, me të vërtetë, është krijuar i pangopur"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 20,
+      "textAr": "إِذَا مَسَّهُ الشَّرُّ جَزُوعًا",
+      "translations": {
+        "sqi-sherifahmeti": "Pse kur e godit ndonjë e keqe, ai ankohet së tepërmi",
+        "sqi-hasanefendinahi": "kur e goditë e liga – dëshpërohet",
+        "sqi-fetimehdiu": "Kur e godit e keqja – është i pikëlluar –"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 21,
+      "textAr": "وَإِذَا مَسَّهُ الْخَيْرُ مَنُوعًا",
+      "translations": {
+        "sqi-sherifahmeti": "Ndërkaq, kur e gjen e mira, ai bëhet tepër koprac",
+        "sqi-hasanefendinahi": "e kur t’i bie e mira – bëhet koprrac (nuk jep – refuzon)",
+        "sqi-fetimehdiu": "E kur e godit e mira – është refuzues"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 22,
+      "textAr": "إِلَّا الْمُصَلِّينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Përveç atyre që falen",
+        "sqi-hasanefendinahi": "pos besimtarëve",
+        "sqi-fetimehdiu": "Me përjashtim të atyre që falen"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 23,
+      "textAr": "الَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ دَائِمُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "të cilët janë të rregullt në faljen e namazit të tyre",
+        "sqi-hasanefendinahi": "të cilët në lutjet e veta (namaz) janë të qëndrueshëm",
+        "sqi-fetimehdiu": "Të cilët në namazet e tyre janë korrektë"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 24,
+      "textAr": "وَالَّذِينَ فِي أَمْوَالِهِمْ حَقٌّ مَعْلُومٌ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe ata që në pasurinë e vet kanë ndarë në një pjesë të caktuar",
+        "sqi-hasanefendinahi": "dhe që në pasurinë e tyre ka të caktuar një pjesë",
+        "sqi-fetimehdiu": "Edhe ata që në pasurinë e tyre kanë një pjesë të caktuar"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 25,
+      "textAr": "لِلسَّائِلِ وَالْمَحْرُومِ",
+      "translations": {
+        "sqi-sherifahmeti": "Për lypësin dhe për nevojtarin që nuk lyp",
+        "sqi-hasanefendinahi": "për lypësin dhe për të varfërin (që nuk e zgjatë dorën)",
+        "sqi-fetimehdiu": "për lypsin dhe për (nevojtarin) që nuk lyp"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 26,
+      "textAr": "وَالَّذِينَ يُصَدِّقُونَ بِيَوْمِ الدِّينِ",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe ata që e besojnë bindshëm ditën e gjykimit",
+        "sqi-hasanefendinahi": "dhe ata që besojnë Ditën e Kijametit",
+        "sqi-fetimehdiu": "Edhe ata që e vërtetojnë Ditën e kijametit"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 27,
+      "textAr": "وَالَّذِينَ هُمْ مِنْ عَذَابِ رَبِّهِمْ مُشْفِقُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe ata që i frikësohen dënimit nga Zoti i tyre",
+        "sqi-hasanefendinahi": "dhe ata që druajnë nga dënimi i Zotit të tyre",
+        "sqi-fetimehdiu": "Dhe ata të cilët frikësohen nga dëhimi i Zotit të tyre"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 28,
+      "textAr": "إِنَّ عَذَابَ رَبِّهِمْ غَيْرُ مَأْمُونٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Sepse është e vërtetë që nuk ka shpëtim prej dënimit nga Zoti i tyre",
+        "sqi-hasanefendinahi": "e, me të vërtetë, (askush) nuk është i sigurtë prej dënimit të Zotit të vet –",
+        "sqi-fetimehdiu": "Se nga dënimi i Zotit të vet, njëmend, askush nuk është i sigurt"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 29,
+      "textAr": "وَالَّذِينَ هُمْ لِفُرُوجِهِمْ حَافِظُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe ata që janë ruajtur prej punëve të ndyra (amorale)",
+        "sqi-hasanefendinahi": "dhe ata që i ruajnë pjesët e turpshme të organizmit të vet",
+        "sqi-fetimehdiu": "Edhe ata të cilët ruajnë vendet e turpshme –"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 30,
+      "textAr": "إِلَّا عَلَىٰ أَزْوَاجِهِمْ أَوْ مَا مَلَكَتْ أَيْمَانُهُمْ فَإِنَّهُمْ غَيْرُ مَلُومِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Me përjashtim ndaj grave të veta dhe ndaj robëreshave që i kanë në posedim, ata nuk qortohen për to",
+        "sqi-hasanefendinahi": "përveç ndaj bashkëshorteve të tyre dhe ato që i kanë në pronësi – at, a me të vërtetë, nuk meritojnë qortim",
+        "sqi-fetimehdiu": "Vetëm për gratë e veta ose për ata që i kanë pasur nën mbikqyrjen e tyre. Ata, me të vërtetë, nuk qortohen"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 31,
+      "textAr": "فَمَنِ ابْتَغَىٰ وَرَاءَ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْعَادُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "E kush kërkon përveç tyre, të tillët janë të shfrenuar (meritojnë dënim)",
+        "sqi-hasanefendinahi": "e kush kërkon jashtë këtyre caqeve, është kundërvajtës",
+        "sqi-fetimehdiu": "Dhe kush kërkon përtej kësaj, ata janë njëmend ligjshkelës"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 32,
+      "textAr": "وَالَّذِينَ هُمْ لِأَمَانَاتِهِمْ وَعَهْدِهِمْ رَاعُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe ata që janë besnikë ndaj amanetit që u është besuar dhe ndaj premtimit të dhënë",
+        "sqi-hasanefendinahi": "edhe ata që i ruajnë amanetet dhe i plotësojnë obligimet e tyre",
+        "sqi-fetimehdiu": "Dhe ata të cilët i ruajnë e kujdesen për gjërat që u janë besuar dhe marrëveshjet e tyre"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 33,
+      "textAr": "وَالَّذِينَ هُمْ بِشَهَادَاتِهِمْ قَائِمُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe ata që dëshminë e vet e zbatojnë (nuk e mohojnë, nuk e fshehin)",
+        "sqi-hasanefendinahi": "edhe ata që dëshminë e tyre e zbatojnë",
+        "sqi-fetimehdiu": "Dhe ata të cilët qëndrojnë pas dëshmive të veta"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 34,
+      "textAr": "وَالَّذِينَ هُمْ عَلَىٰ صَلَاتِهِمْ يُحَافِظُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe ata që janë të kujdesshëm ndaj rregullave të namazit të tyre",
+        "sqi-hasanefendinahi": "edhe ata të cilët e kryejnë namazin (në kohën) e rregullt",
+        "sqi-fetimehdiu": "Edhe ata të cilët në namazin e tyre janë pedantë"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 35,
+      "textAr": "أُولَٰئِكَ فِي جَنَّاتٍ مُكْرَمُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Të tillët janë në Xhennete dhe janë të nderuar",
+        "sqi-hasanefendinahi": "ata në kopshtie të xhennetit do të nderohen",
+        "sqi-fetimehdiu": "Ata do të jenë tënderuar në xhennet"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 36,
+      "textAr": "فَمَالِ الَّذِينَ كَفَرُوا قِبَلَكَ مُهْطِعِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "ç’është me ata që nuk besuan dhe zgjasin qafat nga ti",
+        "sqi-hasanefendinahi": "Përse jobesimtarët nxitojnë kah ti",
+        "sqi-fetimehdiu": "Ç\\’është me mosbesimtarët që po të vërsulen ty"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 37,
+      "textAr": "عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ عِزِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Ulën në grupe në të djathtë e në të majtë teje",
+        "sqi-hasanefendinahi": "djathtas e majtas, tuba-tuba",
+        "sqi-fetimehdiu": "Nga e djathta dhe e majta, në grupe"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 38,
+      "textAr": "أَيَطْمَعُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُدْخَلَ جَنَّةَ نَعِيمٍ",
+      "translations": {
+        "sqi-sherifahmeti": "A dëshiron secili prej tyre të hyjë në Xhennetin r begatshëm",
+        "sqi-hasanefendinahi": "E që çdonjëri prej tyre dëshiron të hyjë në xhennetin e dhuntive (pa merita)? –",
+        "sqi-fetimehdiu": "A lakmon secili prejt yre për të hyrë në xhenet të dhuntive"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 39,
+      "textAr": "كَلَّا ۖ إِنَّا خَلَقْنَاهُمْ مِمَّا يَعْلَمُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Kurrsesi! Ne i krijuam ata nga ajo çka ata e dinë",
+        "sqi-hasanefendinahi": "Kurrsesi! Ne, me të vërtetë, i kemi krijuar ata, prej asaj që e dinë",
+        "sqi-fetimehdiu": "Kurrë! Ne ata i kemi krijuar prej asaj që e dinë"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 40,
+      "textAr": "فَلَا أُقْسِمُ بِرَبِّ الْمَشَارِقِ وَالْمَغَارِبِ إِنَّا لَقَادِرُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Pra betohem në Zotin e lindjeve e të perëndimeve, se Ne kemi fuqi",
+        "sqi-hasanefendinahi": "Dhe, Unë betohem me Zotin e lindjes dhe të perëndimit, që ne mundemi",
+        "sqi-fetimehdiu": "Dhe unë betohem në Zotin e lindjes dhe të perëndimit se Ne kemi mundësi"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 41,
+      "textAr": "عَلَىٰ أَنْ نُبَدِّلَ خَيْرًا مِنْهُمْ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "të zëvendësojmë me më të mirë se ata dhe Ne nuk mund të na dalë kush para",
+        "sqi-hasanefendinahi": "t’i ndërrojmë ata me më të mirë prej tyre dhe Ne nuk jeni të penguar",
+        "sqi-fetimehdiu": "T’i zëvendësojmë me më të mirë se ata dhe askush nuk mund të na konkurojë në këtë"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 42,
+      "textAr": "فَذَرْهُمْ يَخُوضُوا وَيَلْعَبُوا حَتَّىٰ يُلَاقُوا يَوْمَهُمُ الَّذِي يُوعَدُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Po ti lëri ata të zhyten edhe më thellë në të kota dhe të dëfrehen deri që të ballafaqohen në ditën e tyre që po u premtohet",
+        "sqi-hasanefendinahi": "Andaj, lëri ti ata le të zbaviten me gjëra të kota dhe të luajnë përderisa të hasin në Ditën e tyre të caktuar",
+        "sqi-fetimehdiu": "Prandaj leri ata le të llafosen e të zbaviten deri sa të ballafaqohen me ditën që u premtohet atyre"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 43,
+      "textAr": "يَوْمَ يَخْرُجُونَ مِنَ الْأَجْدَاثِ سِرَاعًا كَأَنَّهُمْ إِلَىٰ نُصُبٍ يُوفِضُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Ditën kur duke u ngutur dalin prej varreve, sikur nguteshin te idhujt",
+        "sqi-hasanefendinahi": "Dita në të cilën dalin nga varrezat duke vrapuar, thuajse po nxitojnë te idolet e tyre",
+        "sqi-fetimehdiu": "Ditën në të cilën do të dalin nga varret me të shpejtë sikur vrapojnë kah idolet"
+      }
+    },
+    {
+      "surah": 70,
+      "number": 44,
+      "textAr": "خَاشِعَةً أَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۚ ذَٰلِكَ الْيَوْمُ الَّذِي كَانُوا يُوعَدُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Me shikimet e tyre të përulura i ka kapluar poshtërimi. Ajo është dita që ka qenë premtuar",
+        "sqi-hasanefendinahi": "me sy të varur që i ka kapluar poshtërimi. Ajo është Dita që u është premtuar atyre",
+        "sqi-fetimehdiu": "Me shikime të frikësuara me poshtërsi mbuluar, ajo është dita e cila u premtohej"
+      }
+    }
+  ]
+}

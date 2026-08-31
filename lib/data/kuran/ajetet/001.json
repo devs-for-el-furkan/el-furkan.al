@@ -1,0 +1,83 @@
+{
+  "surah": 1,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 1,
+      "number": 1,
+      "textAr": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+      "translations": {
+        "sqi-sherifahmeti": "Me emrin e All-llahut, Mëshiruesit, Mëshirëbërësit",
+        "sqi-hasanefendinahi": "Me emër të Allahut, Mëshirues dhe Përdëllimtar i Madh",
+        "sqi-fetimehdiu": "Në emër të All-llahut, të Gjithëmëshirshmit, Mëshirëplotit"
+      }
+    },
+    {
+      "surah": 1,
+      "number": 2,
+      "textAr": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Falënderimi i takon All-llahut, Zotit të botërave",
+        "sqi-hasanefendinahi": "Çdo lavdërim i përket Allahut (Perëndisë), Zotit të Gjithësisë",
+        "sqi-fetimehdiu": "Lavdërimi është për All-llahun, Zot i botëravet"
+      }
+    },
+    {
+      "surah": 1,
+      "number": 3,
+      "textAr": "الرَّحْمَٰنِ الرَّحِيمِ",
+      "translations": {
+        "sqi-sherifahmeti": "Mëshiruesit, Mëshirëbërësit",
+        "sqi-hasanefendinahi": "Mëshirues dhe Përdëllimtar i Madh",
+        "sqi-fetimehdiu": "Të Gjithmëshirshmin, Mëshirëplotin"
+      }
+    },
+    {
+      "surah": 1,
+      "number": 4,
+      "textAr": "مَالِكِ يَوْمِ الدِّينِ",
+      "translations": {
+        "sqi-sherifahmeti": "Sunduesit të ditës së Gjykimit",
+        "sqi-hasanefendinahi": "Sunduesit të ditës së gjukimit",
+        "sqi-fetimehdiu": "Sunduesin e ditës së gjykimit"
+      }
+    },
+    {
+      "surah": 1,
+      "number": 5,
+      "textAr": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+      "translations": {
+        "sqi-sherifahmeti": "Ty të adhurojmë dhe prej Teje ndihmë kërkojmë",
+        "sqi-hasanefendinahi": "Vetëm Ty të adhurojmë dhe vetëm prej Teje ndihmë kërkojmë",
+        "sqi-fetimehdiu": "Vetëm Ty të adhurojmë, dhe vetëm nga Ti ndihmë kërkojmë"
+      }
+    },
+    {
+      "surah": 1,
+      "number": 6,
+      "textAr": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+      "translations": {
+        "sqi-sherifahmeti": "Udhëzona në rrugën e drejtë",
+        "sqi-hasanefendinahi": "Udhëzona në rrugë të drejtë",
+        "sqi-fetimehdiu": "Drejtona në rrugën e drejtë"
+      }
+    },
+    {
+      "surah": 1,
+      "number": 7,
+      "textAr": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Në rrugën e atyre ndaj të cilëve ke bekimin, e jo në të atyre që je i hidhëruar, dhe që kanë humbur",
+        "sqi-hasanefendinahi": "Në rrugën e atyre që u ke dhuruar mirësi. E jo në (rrugën) e atyre që kanë shkaktuar pezmin (Tënd), as në rrugën e atyre që janë të humbur",
+        "sqi-fetimehdiu": "Në rrugën e atyre, të cilët i bekove, jo të atyre që kanë merituar hidhërimin, e as të atyre që kanë humbur"
+      }
+    }
+  ]
+}

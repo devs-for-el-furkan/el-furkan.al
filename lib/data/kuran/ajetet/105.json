@@ -1,0 +1,63 @@
+{
+  "surah": 105,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 105,
+      "number": 1,
+      "textAr": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+      "translations": {
+        "sqi-sherifahmeti": "A nuk e ke parë se ç’bëri Zoti yt me poseduesi e elefantit",
+        "sqi-hasanefendinahi": "Vallë, a nuk ke dëgjuar ti se si ka vepruar Zoti yt me ushtrinë (pronarët) e elefantëve",
+        "sqi-fetimehdiu": "A nuk e ke parë se ç’bëri Zoti yt me poseduesit e elefantit"
+      }
+    },
+    {
+      "surah": 105,
+      "number": 2,
+      "textAr": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
+      "translations": {
+        "sqi-sherifahmeti": "A nuk ua bëri përpjekjen e tyre të dështuar",
+        "sqi-hasanefendinahi": "A nuk ju shkuankot dinakëritë e tyre",
+        "sqi-fetimehdiu": "A nuk e shndërroi dredhinë e tyre në dështim"
+      }
+    },
+    {
+      "surah": 105,
+      "number": 3,
+      "textAr": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe Ai kundër tyre lëshoi shpendë që vinin tufë-tufë",
+        "sqi-hasanefendinahi": "e dërgoi kundër tyre tufa zogjësh – (Ebabilash)",
+        "sqi-fetimehdiu": "Dhe dërgoi kundër tyre tufa zogjësh"
+      }
+    },
+    {
+      "surah": 105,
+      "number": 4,
+      "textAr": "تَرْمِيهِمْ بِحِجَارَةٍ مِنْ سِجِّيلٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe i gjuanin ata me gurë nga balta e gurëzuar",
+        "sqi-hasanefendinahi": "të cilët hedhnin mbi ta copa dheu (të forcuara si gurë)",
+        "sqi-fetimehdiu": "Që i gjuani ata me njëfarë guri nga balta e pjekur"
+      }
+    },
+    {
+      "surah": 105,
+      "number": 5,
+      "textAr": "فَجَعَلَهُمْ كَعَصْفٍ مَأْكُولٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe ata i bëri si gjeth i grimcuar (i përtypur)",
+        "sqi-hasanefendinahi": "e i bëri ata si ndonjë gjeth që është hëngër (prej krimit – tëjes)",
+        "sqi-fetimehdiu": "Dhe i bëri sikur një gjeth i brejtur"
+      }
+    }
+  ]
+}

@@ -1,0 +1,289 @@
+{
+	"surah": 71,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 71,
+			"number": 1,
+			"textAr": "إِنَّا أَرْسَلْنَا نُوحًا إِلَىٰ قَوْمِهِ أَنْ أَنْذِرْ قَوْمَكَ مِنْ قَبْلِ أَنْ يَأْتِيَهُمْ عَذَابٌ أَلِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne e dërguam Nuhun e populli i vet (dhe i thamë): “Tërhiqja vërejtjen popullit tënd para se ata t’i godasë dënimi i rëndë!”",
+				"sqi-hasanefendinahi": "Ne e kemi dërguar Nuhun te populli i tij: “Paralajmëro popullin tënd para se t’i arrijë dënimi i dhembshëm!”",
+				"sqi-fetimehdiu": "Ne e kemi dërguar Nuhin te populli i vet: “Tërhiqja vërejtjen popullit tënd para se t’i arrijë dënimi i dhembshëm”"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 2,
+			"textAr": "قَالَ يَا قَوْمِ إِنِّي لَكُمْ نَذِيرٌ مُبِينٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai tha: “O populli im, unë jam i dëruar te ju, jam i qartë",
+				"sqi-hasanefendinahi": "Ai tha: “O populli im, unë, me të vërtetë, jam për ju paralajmërues i qartë",
+				"sqi-fetimehdiu": "“O populli im – u tha ai – unë ju tërheq vërejtjen haptazi"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 3,
+			"textAr": "أَنِ اعْبُدُوا اللَّهَ وَاتَّقُوهُ وَأَطِيعُونِ",
+			"translations": {
+				"sqi-sherifahmeti": "Adhuronie All-llahun, kini frikë prej Tij dhe mua më dëgjoni",
+				"sqi-hasanefendinahi": "që t’i luteni Perëndisë dhe t’i ruheni (kundërshtimit) të Atij dhe që të më dëgjoni mua",
+				"sqi-fetimehdiu": "Adhurone All-llahun, edhe frikësohuni prej Atij, edhe më dëgjoni mua"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 4,
+			"textAr": "يَغْفِرْ لَكُمْ مِنْ ذُنُوبِكُمْ وَيُؤَخِّرْكُمْ إِلَىٰ أَجَلٍ مُسَمًّى ۚ إِنَّ أَجَلَ اللَّهِ إِذَا جَاءَ لَا يُؤَخَّرُ ۖ لَوْ كُنْتُمْ تَعْلَمُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai u falë juve nga mëkatet tuaja dhe ua vazhdon jetën deri në një afat të caktuar (pa u dënuar), e kur të vijë afati i caktuar prej All-llahut, ai nuk shtyhet për më vonë, nëse jeni që e dini”",
+				"sqi-hasanefendinahi": "Ai ju falë mëkatet tuaja dhe do t’ju lërë të jetoni deri në çastin e caktuar, e kur t’ju vije çasti i caktuar i Perëndisë, me të vërtetë, ai nuk shtyhet; ta dini ju”",
+				"sqi-fetimehdiu": "Do t’ju falë mëkatet dhe do t’ju lërë në jetë deri në momentin e caktuar, por kur të vijë momenti i caktuar i All-llahut, ta dini se nuk ka vonim”"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 5,
+			"textAr": "قَالَ رَبِّ إِنِّي دَعَوْتُ قَوْمِي لَيْلًا وَنَهَارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Ai tha: “O Zoti im, unë e thirra popullin tim natën e ditën",
+				"sqi-hasanefendinahi": "Ai tha: “O Zoti im, unë, me te vërtetë, e thirra popullin tim natë e ditë",
+				"sqi-fetimehdiu": "“O Zoti im, - tha, - unë kamë thirrur popullin tim natë e ditë"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 6,
+			"textAr": "فَلَمْ يَزِدْهُمْ دُعَائِي إِلَّا فِرَارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Por thirrja ime vetëm ua shtoi ikjen",
+				"sqi-hasanefendinahi": "por thirrja ime (nuk solli dobi, por) shkaktoi largim edhe më të madh",
+				"sqi-fetimehdiu": "Por thirrja ime edhe më tepër i largonte"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 7,
+			"textAr": "وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe sa herë që unë i thirritja ata për t’u falur Ti mëkatet, ata i vënin gishtat e tyre në veshë dhe e mbulonin kokat me teshat e tyre dhe vazhdonin në atë të tyren me një mendjemadhësi të fortë",
+				"sqi-hasanefendinahi": "E, sa herë që i thërrita (unë) ata (në punë të mbarë), për t’i falur Ti, ata i shtinin gishtërinjtë në veshët e tyre dhe mbuloheshin me petkat e tyre (për të mos më parë) – ishin këmbëngulës dhe shumë mendjemëdhenj",
+				"sqi-fetimehdiu": "Dhe sa herë që i kam thirrur për t’i falur Ti, fusnin gishtat në vesh dhe mbuloheshin me teshat e tyre; Ishin tepër këmbëngulës dhe mendjemëdhenj të fortë"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 8,
+			"textAr": "ثُمَّ إِنِّي دَعَوْتُهُمْ جِهَارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Pastaj, unë i kam thirrur ata haptazi",
+				"sqi-hasanefendinahi": "Pastaj, i thirra haptazi (me zë edhe më të lartë)",
+				"sqi-fetimehdiu": "Pastaj unë i kam thirrur haptazi"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 9,
+			"textAr": "ثُمَّ إِنِّي أَعْلَنْتُ لَهُمْ وَأَسْرَرْتُ لَهُمْ إِسْرَارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Pastaj unë thirrjen ua drejtoja atyre haptazi, e shumë herë edhe fshehurazi”",
+				"sqi-hasanefendinahi": "e mandej ua shpalla publikisht atë, si dhe në besim u përshpërita (i thirra në të gjitha format)",
+				"sqi-fetimehdiu": "E pastaj u kam shpallur haptazi, edhe fshehurazi me të madhe"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 10,
+			"textAr": "فَقُلْتُ اسْتَغْفِرُوا رَبَّكُمْ إِنَّهُ كَانَ غَفَّارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Unë u thashë: “Kërkoni falje Zotit tuaj, se Ai vërtet falë shumë",
+				"sqi-hasanefendinahi": "Dhe ju thashë: Kërkoni falje nga All-llahu i jua, sepse, me të vërtetë, Ai është falës, i madh",
+				"sqi-fetimehdiu": "U kamë thënë: “Kërkoni falje nga Zoti juaj sepse Ai, vërtetë, fal shumë"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 11,
+			"textAr": "يُرْسِلِ السَّمَاءَ عَلَيْكُمْ مِدْرَارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Ai ju lëshon nga qielli shi me bollëk",
+				"sqi-hasanefendinahi": "Ai do t’ju dërgojë juve shi të bollshëm",
+				"sqi-fetimehdiu": "Ai do t’ju dërgojë shi të mjaftueshëm"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 12,
+			"textAr": "وَيُمْدِدْكُمْ بِأَمْوَالٍ وَبَنِينَ وَيَجْعَلْ لَكُمْ جَنَّاتٍ وَيَجْعَلْ لَكُمْ أَنْهَارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Ju shumon pasurinë dhe fëmijët, ju bën të keni kopshte dhe ju jep lumenj",
+				"sqi-hasanefendinahi": "dhe do t’ju ndihmojë me pasuri dhe me fëmijë, dhe për ju do të krijojë kopshtije dhe për ju do të krijojë lumenj",
+				"sqi-fetimehdiu": "Dhe ua shton pasurinë e djemtë, dhe do t’ju bëjë kopshte edhe lumenj"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 13,
+			"textAr": "مَا لَكُمْ لَا تَرْجُونَ لِلَّهِ وَقَارًا",
+			"translations": {
+				"sqi-sherifahmeti": "ç’është me ju që All-llahut nuk i shprehni madhërinë që e meriton",
+				"sqi-hasanefendinahi": "Përse nuk i frikoheni madhërisë së Perëndisë",
+				"sqi-fetimehdiu": "Ç’është me ju që nuk shpresoni në fuqinë e All-llahut"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 14,
+			"textAr": "وَقَدْ خَلَقَكُمْ أَطْوَارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Kur Ai ju krijoi në disa etapa",
+				"sqi-hasanefendinahi": "e, Ai ju ka krijuar me forma (faza) të ndryshme",
+				"sqi-fetimehdiu": "Kurse Ai ju krijon shkallë-shkallë"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 15,
+			"textAr": "أَلَمْ تَرَوْا كَيْفَ خَلَقَ اللَّهُ سَبْعَ سَمَاوَاتٍ طِبَاقًا",
+			"translations": {
+				"sqi-sherifahmeti": "A nuk e keni parë se si All-llahu krijoi shtatë palë qiej (në kate)",
+				"sqi-hasanefendinahi": "A nuk po shihni se si All-llahu i ka krijuar shtatë qiejt – palë-palë (kat-kat)",
+				"sqi-fetimehdiu": "A nuk shihni si i ka krijuar All-llahu shtatë qiej në kate"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 16,
+			"textAr": "وَجَعَلَ الْقَمَرَ فِيهِنَّ نُورًا وَجَعَلَ الشَّمْسَ سِرَاجًا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe në ta hënën e bëri dritë, diellin e bëri ndriçues",
+				"sqi-hasanefendinahi": "dhe në ta e ka bërë Hënën dritë, kurse Diellin e ka bërë fener (ndriçues)",
+				"sqi-fetimehdiu": "Dhe në ta, hanës i ka dhënë dritë, kurse Diellin e ka bërë dritëdhënës"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 17,
+			"textAr": "وَاللَّهُ أَنْبَتَكُمْ مِنَ الْأَرْضِ نَبَاتًا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe All-llahu u shpiku juve prej tokës si bimë",
+				"sqi-hasanefendinahi": "All-llahu ju ka krijuar nga toka (dheu), ashtu si bimët",
+				"sqi-fetimehdiu": "All-llahu ju krijon nga dheu sikur bimët"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 18,
+			"textAr": "ثُمَّ يُعِيدُكُمْ فِيهَا وَيُخْرِجُكُمْ إِخْرَاجًا",
+			"translations": {
+				"sqi-sherifahmeti": "Pastaj ju kthen në të pa dyshim ju nxjerr sërish",
+				"sqi-hasanefendinahi": "pastaj ju kthen te ajo dhe prej saj sërish do t’ju nxjerrë",
+				"sqi-fetimehdiu": "Pastaj në të ju kthen dhe pa dyshim do t’ju nxjerr përsëri"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 19,
+			"textAr": "وَاللَّهُ جَعَلَ لَكُمُ الْأَرْضَ بِسَاطًا",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahu juve ua bëri tokën të sheshtë",
+				"sqi-hasanefendinahi": "All-llahu për ju Tokën e ka bërë shtrojë",
+				"sqi-fetimehdiu": "All-llahu ua ka bërë tokën të rrafshët"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 20,
+			"textAr": "لِتَسْلُكُوا مِنْهَا سُبُلًا فِجَاجًا",
+			"translations": {
+				"sqi-sherifahmeti": "Që nëpër të të ecni rrugëve të gjera”",
+				"sqi-hasanefendinahi": "që të ecni nëpër të, nëpër rrugët e gjera?”",
+				"sqi-fetimehdiu": "Që të ecni nëpër të, rrugëve të gjëra”"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 21,
+			"textAr": "قَالَ نُوحٌ رَبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَنْ لَمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Nuhu tha: “Zoti im, ata më kundërshtuan, ata shkuan pas atyre (pasanikëve), të cilëve pasuria dhe fëmijët e tyre vetëm ua shtuan dëshpërimin",
+				"sqi-hasanefendinahi": "Nuhu tha: “O Zoti im, ata më kundërshtuan mua dhe u dhanë pas atyre, pasuria dhe fëmijët e të cilëve nuk kanë sjellë gjë tjetër, pos shkatërrimt",
+				"sqi-fetimehdiu": "Nuhi tha: “O Zoti im, ata nuk më dëgjojnë dhe pasojnë atë, pasuria dhe fëmijët e të cilëve vetëm ua rrisin shkatërrimin"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 22,
+			"textAr": "وَمَكَرُوا مَكْرًا كُبَّارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe ata (pasanikët) u kurdisën atyre kurthe shumë të mëdha”",
+				"sqi-hasanefendinahi": "dhe trilluan trillime të mëdha (kundër Nuhut)",
+				"sqi-fetimehdiu": "Dhe thurin kurtha të mëdha”"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 23,
+			"textAr": "وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe u thanë: Mos braktisni zotat tuaj kurrsesi, mos braktisni Vedda-në, as Suvva-në, e Jeguth-in, Jeukë-n e Nesre-n",
+				"sqi-hasanefendinahi": "dhe kanë thënë (populli i Nuhut): Mos i lini kurrsesi zotrat tuaja, mos e lini kurrsesi as Veddin, as Suvain, as Jeguthin, as Jeukin, as Nesrin’",
+				"sqi-fetimehdiu": "Dhe thonë: “Kurrsesi mos i lini zotërat tuaja, dhe assesi mos e lini Vedan as Suvazan; Jeguthin dhe Jukën e as Nesrën!”"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 24,
+			"textAr": "وَقَدْ أَضَلُّوا كَثِيرًا ۖ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا ضَلَالًا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe ata i bënë të humbur shumë sish, e Ti zullumqarëve mos u jep tjetër, por vetëm humbje",
+				"sqi-hasanefendinahi": "E, këta idhujë kanë mashtruar shumë (njerëz); e ti (keqbërësve), mos u smadho asgjë, përpos humbjes!”",
+				"sqi-fetimehdiu": "Dhe humbën shumë. Prandaj Ti mizorëve mos u jep tjetër send përveç humbjen"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 25,
+			"textAr": "مِمَّا خَطِيئَاتِهِمْ أُغْرِقُوا فَأُدْخِلُوا نَارًا فَلَمْ يَجِدُوا لَهُمْ مِنْ دُونِ اللَّهِ أَنْصَارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Për shkak të mëkateve të tyre ata u përmbytën dhe menjëherë u futën në zjarr dhe ata, përveç All-llahut, nuk gjetën ndihmëtarë",
+				"sqi-hasanefendinahi": "Për shkak të mëkateve të tyre, ata janë përmbytur, e janë hedhur në zjarr dhe ata nuk kanë gjetur mbrojtës tjetër për vete, përveç Perëndisë",
+				"sqi-fetimehdiu": "Dhe ata, për shkak të gabimeve të veta, u përmbytën dhe u hudhën në zjarrë, dhe për ata nuk do të ketë, përveç All-llahut, asnjë ndihmëtarë"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 26,
+			"textAr": "وَقَالَ نُوحٌ رَبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا",
+			"translations": {
+				"sqi-sherifahmeti": "E Nuhu tha: “O Zoti im, mos lë mbi tokë asnjë nga jobesimtarët",
+				"sqi-hasanefendinahi": "Dhe Nuhu tha: “O Zoti im, mos lë të qarkullojë në faqe të dheut asnjë mohues",
+				"sqi-fetimehdiu": "Dhe Nuhi tha: “Zoti im, mos le në tokë asnjë banor nga mosbesimtarët"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 27,
+			"textAr": "إِنَّكَ إِنْ تَذَرْهُمْ يُضِلُّوا عِبَادَكَ وَلَا يَلِدُوا إِلَّا فَاجِرًا كَفَّارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Sepse, nëse Ti i lë ata, robërit Tu do t’i humbin dhe prej tyre nuk lind tjetër, vetëm të prishur e jobesimtarë",
+				"sqi-hasanefendinahi": "sepse, me të vërtetë, nëse Ti i lë, ata – do t’i shpien në humbje robërit e Tu dhe do tëlindin vetëm mëkatarë dhe jobesimtarë",
+				"sqi-fetimehdiu": "Sepse nëse i le ata, robërit tuaj do t’i shpiejnë në humbje dhe do të lindin vetëm mëkatarë dhe mosbesimtarë"
+			}
+		},
+		{
+			"surah": 71,
+			"number": 28,
+			"textAr": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَنْ دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+			"translations": {
+				"sqi-sherifahmeti": "Zoti im, më falë mua dhe prindërit e mi, dhe ata që hynë në shtëpinë time, duke qenë besimtarë. edhe besimtarët e besimtaret, ndërsa jobesimtarëve mos u shto tjetër, vetëm dëshpërim”",
+				"sqi-hasanefendinahi": "O Zoti im, falmë mua dhe prindërit e mi, dhe ata të cilët hynë në shtëpinë time si besimtarë, dhe besimtarët e besimtaret, ndërsa zullumqarëve shtoju vetëm shkatërrimin",
+				"sqi-fetimehdiu": "Zoti im, më fal mua edhe prindërit e mi, edhe kush ka hyrë në shtëpinë time si besimtar, edhe besimtrët e besimtaret, ndërsa mosbesimtarëve shtojau vetëm shkatërrimin!”"
+			}
+		}
+	]
+}

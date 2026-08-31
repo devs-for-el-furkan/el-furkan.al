@@ -1,0 +1,93 @@
+{
+  "surah": 102,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 102,
+      "number": 1,
+      "textAr": "أَلْهَاكُمُ التَّكَاثُرُ",
+      "translations": {
+        "sqi-sherifahmeti": "Juve u preokupoi përpjekja për shumimin (e pasurirë, të fëmijve, të pozitës)",
+        "sqi-hasanefendinahi": "Juve, u ka hutuar vrapimi (garimi), për pasuri (e fëmijë)",
+        "sqi-fetimehdiu": "Ju preokupon shumimi i pasurisë"
+      }
+    },
+    {
+      "surah": 102,
+      "number": 2,
+      "textAr": "حَتَّىٰ زُرْتُمُ الْمَقَابِرَ",
+      "translations": {
+        "sqi-sherifahmeti": "Derisa të mos vizitoni varrezat (të bëheni banues të tyre - të vdisni)",
+        "sqi-hasanefendinahi": "deri sa të varroseni (vdisni)",
+        "sqi-fetimehdiu": "Derisa të shkoni në varre"
+      }
+    },
+    {
+      "surah": 102,
+      "number": 3,
+      "textAr": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Jo, nuk është ashtu! Gjithsesi këtë do ta kuptoni më vonë",
+        "sqi-hasanefendinahi": "Gjithsesi, ju do ta kuptoni (këtë gabim)",
+        "sqi-fetimehdiu": "Ani, do ta merrni vesh"
+      }
+    },
+    {
+      "surah": 102,
+      "number": 4,
+      "textAr": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Përsëri jo, jeni gabim! Më vonë do ta kuptoni",
+        "sqi-hasanefendinahi": "E, madje edhe një herë, ju, me siguri, do ta kuptoni (këtë gabim)",
+        "sqi-fetimehdiu": "Edhe njëherë ani! Me siguri do ta dini"
+      }
+    },
+    {
+      "surah": 102,
+      "number": 5,
+      "textAr": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ الْيَقِينِ",
+      "translations": {
+        "sqi-sherifahmeti": "Jo, pse, sikur ta dinit me një dije të sigurt (nuk do të bënit ashtu)",
+        "sqi-hasanefendinahi": "Jo, jo! Mashtroheni, sikur ta dini ju mirë, (nuk do të mburreshit me kotësi)",
+        "sqi-fetimehdiu": "Po, si jo! Sikur ta dinit, me siguri dhe me bindje"
+      }
+    },
+    {
+      "surah": 102,
+      "number": 6,
+      "textAr": "لَتَرَوُنَّ الْجَحِيمَ",
+      "translations": {
+        "sqi-sherifahmeti": "Ju pa tjetër do ta shihni Xhehennemin",
+        "sqi-hasanefendinahi": "Ju do ta shihni skëterrën",
+        "sqi-fetimehdiu": "Gjithsesi do ta shihni xhehennemin"
+      }
+    },
+    {
+      "surah": 102,
+      "number": 7,
+      "textAr": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ الْيَقِينِ",
+      "translations": {
+        "sqi-sherifahmeti": "Madje atë do ta shihni të bindur plotësisht",
+        "sqi-hasanefendinahi": "E, (madje) edhe një herë, me të vërtetë, do ta shihni skëterrën konkretisht (qartë)",
+        "sqi-fetimehdiu": "Edhe një herë, me siguri do shihni me të dy sytë"
+      }
+    },
+    {
+      "surah": 102,
+      "number": 8,
+      "textAr": "ثُمَّ لَتُسْأَلُنَّ يَوْمَئِذٍ عَنِ النَّعِيمِ",
+      "translations": {
+        "sqi-sherifahmeti": "Pastaj në atë ditë do të pyeteni për të mirat (e dynjas)",
+        "sqi-hasanefendinahi": "Pastaj, atë Ditë, do t’ju pyesin për kënaqësitë (e kësaj bote)",
+        "sqi-fetimehdiu": "Pastaj, atë ditë, do të pyetni patjetër për kënaqësitë"
+      }
+    }
+  ]
+}

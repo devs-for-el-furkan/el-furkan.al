@@ -1,0 +1,43 @@
+{
+  "surah": 110,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 110,
+      "number": 1,
+      "textAr": "إِذَا جَاءَ نَصْرُ اللَّهِ وَالْفَتْحُ",
+      "translations": {
+        "sqi-sherifahmeti": "Kur erdhi ndihma e All-llahut dhe çlirimi (ngadhënjimi)",
+        "sqi-hasanefendinahi": "Kur të arrijë ndihma e Zotit dhe fitorja",
+        "sqi-fetimehdiu": "Kur vjen ndihma e fitorja e All-llahut"
+      }
+    },
+    {
+      "surah": 110,
+      "number": 2,
+      "textAr": "وَرَأَيْتَ النَّاسَ يَدْخُلُونَ فِي دِينِ اللَّهِ أَفْوَاجًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe i pe njerëzit që po hyjnë turma-turma në fenë e All-llahut",
+        "sqi-hasanefendinahi": "dhe i sheh njerëzit grupe-grupe duke hyrë në fenë e Perëndisë (në Islamizëm)",
+        "sqi-fetimehdiu": "Dhe i sheh njerëzit që po hyjnë në fenë e All-llahut grupe-grupe"
+      }
+    },
+    {
+      "surah": 110,
+      "number": 3,
+      "textAr": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَاسْتَغْفِرْهُ ۚ إِنَّهُ كَانَ تَوَّابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Ti, pra, lartësoje Zotin tënd duke falënderuar dhe kërko nga Ai falje. Ai vërtet pranon shumë pendimin",
+        "sqi-hasanefendinahi": "atëherë lavdëroje Zotin tënd dhe kërko falje nga Ai; se Ai, me të vërtetë, është pranues i madh i pendimeve",
+        "sqi-fetimehdiu": "Ti madhëroje Zotin tënd me lavdërata dhe kërko falje nga Ai! Ai me të vërtetë e pranon pendimin"
+      }
+    }
+  ]
+}

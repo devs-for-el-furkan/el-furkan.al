@@ -1,0 +1,269 @@
+{
+	"surah": 88,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 88,
+			"number": 1,
+			"textAr": "هَلْ أَتَاكَ حَدِيثُ الْغَاشِيَةِ",
+			"translations": {
+				"sqi-sherifahmeti": "A të erdhi ty lajmi për belanë që kaplon (kijameti)",
+				"sqi-hasanefendinahi": "A të ka arritur ty lajmi për fatkeqësinë e kaplueshme (të Kijametit)",
+				"sqi-fetimehdiu": "A të ka ardhur ty lajmi për Ditën e Kijametit"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 2,
+			"textAr": "وُجُوهٌ يَوْمَئِذٍ خَاشِعَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë sheh fytyra të përulura",
+				"sqi-hasanefendinahi": "Atë Ditë, fytyrat (e të këqinjve) janë të dëshpëruara",
+				"sqi-fetimehdiu": "Kur disa fytyra do të jenë të përulura"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 3,
+			"textAr": "عَامِلَةٌ نَاصِبَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Të lodhura e të rraskapitura (nga mundimi)",
+				"sqi-hasanefendinahi": "me punë të vështira e të rraskapitura",
+				"sqi-fetimehdiu": "Të rraskapitura, të stërlodhura"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 4,
+			"textAr": "تَصْلَىٰ نَارًا حَامِيَةً",
+			"translations": {
+				"sqi-sherifahmeti": "Ato hyjnë në zjarrin të ndezur fort",
+				"sqi-hasanefendinahi": "në zjarr të fortë do të digjen",
+				"sqi-fetimehdiu": "Do të digjennë zjarr të këndellur"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 5,
+			"textAr": "تُسْقَىٰ مِنْ عَيْنٍ آنِيَةٍ",
+			"translations": {
+				"sqi-sherifahmeti": "U jepet të pijnë prej një kroi të valë",
+				"sqi-hasanefendinahi": "e do të pinë nga burimet e vluara",
+				"sqi-fetimehdiu": "Do t’u jepet ujë nga burimet që vlojnë"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 6,
+			"textAr": "لَيْسَ لَهُمْ طَعَامٌ إِلَّا مِنْ ضَرِيعٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata kanë ushqim tjetër pos një barishte me ferra helmuese",
+				"sqi-hasanefendinahi": "kur tjetër ushqim për ta nuk do të ketë, përpos therrave",
+				"sqi-fetimehdiu": "Nuk do të kenë ushqim tjetër përveç nga therrat"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 7,
+			"textAr": "لَا يُسْمِنُ وَلَا يُغْنِي مِنْ جُوعٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Që as nuk jep fuqi, as nuk largon uri",
+				"sqi-hasanefendinahi": "e ky (ushqim), as nuk do t’i trashë as nuk do t’i ngop (nga uria)",
+				"sqi-fetimehdiu": "Që nuk të shuan etjen as urinë"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 8,
+			"textAr": "وُجُوهٌ يَوْمَئِذٍ نَاعِمَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë dheh fytyra të ndritshme",
+				"sqi-hasanefendinahi": "Atë Ditë, fytyrat e disave (besimtarëve) do të jenë të gëzuara",
+				"sqi-fetimehdiu": "Disa fytyra at ditë do të jenë të gëzuara"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 9,
+			"textAr": "لِسَعْيِهَا رَاضِيَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Të kënaqura për veprimet e veta",
+				"sqi-hasanefendinahi": "të kënaqura për punët e bëra",
+				"sqi-fetimehdiu": "Të kënaqura për shpërblimin e punës së vet"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 10,
+			"textAr": "فِي جَنَّةٍ عَالِيَةٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Në Xhennet të shkallës së lartë",
+				"sqi-hasanefendinahi": "të vendosura në kopshtin madhështor",
+				"sqi-fetimehdiu": "Në xhenet të shkallës së lartë"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 11,
+			"textAr": "لَا تَسْمَعُ فِيهَا لَاغِيَةً",
+			"translations": {
+				"sqi-sherifahmeti": "Aty nuk dëgjojnë fjalë të pakëndshme",
+				"sqi-hasanefendinahi": "në të cilin nuk do të dëgjojnë fjalë boshe",
+				"sqi-fetimehdiu": "Aty nuk do të dëgjojnë fjalë të kota"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 12,
+			"textAr": "فِيهَا عَيْنٌ جَارِيَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Aty ka kroje që rrjedhin",
+				"sqi-hasanefendinahi": "Në të ka burime uji – rrjedhëse",
+				"sqi-fetimehdiu": "Aty ka burim që rrjedh pa ndal"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 13,
+			"textAr": "فِيهَا سُرُرٌ مَرْفُوعَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Aty kanë shtretër të lartë",
+				"sqi-hasanefendinahi": "në të ka divane të çmueshme",
+				"sqi-fetimehdiu": "Aty ka edhe shtretër të vendosur lart"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 14,
+			"textAr": "وَأَكْوَابٌ مَوْضُوعَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Aty kanë shtretër të lartë",
+				"sqi-hasanefendinahi": "dhe kupa të përgatitura",
+				"sqi-fetimehdiu": "Edhe gota të vendosura"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 15,
+			"textAr": "وَنَمَارِقُ مَصْفُوفَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe jastekë të renduar për mbështetje",
+				"sqi-hasanefendinahi": "dhe jastëk të renditur",
+				"sqi-fetimehdiu": "E nënkresë të renduar"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 16,
+			"textAr": "وَزَرَابِيُّ مَبْثُوثَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe qilima të shtruar",
+				"sqi-hasanefendinahi": "e shumë qilima të shtruar",
+				"sqi-fetimehdiu": "Edhe qilima të shtruar"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 17,
+			"textAr": "أَفَلَا يَنْظُرُونَ إِلَى الْإِبِلِ كَيْفَ خُلِقَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "A nuk i shikojnë devet se si janë krijuar",
+				"sqi-hasanefendinahi": "Vallë, a nuk shohin ata se si është krijuar devja",
+				"sqi-fetimehdiu": "A nuk i shikojnë devet si janë krijuar"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 18,
+			"textAr": "وَإِلَى السَّمَاءِ كَيْفَ رُفِعَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe qiellin se si është ngritur lart",
+				"sqi-hasanefendinahi": "e si është ngritur qielli",
+				"sqi-fetimehdiu": "Edhe qiellin – sa lartë është ngritur"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 19,
+			"textAr": "وَإِلَى الْجِبَالِ كَيْفَ نُصِبَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe kodrat se si janë venduar",
+				"sqi-hasanefendinahi": "dhe si janë vendosur malet",
+				"sqi-fetimehdiu": "Edhe malet – si janë venduar"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 20,
+			"textAr": "وَإِلَى الْأَرْضِ كَيْفَ سُطِحَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe tokën se si është shtruar",
+				"sqi-hasanefendinahi": "dhe si është shtrirë Toka",
+				"sqi-fetimehdiu": "Edhe tokën si është zgjeruar"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 21,
+			"textAr": "فَذَكِّرْ إِنَّمَا أَنْتَ مُذَكِّرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "E ti pra, këshillo, se je vetëm përkujtues",
+				"sqi-hasanefendinahi": "Ti këshillo (njerëzit) – se ti je vetëm këshillues",
+				"sqi-fetimehdiu": "Ti këshillo – ti je vetëm këshillues"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 22,
+			"textAr": "لَسْتَ عَلَيْهِمْ بِمُصَيْطِرٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Ti ndaj tyre nuk je mbizotërues",
+				"sqi-hasanefendinahi": "ti nuk je mbi ta imponues (sundues)",
+				"sqi-fetimehdiu": "Ti nuk je ndaj atyre detyrues"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 23,
+			"textAr": "إِلَّا مَنْ تَوَلَّىٰ وَكَفَرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Përveç atij zbrapset e nuk beson",
+				"sqi-hasanefendinahi": "E, përveç atyre që shmangën dhe nuk besojnë",
+				"sqi-fetimehdiu": "Por kush kthen shpinën dhe mohon"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 24,
+			"textAr": "فَيُعَذِّبُهُ اللَّهُ الْعَذَابَ الْأَكْبَرَ",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahu atë me vuajtje e dënon",
+				"sqi-hasanefendinahi": "ata, All-llahu do t’i dënojë me mundimet më të mëdha",
+				"sqi-fetimehdiu": "All-llahu atë me mundimin më të madh e mundon"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 25,
+			"textAr": "إِنَّ إِلَيْنَا إِيَابَهُمْ",
+			"translations": {
+				"sqi-sherifahmeti": "Vetëm te Ne kthimin e kanë",
+				"sqi-hasanefendinahi": "Ata, me të vërtetë, do të kthehen te Ne",
+				"sqi-fetimehdiu": "Me siguri kthimin tek ne e kanë"
+			}
+		},
+		{
+			"surah": 88,
+			"number": 26,
+			"textAr": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُمْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe vetëm detyrë Jona është llogaira e tyre",
+				"sqi-hasanefendinahi": "dhe, me të vërtetë, do të japin llogari para Nesh",
+				"sqi-fetimehdiu": "Dhe para nesh, pa dyshim, llogari për të dhënë kanë"
+			}
+		}
+	]
+}

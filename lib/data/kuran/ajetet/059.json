@@ -1,0 +1,249 @@
+{
+	"surah": 59,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 59,
+			"number": 1,
+			"textAr": "سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahun e madhëron me tesbih (duke i mohuar ato që nuk i takojnë atij) gjithçka ka në tokë, e Ai është i fuqishmi, i urti",
+				"sqi-hasanefendinahi": "Perëndinë e falenderon çdo gjë në qiej dhe çdo gjë në Tokë. Ai është i Plotëfuqishëm dhe i Gjithëdijshëm",
+				"sqi-fetimehdiu": "All-llahun e lartëson gjithçka ka në qiej dhe në tokë. Ai është i forti, i urti"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 2,
+			"textAr": "هُوَ الَّذِي أَخْرَجَ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ مِنْ دِيَارِهِمْ لِأَوَّلِ الْحَشْرِ ۚ مَا ظَنَنْتُمْ أَنْ يَخْرُجُوا ۖ وَظَنُّوا أَنَّهُمْ مَانِعَتُهُمْ حُصُونُهُمْ مِنَ اللَّهِ فَأَتَاهُمُ اللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا ۖ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُمْ بِأَيْدِيهِمْ وَأَيْدِي الْمُؤْمِنِينَ فَاعْتَبِرُوا يَا أُولِي الْأَبْصَارِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai është që në dëbimin e parë i nxoru prej shtëpive të tyre ata nga ithtarët e librit, të cilët nuk besuan. Ju nuk menduat se fortifikatat e tyre do t’i mbronin prej ndëshkimit të All-llahut, po All-llahu u erdhi atyre nga nuk e kishin menduar dhe në zemrat e tyre hodhi frikën ashu që me duart e veta dhe me duart të besimtarëve të rrëzonin shtëpitë e veta; pra merrni përvojë o ju të zotët e mendjes",
+				"sqi-hasanefendinahi": "Ai është që i ka dëbuar për here të pare prej shtëpive të tyre, ata të cilët nuk kanë besuar Librin; ju nuk keni menduar se ata do të shkojnë, kurse ata kanë menduar se kështjellat e tyre do t’i mbrojnë nga dënimet e Perëndisë, por dënimi i Perëndisë u ka ardhur prej nga ata nuk e kanë pritur, dhe Ai në zemrat e tyre ka mbjellë frikë; e, ata, me duart e tyre dhe me duart e besimtarëve i kanë shkatërruar shtëpitë e veta. Prandaj, mësoni nga kjo, o ju mentarë",
+				"sqi-fetimehdiu": "Ai është i cili me rastin e shpërnguljes së parë i nxorri nga shtëpitë e veta ithtarët e Librit të cilët kishin mohuar. Ju nuk keni menduar se ata do të dalin, kurse ata kanë menduar se fortifikata e tyre do t’i mbrojë prej All-llahut, mirëpo All-llahu ia behu prej nga nuk e kishin menduar dhe i futi frikën në zemrat e tyre dhe me duar të veta edhe me duar të muslimanëve i shembën shtëpitë e tyre. Prandaj mblidhni mendjen ju që shikoni"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 3,
+			"textAr": "وَلَوْلَا أَنْ كَتَبَ اللَّهُ عَلَيْهِمُ الْجَلَاءَ لَعَذَّبَهُمْ فِي الدُّنْيَا ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابُ النَّارِ",
+			"translations": {
+				"sqi-sherifahmeti": "Sikur All-llahu të mos u kishte caktuar atyre shpërnguljen, ata do t’i ndëshkonte në këtë jetë, kurse në jetën tjetër ata e kanë dënimin e zjarrit",
+				"sqi-hasanefendinahi": "Sikur mos ta kishte caktuar All-llahu ndjekjen e tyre, Ai do t’i kishte dënuar në këtë jetë, por ata në jetën tjetër i pret dënimi në zjarr",
+				"sqi-fetimehdiu": "Sikur të mos ua kishte caktuar All-llahu dëbimin, do t’i kisht dënuar në këtë botë. Kurse ata në botën tjetër i pret dënim me zjarr"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 4,
+			"textAr": "ذَٰلِكَ بِأَنَّهُمْ شَاقُّوا اللَّهَ وَرَسُولَهُ ۖ وَمَنْ يُشَاقِّ اللَّهَ فَإِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+			"translations": {
+				"sqi-sherifahmeti": "Këtë për shkak se e kundërshtuan All-llahun dhe të dërguarin e Tij. Pra, kush e kundërshton All-llahun, s’ka dyshim se All-llahu është ndëshkimfortë",
+				"sqi-hasanefendinahi": "sepse, ata e kanë kundërshtuar Perëndinë dhe Profetin e Tij; e ai që kundërshton Perëndinë, All-llahu, me të vërtetë, do t’i dënojë ashpër",
+				"sqi-fetimehdiu": "Ajo është për shkak se ata kanë kundërshtuar All-llahun dhe Profetin e tij, e kush kundërshton All-llahun, All-llahu është njëmend ndëshkimfortë"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 5,
+			"textAr": "مَا قَطَعْتُمْ مِنْ لِينَةٍ أَوْ تَرَكْتُمُوهَا قَائِمَةً عَلَىٰ أُصُولِهَا فَبِإِذْنِ اللَّهِ وَلِيُخْزِيَ الْفَاسِقِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ju nuk këputët asnjë nga hurmat e buta (fidanët) ose atë e keni lënë të ngriur në rrënjët e tye, vetëm se me lejen e All-llahut e për t’i shtypur kundërshtarët",
+				"sqi-hasanefendinahi": "Ato palme hurmesh që i keni prerë ju ose i keni lënë të qëndrojnë vertikalisht – i keni bërë me miratimin e Perëndisë dhe që Ai (All-llahu) t’i poshtërojë ngatërrestarët",
+				"sqi-fetimehdiu": "çkado që keni prerë nga hurmat ose i keni lënë në degë, ajo është me leje të All-llahut që t’i poshtërojë të mbrapshtit"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 6,
+			"textAr": "وَمَا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْهُمْ فَمَا أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَٰكِنَّ اللَّهَ يُسَلِّطُ رُسُلَهُ عَلَىٰ مَنْ يَشَاءُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "E atë (Pasuri) që prej tyre All-llahu ia ktheu të dërguarit të vet, ju për të nuk i keni ngarë as kuajt, as devetë, por All-llahu i bën mbizotëruesit të dërguarit e vet kundër kujt të dojë, All-llahu ka fuqi mbi çdo send",
+				"sqi-hasanefendinahi": "E, atë që All-llahu ia ka dhuruar (kthyer prej ngatërrestarëve) Profetit të Vet, e që ju nuk e keni marrë si plaçkë me sulmim as të kuajve as të deeve, por që, All-llahu i jep pushtet profetëve të Vet mbi ata që Ai dëshiron. All-llahu është i pushtetshëm për çdo gjë",
+				"sqi-fetimehdiu": "Kurse, atë, nga mesi i tyre, që All-llahu ia kthen Profetit të vet, po ju nuk keni luftuar kundër tij as me kuaj as me deve, por All-llahu i nxjerr fitues profetët e vet kundër kujt të dojë dhe All-llahu ka mundësi për çdo send"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 7,
+			"textAr": "مَا أَفَاءَ اللَّهُ عَلَىٰ رَسُولِهِ مِنْ أَهْلِ الْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينِ وَابْنِ السَّبِيلِ كَيْ لَا يَكُونَ دُولَةً بَيْنَ الْأَغْنِيَاءِ مِنْكُمْ ۚ وَمَا آتَاكُمُ الرَّسُولُ فَخُذُوهُ وَمَا نَهَاكُمْ عَنْهُ فَانْتَهُوا ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë që All-llahu nga banorët e vendeve (jobesimtare) ia dha pa luftë të dërguarit të vet, ajo i takon All-llahut, të dërguarit, të afërmve, jetimëve, të varfërve, kurbetçinjve. (Kështu veprohet) Që ajo të mos ndahet ndërrmjet pasanikëve tuaj. Çka t’ju jep i Pejgamberi, atë merrmie e çka t’ju ndalojë, përmbanju dhe kinie frikë All-llahun, se All-llahu është ndëshkues i ashpër",
+				"sqi-hasanefendinahi": "Pasuria e mbetur e fshatrave, të cilën All-llahu ia ka dhuruar Profetit të Tij, u takon: Perëndisë dhe Profetit të Tij, dhe të afërmëve të tij (Pejgamberit), bonjakëve, të varfërve, dhe udhëtarëve të rastit, - në mënyrë që të mos bie prej dorës në dorë të pasanikëve tuaj; atë që ua jep Profeti (si shpërblim), atë merreni, e atë çka ua ndalon, lënie; dhe ruajuni (mos i kundërshtoni) Perëndisë, sepse, All-llahu, me të vërtetë, dënon ashpër",
+				"sqi-fetimehdiu": "Atë që ia ka dhënë All-llahu si plaçkë Profetit të vet nga fshatrat, ajo është e All-llahut, e Profetit, të afërmëve, dhe bonjakëve e varfënjakëve, dhe udhëtarit që ajo të mos qarkullojë ndërmjet pasanikëve tuaj. Çkado që u jep Profeti, atë merrne, e çka t’ju ndaloj përmbahuni prej asaj dhe frikësohuni All-llahut! All-llahu, njëmend, është ndëshkimfortë"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 8,
+			"textAr": "لِلْفُقَرَاءِ الْمُهَاجِرِينَ الَّذِينَ أُخْرِجُوا مِنْ دِيَارِهِمْ وَأَمْوَالِهِمْ يَبْتَغُونَ فَضْلًا مِنَ اللَّهِ وَرِضْوَانًا وَيَنْصُرُونَ اللَّهَ وَرَسُولَهُ ۚ أُولَٰئِكَ هُمُ الصَّادِقُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "(Ajo pronë) U takon muhaxhirëve të varfër, të cilët u dëbuan prej shtëpive të tyre dhe prej pasurisë së tyre, duke kërkuar mirasinë dhe kënaqëainë e All-llahut, dhe që ndihmojnë All-llahun dhe të dërguarin e Tij, të tillët janë ata të sinqertit",
+				"sqi-hasanefendinahi": "(ajo pasuri u takon) edhe emigrantëve të varfër, të cilët janë përzënë nga vendlindja e tyre dhe pasurisë së tyre, të cilët ëshirojnë mirësinë dhe kënaqësinë e Perëndisë, dhe ta ndihmojnë Perëndinë dhe Profetin e Tij, ata, me të vërtetë, janë besimtarë të sinqertë",
+				"sqi-fetimehdiu": "Emigrantëve të varfër, të cilët janë përzënë nga shtëpitë e tyre dhe pasuritë e tyre, për të kërkuar mirësinë dhe kënaqësinë e All-llahut dhe ndihmojnë All-llahun dhe Profetin e tij, ja, këta janë të sinqertë"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 9,
+			"textAr": "وَالَّذِينَ تَبَوَّءُوا الدَّارَ وَالْإِيمَانَ مِنْ قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِي صُدُورِهِمْ حَاجَةً مِمَّا أُوتُوا وَيُؤْثِرُونَ عَلَىٰ أَنْفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ۚ وَمَنْ يُوقَ شُحَّ نَفْسِهِ فَأُولَٰئِكَ هُمُ الْمُفْلِحُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe ata që përgatitën vendin (Medinën) dhe besimin para tyre, i duan ata që shpërnguleshin te ata dhe nuk ndiejnë në gjoksat e tyre ndonjë nevojë (për zili a tjetër) nga ajo që u jepej atyre (muhaxhirëve), madje edhe sikur të kishin vetë nevojë për të, ata u jepnin përparësi atyre para vetvetes. Kush është i ruajtur prej lakmisë së vet, të tillët janë të shpëtuar",
+				"sqi-hasanefendinahi": "dhe (u takon pasuria) atyre që e kanë bërë Medinen vendstrehim (shtëpi) të besimit qysh më parë (para emigrimit), e i duan ata që vijnë në Medine dhe në zemrat e tyre nuk ndjejnë kurrfarë rëndimi, për atë që u është dhënë atyre (ardhacakëve), por më tepër duan t’u bëjnë mirë atyre se sa vetes, edhe pse madje vetë janë nevojtarë. E, ata që ruhen nga lakmia e madhe, me siguri, do të jenë fitues",
+				"sqi-fetimehdiu": "Edhe ata të cilët e kanë përgatitur shtëpinë dhe besimin, përpara atyre i duan ata që kanë ardhur te këta dhe nuk ndiejnë ngushti në zemrat e tyre ndaj asaj që u është dhënë atyre, dhe u japin përparësi, madje edhe kur kanë nevojë për vete. Ndërkaq ata që i ruhen lakmisë së vet, e ata janë që do të shpëtojnë"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 10,
+			"textAr": "وَالَّذِينَ جَاءُوا مِنْ بَعْدِهِمْ يَقُولُونَ رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَحِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe ata që kanë ardhur pas tyre e thonë: “Zoti ynë, falna ne dhe vëllezërit tanë që para nesh u pajisën me besim dhe mos lejo në zemrat farë urrejtjeje ndaj atyre që besuan. Zoti ynë Ti je i butë, mëshirues!”",
+				"sqi-hasanefendinahi": "Edhe ata që vijnë pas tyre – thonë: “O Zoti ynë, falna neve dhe vëllezërit tanë, të cilët kanë besuar para nesh dhe mos lejo që në zemrat tona të ketë asnjë të keqe ndaj besimtarëve; O Zoti ynë, Ti je, me të vërtetë, i mirë dhe mëshirues!”",
+				"sqi-fetimehdiu": "Kurse ata që kanë ardhur pas atyre, thonë: “O Zoti ynë, na e fal neve dhe vëllezërve tanë që na kanë pri në besim dhe mos fut urrejtje në zemrat tona dnaj atyre që besojnë. O Zoti ynë! Ti je me të vërtetë i butë e mëshirëplotë!”"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 11,
+			"textAr": "۞ أَلَمْ تَرَ إِلَى الَّذِينَ نَافَقُوا يَقُولُونَ لِإِخْوَانِهِمُ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا وَإِنْ قُوتِلْتُمْ لَنَنْصُرَنَّكُمْ وَاللَّهُ يَشْهَدُ إِنَّهُمْ لَكَاذِبُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "A nuk e ke ditur se ata që u bënë hipokritë, u thoshin vëllezërve të vet nga ithtarët e librit që nuk kishin besuar: nëse ju dëboheni, edhe ne do të dalim me ju, për çështjen tuaj, ne kurrë nuk do t’i bindemi askujt (t’ju luftojmë ose t’ju nënshtrojmë), e nëse luftoheni prej dikujt, ne gjithqysh do t; u ndihmojmë. All-llahu dëshmon se ata janë rrenacakë",
+				"sqi-hasanefendinahi": "A nuk po sheh se si hipokritët ju thonë shokëve të vet, të cilët janë ithtarë të Librit, e që nuk besojnë: “Nëse ju dëbojnë, ne do të dalim me ju dhe kurrkujt – asnjëherë, nuk do t’i përulemi kundër jush; e nëse ju sulmoheni, me siguri, do t’u dalim në ndihmë”, - e, All-llahu dëshmon, se ata, me të vërtetë, janë gënjeshtarë",
+				"sqi-fetimehdiu": "A nuk i ke parë ata të cilët hipokrizojnë, u thonë vëllezërve të vet mosbesimtarë nga ithtarët e librit “Nëse ju përziheni edhe ne gjithsesi do të dalim me ju dhe te ju kurrë askujt nuk i përulemi, e nëse luftohet kunëdr jush ne me siguri do t’ju ndihmojmë! Porse All-llahu dëshmon se ata janë me të vërtetë gënjeshtarë"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 12,
+			"textAr": "لَئِنْ أُخْرِجُوا لَا يَخْرُجُونَ مَعَهُمْ وَلَئِنْ قُوتِلُوا لَا يَنْصُرُونَهُمْ وَلَئِنْ نَصَرُوهُمْ لَيُوَلُّنَّ الْأَدْبَارَ ثُمَّ لَا يُنْصَرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Sikur të dëbohen ata (ithtarët e librit), nuk do të dilnin me ta edhe sikur të luftoheshin, nuk do t’u ndihmojnë atyre, po edhe sikur t’u ndihmonin atyre, ata do të iknin prapa, e ata do të mbesin pa ndihmën e tyre",
+				"sqi-hasanefendinahi": "nëse do të jenë të dëbuar, ata nuk do të shkojnë me ta; nëse do të jenë të sulmuar, ata nuk do t’i dalin në ndihmë; e nëse u dalin në ndihmë, sigurisht do të ikin, dhe ata do të ngelin pa ndihmë (përgjithmonë)",
+				"sqi-fetimehdiu": "Sikur të jenë të përzënë, këta nuk do të dilnin me ata, edhe nëse luftohet kundër tyre, ata nuk u ndihmojnë, por edhe sikur do t’u ndihmonin, ata me siguri do të iknin dhe nuk do t’u ndihmohet"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 13,
+			"textAr": "لَأَنْتُمْ أَشَدُّ رَهْبَةً فِي صُدُورِهِمْ مِنَ اللَّهِ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَا يَفْقَهُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ju (besimtarët) në zemrat e tyre (ta munafikëve) jeni frikë më e fortë se All-llahu (frika nga All-llahu). Kjo për shkak se ata janë popull që nuk kuptojnë",
+				"sqi-hasanefendinahi": "Ju, në zemrat e tyre jeni më të tmerrshëm (frikësues) se sa All-llahu, ngase ata janë popull i pakuptueshëm",
+				"sqi-fetimehdiu": "Më shumë u frikësohen juve se All-llahut. Ajo për shkak se ata janë një popull që nuk kuptojnë"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 14,
+			"textAr": "لَا يُقَاتِلُونَكُمْ جَمِيعًا إِلَّا فِي قُرًى مُحَصَّنَةٍ أَوْ مِنْ وَرَاءِ جُدُرٍ ۚ بَأْسُهُمْ بَيْنَهُمْ شَدِيدٌ ۚ تَحْسَبُهُمْ جَمِيعًا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَا يَعْقِلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata të gjithë së bashku nuk kanë guxim t’ju luftojnë, vetëm kur gjenden në ndonjë vend të fortifikuar ose kur janë pas ndonjë muri. Armiqësia ndërmjet tyre është e ashpër. Mund të mendohet për ta se janë të bashkuar, e në reallitet zemrat e tyre janë të përçara, sepse janë njerëz që nuk logjikojnë",
+				"sqi-hasanefendinahi": "Ata luftojnë me ju duke qenë grumbull vetëm në vende të fortifikuara, ose pas mureve. Lufta ndërmjet tyre është e ashpër. Ti mendon se ata janë kompakt, mirëpo, zemrat e tyre janë të përçara, meqë ata janë njerëz që nuk mendojnë",
+				"sqi-fetimehdiu": "Ata nuk do të luftojnë kundër jush të gjithë, përveç në qytetet e fortifikuara ose pas mureve. Forca e tyre është e madhe ndër veti. Ti kujton se janë të bashkuar, por në zemër janë të përçarë. Kjo është për shkak se ata janë një popull që s’marrin vesh"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 15,
+			"textAr": "كَمَثَلِ الَّذِينَ مِنْ قَبْلِهِمْ قَرِيبًا ۖ ذَاقُوا وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Si shembull i atyre jo fort moti që përjetuan të keqen e punës së vet, edhe ata kanë një dënim të rëndë",
+				"sqi-hasanefendinahi": "Këta janë të ngjashëm me ata që kanë qenë pak para tyre, që e kanë shijuar dënimin e punës së tyre – ata i pret dënimi i dhembshëm",
+				"sqi-fetimehdiu": "Sikur ata përpara atyre, jo fort moti, shijuan pasojat e punës së tyre dhe ata kanë dënim të dhembshëm"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 16,
+			"textAr": "كَمَثَلِ الشَّيْطَانِ إِذْ قَالَ لِلْإِنْسَانِ اكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّي بَرِيءٌ مِنْكَ إِنِّي أَخَافُ اللَّهَ رَبَّ الْعَالَمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata (hipokritët) janë shembull si djalli, kur i thotë njeriut: “Refuzo besimin!”, e kur ai të ketë refuzuar, ai (djalli) tërhiqet prej teje; unë i frikohem All-llahut, Zotit të gjithësisë!”",
+				"sqi-hasanefendinahi": "Janë të ngjashëm ata me djallin kur i thotë njeriut: “Mos beso!” – e kur bëhet mohues, atëherë ai i thotë: “Unë jam larg prej teje, unë, me të vërtetë, i frikohem Perëndisë, Zotit të gjithësisë!”",
+				"sqi-fetimehdiu": "Sikur djalli kur i tha njeriut: “Moho”! por kur ai mohoi, atëherë i thotë: “Unë heq dorë prej teje, unë i frikësohem All-llahut, Zotit të botërave”"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 17,
+			"textAr": "فَكَانَ عَاقِبَتَهُمَا أَنَّهُمَا فِي النَّارِ خَالِدَيْنِ فِيهَا ۚ وَذَٰلِكَ جَزَاءُ الظَّالِمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe ashtu, ata të dy do të përfundojnë në zjarr përgjithmonë. Ai është ndëshkim i zullumqarëve",
+				"sqi-hasanefendinahi": "Fundi i këtyre të dyve, me të vërtetë, është qëndrimi i përhershëm në zjarr, e ky është dënimi për të gjithë njerëzit e këqinj",
+				"sqi-fetimehdiu": "Kurse përfundimi i të dyve është: të dy përgjithmonë janë në zjarr. Ai është shpërblim i mizorëve"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 18,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَلْتَنْظُرْ نَفْسٌ مَا قَدَّمَتْ لِغَدٍ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat, frikësojuni All-llahut dhe le të shikojë çdonjëri se çka ka bërë për nesër. Dhe frikësojuni All-llahut! S’ka dyshim se All-llahu është i Njohtuar (Habir) për atë që punoni",
+				"sqi-hasanefendinahi": "O besimtarë, druajuni Perëndisë, dhe çdo njeri le të shikojë se ç’ka përgatitur për të nesërmen, duke mos e kundërshtuar Perëndinë, sepse, Ai di çdo gjë që punoni ju",
+				"sqi-fetimehdiu": "O besimtarë, frikësohuni All-llahut dhe secili le të shikojë se çka ka bërë për nesër. Frikësohuni All-llahut! Me të vërtetë All-llahu është i informuar se çka punoni"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 19,
+			"textAr": "وَلَا تَكُونُوا كَالَّذِينَ نَسُوا اللَّهَ فَأَنْسَاهُمْ أَنْفُسَهُمْ ۚ أُولَٰئِكَ هُمُ الْفَاسِقُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E mos u bëni si ata që harruan All-llahun, pra (All-llahu bëri që ata) harruan vetveten! Të tillët janë të Fasikët",
+				"sqi-hasanefendinahi": "Dhe mos u bëni si ata që duke i harruar urdhërat e Perëndisë, Ai (All-llahu) i ka shpie ata që të harrojnë edhe vetveten; ata janë mëkatarë të vërtetë",
+				"sqi-fetimehdiu": "Mos u bëni si ata që e harruan All-llahun dhe Ai i bëri të harrojnë vetveten. Ata janë të mbrapshtë"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 20,
+			"textAr": "لَا يَسْتَوِي أَصْحَابُ النَّارِ وَأَصْحَابُ الْجَنَّةِ ۚ أَصْحَابُ الْجَنَّةِ هُمُ الْفَائِزُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Nuk janë të barabartë banorët e Xhennetit dhe banorët e Xhehennemit. Banorët e Xhennetit janë të suksesshmit (janë ata që ia kanë arritur qëllimit)",
+				"sqi-hasanefendinahi": "Nuk janë të barabartë banorët e xhehennemit dhe banorët e xhennetit; bnorët e xhennetit do të jenë fitues",
+				"sqi-fetimehdiu": "Nuk janë të barabartë banorët e xhehennemit dhe banorët e xhennetit. Banorët e xhennetit janë ata që kanë arritur sukses"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 21,
+			"textAr": "لَوْ أَنْزَلْنَا هَٰذَا الْقُرْآنَ عَلَىٰ جَبَلٍ لَرَأَيْتَهُ خَاشِعًا مُتَصَدِّعًا مِنْ خَشْيَةِ اللَّهِ ۚ وَتِلْكَ الْأَمْثَالُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Sikur Ne ta zbritnim këtë Kur’an mbi ndonjë kodër, do të shihje atë të strukur e të çarë prej frikës nga All-llahu. Këta janë shembuj që ua sjellim njerëzve, që ata të mendojnë",
+				"sqi-hasanefendinahi": "Sikur këtë Kur’an t’ia shpallim ndonjë mali, ti do ta shihje atë të përulur dhe të copëtuar nga frika e Perëndisë. Këso shembujsh u përkujtojmë njerëzve që të mendojnë",
+				"sqi-fetimehdiu": "Sikur këtë Kur’an t’ia kishim zbritur ndonjë mali do ta kishe parë si përulet dhe si coptohet nga frika e All-llahut. Ata janë shembuj që ua sjellim njerëzve, ndoshta mendojnë"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 22,
+			"textAr": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ ۖ عَالِمُ الْغَيْبِ وَالشَّهَادَةِ ۖ هُوَ الرَّحْمَٰنُ الرَّحِيمُ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai është All-llahu, nuk ka zot tjetër pos Tij. Dijetari i të fshehtës dhe të dukshmes, Ai është Mëshiruesi, Mëshirëbërësi",
+				"sqi-hasanefendinahi": "Ai është All-llahu, që s’ka zot tjetër përveç Tij. Ai i di gjërat e dukshme dhe të padukshme, Ai është mëshirues dhe përdëllimtar",
+				"sqi-fetimehdiu": "Ai është All-llahu i cili, nuk ka tjetër Zot përveç atij, di të padukshmen dhe të dukshmen. Ai është i gjithmëshirshëm, mëshirëplotë"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 23,
+			"textAr": "هُوَ اللَّهُ الَّذِي لَا إِلَٰهَ إِلَّا هُوَ الْمَلِكُ الْقُدُّوسُ السَّلَامُ الْمُؤْمِنُ الْمُهَيْمِنُ الْعَزِيزُ الْجَبَّارُ الْمُتَكَبِّرُ ۚ سُبْحَانَ اللَّهِ عَمَّا يُشْرِكُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai është All-llahu, pos të Cilit nuk ka zot tjetër, Sunduesi, i Shenjti, i Pastërti (prej të metave që i mvishen), Siguruesi, Mbikëqyrësi, i Plotfuqishmi, Mbizotëruesi, i Madhërishmi. I lartësuar është All-llahu nga ajo që ia shoqërojnë",
+				"sqi-hasanefendinahi": "Ai është All-llahu, që s’ka zot tjetër përveç Tij, Sundues, i Amshueshëm, Ai është i pastër nga të metat, Paqëdashës, ai që jep siguri, Ai që mbikëqyrë të gjitha, i Plotëfuqishëm, Imponus, Madhështor. Qoftë falenderuar All-llahu, Ai është shumë lart nga ato që ia përshkruajnë Atij",
+				"sqi-fetimehdiu": "Ai është All-llahu i cili, s’ka tjetër Zot veç atij, sunduesi absolut, i pastër, paqëdashës, garanton siguri, nën kujdesin e të cilit është çdo send; i Forti, i Madhërishmi, krnar. Qoftë lartësuar All-llahu nga ata që i bëjnë shok"
+			}
+		},
+		{
+			"surah": 59,
+			"number": 24,
+			"textAr": "هُوَ اللَّهُ الْخَالِقُ الْبَارِئُ الْمُصَوِّرُ ۖ لَهُ الْأَسْمَاءُ الْحُسْنَىٰ ۚ يُسَبِّحُ لَهُ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai është All-llahu, Krijuesi, Shpikësi, Formësuesi. Të tij janë emrat më të bukur. Atë e lartëson çka ka në qiej e në tokë. Dhe Ai është i Fuqishmi, i Urti",
+				"sqi-hasanefendinahi": "Ai është All-llahu, Krijues, Ai që prej asgjëje krijon, Ai që çdo gjëje ia jep formën, ai posedon emërat më të bukur, Atë e falenderojnë të gjithë (çka ekziston) në qiej dhe në Tokë, Ai është i Plotëfuqishëm dhe i Gjithëdijshëm",
+				"sqi-fetimehdiu": "Ai është All-llahu krijues, shpikësi, formësuesi. Ai ka emrat më të bukur. Atë e lartëson çdo send që është në qiej dhe në tokë. Ai është i Forti, i Urti"
+			}
+		}
+	]
+}

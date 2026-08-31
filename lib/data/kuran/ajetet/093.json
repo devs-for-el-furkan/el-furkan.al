@@ -1,0 +1,123 @@
+{
+  "surah": 93,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 93,
+      "number": 1,
+      "textAr": "وَالضُّحَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha paraditën",
+        "sqi-hasanefendinahi": "Betohem në mëngjesin",
+        "sqi-fetimehdiu": "Pasha drekën"
+      }
+    },
+    {
+      "surah": 93,
+      "number": 2,
+      "textAr": "وَاللَّيْلِ إِذَا سَجَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha natën kur shtrinë errësirën",
+        "sqi-hasanefendinahi": "dhe natën kur terrohet e qetësohet –",
+        "sqi-fetimehdiu": "Edhe natën kur mbulon"
+      }
+    },
+    {
+      "surah": 93,
+      "number": 3,
+      "textAr": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Zoti yt nuk të ka lënë, as nuk të ka përbuzur",
+        "sqi-hasanefendinahi": "Zoti yt, nuk të ka braktisur e as nuk të ka urrejtur",
+        "sqi-fetimehdiu": "Zoti yt nuk të ka lënë pas dore dhe nuk të ka urrejtur"
+      }
+    },
+    {
+      "surah": 93,
+      "number": 4,
+      "textAr": "وَلَلْآخِرَةُ خَيْرٌ لَكَ مِنَ الْأُولَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe se bota e ardhshme është shumë më e mirë për ty se e para",
+        "sqi-hasanefendinahi": "Me të vërtetë, jeta e ardhshme për ty është më e mirë se kjo jetë",
+        "sqi-fetimehdiu": "Bota e ardhshme është, njëmend, më e mirë për ty se kjo botë"
+      }
+    },
+    {
+      "surah": 93,
+      "number": 5,
+      "textAr": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "E Zoti yt do të jepë ty, e ti do të kënaqesh",
+        "sqi-hasanefendinahi": "e, me të vërtetë, Zoti yt do të japi ty, e ti do të jesh i kënaqur",
+        "sqi-fetimehdiu": "Dhe Zoti yt me siguri do të japë ty, e do të jesh i kënaqur"
+      }
+    },
+    {
+      "surah": 93,
+      "number": 6,
+      "textAr": "أَلَمْ يَجِدْكَ يَتِيمًا فَآوَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "A nuk të gjeti ty jetim, e Ai të bëri vend (të dha përkrahje)",
+        "sqi-hasanefendinahi": "A nuk ishe ti bonja, e Ai të mori në strehim",
+        "sqi-fetimehdiu": "A nuk ishe bonjak, e ai të ofroi strehim"
+      }
+    },
+    {
+      "surah": 93,
+      "number": 7,
+      "textAr": "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe të gjeti të paudhëzuar e Ai të udhëzojë",
+        "sqi-hasanefendinahi": "dhe të gjeti të humbur (të paudhëzuar), e të udhëzoi me Shpalljen e Kur’anit",
+        "sqi-fetimehdiu": "Dhe ishe i humbur, e ai pra, të përudhi"
+      }
+    },
+    {
+      "surah": 93,
+      "number": 8,
+      "textAr": "وَوَجَدَكَ عَائِلًا فَأَغْنَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "dhe të gjeti të varfër, e Ai të begatoi",
+        "sqi-hasanefendinahi": "dhe ishe i varfër e të bëri të pasur",
+        "sqi-fetimehdiu": "Ke qenë edhe i varfër, e të bëri të pasur"
+      }
+    },
+    {
+      "surah": 93,
+      "number": 9,
+      "textAr": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+      "translations": {
+        "sqi-sherifahmeti": "Pra, mos e përul jetimin",
+        "sqi-hasanefendinahi": "Mos e nënçmo bonjakun",
+        "sqi-fetimehdiu": "Prandaj bonjakun mos e nënçmo"
+      }
+    },
+    {
+      "surah": 93,
+      "number": 10,
+      "textAr": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+      "translations": {
+        "sqi-sherifahmeti": "As lypësin mos e përzë",
+        "sqi-hasanefendinahi": "e lypsin mos e refuzo me ashpërsi",
+        "sqi-fetimehdiu": "dhe lypsin mos e refuzo"
+      }
+    },
+    {
+      "surah": 93,
+      "number": 11,
+      "textAr": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+      "translations": {
+        "sqi-sherifahmeti": "E me të mirat që të dha Zoti yt, trego (udhëzo njerëz)",
+        "sqi-hasanefendinahi": "dhe dhuntitë e Zotit tënd, shprehi",
+        "sqi-fetimehdiu": "Por për dhuntitë e Zotit tënd prediko"
+      }
+    }
+  ]
+}

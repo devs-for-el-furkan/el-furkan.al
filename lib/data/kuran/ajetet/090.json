@@ -1,0 +1,213 @@
+{
+  "surah": 90,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 90,
+      "number": 1,
+      "textAr": "لَا أُقْسِمُ بِهَٰذَا الْبَلَدِ",
+      "translations": {
+        "sqi-sherifahmeti": "Betohem në këtë qytet",
+        "sqi-hasanefendinahi": "Betohem në këtë qytet",
+        "sqi-fetimehdiu": "Po betohem në këtë qytet"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 2,
+      "textAr": "وَأَنْتَ حِلٌّ بِهَٰذَا الْبَلَدِ",
+      "translations": {
+        "sqi-sherifahmeti": "E ti je që gjendesh në këtë qytet",
+        "sqi-hasanefendinahi": "pasi në të, ti je i lirë (o Muhammed)",
+        "sqi-fetimehdiu": "A ti je i lirë në këtë qytet"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 3,
+      "textAr": "وَوَالِدٍ وَمَا وَلَدَ",
+      "translations": {
+        "sqi-sherifahmeti": "Betohem në prindin dhe në atë që lind prej tij",
+        "sqi-hasanefendinahi": "dhe (betohem) në ata që kanë lindur dhe lindën",
+        "sqi-fetimehdiu": "dhe betohem në ata që lindin dhe linden"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 4,
+      "textAr": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي كَبَدٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Vërtet, Ne e krijuam njeriun në vështirësi të njëpasnjëshme",
+        "sqi-hasanefendinahi": "Na, e krijuam njeriun që të luftojë në vështirësi (për të dy jetërat)",
+        "sqi-fetimehdiu": "E kemi krijuar njeriun që të përpiqet"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 5,
+      "textAr": "أَيَحْسَبُ أَنْ لَنْ يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "translations": {
+        "sqi-sherifahmeti": "A mendon ai, se atë nuk mund ta mposhtë askush",
+        "sqi-hasanefendinahi": "A mendon ai se askush nuk mund t’i bëjë gjë",
+        "sqi-fetimehdiu": "A mendon ai se kurrkush nuk mundet t’ia mungojë"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 6,
+      "textAr": "يَقُولُ أَهْلَكْتُ مَالًا لُبَدًا",
+      "translations": {
+        "sqi-sherifahmeti": "E thotë: “Unë kam shpenzuar shumë pasuri!”",
+        "sqi-hasanefendinahi": "Ai thotë: “Kam shpenzuar pasuri të pamasë!”",
+        "sqi-fetimehdiu": "Thot: “Kam shpenzuar pasuri të madhe!”"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 7,
+      "textAr": "أَيَحْسَبُ أَنْ لَمْ يَرَهُ أَحَدٌ",
+      "translations": {
+        "sqi-sherifahmeti": "A mendon ai se atë askush nuk e ka parë",
+        "sqi-hasanefendinahi": "Vallë, a mendon ai, se, nuk e ka parë askush",
+        "sqi-fetimehdiu": "A mendon se askush nuk e ka parë"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 8,
+      "textAr": "أَلَمْ نَجْعَلْ لَهُ عَيْنَيْنِ",
+      "translations": {
+        "sqi-sherifahmeti": "A nuk i dhamë Ne atij dy sy",
+        "sqi-hasanefendinahi": "A nuk ia kemi dhënë dy sytë",
+        "sqi-fetimehdiu": "A nuk e kemi bërë atë me dy sy"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 9,
+      "textAr": "وَلِسَانًا وَشَفَتَيْنِ",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe gjuhë e dy buzë",
+        "sqi-hasanefendinahi": "edhe gjuhën edhe dy buzët",
+        "sqi-fetimehdiu": "Me një gjuhë dhe dy buzë"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 10,
+      "textAr": "وَهَدَيْنَاهُ النَّجْدَيْنِ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe i sqaruam atij për të dy rrugët",
+        "sqi-hasanefendinahi": "dhe të mirën e të keqen ia kemi shpjeguar",
+        "sqi-fetimehdiu": "Dhe i kemi trasuar dy rrugë"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 11,
+      "textAr": "فَلَا اقْتَحَمَ الْعَقَبَةَ",
+      "translations": {
+        "sqi-sherifahmeti": "E ai nuk u hodh në përpjetëzen (rrugë e vështirë - qafëmalit)",
+        "sqi-hasanefendinahi": "E, përse nuk është përpjekur të kapërcejë vështirësitë",
+        "sqi-fetimehdiu": "E ai nuk undi ta kapërcejë këtë pengesë"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 12,
+      "textAr": "وَمَا أَدْرَاكَ مَا الْعَقَبَةُ",
+      "translations": {
+        "sqi-sherifahmeti": "E ç’gjë të mësoi ty se ç’është Akabe (rruga e vështirë)",
+        "sqi-hasanefendinahi": "E kush mund të shpjegojë ç’është vështirësia (për të punuar vepra të mira)",
+        "sqi-fetimehdiu": "Ç’mendon ti: “Ç’është kapërcimi i pengesës?”"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 13,
+      "textAr": "فَكُّ رَقَبَةٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Është lirimi i një skllavi",
+        "sqi-hasanefendinahi": "me liruar skllavin (nga skllavëria)",
+        "sqi-fetimehdiu": "Është lirim i një të robëruari"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 14,
+      "textAr": "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Ose dhënia e ushqimit në kohën kur mbretëron uria",
+        "sqi-hasanefendinahi": "ose me ushqyer, kur bredh uria (të urët)",
+        "sqi-fetimehdiu": "Ose ushqene atëherë kur mbretëron uria"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 15,
+      "textAr": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Ndonjë jetimi që është i afërt",
+        "sqi-hasanefendinahi": "bonjakun e afërm",
+        "sqi-fetimehdiu": "ndonjë bonjak të afërt"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 16,
+      "textAr": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Ose ndonjë të varfëri që e ka molisur varfëria",
+        "sqi-hasanefendinahi": "ose të varfërin e mjerë",
+        "sqi-fetimehdiu": "Apo varfnjakun që është shumë i nevojshëm"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 17,
+      "textAr": "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ",
+      "translations": {
+        "sqi-sherifahmeti": "E pastaj të bëhej prej atyre që besuan, që këshilluan njëri-tjetrin për durim dhe që këshillluan për mëshirë (për ndihmë)",
+        "sqi-hasanefendinahi": "e pos këtyre, të jetë nga ata që besojnë, të cilët njëri-tjetri i japin kurajo për durim dhe kurajo për mëshirë",
+        "sqi-fetimehdiu": "Por që është prej atyre të cilët besojnë dhe për durim porosisin, dhe për mëshirë këshillojnë"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 18,
+      "textAr": "أُولَٰئِكَ أَصْحَابُ الْمَيْمَنَةِ",
+      "translations": {
+        "sqi-sherifahmeti": "Të tillët janë të zotët e anës së djathtë",
+        "sqi-hasanefendinahi": "ët gjithë këta, do të jenë të lumtur",
+        "sqi-fetimehdiu": "Ata do të jenë të lumtur"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 19,
+      "textAr": "وَالَّذِينَ كَفَرُوا بِآيَاتِنَا هُمْ أَصْحَابُ الْمَشْأَمَةِ",
+      "translations": {
+        "sqi-sherifahmeti": "Ndërsa ata që nuk i besuan argumentet Tona, ata jaanë të të majtës",
+        "sqi-hasanefendinahi": "E, ata që nuk besojnë në argumentet Tona, ata do të jenë fatzinj",
+        "sqi-fetimehdiu": "Kurse ata që i mohojnë argumentet tona, ata janë fatzi –"
+      }
+    },
+    {
+      "surah": 90,
+      "number": 20,
+      "textAr": "عَلَيْهِمْ نَارٌ مُؤْصَدَةٌ",
+      "translations": {
+        "sqi-sherifahmeti": "Kundër tyre është zjarri i mbyllur",
+        "sqi-hasanefendinahi": "ata do të jenë në zjarrin e mbyllur",
+        "sqi-fetimehdiu": "Të mbyllur në zjarr"
+      }
+    }
+  ]
+}

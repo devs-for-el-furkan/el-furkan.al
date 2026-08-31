@@ -1,0 +1,513 @@
+{
+  "surah": 77,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 77,
+      "number": 1,
+      "textAr": "وَالْمُرْسَلَاتِ عُرْفًا",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha erërat që fryejnë njëpasnjë (pandërprerë)",
+        "sqi-hasanefendinahi": "Betohem në ata (engjëjt) që sjellin të mira",
+        "sqi-fetimehdiu": "Pasha ata që dërgohen njëri pas tjetrit"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 2,
+      "textAr": "فَالْعَاصِفَاتِ عَصْفًا",
+      "translations": {
+        "sqi-sherifahmeti": "Që janë shumë të stuhishme e shkaktojnë furtunë",
+        "sqi-hasanefendinahi": "e betohem në ata që shpejtojnë si stuhia",
+        "sqi-fetimehdiu": "Dhe ata që shpejtojnë fortunën"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 3,
+      "textAr": "وَالنَّاشِرَاتِ نَشْرًا",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha engjëjt që u është besuar shpërndarja e reve dhe që i shpërndajnë",
+        "sqi-hasanefendinahi": "dhe betohem në ata që sjellin shpalljet e pastaj dallojnë (të mirën nga e keqja)",
+        "sqi-fetimehdiu": "Dhe ata që shpërndajnë"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 4,
+      "textAr": "فَالْفَارِقَاتِ فَرْقًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe që ndajnë qartë (të vërtetën nga e pavërteta)",
+        "sqi-hasanefendinahi": "Dhe ata që dallojnë",
+        "sqi-fetimehdiu": "Dhe ata që dallojnë"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 5,
+      "textAr": "فَالْمُلْقِيَاتِ ذِكْرًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe ata që sjellin shpallje (libra të Zotit, te pejgamberët)",
+        "sqi-hasanefendinahi": "në ata që përcjellin këshillat",
+        "sqi-fetimehdiu": "Dhe ata që japin këshilla"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 6,
+      "textAr": "عُذْرًا أَوْ نُذْرًا",
+      "translations": {
+        "sqi-sherifahmeti": "Si arsyetim ose si vërejtje",
+        "sqi-hasanefendinahi": "e arsyeshme ose qortuese",
+        "sqi-fetimehdiu": "Arsyetim ose vërejtje"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 7,
+      "textAr": "إِنَّمَا تُوعَدُونَ لَوَاقِعٌ",
+      "translations": {
+        "sqi-sherifahmeti": "S’ka dyshim se ajo që premtoheni ka për të ndodh pa tjetër",
+        "sqi-hasanefendinahi": "me të vërtetë, ajo ë ju premtohet, do të bëhet",
+        "sqi-fetimehdiu": "Ajo që u premtohet me siguri do të zbatohet"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 8,
+      "textAr": "فَإِذَا النُّجُومُ طُمِسَتْ",
+      "translations": {
+        "sqi-sherifahmeti": "Kur yjet të shuhen",
+        "sqi-hasanefendinahi": "Kur yjet do të shuhen",
+        "sqi-fetimehdiu": "Kur yjtë të zhduken"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 9,
+      "textAr": "وَإِذَا السَّمَاءُ فُرِجَتْ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kur qielli të hapet",
+        "sqi-hasanefendinahi": "dhe kur të çahet qielli",
+        "sqi-fetimehdiu": "Dhe kur qielli të qahet"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 10,
+      "textAr": "وَإِذَا الْجِبَالُ نُسِفَتْ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kur kodrat të copëtohen",
+        "sqi-hasanefendinahi": "dhe kur malet të shkapërderdhen",
+        "sqi-fetimehdiu": "Dhe kur malet të dërmohen"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 11,
+      "textAr": "وَإِذَا الرُّسُلُ أُقِّتَتْ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kur të dërguarve u është caktuar koha",
+        "sqi-hasanefendinahi": "dhe kur të dërguarit (pejgamberët) do të caktojnë kohën (e tubimit)",
+        "sqi-fetimehdiu": "Dhe kur profetët të tubohen"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 12,
+      "textAr": "لِأَيِّ يَوْمٍ أُجِّلَتْ",
+      "translations": {
+        "sqi-sherifahmeti": "E për cilën ditë atyre u është caktuar koha",
+        "sqi-hasanefendinahi": "(Do të thuhet): “Deri në cilën ditë është shtyer afati?” –",
+        "sqi-fetimehdiu": "Në ditën që është anuluar"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 13,
+      "textAr": "لِيَوْمِ الْفَصْلِ",
+      "translations": {
+        "sqi-sherifahmeti": "Për ditën e gjykimit (kur drejtësia e Zotit ndan të mirën nga e keqja)",
+        "sqi-hasanefendinahi": "(Ju përgjigjet): “Deri në Ditën e vendimit!”",
+        "sqi-fetimehdiu": "Për Ditën e Kijametit"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 14,
+      "textAr": "وَمَا أَدْرَاكَ مَا يَوْمُ الْفَصْلِ",
+      "translations": {
+        "sqi-sherifahmeti": "E ku e di ti se çka është dita e gjykimit",
+        "sqi-hasanefendinahi": "E, a e di ti se ç’është Dita e vendimit",
+        "sqi-fetimehdiu": "E, a e di ti se ç’është Dita e vendimit"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 15,
+      "textAr": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë është shkatërrim për ata që përgënjeshtruan",
+        "sqi-hasanefendinahi": "Mjer atë ditë për përgënjeshtarët",
+        "sqi-fetimehdiu": "Mjerë përgënjeshtarët atë ditë"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 16,
+      "textAr": "أَلَمْ نُهْلِكِ الْأَوَّلِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "A nuk i kemi është shkatërrim Ne popujt më të hershëm",
+        "sqi-hasanefendinahi": "A nuk i kemi zhdukur popujt e lashtë",
+        "sqi-fetimehdiu": "A nuk i kemi zhdukur popujt e lashtë"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 17,
+      "textAr": "ثُمَّ نُتْبِعُهُمُ الْآخِرِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe pastaj pas tyre ua shoqëruam të tjerë më të vonshëm",
+        "sqi-hasanefendinahi": "e pas tyre edhe të tjerët",
+        "sqi-fetimehdiu": "E pastaj i kemi pasuar me të tjerë"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 18,
+      "textAr": "كَذَٰلِكَ نَفْعَلُ بِالْمُجْرِمِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Ne ashtu bëjmë me kriminelët",
+        "sqi-hasanefendinahi": "Në këtë mënyrë do të veprojmë me të gjithë fajtorët",
+        "sqi-fetimehdiu": "Mu ashtu do të veprojmë me të gjithë mëkatarët"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 19,
+      "textAr": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë është mjerim i madh për ata që përgënjeshtruan",
+        "sqi-hasanefendinahi": "Mjer atë ditë për përgënjeshtarët",
+        "sqi-fetimehdiu": "Atë ditë mjerë mosbesimtarët"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 20,
+      "textAr": "أَلَمْ نَخْلُقْكُمْ مِنْ مَاءٍ مَهِينٍ",
+      "translations": {
+        "sqi-sherifahmeti": "A nuk u kemi krijuar juve nga një lëng i dobët",
+        "sqi-hasanefendinahi": "A nuk ju kemi krijuar (Ne) nga një pikë uji të pakonsiderueshëm",
+        "sqi-fetimehdiu": "A nuk ju kemi krijuar juve nga një kurrgjë lëng"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 21,
+      "textAr": "فَجَعَلْنَاهُ فِي قَرَارٍ مَكِينٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe atë e vendosëm në një vend të sigurt",
+        "sqi-hasanefendinahi": "të cilin e kemi vendosur në vend të sigurtë",
+        "sqi-fetimehdiu": "Të cilin e vejmë në vend të sigurt"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 22,
+      "textAr": "إِلَىٰ قَدَرٍ مَعْلُومٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Për deri në një kohë të caktuar",
+        "sqi-hasanefendinahi": "dei në afatin e caktuar",
+        "sqi-fetimehdiu": "Për një kohë të caktuar"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 23,
+      "textAr": "فَقَدَرْنَا فَنِعْمَ الْقَادِرُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe Ne bëmë përcaktimin e krijimit. Sa përcaktues të mirë jemi",
+        "sqi-hasanefendinahi": "E tillë është fuqia Jonë; e sa të fuqishëm jemi Ne! –",
+        "sqi-fetimehdiu": "Ashtu ne mundemi. Po sa të fortë jemi ne"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 24,
+      "textAr": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë është shkatërrim për ata që nuk e njohën fuqinë tonë",
+        "sqi-hasanefendinahi": "Mjer atë ditë për përgënjeshtarët",
+        "sqi-fetimehdiu": "Atë ditë mjerë përgënjeshtarët"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 25,
+      "textAr": "أَلَمْ نَجْعَلِ الْأَرْضَ كِفَاتًا",
+      "translations": {
+        "sqi-sherifahmeti": "A nuk e bëmë Ne tokën që në gjirin e vet mban",
+        "sqi-hasanefendinahi": "A nuk e bëmë Ne Tokën vendtubimi",
+        "sqi-fetimehdiu": "A nuk kemi bërë tokën vendtubim"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 26,
+      "textAr": "أَحْيَاءً وَأَمْوَاتًا",
+      "translations": {
+        "sqi-sherifahmeti": "Të gjallë dhe të vdekur",
+        "sqi-hasanefendinahi": "të të gjallëve dhe të të vdekurëve",
+        "sqi-fetimehdiu": "Të gjallësh e të vdekurish"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 27,
+      "textAr": "وَجَعَلْنَا فِيهَا رَوَاسِيَ شَامِخَاتٍ وَأَسْقَيْنَاكُمْ مَاءً فُرَاتًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe në të kemi vënë kodra të forta e të larta dhe ju dhamë të pini ujë që ua shuan etjen",
+        "sqi-hasanefendinahi": "dhe në të kemi vendosur male të larta, dhe a nuk ju dhamë Ne juve të pini ujë të ëmbël (të pijes)? –",
+        "sqi-fetimehdiu": "Dhe aty kemi bërë male të larta të palvizshme dhe ju mundësojmë të pini ujë të pijshëm"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 28,
+      "textAr": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë është mjerim për ata që përgënjeshtruan",
+        "sqi-hasanefendinahi": "Mjer atë ditë për përgënjeshtarët",
+        "sqi-fetimehdiu": "Por atë ditë mjerë përgënjeshtarët"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 29,
+      "textAr": "انْطَلِقُوا إِلَىٰ مَا كُنْتُمْ بِهِ تُكَذِّبُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "(u thuhet) Shkoni te ai (Xhehennemi) që ju e konsuderuat rrenë",
+        "sqi-hasanefendinahi": "(Ju thuhet): “Shkoni kah ajo (dënimi), të cilën ju e keni konsideruar gënjeshtër",
+        "sqi-fetimehdiu": "Shkoni pas asaj që e keni konsideruar të pavërtetë"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 30,
+      "textAr": "انْطَلِقُوا إِلَىٰ ظِلٍّ ذِي ثَلَاثِ شُعَبٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Shkoni te ajo hije (mjegull) që ka tri degëzime",
+        "sqi-hasanefendinahi": "shkoni kah tymi i ndarë në tri fjollë",
+        "sqi-fetimehdiu": "Shkoni pas asaj hijes ndarë në tri hije"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 31,
+      "textAr": "لَا ظَلِيلٍ وَلَا يُغْنِي مِنَ اللَّهَبِ",
+      "translations": {
+        "sqi-sherifahmeti": "Që nuk bën as hije, as nuk mbron prej flakës",
+        "sqi-hasanefendinahi": "i cili nuk të freskon dhe nga flaka nuk shpëton",
+        "sqi-fetimehdiu": "Që nuk bën as hije as mbron nga flaka"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 32,
+      "textAr": "إِنَّهَا تَرْمِي بِشَرَرٍ كَالْقَصْرِ",
+      "translations": {
+        "sqi-sherifahmeti": "Ai (Xhehennemi) hedh gaca të mëdha si ndonjë kështjellë",
+        "sqi-hasanefendinahi": "Ai hedh shkëndija si rrënjët e lisit të madh",
+        "sqi-fetimehdiu": "Ajo hedh shkendija sikur kalaja"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 33,
+      "textAr": "كَأَنَّهُ جِمَالَتٌ صُفْرٌ",
+      "translations": {
+        "sqi-sherifahmeti": "E që janë si të ishin deve të verdha (shumë të shpejta)",
+        "sqi-hasanefendinahi": "sikur t’ishin deve (gamilla) të verdha. –",
+        "sqi-fetimehdiu": "Sikur të jenë deve të murrme"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 34,
+      "textAr": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë është shkatërrim për mohuesit",
+        "sqi-hasanefendinahi": "Mjer atë ditë për përgënjeshtarët",
+        "sqi-fetimehdiu": "Atë ditë mjerë përgënjeshtarët"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 35,
+      "textAr": "هَٰذَا يَوْمُ لَا يَنْطِقُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Kjo është një ditë që ata nuk flasin",
+        "sqi-hasanefendinahi": "Kjo është ajo ditë kur ata nuk mund të flasin",
+        "sqi-fetimehdiu": "Kjo është ditë kur ata nuk flasin"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 36,
+      "textAr": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atyre as nuk u lejohet që të arsyetohen",
+        "sqi-hasanefendinahi": "dhe nuk jepet leje për ta, për t’u arsyetuar. –",
+        "sqi-fetimehdiu": "Dhe nuk u lejohet të kërkojnë falje"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 37,
+      "textAr": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë, mjerë ata që përgënjeshtruan",
+        "sqi-hasanefendinahi": "Mjer atë ditë për përgënjeshtarët",
+        "sqi-fetimehdiu": "Atë ditë mjerë përgënejshtarët"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 38,
+      "textAr": "هَٰذَا يَوْمُ الْفَصْلِ ۖ جَمَعْنَاكُمْ وَالْأَوَّلِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Kjo është dita e gjykimit, u kemi tubuar juve dhe të mëparshmit",
+        "sqi-hasanefendinahi": "(Ju thuhet): Kjo është Dita e gjykimit, në të cilën juv edhe popujt e lashtë i kemi tubuar",
+        "sqi-fetimehdiu": "Kjo është ditë e shkoqitjes, ju kemi tubuar juve edhe popujt e vjetër"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 39,
+      "textAr": "فَإِنْ كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe nëse keni ndonjë dredhi, atëherë bëni dredhira",
+        "sqi-hasanefendinahi": "e nëse dispononi me ndonjë dinakëri, përdoreni kundër Meje! –",
+        "sqi-fetimehdiu": "Dhe nëse keni farë dredhie, urdhëroni"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 40,
+      "textAr": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë është shkatërrim për ata që nuk besuan",
+        "sqi-hasanefendinahi": "Mjer atë ditë për përgënjeshtarët",
+        "sqi-fetimehdiu": "Atë ditë mjerë përgënjeshtarët"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 41,
+      "textAr": "إِنَّ الْمُتَّقِينَ فِي ظِلَالٍ وَعُيُونٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe, nuk ka dyshim se të devotshmit do të jenë nën hije pranë burimeve",
+        "sqi-hasanefendinahi": "Ata që ruhen nga të kundërshtuarit Perëndinë, do të jenë në mesin e burimeve dhe të hijeve",
+        "sqi-fetimehdiu": "Të devotshmit do të jenë, pa dyshim, në mes të burimeve e hijeve"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 42,
+      "textAr": "وَفَوَاكِهَ مِمَّا يَشْتَهُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kanë pemë çfarë të dëshirojnë",
+        "sqi-hasanefendinahi": "dhe midis pemëve çfarë i dëshirojnë",
+        "sqi-fetimehdiu": "Edhe pemëve të dëshiruara"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 43,
+      "textAr": "كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Hani e pini shijshëm e me ëndje, për atë e keni vepruar",
+        "sqi-hasanefendinahi": "(Ju thuhet): “Hani e pini, e ju bëftë mirë! (Shpërblim) për atë që keni punuar”",
+        "sqi-fetimehdiu": "“Hani dhe pini, u bëftë mirë, sepse ashtu i keni merituar”"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 44,
+      "textAr": "إِنَّا كَذَٰلِكَ نَجْزِي الْمُحْسِنِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Ne kështu i shpërblejmë mirëbërësit",
+        "sqi-hasanefendinahi": "Kështu Na i shpërblejmë ata, që bëjnë vepra të mira. –",
+        "sqi-fetimehdiu": "Ashtu ne i shpërblejmë mirëbërësit"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 45,
+      "textAr": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë është mjerim për përgënjeshtuesit",
+        "sqi-hasanefendinahi": "Mjer atë ditë për përgënjeshtarët",
+        "sqi-fetimehdiu": "Atë ditë mjerë përgënjeshtarët"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 46,
+      "textAr": "كُلُوا وَتَمَتَّعُوا قَلِيلًا إِنَّكُمْ مُجْرِمُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Ju (jobesimtarë në dynja) hani e kënaquni përpak kohë, sepse vërtet ju jeni rrebelë",
+        "sqi-hasanefendinahi": "(Ju thuhet jobesimtarëve): “Hani dhe kënaquni, por për pak kohë!”",
+        "sqi-fetimehdiu": "Hani dhe kënaquni por, pak kohë, se ju jeni, me të vërtetë, mëkatarë"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 47,
+      "textAr": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë është mjerim për ata që mohuan të mirat e Zotit",
+        "sqi-hasanefendinahi": "Mjer atë ditë për përgënjeshtarët",
+        "sqi-fetimehdiu": "Atë ditë mjerë përgënjeshtarët"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 48,
+      "textAr": "وَإِذَا قِيلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kur atyre u thuhej: “Përkuluni!”, ata nuk përkuleshin",
+        "sqi-hasanefendinahi": "Por, kur ju thuhet atyre (në këtë jetë): “Përuluni ndaj Perëndisë (falni namazin)!” – ata nuk përulen. –",
+        "sqi-fetimehdiu": "Dhe kur u thuhet: “Përuluni!”, ata nuk përulen"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 49,
+      "textAr": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë është mjerim për ata që përgënjeshtuan",
+        "sqi-hasanefendinahi": "Mjer atë ditë për përgënjeshtarët",
+        "sqi-fetimehdiu": "Atë ditë mjerë përgënjeshtarët"
+      }
+    },
+    {
+      "surah": 77,
+      "number": 50,
+      "textAr": "فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Pra, cilës fjale (libër) pas këtij (Kur’anit) i besojnë",
+        "sqi-hasanefendinahi": "E, në çfarë libri tjetër do të besojnë, pas Kur’anit",
+        "sqi-fetimehdiu": "Po cilës fjalë, përpos asaj (të Kur’anit) do t’i besojnë"
+      }
+    }
+  ]
+}

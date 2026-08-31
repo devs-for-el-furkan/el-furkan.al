@@ -1,0 +1,49 @@
+{
+	"surah": 106,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 106,
+			"number": 1,
+			"textAr": "لِإِيلَافِ قُرَيْشٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Për hirë të garantimit që e gëzojnë kurejshitët",
+				"sqi-hasanefendinahi": "(All-llahu e zhduku ushtrinë e elefantëve) për t’i qetësuar Kurejshët",
+				"sqi-fetimehdiu": "Për shkak të shprehisë së kurejshitëve"
+			}
+		},
+		{
+			"surah": 106,
+			"number": 2,
+			"textAr": "إِيلَافِهِمْ رِحْلَةَ الشِّتَاءِ وَالصَّيْفِ",
+			"translations": {
+				"sqi-sherifahmeti": "Garantimin e udhëtimit të tyre të lirë dimërit dhe verës",
+				"sqi-hasanefendinahi": "t’i qetësojë ata në udhëtimin që bëjnë dimër e verë",
+				"sqi-fetimehdiu": "Prirjes së tyre që të udhëtojnë dimër e verë"
+			}
+		},
+		{
+			"surah": 106,
+			"number": 3,
+			"textAr": "فَلْيَعْبُدُوا رَبَّ هَٰذَا الْبَيْتِ",
+			"translations": {
+				"sqi-sherifahmeti": "Pra, le ta adhurojnë Zotin e kësaj shtëpie",
+				"sqi-hasanefendinahi": "le të adhurojnë pra Zotin e kësaj shtëpie (Qabes)",
+				"sqi-fetimehdiu": "Le të adhurojnë Zotin e këtij tempulli"
+			}
+		},
+		{
+			"surah": 106,
+			"number": 4,
+			"textAr": "الَّذِي أَطْعَمَهُمْ مِنْ جُوعٍ وَآمَنَهُمْ مِنْ خَوْفٍ",
+			"translations": {
+				"sqi-sherifahmeti": "I cili i ushqeu pas urisë dhe i siguroi prej çdo frike",
+				"sqi-hasanefendinahi": "i cili i ushqen (ngop) ata nga uria dhe i siguroi nga frika",
+				"sqi-fetimehdiu": "I cili i ushqen të uriturit dhe i mbron nga frika"
+			}
+		}
+	]
+}

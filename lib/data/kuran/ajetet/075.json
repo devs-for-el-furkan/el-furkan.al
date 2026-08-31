@@ -1,0 +1,409 @@
+{
+	"surah": 75,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 75,
+			"number": 1,
+			"textAr": "لَا أُقْسِمُ بِيَوْمِ الْقِيَامَةِ",
+			"translations": {
+				"sqi-sherifahmeti": "Betohem në ditën e kijametit",
+				"sqi-hasanefendinahi": "Betohem në Ditën e Kijametit",
+				"sqi-fetimehdiu": "Betohem, seriozisht, në Ditën e Kijametit"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 2,
+			"textAr": "وَلَا أُقْسِمُ بِالنَّفْسِ اللَّوَّامَةِ",
+			"translations": {
+				"sqi-sherifahmeti": "Betohem në shpirtin që është shumë qortues",
+				"sqi-hasanefendinahi": "dhe betohem në shpirtin e atij që e qorton vetveten",
+				"sqi-fetimehdiu": "Dhe betohem, seriozisht, në shpirtin që veten e qorton"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 3,
+			"textAr": "أَيَحْسَبُ الْإِنْسَانُ أَلَّنْ نَجْمَعَ عِظَامَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "A mendon njeriu se nuk do t’i tubojmë eshtrat e tij",
+				"sqi-hasanefendinahi": "A mendon njeriu që nuk do të mund t’ia mbledhim eshtrat e tij",
+				"sqi-fetimehdiu": "A mendon njeriu se nuk do t’i tubojmë eshtrat e tij"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 4,
+			"textAr": "بَلَىٰ قَادِرِينَ عَلَىٰ أَنْ نُسَوِّيَ بَنَانَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Po, do t’ia tubojmë! Duke qenë se Ne jemi të zotët t’ia rikrijojmë si kanë qenë edhe majat e gishtave të tij",
+				"sqi-hasanefendinahi": "Po si jo, Ne mundemi me ia bë majet e gishtave ashtu si i ka pasur",
+				"sqi-fetimehdiu": "Po, si jo! Ne kemi mundësi të rikrijojmë eedhe majet e thonjve të gishtërinjve të tij"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 5,
+			"textAr": "بَلْ يُرِيدُ الْإِنْسَانُ لِيَفْجُرَ أَمَامَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Por, njeriu dëshiron të vazhdojë edhe mëtej në mëkate",
+				"sqi-hasanefendinahi": "Por, njeriu dëshiron të gabojë përderisa të jetë gjallë",
+				"sqi-fetimehdiu": "Por njeriu dëshiron të gabojë në jetë"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 6,
+			"textAr": "يَسْأَلُ أَيَّانَ يَوْمُ الْقِيَامَةِ",
+			"translations": {
+				"sqi-sherifahmeti": "Andaj edhe pyet: “Kur është dita e kijametit?”",
+				"sqi-hasanefendinahi": "e pyet: “Kur do të jetë Dita e Kijametit?”",
+				"sqi-fetimehdiu": "Ai pyet: “Kur do të bëhet kijameti”"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 7,
+			"textAr": "فَإِذَا بَرِقَ الْبَصَرُ",
+			"translations": {
+				"sqi-sherifahmeti": "E, kur të merren sytë (të parët)",
+				"sqi-hasanefendinahi": "Kur syri (shikimi) të shqetësohet nga frika",
+				"sqi-fetimehdiu": "Por kur t’i shtanget shikimi"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 8,
+			"textAr": "وَخَسَفَ الْقَمَرُ",
+			"translations": {
+				"sqi-sherifahmeti": "E të zëhet hëna (errësohet)",
+				"sqi-hasanefendinahi": "dhe të zihet Hëna",
+				"sqi-fetimehdiu": "Edhe hëna të errësohet"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 9,
+			"textAr": "وَجُمِعَ الشَّمْسُ وَالْقَمَرُ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe të bashkohet dielli e hëna",
+				"sqi-hasanefendinahi": "dhe Dielli e Hëna të bashkohen",
+				"sqi-fetimehdiu": "Dhe Dielli me hënë të bashkohet"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 10,
+			"textAr": "يَقُولُ الْإِنْسَانُ يَوْمَئِذٍ أَيْنَ الْمَفَرُّ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë njeriu do të thotë: “Nga të iket!”",
+				"sqi-hasanefendinahi": "atë ditë njeriu, thërret: “Ku të ikim?”",
+				"sqi-fetimehdiu": "Atë ditë njeriu do të thotë: “Kah të iket?!”"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 11,
+			"textAr": "كَلَّا لَا وَزَرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Jo, nuk ka strehim",
+				"sqi-hasanefendinahi": "Askund! S’ka strehim",
+				"sqi-fetimehdiu": "Askund! Nuk ka strehim"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 12,
+			"textAr": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمُسْتَقَرُّ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë vetëm te Zoti yt është caku",
+				"sqi-hasanefendinahi": "Atë ditë, strehimi është te Zoti yt",
+				"sqi-fetimehdiu": "Atë ditë cakur është te Zoti yt"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 13,
+			"textAr": "يُنَبَّأُ الْإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë njeriu do të njihet me atë që çoi para dhe me atë që la prapa",
+				"sqi-hasanefendinahi": "atë ditë, njeriu informohet për veprat që i ka punuar, si dhe për ato që i ka lëshuar",
+				"sqi-fetimehdiu": "Atë ditë njeriu do të informohet për atë që e ka shpejtuar ose e ka vonuar"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 14,
+			"textAr": "بَلِ الْإِنْسَانُ عَلَىٰ نَفْسِهِ بَصِيرَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Po njeriu është dëshmitar i vetvetes",
+				"sqi-hasanefendinahi": "njeriu vetë do të dëshmojë kundër vetvetes",
+				"sqi-fetimehdiu": "Por njeriu është dëshmitarë kundër vetes"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 15,
+			"textAr": "وَلَوْ أَلْقَىٰ مَعَاذِيرَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe nëse i paraqet arsyetimet e veta",
+				"sqi-hasanefendinahi": "madje – edhe në qoftë se i paraqet arsyetimet e veta, (ato nuk pranohen)",
+				"sqi-fetimehdiu": "Edhe pse përpiqet të sjellë arsyetimet e tij"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 16,
+			"textAr": "لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ti (Muhammed) mos shqipto atë (Kur’anin) me gjuhën tënde për ta nxënë atë me të shpejtë",
+				"sqi-hasanefendinahi": "Mos nxito në të lexuarit e Kur’anit me gjunë tënde",
+				"sqi-fetimehdiu": "Atë (Kur’anin) mos e shqipto me gjuhë për ta shpejtuar"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 17,
+			"textAr": "إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Sepse Ne e kemi për detyrë tubimin dhe leximin e tij",
+				"sqi-hasanefendinahi": "Ne, do t’i tubojmë pjesët e tij (Kur’ani), për ta lexuar atë (si është)",
+				"sqi-fetimehdiu": "Ne kemi detyrë tubimin dhe leximin e tij"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 18,
+			"textAr": "فَإِذَا قَرَأْنَاهُ فَاتَّبِعْ قُرْآنَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "E kur ta lexojnë atë ty, ti përcille me të dëgjuar leximin e tij",
+				"sqi-hasanefendinahi": "E, kur ta lexojë Xhebraili atë (Kur’anin), përcille ti leximin e tij",
+				"sqi-fetimehdiu": "E kur e lexojmë, ti përcille leximin e tij"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 19,
+			"textAr": "ثُمَّ إِنَّ عَلَيْنَا بَيَانَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe pastaj është obligim i yni që ta shkoqisim atë",
+				"sqi-hasanefendinahi": "e pastaj, Ne do ta shpjegojmë",
+				"sqi-fetimehdiu": "E pastaj, është detyrë e jona ta shkoqisim"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 20,
+			"textAr": "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ",
+			"translations": {
+				"sqi-sherifahmeti": "Jo, nuk është ashtu! Por ju jeni që e doni të ngutshmen (dynjanë)",
+				"sqi-hasanefendinahi": "Po, me të vërtetë! Ju e doni këtë jetë",
+				"sqi-fetimehdiu": "Por ani! Ju e dashuroni këtë jetë të kalueshme"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 21,
+			"textAr": "وَتَذَرُونَ الْآخِرَةَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe e lini pas shpine atë të ardhmen (ahiretin)",
+				"sqi-hasanefendinahi": "kurse, për jetën tjetër nuk keni kujdes",
+				"sqi-fetimehdiu": "Dhe e leni pas shpine atë tjetrën"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 22,
+			"textAr": "وُجُوهٌ يَوْمَئِذٍ نَاضِرَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë do të ketë fytyra të shkëlqyera (të gëzuara)",
+				"sqi-hasanefendinahi": "Atë ditë – disa fytyra do të shkëlqejnë",
+				"sqi-fetimehdiu": "Atë ditë disa fytyra do të shkelqejnë"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 23,
+			"textAr": "إِلَىٰ رَبِّهَا نَاظِرَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Që Zotin e tyre e shikojnë",
+				"sqi-hasanefendinahi": "në Zotin e tyre do të shikojnë",
+				"sqi-fetimehdiu": "E disa fytyra atë ditë do të jenë të ngrysura"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 24,
+			"textAr": "وَوُجُوهٌ يَوْمَئِذٍ بَاسِرَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë ka fytyra edhe të vrazhda",
+				"sqi-hasanefendinahi": "atë ditë – disa fytyra janë të mrrolura",
+				"sqi-fetimehdiu": "Zotin e vet do ta shikojnë"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 25,
+			"textAr": "تَظُنُّ أَنْ يُفْعَلَ بِهَا فَاقِرَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Që presin t’u thyhet kurrizi (të shkatërrohen)",
+				"sqi-hasanefendinahi": "e dinë që do t’i gjejë fatkeqësi e madhe",
+				"sqi-fetimehdiu": "Duke menduar se do t’i godit fatkeqësi"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 26,
+			"textAr": "كَلَّا إِذَا بَلَغَتِ التَّرَاقِيَ",
+			"translations": {
+				"sqi-sherifahmeti": "Jo dhe Jo! Po kur të arrijë (shpirti) në gropë të fytit (të gjoksit)",
+				"sqi-hasanefendinahi": "E, shiko! Kur të vijë shpirti në fyt",
+				"sqi-fetimehdiu": "Po, si jo! Kur (shpirti) depërton në eshtrat kyqe"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 27,
+			"textAr": "وَقِيلَ مَنْ ۜ رَاقٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe thuhet (nga familja e të afërmit): “Kush do ta shërojë?”",
+				"sqi-hasanefendinahi": "dhe thërret: “A ka shërues?”",
+				"sqi-fetimehdiu": "dhe të thuhet, “Kush është shërues”"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 28,
+			"textAr": "وَظَنَّ أَنَّهُ الْفِرَاقُ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe ai bindet se ai po ndahet",
+				"sqi-hasanefendinahi": "dhe ai do të bindet se ai është çasti i ndarjes",
+				"sqi-fetimehdiu": "Dhe mendoi se është momenti i ndarjes"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 29,
+			"textAr": "وَالْتَفَّتِ السَّاقُ بِالسَّاقِ",
+			"translations": {
+				"sqi-sherifahmeti": "E t’i puqet kofsha për kofshe (t’i vështirësohet gjendja)",
+				"sqi-hasanefendinahi": "dhe këmba me këmbën lidhen",
+				"sqi-fetimehdiu": "Dhe këmba me këmbë ndërlidhet"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 30,
+			"textAr": "إِلَىٰ رَبِّكَ يَوْمَئِذٍ الْمَسَاقُ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë vetëm te Zoti yt shkohet",
+				"sqi-hasanefendinahi": "atë ditë do të sillet të Zoti yt",
+				"sqi-fetimehdiu": "Te Zoti yt do të sillen atë ditë"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 31,
+			"textAr": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "E ai as nuk vërtetoi atë që duhej, as nuk u falë",
+				"sqi-hasanefendinahi": "“Ai nuk ka besuar dhe nuk është lutur (falë namaz)",
+				"sqi-fetimehdiu": "“Dhe nuk ka besuar as e ka kryer faljen"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 32,
+			"textAr": "وَلَٰكِنْ كَذَّبَ وَتَوَلَّىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Por përgënjeshtroi dhe ktheu shpinën",
+				"sqi-hasanefendinahi": "por ka mohuar dhe është shmangë",
+				"sqi-fetimehdiu": "por ka kthyer shpinën dhe ka përgënjeshtruar"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 33,
+			"textAr": "ثُمَّ ذَهَبَ إِلَىٰ أَهْلِهِ يَتَمَطَّىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe shkonte te familja e tij me fodullëk",
+				"sqi-hasanefendinahi": "e pastaj ka shkuar te të afërmit (familja) e tij, duke u krenuar”",
+				"sqi-fetimehdiu": "E pastaj shkon tek të vetët, mendjemadh”"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 34,
+			"textAr": "أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Të është afruar ty e keqja e t’u afroftë! (ose i mjeri ti i mjeri)",
+				"sqi-hasanefendinahi": "Mjer për ty! Mjer për ty",
+				"sqi-fetimehdiu": "I mjeri ti! I mjeri ti"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 35,
+			"textAr": "ثُمَّ أَوْلَىٰ لَكَ فَأَوْلَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe nje herë t’u afrua ty e keqja; t’u afroftë",
+				"sqi-hasanefendinahi": "E, përsëri: Mjer për ty! Mjer për ty",
+				"sqi-fetimehdiu": "Dhe prapë, i mjeri ti! I mjeri ti"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 36,
+			"textAr": "أَيَحْسَبُ الْإِنْسَانُ أَنْ يُتْرَكَ سُدًى",
+			"translations": {
+				"sqi-sherifahmeti": "A mos mendon njeriu se do të lihet duke mos zënë asgjë (pa kurrfarë përgjegjësie)",
+				"sqi-hasanefendinahi": "Vallë, a mendon njeriu se do të mbetet pa obligime (pa përgjegjësi)",
+				"sqi-fetimehdiu": "A mendon njeriu se do të lihet në vullnet të vetin, pa përgjegjësi"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 37,
+			"textAr": "أَلَمْ يَكُ نُطْفَةً مِنْ مَنِيٍّ يُمْنَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "A nuk ka qenë ai në një pikë ujë që derdhet",
+				"sqi-hasanefendinahi": "A s’ka qenë njeriu së pari pikë fare (sperme) që hudhet lehtë",
+				"sqi-fetimehdiu": "A nuk ka qenë një pikë fare që hudhet"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 38,
+			"textAr": "ثُمَّ كَانَ عَلَقَةً فَخَلَقَ فَسَوَّىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "E pastaj u bë gjak i trashë, e Ai e krijoi dhe e përsosi",
+				"sqi-hasanefendinahi": "pastaj u bë gjak i doçkuar, nga i cili, Ai (All-llahu), e ka krijuar dhe e ka formur të plotë",
+				"sqi-fetimehdiu": "Pastaj ka qenë gjak i trashur dhe e ka krijuar në formën e përsosur, të fundit"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 39,
+			"textAr": "فَجَعَلَ مِنْهُ الزَّوْجَيْنِ الذَّكَرَ وَالْأُنْثَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe prej tij Ai i bëri dy lloje: mashkullin dhe femrën",
+				"sqi-hasanefendinahi": "Dhe, prej tij i bëri çiftet: mashkullin e femrën",
+				"sqi-fetimehdiu": "Dhe prej atij bëri dy qifte, mashkull dhe femër"
+			}
+		},
+		{
+			"surah": 75,
+			"number": 40,
+			"textAr": "أَلَيْسَ ذَٰلِكَ بِقَادِرٍ عَلَىٰ أَنْ يُحْيِيَ الْمَوْتَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "A nuk është Ai (Zot) i fuqishëm që i ngjall të vdekurit",
+				"sqi-hasanefendinahi": "e, vallë, Ai krijuesi, a nuk ka fuqi edhe t’i ngjallë të vdekurit?”",
+				"sqi-fetimehdiu": "Po a nuk ka Ai mundësi të ngjallë të vdekurin"
+			}
+		}
+	]
+}

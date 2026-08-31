@@ -1,0 +1,43 @@
+{
+  "surah": 108,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 108,
+      "number": 1,
+      "textAr": "إِنَّا أَعْطَيْنَاكَ الْكَوْثَرَ",
+      "translations": {
+        "sqi-sherifahmeti": "Ne, vërtet, të dhamë ty shumë mira",
+        "sqi-hasanefendinahi": "Na, me të vërtetë, të kemi dhënë ty shumë të mira",
+        "sqi-fetimehdiu": "Ne të dhamë ty, me të vërtetë, të mira shumë të mëdha"
+      }
+    },
+    {
+      "surah": 108,
+      "number": 2,
+      "textAr": "فَصَلِّ لِرَبِّكَ وَانْحَرْ",
+      "translations": {
+        "sqi-sherifahmeti": "Andaj, ti falu dhe prej kurban për hurë të Zotit tënd",
+        "sqi-hasanefendinahi": "andaj, bënë namaz për Zotin tënd dhe therr kurban",
+        "sqi-fetimehdiu": "Prandaj falu dhe preje kurbanin për Zotin tënd"
+      }
+    },
+    {
+      "surah": 108,
+      "number": 3,
+      "textAr": "إِنَّ شَانِئَكَ هُوَ الْأَبْتَرُ",
+      "translations": {
+        "sqi-sherifahmeti": "E s’ka dyshim se urrejtësi yt është farësosur",
+        "sqi-hasanefendinahi": "Me të vërtetë, ai që të urren ty, ai vetë është i cungët",
+        "sqi-fetimehdiu": "Ai që të urren ty, me siguri, ai është fatprerë"
+      }
+    }
+  ]
+}

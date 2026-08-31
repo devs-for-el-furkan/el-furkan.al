@@ -4,6 +4,7 @@ import { surahs } from '@/constants/surahs';
 import React, { useState } from 'react';
 import SurahCard from '../cards/SurahCard';
 import { Select } from 'antd';
+import Link from 'next/link';
 
 type Order = 'asc' | 'desc' | 'ro-asc' | 'ro-desc';
 
@@ -14,10 +15,15 @@ const SurahsList = () => {
 		setSortOrder(value);
 	};
 	return (
-		<div className='max-w-7xl flex flex-col gap-4 px-4 md:px-6 w-full mt-4 md:mt-10 mb-10'>
+		<div className='max-w-7xl flex flex-col gap-4 px-4 md:px-6 w-full mt-4 md:mt-10 mb-10 mx-auto'>
 			{/* header filter */}
 			<h1 className='text-3xl text-center font-hand font-semibold'>Lista e Sureve</h1>
 			<hr />
+			<div className='flex justify-center'>
+				<Link href='/lista-e-xhuzeve' className='text-sm text-gray-600 hover:text-orange-500 transition'>
+					Shiko sipas xhuzeve
+				</Link>
+			</div>
 			{/* description for the view */}
 			<div className='flex justify-between px-6 items-center'>
 				<div className='flex justify-center items-center gap-2'>

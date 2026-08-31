@@ -1,7 +1,10 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import Image from 'next/image';
+import Link from 'next/link';
 import { Metadata } from 'next';
+import { BookOpenText } from 'lucide-react';
 import Pagination from '../_components/Pagination';
+import { getSurahsForMushafPage } from '@/lib/quran/getSurahAyahs';
 // import PlayQuran from '../_components/PlayQuran';
 
 // Define metadata dynamically for each page
@@ -22,10 +25,25 @@ export async function generateStaticParams() {
 
 const QuranPage = async ({ params }: any): Promise<any> => {
 	const { id } = await params;
+	const surahsOnPage = getSurahsForMushafPage(Number(id));
 
 	return (
 		<div className='flex flex-col justify-center items-center max-w-7xl gap-4 mx-auto px-4 my-4 md:my-10'>
 			<h1>Quran page - {id}</h1>
+			{surahsOnPage.length > 0 ? (
+				<div className='flex flex-wrap justify-center gap-3'>
+					{surahsOnPage.map((surah) => (
+						<Link
+							key={surah.slug}
+							href={`/surja/${surah.slug}`}
+							className='flex items-center gap-1 text-sm text-gray-500 hover:text-orange-500 transition'
+						>
+							<BookOpenText size={16} />
+							Lexo tekstin: {surah.nameAl}
+						</Link>
+					))}
+				</div>
+			) : null}
 			{/* <PlayQuran id={id} /> */}
 			<div className='px-3 md:px-6'>
 				<Image

@@ -1,0 +1,93 @@
+{
+  "surah": 99,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 99,
+      "number": 1,
+      "textAr": "إِذَا زُلْزِلَتِ الْأَرْضُ زِلْزَالَهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Kur të dridhet toka me dridhjen e saj të fuqishme",
+        "sqi-hasanefendinahi": "Kur Toka të dridhet me dridhjen e tmerrshme të saj",
+        "sqi-fetimehdiu": "Kur të dridhet toka me një të dridhur të fortë"
+      }
+    },
+    {
+      "surah": 99,
+      "number": 2,
+      "textAr": "وَأَخْرَجَتِ الْأَرْضُ أَثْقَالَهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe të nxjerrë toka atë që ka në mbrendinë e saj (barrën nga brenda)",
+        "sqi-hasanefendinahi": "dhe kur ajo (Toka) të nxjerrë materiale nga brendia e saj",
+        "sqi-fetimehdiu": "Dhe toka ta hedhë barrët e veta"
+      }
+    },
+    {
+      "surah": 99,
+      "number": 3,
+      "textAr": "وَقَالَ الْإِنْسَانُ مَا لَهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe njeriu të thotë: “ç’ka kjo (që bën këtë dridhje)?”",
+        "sqi-hasanefendinahi": "dhe njeriu të thërret: “Çka ka ajo?!”",
+        "sqi-fetimehdiu": "E njeriu “ç’është kjo” kur të thërret"
+      }
+    },
+    {
+      "surah": 99,
+      "number": 4,
+      "textAr": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë, ajo i rrëfen tregimet e veta",
+        "sqi-hasanefendinahi": "atë Ditë ajo tregon lajmet e veta (veprat e mira dhe të këqia) që kanë ngjarë në të",
+        "sqi-fetimehdiu": "Atë ditë ajo dot ë rrëfejë fshehtësitë e veta"
+      }
+    },
+    {
+      "surah": 99,
+      "number": 5,
+      "textAr": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Ngase Zoti yt e ka urdhëruar atë",
+        "sqi-hasanefendinahi": "sepse, Zoti yt e ka urdhëruar atë",
+        "sqi-fetimehdiu": "Sepse e inspiron Zoti yt"
+      }
+    },
+    {
+      "surah": 99,
+      "number": 6,
+      "textAr": "يَوْمَئِذٍ يَصْدُرُ النَّاسُ أَشْتَاتًا لِيُرَوْا أَعْمَالَهُمْ",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë njerëzit shfaqen të ndarë në grupe që të shpërblehen për veprat e tyre",
+        "sqi-hasanefendinahi": "Atë Ditë, njerëzit do të paraqiten në grupe-grupe (të ndara), për t’ju treguar veprat e tyre",
+        "sqi-fetimehdiu": "Atë ditë njerëzit do të paraqiten veç e veç, që t’u tregohen veprat e tyre"
+      }
+    },
+    {
+      "surah": 99,
+      "number": 7,
+      "textAr": "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُ",
+      "translations": {
+        "sqi-sherifahmeti": "E kushe punoi ndonjë të mirë, që pëshon sa grimca, atë do ta gjejë",
+        "sqi-hasanefendinahi": "ai që ka punuar ndonjë të mirë, qoftë ajo e vogël madje sa thërmia, do ta shohin atë",
+        "sqi-fetimehdiu": "Ai cili punon mirë sa grima, e sheh atë"
+      }
+    },
+    {
+      "surah": 99,
+      "number": 8,
+      "textAr": "وَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kush punoi ndonjë të keqe sa grimca, atë do ta gjejë",
+        "sqi-hasanefendinahi": "kurse ai që ka punuar të keqe, qoftë madje sa thërmia – do ta shohin atë",
+        "sqi-fetimehdiu": "Por edhe kush bën keq, qoftë sa grima, do ta shohë"
+      }
+    }
+  ]
+}

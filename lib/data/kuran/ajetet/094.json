@@ -1,0 +1,93 @@
+{
+  "surah": 94,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 94,
+      "number": 1,
+      "textAr": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "translations": {
+        "sqi-sherifahmeti": "A nuk ta hapëm ne gjoksin tënd",
+        "sqi-hasanefendinahi": "Vallë, a nuk ta kemi zgjëruar krahërorin (zemrën tënde)",
+        "sqi-fetimehdiu": "A nuk ta hapëm krahërorin tënd"
+      }
+    },
+    {
+      "surah": 94,
+      "number": 2,
+      "textAr": "وَوَضَعْنَا عَنْكَ وِزْرَكَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe Ne hoqëm prej teje barrën tënde",
+        "sqi-hasanefendinahi": "dhe ta kemi heqë barrën ty",
+        "sqi-fetimehdiu": "Dhe ta hoqëm ty barrën"
+      }
+    },
+    {
+      "surah": 94,
+      "number": 3,
+      "textAr": "الَّذِي أَنْقَضَ ظَهْرَكَ",
+      "translations": {
+        "sqi-sherifahmeti": "E cila shtypte shpinën tënde",
+        "sqi-hasanefendinahi": "e cila të ka rënduar tepër kurrizin tënd",
+        "sqi-fetimehdiu": "E cila të rëndonte shpinën tënd"
+      }
+    },
+    {
+      "surah": 94,
+      "number": 4,
+      "textAr": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe Ne, ta ngritëm lartë famën tënde",
+        "sqi-hasanefendinahi": "dhe e kemi ngritur lart emrin (kujtimin) tënd",
+        "sqi-fetimehdiu": "Dhe kujtimin për ty lart e ngritëm"
+      }
+    },
+    {
+      "surah": 94,
+      "number": 5,
+      "textAr": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "translations": {
+        "sqi-sherifahmeti": "E, pa dyshim se pas vështirësisë është lehtësimi",
+        "sqi-hasanefendinahi": "E, me të vërtetë, me vështirësi – arrihet në lehtësi",
+        "sqi-fetimehdiu": "Nnë vështirësi me të vërtetë ka lehtësi"
+      }
+    },
+    {
+      "surah": 94,
+      "number": 6,
+      "textAr": "إِنَّ مَعَ الْعُسْرِ يُسْرًا",
+      "translations": {
+        "sqi-sherifahmeti": "Vërtet, pas vështirësisë vjen lehtësimi",
+        "sqi-hasanefendinahi": "me të vërtetë, me vështirësi – arrihet në lehtësi (lumturi)",
+        "sqi-fetimehdiu": "Me siguri në vështirësi ka lehtësi"
+      }
+    },
+    {
+      "surah": 94,
+      "number": 7,
+      "textAr": "فَإِذَا فَرَغْتَ فَانْصَبْ",
+      "translations": {
+        "sqi-sherifahmeti": "E kur ta kryesh (obligimin), atëbotë mundohu me adhurim (All-llahut)",
+        "sqi-hasanefendinahi": "E, kur ta kryejsh njërën punë, filloja tjetrës (menjëherë)",
+        "sqi-fetimehdiu": "E kur të jesh i lirë angazhohu me namaz"
+      }
+    },
+    {
+      "surah": 94,
+      "number": 8,
+      "textAr": "وَإِلَىٰ رَبِّكَ فَارْغَبْ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe, vetëm te Zoti yt përqëndro synimin",
+        "sqi-hasanefendinahi": "dhe (vetëm) te Zoti yt syno (drejtohu)",
+        "sqi-fetimehdiu": "Dhe vetëm Zotit tënd drejtoju"
+      }
+    }
+  ]
+}

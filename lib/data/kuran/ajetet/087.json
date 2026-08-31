@@ -1,0 +1,199 @@
+{
+	"surah": 87,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 87,
+			"number": 1,
+			"textAr": "سَبِّحِ اسْمَ رَبِّكَ الْأَعْلَى",
+			"translations": {
+				"sqi-sherifahmeti": "Madhëroje emrin e Zotin tënd të Lartë",
+				"sqi-hasanefendinahi": "Falendero emrin e Zotit tënd të Lartësuar",
+				"sqi-fetimehdiu": "Lartëso emrin e Zotit tënd të lartëmadhërishëm"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 2,
+			"textAr": "الَّذِي خَلَقَ فَسَوَّىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "I cili krijoi dhe përsosi",
+				"sqi-hasanefendinahi": "që krijon çdo gjë dhe e bënë të harmonizuar",
+				"sqi-fetimehdiu": "I cili krijon dhe nivelizon çdo send"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 3,
+			"textAr": "وَالَّذِي قَدَّرَ فَهَدَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe i cili përcaktoi e orientoi",
+				"sqi-hasanefendinahi": "dhe që çdo gjë e ka caktuar dhe i ka dhënë inspirim",
+				"sqi-fetimehdiu": "Dhe që cakton e udhëzon"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 4,
+			"textAr": "وَالَّذِي أَخْرَجَ الْمَرْعَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe i cili mundësoi mbirjen e kullosës",
+				"sqi-hasanefendinahi": "dhe që bënë të rriten kullosat",
+				"sqi-fetimehdiu": "Dhe i cili kultivon kullosa"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 5,
+			"textAr": "فَجَعَلَهُ غُثَاءً أَحْوَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "E pastaj atë e bëri mbeturinë të zezë",
+				"sqi-hasanefendinahi": "dhe pastaj bën që të shndërrohen, të thahen e të vyshken",
+				"sqi-fetimehdiu": "E pastaj i bën të thara, të nxira"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 6,
+			"textAr": "سَنُقْرِئُكَ فَلَا تَنْسَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne do të lexojmë ty e nuk do të harrosh (Kur’anin)",
+				"sqi-hasanefendinahi": "Na do ta mësojmë ty (Kur’anin, përmes Xhebrailit), e ti nuk do ta harrosh",
+				"sqi-fetimehdiu": "Ty do të mësojmë të lexosh dhe nuk do të harrosh"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 7,
+			"textAr": "إِلَّا مَا شَاءَ اللَّهُ ۚ إِنَّهُ يَعْلَمُ الْجَهْرَ وَمَا يَخْفَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Përveç asaj që All-llahu dëshiron. Ai e di të haptën e të fshehtën",
+				"sqi-hasanefendinahi": "përveç asaj që don Zoti. Ai (All-llahu), me të vërtetë, di çdo gjë që shprehni haptazi dhe atë që fshihni –",
+				"sqi-fetimehdiu": "përveç asaj që All-llahu dëshiron. Ai me siguri di atë që shprehin haptazi edhe çka fshehin"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 8,
+			"textAr": "وَنُيَسِّرُكَ لِلْيُسْرَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe Ne do ta lehtësojmë ty më të lehtën",
+				"sqi-hasanefendinahi": "dhe Ne do ta lehtësojmë ty (rrugën) e lehtë",
+				"sqi-fetimehdiu": "Dhe ty do ta lehtësojmë çdo gjë"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 9,
+			"textAr": "فَذَكِّرْ إِنْ نَفَعَتِ الذِّكْرَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Pra këshillo aty ku këshilla bën dobi",
+				"sqi-hasanefendinahi": "prandaj këshillo ti – nëse këshilla ka dobi",
+				"sqi-fetimehdiu": "Prandaj ti këshillo se këshilla bën dobi"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 10,
+			"textAr": "سَيَذَّكَّرُ مَنْ يَخْشَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Do të këshillohet ai që ka frikë",
+				"sqi-hasanefendinahi": "ai që i druan Perëndisë, këshillohet",
+				"sqi-fetimehdiu": "Do t’i bëjë dobi atij që frikësohet"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 11,
+			"textAr": "وَيَتَجَنَّبُهَا الْأَشْقَى",
+			"translations": {
+				"sqi-sherifahmeti": "Ndërsa do të shmanget më i keqi",
+				"sqi-hasanefendinahi": "e shmanget nga këshillat, ai më i keqi",
+				"sqi-fetimehdiu": "Kurse do t’i shmanget ai më i keqi"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 12,
+			"textAr": "الَّذِي يَصْلَى النَّارَ الْكُبْرَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "I cili do të hyjë në zjarrin e madh",
+				"sqi-hasanefendinahi": "i cili do të digjet në zjarrin e madh",
+				"sqi-fetimehdiu": "I cili do të digjet në zjarr të madh"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 13,
+			"textAr": "ثُمَّ لَا يَمُوتُ فِيهَا وَلَا يَحْيَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Pastaj nuk do të vdesë në të, por as nuk do të jetojë",
+				"sqi-hasanefendinahi": "e në të, as nuk do të vdes e as nuk do të jetojë (jetë normale)",
+				"sqi-fetimehdiu": "Dhe aty as do të vdes, as do të jetojë"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 14,
+			"textAr": "قَدْ أَفْلَحَ مَنْ تَزَكَّىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Ka shpëtuar ai që është patruar",
+				"sqi-hasanefendinahi": "Shpëtimin do të arrijë ai që pastrohet (nga të këqiat)",
+				"sqi-fetimehdiu": "Ka shpëtuar kush është pastruar"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 15,
+			"textAr": "وَذَكَرَ اسْمَ رَبِّهِ فَصَلَّىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Që e përkujton emrin e Zotit të vet dhe falet",
+				"sqi-hasanefendinahi": "dhe që e përmend emrin e Zotit të vet dhe bënë namaz",
+				"sqi-fetimehdiu": "Dhe e përmend emrin e Zotit të vet dhe falet"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 16,
+			"textAr": "بَلْ تُؤْثِرُونَ الْحَيَاةَ الدُّنْيَا",
+			"translations": {
+				"sqi-sherifahmeti": "Po ju i jepni përparësi jetës së dunjasë",
+				"sqi-hasanefendinahi": "Por ju, përkundrazi, më shumë po e parapëlqeni jetën e kësaj bote",
+				"sqi-fetimehdiu": "Por ju më tepër duani jetën në këtë botë"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 17,
+			"textAr": "وَالْآخِرَةُ خَيْرٌ وَأَبْقَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Ndërsa ahireti (amshimi) është më i mirë dhe e përjetshëm",
+				"sqi-hasanefendinahi": "por, jeta tjetër është më e mirë dhe e përhershme (amshuar)",
+				"sqi-fetimehdiu": "Kurse ajo botë është më e mirë dhe më e qëndrueshme"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 18,
+			"textAr": "إِنَّ هَٰذَا لَفِي الصُّحُفِ الْأُولَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Vërtet kjo ishte në broshurat e lashta",
+				"sqi-hasanefendinahi": "Kjo, me të vërtetë, ka qenë shënuar në faqet (e librave) e broshurat e lashta",
+				"sqi-fetimehdiu": "Këtë e keni me siguri edhe në broshurat e mëparshme"
+			}
+		},
+		{
+			"surah": 87,
+			"number": 19,
+			"textAr": "صُحُفِ إِبْرَاهِيمَ وَمُوسَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "në broshurat e Ibrahimit dhe të Musait",
+				"sqi-hasanefendinahi": "librat (broshurat) e Ibrahimit dhe Musait",
+				"sqi-fetimehdiu": "Në broshurat e Ibrahimit dhe Musait"
+			}
+		}
+	]
+}

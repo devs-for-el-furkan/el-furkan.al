@@ -1,0 +1,1209 @@
+{
+	"surah": 5,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 5,
+			"number": 1,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ ۚ أُحِلَّتْ لَكُمْ بَهِيمَةُ الْأَنْعَامِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّي الصَّيْدِ وَأَنْتُمْ حُرُمٌ ۗ إِنَّ اللَّهَ يَحْكُمُ مَا يُرِيدُ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat! Zbatoni premtimet (obligimet). U janë (lejuar t’i hani) kafshët shtëpiake, me përjashtim të atyre që po ju lexohen (në këtë kaptinë si të ndaluara) dhe përveç gjetisë, që nuk është e lejuar derisa jeni në ihram. Vërtetë, All-llahu vendos atë që dëshiron",
+				"sqi-hasanefendinahi": "O besimtarë! Plotësoni obligimet (marrëveshjet)! U lejua për ju ngrënia e shtazëve, përveç atyre që do t’ju lexohen juve; përderisa të gjendeni në haxhxhillëk, nuk u lejohet gjuetia. Me të vërtetë, All-llahu, vendos për atë që dëshiron",
+				"sqi-fetimehdiu": "O besimtarë, zbatoni marrëveshjet! Ju lejohen kafshët, përveç atyre që po ju numërohen, por nuk ju lejohet (gjuetia) deri sa po bëni detyrën e haxhit. All-llahu me të vërtetë cakton çka dëshiron"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 2,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحِلُّوا شَعَائِرَ اللَّهِ وَلَا الشَّهْرَ الْحَرَامَ وَلَا الْهَدْيَ وَلَا الْقَلَائِدَ وَلَا آمِّينَ الْبَيْتَ الْحَرَامَ يَبْتَغُونَ فَضْلًا مِنْ رَبِّهِمْ وَرِضْوَانًا ۚ وَإِذَا حَلَلْتُمْ فَاصْطَادُوا ۚ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ أَنْ صَدُّوكُمْ عَنِ الْمَسْجِدِ الْحَرَامِ أَنْ تَعْتَدُوا ۘ وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ۚ وَاتَّقُوا اللَّهَ ۖ إِنَّ اللَّهَ شَدِيدُ الْعِقَابِ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat! Mos i shkelni simbolet e All-llahut, as muajin e shejtë (mos lejoni luftën), as kurbanin (mos e pengoni), as atë me qafore (të caktuar për kurban), as (mos pengoni) ata që duke kërkuar begati nga Zoti i tyre dhe kënaqësinë e Tij, kanë mësyrë (për vizitë) shtëpinë e shejtë (Qaben). E kur të hiqni ihramin, atëherë ghahtoni. Urrejtja ndaj një populli, që iu pat penguar nga xhamia e shenjtë, të mos iu shtyej të silleni në mënyrë të padrejtë kundër tyre. Ndihmohuni mes vete me të mira dhe në të mbara, e mosni në mëkate e armiqësi. Kini dro dënimit të All-llahut, se me të vërtetë All-llahu është ndëshkues i fortë",
+				"sqi-hasanefendinahi": "O besimtarë! Mos e llogaritni për të lejueshme cenimin e shenjave të Perëndisë në haxhxhillëk, as muajt e mëdhenj, as kurbanin e Qabes, as kurbanët që janë të shënuar me xherdan, as (mos i pengoni) ata që kanë synuar të vizitojnë Qaben, duke kërkuar mirësinë dhe kënaqësinë e Zotit të vet. E, kur të dilni prej ihramit (pas kryerjes së haxhxhillëkut), gjuani (nëse doni). Dhe, mos t’ju nxisë juve urrejtja ndaj disa njerëzve, nga se ju kanë penguar juve në të vizituarit e Qabesë, kurrsesi mos t’ju nxisë që t’i sulmoni! Ndihmoni njëri-tjetrit në punë të mira dhe në të ruajturit nga të këqijat, dhe mos ndihmoni në mëkate dhe armiqësi! Dhe druajuni Perëndisë! Se, All-llahu, dënon ashpër",
+				"sqi-fetimehdiu": "O besimtarë! Mos i gjumtoni traditat e All-llahut në haxh, as Muajin e shenjtë, as kurbanin, as ato me qafore, as ata njerëz që janë nisur drejt tempullit të shenjtë, duke dëshiruar mirësinë dhe kënaqësinë e Zotit të vet. Por kur t’i kryeni detyrat e haxhit, atëherë gjahtoni. Dhe urrejtja kundër disa njerëzve që e keni për shkak se ju kanë penguar të afroheni te tempulli i shenjtë, assesi le të mos u shtyjë që të silleni armiqësisht. Ndihmone njëri-tjetrin në bamirësi dhe devotshmëri dhe mos ndihmoni në mëkat dhe armiqësi! Dhe frikësohuni All-llahut, sepse All-llahu është ndëshkimfortë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 3,
+			"textAr": "حُرِّمَتْ عَلَيْكُمُ الْمَيْتَةُ وَالدَّمُ وَلَحْمُ الْخِنْزِيرِ وَمَا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ وَالْمُنْخَنِقَةُ وَالْمَوْقُوذَةُ وَالْمُتَرَدِّيَةُ وَالنَّطِيحَةُ وَمَا أَكَلَ السَّبُعُ إِلَّا مَا ذَكَّيْتُمْ وَمَا ذُبِحَ عَلَى النُّصُبِ وَأَنْ تَسْتَقْسِمُوا بِالْأَزْلَامِ ۚ ذَٰلِكُمْ فِسْقٌ ۗ الْيَوْمَ يَئِسَ الَّذِينَ كَفَرُوا مِنْ دِينِكُمْ فَلَا تَخْشَوْهُمْ وَاخْشَوْنِ ۚ الْيَوْمَ أَكْمَلْتُ لَكُمْ دِينَكُمْ وَأَتْمَمْتُ عَلَيْكُمْ نِعْمَتِي وَرَضِيتُ لَكُمُ الْإِسْلَامَ دِينًا ۚ فَمَنِ اضْطُرَّ فِي مَخْمَصَةٍ غَيْرَ مُتَجَانِفٍ لِإِثْمٍ ۙ فَإِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Juve u janë ndaluar (t’i hani): ngordhësira, gjaku, mishi i derrit, ajo që therret jo në emrin e All-llahut, e furmja, e mbytura, e rrëzuarja, e shparja (nga i tjetrës), ajo që e ka ngrënë egërsira, përveç asaj që arrini ta therrni (para se të ngordhë), ajo që është therrur për idhuj, dhe (u është e ndaluar) të kërkoni me short fatin. Kjo është mëkat ndaj All-llahut. Tashmë, ata që mohuan, humbën shpresën për fenë tuaj (se do të ndërroni), andaj mos u frikësonju atyre, por mua të më frikësoheni. Sot përsosa për ju fenë tuaj, plotësova ndaj jush dhuntinë Time, zgjodha për ju islamin fe. E kush detyrohet nga uria (të hajë nga të ndaluarat), duke mos anuar dhe duke mos patur qëllim mëkatin, All-llahu falë shhumë dhe është mëshirues",
+				"sqi-hasanefendinahi": "U ndalohet juve ngrënia e coftinës, gjakut, mishi i derrit, asaj kafshe që është therrur jo në emër të Perëndisë, mishi i kafshës që është lidhur në fyt e ka plasë, mishi i kafshës që është rrahë e ka ngordhë, e i asaj kafshe që është mbytur nga të rrëzuarit, e i asaj që është mbytur me brirë nga kafshët e tjera, e i asaj që është mbytur nga egërsirat, përveç atyre që i preni ju para se të ngordhin. U ndalohet juve ngrënia e asaj që është therrur për nder të kryqëve dhe të të kërkuarit e fatit me fall. Të gjitha këto që u përmendën janë mëkat. Sot, dëshprohen ata, që nuk besojnë dhe kanë humbur çdo shpresë, që t’ju prishin dispozitat e fesë suaj. Mos u frikësoni prej tyre, por druani (vetëm) prej meje! Sot ua përsosa dispozitat e fesë suaj dhe ua plotësova dhuntinë Time ndaj jush. Jam i kënaqur që feja islame të jetë fé e juaja. Por kushdo që të jet ëi shtrënguar nga uria, (e han nga këto jo me qëllim përr t’u kënaqur) nuk ka mëkat. Se, All-llahu është falës e mëshirues",
+				"sqi-fetimehdiu": "Ju ndalohet cofëtina, dhe gjaku, dhe mishi i derrit, edhe ajo që është prerë në emër të ndonjë tjetri, jo në emër të All-llahut; edhe ajo që është e mbytur dhe e vrarë, dhe që ka ngordhur pas ndonjë rrëzimi ose është e shkyer me brirë ose e ka hëngër ndonjë egërsirë – përveç nëse e keni therë ju – dhe që është flijuar për hirë të idoleve, dhe ju ndalohet shorti (falli) me shigjeta. Ato janë mbrapshti. Sot mosbesimtarët i kanë humbur të gjitha shpresat se ju do të tërhiqeni nga feja juaj, prandaj mos iu frikësoni atyre, por më frikësoheni mua. Sot jua kam përsosur fenë tuaj dhe e kam plotësuar dhuntinë time ndaj jush, dhe jam i kënaqur që feja Islame të jetë fe e juaj. Kurse ai i cili do të jetë i sprovuar me uri, por jo nga prirja për mëkat, ani, All-llahu pa dyshim fal, Ai është Mëshirëplotë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 4,
+			"textAr": "يَسْأَلُونَكَ مَاذَا أُحِلَّ لَهُمْ ۖ قُلْ أُحِلَّ لَكُمُ الطَّيِّبَاتُ ۙ وَمَا عَلَّمْتُمْ مِنَ الْجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ اللَّهُ ۖ فَكُلُوا مِمَّا أَمْسَكْنَ عَلَيْكُمْ وَاذْكُرُوا اسْمَ اللَّهِ عَلَيْهِ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ سَرِيعُ الْحِسَابِ",
+			"translations": {
+				"sqi-sherifahmeti": "Të pyesin ty (Muhammed), çka u është lejuar atyre? Thuaju: “U janë lejuar të gjitha ushqimet e mira dhe ai (gjahu) i gjahtarëve (shtazëve) të dresuara që i mësoni ashtu si ju ka mësuar juve All-llahu. Hani, pra, atë që gjahtuan për juve dhe më parë përmendie emrin e All-llahut. Kini dro nga All-llahu pse All-llahu shpejt merr masa",
+				"sqi-hasanefendinahi": "Të pyesin ty (muslimanët) ç’është e lejueshme që të hanë ata. Thuaju (o Muhammed!): “U lejohet juve çdo gjë që është e bukur dhe at që ua gjuajnë shtazët që i keni stërvitur ju e i përdorni në gjueti, duke qenë ato të mësuara me dijeninë që ua ka dhënë All-llahu juve. Pra, hani ate që ua sjellin juve (kafshët që janë gjuajtur), e përmendni emrin e Perëndisë! Druajuni Perëndisë! Se, All-llahu është llogaritar i shpejtë",
+				"sqi-fetimehdiu": "Të pyesin çka u lejohet. Thuaj: ju lejohen ushqimet e mira dhe ajo çka ua gjahtojnë kafshët të cilat i keni mësuar për gjahtim, ashtu siç u ka mësuar juve All-llahu. Hani atë që ua zënë ata dhe përmendne emrin e All-llahut me atë rast, dhe frikësohuni All-llahut, sepse All-llahu është me të vërtetë, i shpejtë në llogari"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 5,
+			"textAr": "الْيَوْمَ أُحِلَّ لَكُمُ الطَّيِّبَاتُ ۖ وَطَعَامُ الَّذِينَ أُوتُوا الْكِتَابَ حِلٌّ لَكُمْ وَطَعَامُكُمْ حِلٌّ لَهُمْ ۖ وَالْمُحْصَنَاتُ مِنَ الْمُؤْمِنَاتِ وَالْمُحْصَنَاتُ مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ مُحْصِنِينَ غَيْرَ مُسَافِحِينَ وَلَا مُتَّخِذِي أَخْدَانٍ ۗ وَمَنْ يَكْفُرْ بِالْإِيمَانِ فَقَدْ حَبِطَ عَمَلُهُ وَهُوَ فِي الْآخِرَةِ مِنَ الْخَاسِرِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Sot u lejuan për ju ushqimet e mira, edhe ushqimet (të therrurat) e ithtarëve të librit janë të lejuara (hallall) për ju, edhe ushqimet (të therrurat) tuaja janë të lejuara për ta (u janë lejuar). Gratë e ndershme besimtare, dhe (gra) të ndershme nga ata të cilëve u është dhënë libri para jush, kur atyre u jepni pjesën e caktuar të kurorës, por duke pasur për qëllim martesën, jo imoralitetin dhe jo si dashnore ilegale. E kush mohon (tradhton) besimin, ai ka asgjësuar veprën e vet dhe ai në botën tjetër është prej të shkatërruarve",
+				"sqi-hasanefendinahi": "Sot u janë lejuar gjërat e mira e të pastra. U janë lejuar juve edhe ushqimet e ithtarëve të Librit, si dhe ushqimet tuaja janë të lejuara për ata. Dhe janë të lejuara për ju femrat e ndershme besimtare; dhe femrat e ndershme të atyre që u është dhënë Libri para jush, kur t’jua jepni dhuratat e kurorëzimit, duke u martua me ato, e duke mos bërë me to kurvëri, as duke i marrë për mikesha (konkubine). Kushdo që mohon besimin, puna e tij është e falimentuar. Ai në Ditën e Kijametit do të jetë nga të dënuarit",
+				"sqi-fetimehdiu": "Sot ju lejohen tëa ushqimet e mira; dhe ju lejohen ushqimet e ithtarëve të Librit; edhe atyre u lejohen ushqimet tuaja. Gjithashtu edhe besimtaret e ndershme i keni të lejuara, por edhe ato që janë të ndershme prej atyre që u është dhënë Libër përpara jush, pasi që t’ua jepni dhuratat e kurorës së tyre me nderë e fisnikëri, e jo të bëni amoralitet me to dhe t’i merrni si mikesha (dashnore). Ndërsa ai që e mohon besimin, atij i ka shkuar kot puna e vet dhe ai do të jetë i humbur në botën tjetër"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 6,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا قُمْتُمْ إِلَى الصَّلَاةِ فَاغْسِلُوا وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى الْمَرَافِقِ وَامْسَحُوا بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى الْكَعْبَيْنِ ۚ وَإِنْ كُنْتُمْ جُنُبًا فَاطَّهَّرُوا ۚ وَإِنْ كُنْتُمْ مَرْضَىٰ أَوْ عَلَىٰ سَفَرٍ أَوْ جَاءَ أَحَدٌ مِنْكُمْ مِنَ الْغَائِطِ أَوْ لَامَسْتُمُ النِّسَاءَ فَلَمْ تَجِدُوا مَاءً فَتَيَمَّمُوا صَعِيدًا طَيِّبًا فَامْسَحُوا بِوُجُوهِكُمْ وَأَيْدِيكُمْ مِنْهُ ۚ مَا يُرِيدُ اللَّهُ لِيَجْعَلَ عَلَيْكُمْ مِنْ حَرَجٍ وَلَٰكِنْ يُرِيدُ لِيُطَهِّرَكُمْ وَلِيُتِمَّ نِعْمَتَهُ عَلَيْكُمْ لَعَلَّكُمْ تَشْكُرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat! Kur doni të ngriteni për të falur namazin, lani fytyrat tuaja dhe duart tuaja deri në bërryla; fërkoni kokat tuaja, e këmbët lani deri në dy zogjt. Nëse jeni xhunubë, atëherë pastrohuni (lahuni)! Në qoftë se jeni të sëmurë, ose në ndonjë udhëtim, ose ndonjëri prej jush vjen prej vendit të nevojës, ose keni kontaktuar me gratë dhe nuk gjeni ujë, atëherë mësyne (merrni tejemum) dheun e pastër dhe me të fërkoni fytyrat dhe duart tuaja. All-llahu nuk dëshiron (me obligim për abdest e larje) t’iu sjellë ndonjë vështirësi, por dëshiron t’ju pastroj të mirën e Tij ndaj jush e që t’i falënderoheni",
+				"sqi-hasanefendinahi": "O besimtarë! Kur doni të bëni namaz lanie fytyrën dhe duart tuaja dei në bërryla dhe fshinie kokën me dorë të lagët; lani edhe këmbët deri në nyje. E, nëse jeni xhunub, pastrohuni! Por, në qoftë se jeni të sëmurë (që mund t’u dëmtojë uji), ose gjendnei në udhëtim, ose ndonjëri nga ju vie pas kryerjes së nevojës natyrore, ose nëse keni pasur marrëdhënie (seksuale) me granitë e nuk gjeni ujë, atëherë gjeni (bëni tejemmum) në dhé të pastër dhe fshinie fytyrat tuaja dhe duart me te. All-llahu nuk dëshiron t’ju krijojë ndonjë vështirësi juve, por dëshiron t’ju pastrojë juve dhe t’i plotësojë dhuntitë e Tij ndaj jush, që të jeni falenderues",
+				"sqi-fetimehdiu": "O besimtarë, kur të niseni të falni namazin lani fytyrat tuaja edhe duart tuaja me gjithë bërryla – kurse kokën tuaj fërkone (bëni mes-h), edhe këmbët tuaja deri mbi zog të këmbës. Dhe nëse jeni të papastër (xhunub), atëherë-pastrohuni! Po nëse jeni të sëmurë ose në rrugë, ose në qoftë se keni kryer nevojë natyrore apo keni pasur marrëdhënie me gratë tuaja e nuk gjeni ujë, atëherë me duartë tuaja prekni tokën e pastër dhe lëmoni fytyrat tuaja dhe duart tuaja, All-llahu nuk do t’ju bëjë vështirësi, por do t’ju pastrojë dhe t’iu plotësojë dhuntinë e vet që të jeni mirënjohës"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 7,
+			"textAr": "وَاذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ وَمِيثَاقَهُ الَّذِي وَاثَقَكُمْ بِهِ إِذْ قُلْتُمْ سَمِعْنَا وَأَطَعْنَا ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+			"translations": {
+				"sqi-sherifahmeti": "Përkujtoni dhuntinë e All-llahut, që ju dha (fenë Islame) dhe zotimin e Tij, të cilin e pat marr prej jush kur thatë: “Dëgjuam e respektuam”. Kinie frikë All-llahun, pse All-llahu i di shumë mirë të fshehtat në gjoksa (në zemra)",
+				"sqi-hasanefendinahi": "Kujtonie dhuntinë e Perëndisë dhe obligimin me të cilin u ka obliguar Ai juve, kur thatë: “Dëgjuam dhe u bindëm!” Druajuni Perëndisë! Se, All-llahu, di ç’keni në zemrat tuaja",
+				"sqi-fetimehdiu": "Dhe kujtone mëshirën e All-llahut me të cilën ju ka mbuluar dhe besën me çka u ka futur nën obligime kur thatë: “Dëgjuam dhe u bindëm!” Frikohuni pra All-llahut, sepse All-llahu, pa dyshim, di se çka keni në zemra"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 8,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا كُونُوا قَوَّامِينَ لِلَّهِ شُهَدَاءَ بِالْقِسْطِ ۖ وَلَا يَجْرِمَنَّكُمْ شَنَآنُ قَوْمٍ عَلَىٰ أَلَّا تَعْدِلُوا ۚ اعْدِلُوا هُوَ أَقْرَبُ لِلتَّقْوَىٰ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ خَبِيرٌ بِمَا تَعْمَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat! Bëhuni plotësisht të vendosur për hir të All-llahut, duke dëshmuar të drejtën, dhe të mos u shtyjë urrejtja ndaj një populli e t’i shmangeni drejtësisë; bëhni të drejtë se ajo është më afër devotshmërisë. Kinie dro Alahun se All-llahu di holësiht për atë që veproni",
+				"sqi-hasanefendinahi": "O besimtarë! – bëhuni të qëndrueshëm në urdhërat e Perëndisë dhe bëhuni dëshmues me të drejtë! Le të mos u nxis juve urrejtja ndaj një kombi për të bërë padrejtësi. Bëhuni të drejtë (ndaj miqve dhe armiqve), se drejtësia është më afër takvasë (dispozitave të islamizmit), dhe durajuni Perëndisë! Se, All-llahu, është i dijshëm për çdo gjë që punoni ju",
+				"sqi-fetimehdiu": "O besimtarë, kryeni obligimet ndaj All-llahut dhe dëshmoni drejt! Kurrsesi urrejtja që keni ndaj disa njerëzve nuk duhet t’ju shtyjë të bëheni të padrejtë. Bëhuni të drejtë, ajo është më së afërti devotshmërisë, dhe frikësohuni All-llahut, sepse All-llahu është informuar mirë se çka bëni"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 9,
+			"textAr": "وَعَدَ اللَّهُ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ ۙ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Atyre që besuan dhe bënë vepra të mira, All-llahu u premtoi falje për mëkate dhe shpërblim të madh",
+				"sqi-hasanefendinahi": "All-llahu u ka premtuar atyre që besojnë dhe bëjnë vepra të mira – falje (të mëkateve) dhe shpërblim të madh",
+				"sqi-fetimehdiu": "Atyre që besojnë dhe bëjnë vepra të mira All-llahu u ka premtuar falje dhe shpërblim të madh"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 10,
+			"textAr": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ",
+			"translations": {
+				"sqi-sherifahmeti": "E ata që mohuan dhe përgënjeshtruan argumentet Tona, ata janë banues të Xhehennemit",
+				"sqi-hasanefendinahi": "kurse atyre që nuk kanë besuar dhe që kanë mohuar argumentet tona – ata do të jenë banorë të zjarrit",
+				"sqi-fetimehdiu": "Kurse ata që nuk besojnë dhe i mohojnë argumentet tona, ata janë banorë të xhehenemit"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 11,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا نِعْمَتَ اللَّهِ عَلَيْكُمْ إِذْ هَمَّ قَوْمٌ أَنْ يَبْسُطُوا إِلَيْكُمْ أَيْدِيَهُمْ فَكَفَّ أَيْدِيَهُمْ عَنْكُمْ ۖ وَاتَّقُوا اللَّهَ ۚ وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat! Përkujtone të mirën e All-llahut ndaj jush kur, një populltentoitë zgjasë duart e veta (për mbytje) kundër jush, krse Ai zmbrapsi duart e tyre prej jush. Respektonie All-llahun (duke zbatuar urdhërat e Tij) dhe vetëm All-llahut le t’i mbështeten besimtarët",
+				"sqi-hasanefendinahi": "O besimtarë! – kujtonie dhuntinë e Perëndisë, të cilën ua dhuroi atë ditë kur një grup njerëzish deshën t’u dëmtojnë juve me duart e tyre prej jush. Druajuni Perëndisë! Dhe le të mbështetën vetëm te All-llahu besimtarët",
+				"sqi-fetimehdiu": "O besimtarë, kujtone dhuntinë e All-llahut ndaj jush kur disa njerëz dëshë t’ju zënë (sulmojnë), por Ai i pengoi. Dhe frikësohuni All-llahut, dhe besimtarët le të mbështeten vetëm te All-llahu"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 12,
+			"textAr": "۞ وَلَقَدْ أَخَذَ اللَّهُ مِيثَاقَ بَنِي إِسْرَائِيلَ وَبَعَثْنَا مِنْهُمُ اثْنَيْ عَشَرَ نَقِيبًا ۖ وَقَالَ اللَّهُ إِنِّي مَعَكُمْ ۖ لَئِنْ أَقَمْتُمُ الصَّلَاةَ وَآتَيْتُمُ الزَّكَاةَ وَآمَنْتُمْ بِرُسُلِي وَعَزَّرْتُمُوهُمْ وَأَقْرَضْتُمُ اللَّهَ قَرْضًا حَسَنًا لَأُكَفِّرَنَّ عَنْكُمْ سَيِّئَاتِكُمْ وَلَأُدْخِلَنَّكُمْ جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ فَمَنْ كَفَرَ بَعْدَ ذَٰلِكَ مِنْكُمْ فَقَدْ ضَلَّ سَوَاءَ السَّبِيلِ",
+			"translations": {
+				"sqi-sherifahmeti": "në të vërtet All-llahu pat marrë zotimin e beni israilve. Dhe prej tyre dërguam (caktuam) dymbëdhjetë prijës. All-llahu tha: “Unë jamë (mbrojtës) me ju!” Në qoftë se falni namazin, e jepni zeqatin, u besoni të dërguarve të Mi dhe u ndihmoni atyre, huazoni për hirë të All-llahut hua rë mirë, Ai patjetër do t’ju shlyejmëkatet tuaja dhe do t’ju shtie në zhenete nën të cilët rrjedhin lumenj. E kush kundërshton pas këtij (zotimi) prej jush, ai e ka humbur rrugën e drejtë",
+				"sqi-hasanefendinahi": "Me të vërtetë, All-llahu mori premtimin e bijve të Israilit dhe nga mesi i tyre caktoi dymbëdhjetë kujdestarë (mbikëqyrës), – dhe All-llahu tha: “Unë jam (në ndihmën tuaj)! Në qoftë se do të kryeni namazin e jepni zeqatin, e besoni pejgamberët e Mi, i ndihmoni ata dhe t’i jepni vullnetarisht hua Perëndisë (në rrugën e Tij), atëherë, Na, me të vërtetë, do t’ju mbulojmë mëkatet tuaja dhe do t’ju shpiem në kopshtije, nëpër të cilat rrjedhin lumenj. E, ai që prej jush mohon edhe pas kësaj, me të vërtetë, e ka humbur rrugën e drejtë",
+				"sqi-fetimehdiu": "All-llahu ka marrë besën e izraelitëve – dhe ne dërguam prej atyre dymbëdhjetë mbikëqyrës, dhe All-llahu u tha: “Unë jam me ju! Në qoftë se e kryeni faljen dhe jepni zeqatin, dhe nëse u besoni profetëve të mi, u ndihmoni atyre dhe vullnetarisht i jepni hua All-llahut, gjithsesi veprat tuaja të këqija do t’ua mbuloj dhe do t’ju shpiej në xhennet ku do të rrjedhin lumenj. Kurse ai, nga mesi juaj, i cili edhe pas kësaj nuk beson – ai krejtësisht e ka humbur rrugën e drejtë.”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 13,
+			"textAr": "فَبِمَا نَقْضِهِمْ مِيثَاقَهُمْ لَعَنَّاهُمْ وَجَعَلْنَا قُلُوبَهُمْ قَاسِيَةً ۖ يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِهِ ۙ وَنَسُوا حَظًّا مِمَّا ذُكِّرُوا بِهِ ۚ وَلَا تَزَالُ تَطَّلِعُ عَلَىٰ خَائِنَةٍ مِنْهُمْ إِلَّا قَلِيلًا مِنْهُمْ ۖ فَاعْفُ عَنْهُمْ وَاصْفَحْ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Për shkak se ata e thyen zotimin e tyre, Ne i mallkuam ata, dhe zemrat e tyre i bëmë të forta (të shtangura). Ata i ndryshojnë fjalët (në Tevrat) nga domethënia e tyre dhe braktisën një pjesë me të cilën ishin urdhëruar. Ti vazhdimisht do të vërejsh tradhtinë e një pjese të tyre, përpos një pakice nga ata. Pra falju dhe hiqu tyre. All-llahu ido ata që bëjnë mirë",
+				"sqi-hasanefendinahi": "Për shkak se ata e thyen obligimin e tyre, Na i mallkuam ata dhe ua forcuam (si gur) zemrat e tyre. Ata ngatërrojnë rendin e fjalëve nga vendet e tyre, duke harruar një pjesë nga ato këshilla. Ti përherë do të vërejsh tradhëtinë e tyre, përpos një pakice të tyre, pra, falju atyre fajet dhe mos i qorto! Se, All-llahu, i don bamirësat",
+				"sqi-fetimehdiu": "Mirëpo, për shkak se e kanë thyer besën e tyre, Ne i kemi mallkuar dhe zemrat e tyre i bëmë të ashpra. Ata i luajtën fjalët nga vendi i tyre, kurse një pjesë të madhe të atyre me çka qenë qortuar i harruan. Andaj ti vazhdimisht, te ata, përveç të një numri të vogël, do të kesh vetëm tradhtarë, por faljau dhe mos i shaj! All-llahu me të vërtetë i do ata që bëjnë vepra të mira"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 14,
+			"textAr": "وَمِنَ الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ أَخَذْنَا مِيثَاقَهُمْ فَنَسُوا حَظًّا مِمَّا ذُكِّرُوا بِهِ فَأَغْرَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ إِلَىٰ يَوْمِ الْقِيَامَةِ ۚ وَسَوْفَ يُنَبِّئُهُمُ اللَّهُ بِمَا كَانُوا يَصْنَعُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne e morëm zotimin dhe të atyre që thanë: “Ne jemi nesara” e edhe ata e harruan një pjesë të saj me të cilën ishin udhëzuar, andaj Ne kemi ndërsyer armiqësinë e urrejtjen ndërmjet tyre deri në dtën e kijametit. E më vonë All-llahu do t’injohtojë ata me atë që bënë",
+				"sqi-hasanefendinahi": "Dhe prej atyre që thanë: “Jemi të krishterë”, kemi marrë premtimin e tyre, por edhe këta kanë harruar një pjesë nga ato që janë këshilluar, prandaj ua shtiem armiqësinë dhe urrejtjen në mes tyre deri në Ditën e Kijametit. Se, All-llahu, me të vërtetë, di t’i lajmërojë ata për ato që kanë punuar",
+				"sqi-fetimehdiu": "Edhe prej atyre që thonë: “Ne jemi të krishterë”, Ne kemi marrë besën e tyre, por e kanë harruar një pjesë të mirë të asaj me çka kanë qenë të qortuar, prandaj u kemi shtënë urrejtjen në mes tyre deri në ditën e kijametit; kurse All-llahu ka për t’i informuar për atë çka kanë bërë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 15,
+			"textAr": "يَا أَهْلَ الْكِتَابِ قَدْ جَاءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ كَثِيرًا مِمَّا كُنْتُمْ تُخْفُونَ مِنَ الْكِتَابِ وَيَعْفُو عَنْ كَثِيرٍ ۚ قَدْ جَاءَكُمْ مِنَ اللَّهِ نُورٌ وَكِتَابٌ مُبِينٌ",
+			"translations": {
+				"sqi-sherifahmeti": "O ithtarë të librit, juve ju erdhi i dërguari Jonë që ju sqaron shumë nga ajo që fshihnit prej librit, e për shumë nuk jep sqarime. Juve ju erdhi erdhi nga All-llahu dritë, dhe libër i qartë",
+				"sqi-hasanefendinahi": "O ithtarët e Librit! Ju erdhi juve Pejgamberi Ynë i cili u shpjegon gjëra nga to që i keni fshehur ju prej Librit (Teuratit dhe Ungjillit) dhe ju falë shumë (kalon në heshtje). E, prej Perëndisë ju erdh juve dritë (Pejgamberi) dhe Libri i qartë (Kur’ani)",
+				"sqi-fetimehdiu": "O ithtarë të Librit, ju ka ardhur Profeti ynë që t’ju shkoqisë shumë gjëra nga ato çështje të cilat ju i fshihni nga libri dhe shumë gjëra do t’i falë. E nga All-llahu u pat ardhur një dritë dhe një Libër i qartë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 16,
+			"textAr": "يَهْدِي بِهِ اللَّهُ مَنِ اتَّبَعَ رِضْوَانَهُ سُبُلَ السَّلَامِ وَيُخْرِجُهُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ بِإِذْنِهِ وَيَهْدِيهِمْ إِلَىٰ صِرَاطٍ مُسْتَقِيمٍ",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahu e vë me atë (me Kur’anin) në rrugët e shpëtimit atë që ndjek kënaqësinë e tij dhe me ndihmën e Tij i nxjerr ata prej errësirave në dhe i udhëzon në një rrugë që është e drejtë",
+				"sqi-hasanefendinahi": "me të cilin All-llahu i drejton ata që ndjekin kënaqësinë e Tij, në rrugën e shpëtimit, i nxjerr nga errësira në dritë me lejen e Vet dhe i shpie në rrugën e drejtë",
+				"sqi-fetimehdiu": "Me të cilin All-llahu udhëzon rrugëve të shpëtimit ata që anojnë të fitojnë kënaqësinë e Tij, dhe i nxjerr, sipas dëshirës së tij, nga terri në dritë, dhe i drejton në rrugë të drejtë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 17,
+			"textAr": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ ۚ قُلْ فَمَنْ يَمْلِكُ مِنَ اللَّهِ شَيْئًا إِنْ أَرَادَ أَنْ يُهْلِكَ الْمَسِيحَ ابْنَ مَرْيَمَ وَأُمَّهُ وَمَنْ فِي الْأَرْضِ جَمِيعًا ۗ وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۚ يَخْلُقُ مَا يَشَاءُ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "E mohuan (e bënë kufr) të vërtetën ata që thanë se: “Zot është ai, Mesihu bir i Merjemes” Thuaju: “Nëse dëshiron All-llahu ta shkatërrojë Mesihun, birin e Merjemes, nënën e tij dhe gjithë ç’ka në tokë, kush mund ta pengojë atë?” Vetëm Atij i takon pushteti i qiejve, i tokës dhe ç’ka mes tyre. Ai krijon çdo gjë që dëshiron. All-llahu është i gjithfuqishëm për çdo gjë",
+				"sqi-hasanefendinahi": "Me të vërtetë, kanë mohuar (të Vërtetën) ata që thonë: “Me siguri perëndi është Mesihu, i biri i Merjemës!” Thuaj: “Kush mund të pengojë gjë në punët e Perëndisë, nëse Ai don ta zhdukë Mesihun, të birin e Merjemës dhe nënën e tij dhe gjithë çka gjendet në Tokë?” E pronë e Perëndisë janë: qiejt, Toka dhe çdo gjë që gjendet në mes tyre. Ai krijon çka të dojë, dhe All-llahu është i Plotëfuqishëm për çdo gjë",
+				"sqi-fetimehdiu": "Njëmend mosbesimtarë janë ata të cilët thonë: “Zot është ai, Mesihi i biri i Merjemes!” thuaj: “Kush mund t’i bëjë diçka All-llahut nëse do ta zhdukë Mesihin, të birin e Merjemes, edhe nënën e tij dhe gjithë çka ka në tokë”? Pushteti i All-llahut është në qiej dhe në tokë edhe në atë çka është ndërmjet tyre; Ai krijon çka do dhe All-llahu mund të bëjë çdo send"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 18,
+			"textAr": "وَقَالَتِ الْيَهُودُ وَالنَّصَارَىٰ نَحْنُ أَبْنَاءُ اللَّهِ وَأَحِبَّاؤُهُ ۚ قُلْ فَلِمَ يُعَذِّبُكُمْ بِذُنُوبِكُمْ ۖ بَلْ أَنْتُمْ بَشَرٌ مِمَّنْ خَلَقَ ۚ يَغْفِرُ لِمَنْ يَشَاءُ وَيُعَذِّبُ مَنْ يَشَاءُ ۚ وَلِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا ۖ وَإِلَيْهِ الْمَصِيرُ",
+			"translations": {
+				"sqi-sherifahmeti": "Jehuditë dhe të krishterët thanë: “Ne jemi bijtë e All-llahut dhe të dashurit e Tij”. Thuaju: “E pse pra, Ai ju dënon me mëkatet tuaja?” Jo, ju jeni njerëz që Ai ju krijoi. Ai i falë atij që do dhe dënon atë që do. Sundimi i qiejive, itokës dhe i githë ç’ka ka në mes tyre është vetëm e All-llahut dhe vetëm te Ai është e ardhmja",
+				"sqi-hasanefendinahi": "Hebrenjt dhe të krishterët kanë thënë: “Na jemi të bijt e Perëndisë dhe të dashurit e Tij”. Thuaj: “E përse ju dënoi (Ai) juve për shkak të mëkateve tuaja? Jo! (Nuk është ashtu si thoni ju), por ju jeni njerëz nga ata që ka krijuar Ai. Ai falë kënd të dojë dhe e dënon kënd të dojë. E, pronë e Perëndisë janë: qiejt, Toka dhe çdo gjë që gjendet në mes tyre. Dhe vetëm tek Ai kthehen të gjithë",
+				"sqi-fetimehdiu": "Ebrejtë dhe të krishterët thonë: “Ne jemi fëmijët e All-llahut dhe të dashurit e tij”! Thuaj: “Po pse pra u dënon për gabimet tuaja”? pra, edhe ju jeni si njerëzit tjerë që i krijoi Ai: Kujt do ia fal e kë don e dënon. Pushteti i All-llahut është në qiej dhe në tokë dhe çka ka ndërmjet tyre, dhe te ai do të kthehen"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 19,
+			"textAr": "يَا أَهْلَ الْكِتَابِ قَدْ جَاءَكُمْ رَسُولُنَا يُبَيِّنُ لَكُمْ عَلَىٰ فَتْرَةٍ مِنَ الرُّسُلِ أَنْ تَقُولُوا مَا جَاءَنَا مِنْ بَشِيرٍ وَلَا نَذِيرٍ ۖ فَقَدْ جَاءَكُمْ بَشِيرٌ وَنَذِيرٌ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "O ihtarë të librit, ju erdhi i dërguari i Jonë, ju sqaron (çështjet e fesë) pas ndërprerjes së të dërguarve, në mënyrë që të mos thoni: “Neve nuk na erdhi as i dërguar që të na përgëzojë, e as të na tërheqë vrejtjen “. Pra ja, ju erdhi përgëzuesi dhe kërcenuesi. All-llahu është fuqiplotë për çdo send",
+				"sqi-hasanefendinahi": "O ithtarë të Librit! – juve ju ka ardhur Pejgamberi Ynë, - shpjeguesi juaj mu në kohë të ndërprerjes së dërgimit të pejgamberëve, për të mos thënë ju (kur të dënoheni), se nuk na ka ardhur ndonjë sihariques e as ndonjë paralajmërues. Por, ja ju erdhi juve sihariquesi dhe paralajmëruesi. Se, All-llahu është i Plotëfuqishëm për çdo gjë",
+				"sqi-fetimehdiu": "O ithtarë të Librit, ju ka ardhur Profeti ynë – në vazhdën e profetëve – që t’ju sqarojë, në mënyrë që të mos thuani “Nuk na ka ardhur as përgëzues as qortues”. Pra, ju ka ardhur përgëzuesi dhe qortuesi, dhe All-llahu ka mundësi për çdo send"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 20,
+			"textAr": "وَإِذْ قَالَ مُوسَىٰ لِقَوْمِهِ يَا قَوْمِ اذْكُرُوا نِعْمَةَ اللَّهِ عَلَيْكُمْ إِذْ جَعَلَ فِيكُمْ أَنْبِيَاءَ وَجَعَلَكُمْ مُلُوكًا وَآتَاكُمْ مَا لَمْ يُؤْتِ أَحَدًا مِنَ الْعَالَمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Përkujto (O i dërguar) kur Musai i tha popullit të vet: “O popull imi, përkujtonie dhuratën e All-llahut ndaj jush, kur në mesin tuaj fërgoi pejgamberë, ju mundësoi të jeni sundues dhe ju dha çka nuk idha askujt nga popujt",
+				"sqi-hasanefendinahi": "(Kujtoje) kur Musai i tha kombit të vet: “O populli im! Kujtonie mirësinë e Perëndisë ndaj jush, kur prej jush bëri pejgamber, dhe ju bëri disa prej jush sundimtarë, dhe juve ju dha atë që nuk i kishte dhënë askujt para jush",
+				"sqi-fetimehdiu": "Dhe kur Musa i tha popullit të vet: “O populli im, kujtone dhuntinë e All-llahut ndaj jush që disa nga ju i bëri profetë, ju bëri të pasur dhe ju ka dhënë atë çka nuk ia ka dhënë askujt në botë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 21,
+			"textAr": "يَا قَوْمِ ادْخُلُوا الْأَرْضَ الْمُقَدَّسَةَ الَّتِي كَتَبَ اللَّهُ لَكُمْ وَلَا تَرْتَدُّوا عَلَىٰ أَدْبَارِكُمْ فَتَنْقَلِبُوا خَاسِرِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "O popull imi, hyni në tokën e shejtë, të cilën All-llahu ua premtoi, dhe mos u ktheni mbrapa, pse atëherë khteheni të dëshpruar",
+				"sqi-hasanefendinahi": "O populli im! Hyni në Tokën e shenjtë që All-llahu ua ka cktuar juve e mos u ktheni prapa, se atëherë do të ktheheni të dëmtuar”. –",
+				"sqi-fetimehdiu": "O populli im, hyni në tokën e shenjtë, të cilën ua ka caktuar All-llahu, dhe mos u zbrapsni e të ktheheni të humbur!”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 22,
+			"textAr": "قَالُوا يَا مُوسَىٰ إِنَّ فِيهَا قَوْمًا جَبَّارِينَ وَإِنَّا لَنْ نَدْخُلَهَا حَتَّىٰ يَخْرُجُوا مِنْهَا فَإِنْ يَخْرُجُوا مِنْهَا فَإِنَّا دَاخِلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata (populli i Musait) thanë: O Musa, aty është një popull i fuqishem (dhunues), prandaj ne nuk do të hyjmë aty kurrë derisa ata të mos dalin nga ajo (të na e lirojnë pa luftë), nëse dalin ata nga ajo, ne nuk hyjmë",
+				"sqi-hasanefendinahi": "ata thanë: “O Musa! – a ty, në atë tokë gjendet popull i pa mëshirë (dhunues), dhe ne në të nuk do të hyjmë pa dalë ata; e nëse dalin ata prej saj, ne atëherë, me siguri do të hyjmë në të”",
+				"sqi-fetimehdiu": "Ata i thanë: “O Musa, aty është një popull i fortë dhe se nuk hyjmë atje deri sa ata të dalin prej aty; e nëse dalin ata prej aty, neme siguri atëherë do të hyjmë”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 23,
+			"textAr": "قَالَ رَجُلَانِ مِنَ الَّذِينَ يَخَافُونَ أَنْعَمَ اللَّهُ عَلَيْهِمَا ادْخُلُوا عَلَيْهِمُ الْبَابَ فَإِذَا دَخَلْتُمُوهُ فَإِنَّكُمْ غَالِبُونَ ۚ وَعَلَى اللَّهِ فَتَوَكَّلُوا إِنْ كُنْتُمْ مُؤْمِنِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dy burra, prej tyre (prijësve) që All-llahu i kishte pajisur me bindje dhe kishin frikën e Tij, thanë: “Hynjy atyre nga dera, e kur t’u hyni nga ajo, atëherë ju jeni ngadhënjyes. Dhe vetëm All-llahut mbështetjuni, nëse jeni besimtarë të sinqertë",
+				"sqi-hasanefendinahi": "Dy njerëz nga ata që i druanin Perëndisë, që i kishte pajisur Ai me mirësi – thanë: “Futuni (befas) në porten e qytetit! E, kur të kaloni nëpër te, me siguri do të jeni fitues. Dhe, nëse jeni besimtarë (të vërtetë), mbështetuni në Perëndinë!”",
+				"sqi-fetimehdiu": "Dy vetë të cilët i janë frikësuar All-llahut dhe që Ai u dhuroi mëshirën e vet, thanë: “Hyni në dyert e atyre, e kur të kaloni nëpër te, do të jeni me siguri ngadhnjimtarë, por kini mbështetje te All-llahu, nëse besoni!”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 24,
+			"textAr": "قَالُوا يَا مُوسَىٰ إِنَّا لَنْ نَدْخُلَهَا أَبَدًا مَا دَامُوا فِيهَا ۖ فَاذْهَبْ أَنْتَ وَرَبُّكَ فَقَاتِلَا إِنَّا هَاهُنَا قَاعِدُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata thanë: “O Musa, ne kurrë nuk hyjmë në të derisa ata janë aty, shko pra ti dhe Zoti yt e luftoni, ne po rrimë këtu!”",
+				"sqi-hasanefendinahi": "Ata thanë: “O Musa! Na kurrsesi nuk do të hyjmë atje, përderisa aty të gjenden ata. Shko ti te Zoti yt e luftoni ata. Se ne do të rrimë këtu”",
+				"sqi-fetimehdiu": "“O Musa – thanë ata, - deri sa të jenë ata në atë vend ne kurrë nuk do të hyjmë aty! Shko ti dhe Zoti yt dhe luftoni, ne do të rrimë këtu”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 25,
+			"textAr": "قَالَ رَبِّ إِنِّي لَا أَمْلِكُ إِلَّا نَفْسِي وَأَخِي ۖ فَافْرُقْ بَيْنَنَا وَبَيْنَ الْقَوْمِ الْفَاسِقِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "(Musai) Tha: “Zoti im! Unë nuk kam në dorë pos vetes sime dhe as vëllai im (Haruni nuk ka në dorë pos vetvetes, ose: pos vetes sime dhe vëllai tim), ndana, pra, neve prej popullit të fëlliqtë",
+				"sqi-hasanefendinahi": "Musai tha: “O Zotim im! Unë jam i pushtetshëm vetëm për vete dhe vllaun tim. O Zot! Ndana neve prej këtij populli të korruptuar!”",
+				"sqi-fetimehdiu": "“O Zoti im”, tha ai (Musa), “Unë nuk kam askë përveç vetes dhe vëllaut tim, prandaj Ti gjyko në mes nesh dhe popullit të mbrapshtë”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 26,
+			"textAr": "قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيْهِمْ ۛ أَرْبَعِينَ سَنَةً ۛ يَتِيهُونَ فِي الْأَرْضِ ۚ فَلَا تَأْسَ عَلَى الْقَوْمِ الْفَاسِقِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "(All-llahu) Tha: “Ajo (tokë) është e ndaluar (haram) për ta katërdhjetë vjet. Do të sillen nëpër tokë (të hutuar). Ti mos u keqëso për popullin e shfrenuar",
+				"sqi-hasanefendinahi": "All-llahu tha: “Ajo (toka e shenjtë) u është ndaluar dyzet vjet atyre. Ata do të bredhin nëpër tokë. E, mos u zemro ndaj atij populli ngatërrestar”",
+				"sqi-fetimehdiu": "“Ata, - tha ai, - do të bredhin dyzet vjet nëpër tokë, sepse atë (tokën e shenjtë) e kanë të ndaluar, e ti mos u pikëllo për popullin mbrapshtan!”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 27,
+			"textAr": "۞ وَاتْلُ عَلَيْهِمْ نَبَأَ ابْنَيْ آدَمَ بِالْحَقِّ إِذْ قَرَّبَا قُرْبَانًا فَتُقُبِّلَ مِنْ أَحَدِهِمَا وَلَمْ يُتَقَبَّلْ مِنَ الْآخَرِ قَالَ لَأَقْتُلَنَّكَ ۖ قَالَ إِنَّمَا يَتَقَبَّلُ اللَّهُ مِنَ الْمُتَّقِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Lexoju (Muhammed) atyre (jehudive e të tjerëve) ngjarjen e vërtetë të dy djemve të Ademit, kur të dy flijuan kurbanë, nga të cilët njërit iy pranua. Ai (që nuk iu pranua) tha: “Unë do të të mbys ty” (Kabili i tha Habilit). E ai (që iu pranua) tha: “All-llahu pranon vetëmprej tësinqertëve”",
+				"sqi-hasanefendinahi": "Tregoju (o Muhammed!) saktësisht atyre (popullit tënd) ngjarjen e dy bijve të Ademit, kur ata therrën kurban, njërit iu pranua, kurse tjetrit jo. Tha – njëri: “Tu gjithsesi do të mbysë”. Tjetri tha: “All-llahu pranon (kurbanin) vetëm prej atij që ruhet prej mëkatesh",
+				"sqi-fetimehdiu": "dhe rrëfeju tregimin për dy djemtë e Ademit, realisht, kur të dy bënë nga një kurban, por vetëm prej njërit u pranua e prej tjetrit nuk u pranua, e tha: “Me siguri do të mbyt”! E tjetri i tha: “All-llahu pranon prej të devotshmëve”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 28,
+			"textAr": "لَئِنْ بَسَطْتَ إِلَيَّ يَدَكَ لِتَقْتُلَنِي مَا أَنَا بِبَاسِطٍ يَدِيَ إِلَيْكَ لِأَقْتُلَكَ ۖ إِنِّي أَخَافُ اللَّهَ رَبَّ الْعَالَمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe, nëse ti e zgjatë te unë dorën tënde për të më mbytur, unë nuk e zgjas te ti dorën për të mbytur; unë i frikësohem All-llahut, Zotit të botërave!”",
+				"sqi-hasanefendinahi": "Nëse ti ngre dorë të më vrasësh mua, unë në të vërtetë nuk do ta ngre dorën në ty që të të vras. Dhe unë me të vërtetë, i druaj Perëndisë, Zotit të gjithësisë",
+				"sqi-fetimehdiu": "Dhe sikur ti të shtrishe dorën për të më vrarë, unë nuk e shtri dorën time për të vrarë ty. Unë i frikësohem All-llahut, Zotit të botërave"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 29,
+			"textAr": "إِنِّي أُرِيدُ أَنْ تَبُوءَ بِإِثْمِي وَإِثْمِكَ فَتَكُونَ مِنْ أَصْحَابِ النَّارِ ۚ وَذَٰلِكَ جَزَاءُ الظَّالِمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Unë (nuk dua të të mbys, por) dua që ta barësh mëkatin tim dhe mëkatin tënd, e të bëhesh nga banorët e zjarrit, e ai është dënim i zullumqarëve",
+				"sqi-hasanefendinahi": "Unë preferoj që ti të kthehesh me mëkatin tim dhe me mëkatin tënd (për vrasjen time dhe për kundrështimin tënd); e kështu të bëhesh ndër banorët e zjarrit. E, ky është ndëshkimi i zullumqarëve”",
+				"sqi-fetimehdiu": "Unë dëshiroj që ti të bartësh mëkatin tim dhe tëndin dhe të jesh banor i xhehennemit, sepse ai është dënim për mizorët"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 30,
+			"textAr": "فَطَوَّعَتْ لَهُ نَفْسُهُ قَتْلَ أَخِيهِ فَقَتَلَهُ فَأَصْبَحَ مِنَ الْخَاسِرِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Atëherë epshi i tij e bindi atë për mbytjen e të vëllait dhe e mbyti atë. Ai mbeti prej më të dëshpruarve (hidhëroi prindëtit, mbeti pa vëlla, u përbuz prej Zotit dhe u fut në Xhehennem)",
+				"sqi-hasanefendinahi": "Vetja e tij e nxiti në vrasjen e të vëllait, dhe e mbyti. Kështu, ai u bë njëri nga të humburit",
+				"sqi-fetimehdiu": "Dhe epshi i tij e shpuri që të mbysë vëllanë dhe e mbyti, prandaj u bë nga të humburit"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 31,
+			"textAr": "فَبَعَثَ اللَّهُ غُرَابًا يَبْحَثُ فِي الْأَرْضِ لِيُرِيَهُ كَيْفَ يُوَارِي سَوْءَةَ أَخِيهِ ۚ قَالَ يَا وَيْلَتَا أَعَجَزْتُ أَنْ أَكُونَ مِثْلَ هَٰذَا الْغُرَابِ فَأُوَارِيَ سَوْءَةَ أَخِي ۖ فَأَصْبَحَ مِنَ النَّادِمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahu dërgoi një sorrë, e cila groponte në dhe, për r’i reguar atij se si ta mbulojë trupin e të vëllait. E ai i tha: “I mjei unë, a nuk qesh i afrë të bëhem si kjo sorrë, e a mbuloja trupin e vëllait tim?” Ashtu mbeti i penduar",
+				"sqi-hasanefendinahi": "All-llahu e dërgoi një sorrë, e cila gropontë në tokë, për t’i treguar se si ta mbulojë trupin e kalbur të vëllait të tij. (Kabili) tha: “Mjeri unë, a nuk qenkam i zoti të bëhem si kjo sorrë e ta mbuloj trupin e tim vëllau?!” E u bë nga të penduarit",
+				"sqi-fetimehdiu": "All-llahu dërgoi një sorrë të çapurisë nëpër tokë për t’i treguar si duhet fshehur trupin e vëllaut të vet. “I mjeri unë!” tha ai, - “E unë as sa kjo sorrë nuk mundkam të fsheh trupin e vëllaut tim”? Dhe u pendua"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 32,
+			"textAr": "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِي إِسْرَائِيلَ أَنَّهُ مَنْ قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا ۚ وَلَقَدْ جَاءَتْهُمْ رُسُلُنَا بِالْبَيِّنَاتِ ثُمَّ إِنَّ كَثِيرًا مِنْهُمْ بَعْدَ ذَٰلِكَ فِي الْأَرْضِ لَمُسْرِفُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Për këtë (shkak të atij krimi) Neu shpallëm (ligji) beni israilve se kush mbyt një njeri (pa të drejtë), pa pasë mbytur ai ndonjë tjatër dhe p pasë bërë ai ndonjë shkatërrim në tokë, atëherë (krimi i tij) është si t’i kishte mbytur gjithë njerëzit. E kush e ngjall (bëhet shkak që të jetë ai gjallë) është si t’i kishte ngjallur (shpëtuar) të gjithë njerëzit. Atyre (beni israilve) u erdhën të dërguarit Tanë me argumente, mandej edhe pas këtij (vendimi) shumë prej tyre e teprojnë (kalojnë kufinjt në mbytje) në këtëtokë",
+				"sqi-hasanefendinahi": "Andaj Na i urdhëruam Izrailitët, se ai që mbyt ndokend, i cili s’ka mbytur askend, ose atë që nuk ka bërë çrregullim në Tokë – është sikur t’i mbysish të gjithë njerëzit; e nëse ndokush bëhet shkaktar që të shpëtojë jetën e ndokujt – është sikur me i shpëtuar jetën e të gjithë njerëzve. Pejgamberët tanë u kanë sjellë argumente të qarta, por shumë nga ata edhe pas kësaj, kanë kaluar tërë kufijt me të këqija në Tokë",
+				"sqi-fetimehdiu": "Prandaj Ne ua caktuam izraelitëve: Nëse dikush mbyt dikë, i cili nuk ka mbytur askë, ose nuk ka bërë në tokë turbullira – sikur ka mbytur tërë njerëzinë; por kush bëhet shkaktar për të jetuar dikush, - sikur tërë njerëzisë ua ka ruajtur jetën. Profetët tanë u kanë sjellë argumente të qarta, por shumica prej tyre, edhe pas asaj e teprojnë në tokë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 33,
+			"textAr": "إِنَّمَا جَزَاءُ الَّذِينَ يُحَارِبُونَ اللَّهَ وَرَسُولَهُ وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا أَنْ يُقَتَّلُوا أَوْ يُصَلَّبُوا أَوْ تُقَطَّعَ أَيْدِيهِمْ وَأَرْجُلُهُمْ مِنْ خِلَافٍ أَوْ يُنْفَوْا مِنَ الْأَرْضِ ۚ ذَٰلِكَ لَهُمْ خِزْيٌ فِي الدُّنْيَا ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Dënimi i atyre që luftojnë (kunddërshtojnë) All-llahun dhe të dërguarin e Tij dhe bëjnë shkatërrime në tokë, nuk është vetëm se të mbyten ose të gozhdohen, ose (të gjymtohen), t’u priten duart dhe këmbët e tyre të anëve të kundërta, ose të dëbohen nga vendi. Kjo (masë ndëshkuese) është poshtërim për ta në dynja, dhe në botën tjetër ata do të kenë dënim të madh",
+				"sqi-hasanefendinahi": "Ndëshkimi i atyre që luftojnë kundër Perëndisë dhe të dërguarit të Tij dhe të cilët bëjnë ngatërresa në Tokë është të vriten ose të varen, ose t’u këputen duart dhe këmbët e tyre nga anët e ndryshme (djathtas e majtas), ose të dëbohen nga vendi. Ky ndëshkim për ta është poshtërim në këtë jetë, e në jetën tjetër ka mundim të madh për ta",
+				"sqi-fetimehdiu": "Shpërblimi i atyre të cilët bëjnë luftë kundër All-llahut dhe Profetit të tij dhe që bëjnë çrregullime në tokë, është: të vriten ose të gozhdohen, ose t’u priten duart dhe këmbët tërthorazi, ose të përzihen prej andej. Ajo është poshtërim në këtë botë, kurse në botën tjetër i pret dënim i madh"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 34,
+			"textAr": "إِلَّا الَّذِينَ تَابُوا مِنْ قَبْلِ أَنْ تَقْدِرُوا عَلَيْهِمْ ۖ فَاعْلَمُوا أَنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Përveç atyre që janë penduar para se tçi kapni. E, dine pra se All-llahu bën falje të madhe, është mëshirues",
+				"sqi-hasanefendinahi": "përveç atyre që pendohen pa i zënë ju. Dinie se All-llahu është falës dhe mëshirues",
+				"sqi-fetimehdiu": "Përveç atyre që pendohen para se t’u vijë fundi. Duhet ta dini, pra, se All-llahu është falës mëshirëplotë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 35,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَابْتَغُوا إِلَيْهِ الْوَسِيلَةَ وَجَاهِدُوا فِي سَبِيلِهِ لَعَلَّكُمْ تُفْلِحُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat! Kinie frikë All-llahun dhe kërkoni afrim te Ai, luftoni në rrugën e Tij që të gjeni shpëtim",
+				"sqi-hasanefendinahi": "O besimtarë! Kinie frikë Perëndinë dhe tentoni që t’i afroheni Atij me vepra të mira, dhe luftoni në rrugën e Tij për të shpëtuar",
+				"sqi-fetimehdiu": "O besimtarë, frikësohuni All-llahut dhe përpiquni të jeni të afërt dhe luftoni për hirë të Tij, që të shpëtoni"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 36,
+			"textAr": "إِنَّ الَّذِينَ كَفَرُوا لَوْ أَنَّ لَهُمْ مَا فِي الْأَرْضِ جَمِيعًا وَمِثْلَهُ مَعَهُ لِيَفْتَدُوا بِهِ مِنْ عَذَابِ يَوْمِ الْقِيَامَةِ مَا تُقُبِّلَ مِنْهُمْ ۖ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Atyre që mohuan, edhe sikur të ishte e tyre e gjithë ajo që është në tokë, e edhe njëherë aq për ta dhënë shpagim (zhdëmtim) nga dënimi i ditës së kijametit, nuk u pranohet. Ata kanë dënim të dhembshëm",
+				"sqi-hasanefendinahi": "Me të vërtetë, mohuesit – sikur të kenë tërë pasurinë që gjendet në tokë, madje edhe njëherë aq, e ta sakrifikojnë për të shpëtuar nga dënimi i Dikës së Kijametit, nuk do të pranohet prej tyre, sepse, për ta ka dënim pikëllues",
+				"sqi-fetimehdiu": "Sikur e tërë ajo që është në tokë të ishte në duart e mosbesimtarëve, edhe aq më tepër, për t’u kompenzuar nga dënimi i ditës së kijametit, nuk do t’u pranohet. Ata i pret dënim i dhembshëm"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 37,
+			"textAr": "يُرِيدُونَ أَنْ يَخْرُجُوا مِنَ النَّارِ وَمَا هُمْ بِخَارِجِينَ مِنْهَا ۖ وَلَهُمْ عَذَابٌ مُقِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata përpiqen të dalin nga zjarri, por s’kanë të dalë nga ai, ata kanë dënim të përhershëm",
+				"sqi-hasanefendinahi": "Ata dëshirojnë të dalin nga zjarri, por nuk kanë dalje nga ai. Ata i pret dënimi i përhershëm",
+				"sqi-fetimehdiu": "Dëshirojnë të dalin nga zjarri, por nuk kanë shtegdalje prej tij. Ata janë gjykuar me dënim të përhershëm"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 38,
+			"textAr": "وَالسَّارِقُ وَالسَّارِقَةُ فَاقْطَعُوا أَيْدِيَهُمَا جَزَاءً بِمَا كَسَبَا نَكَالًا مِنَ اللَّهِ ۗ وَاللَّهُ عَزِيزٌ حَكِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Vjedhësit dhe vjedhësit preniu duart, si shpagim i veprës që bën, (kjo masë është) dënim nga All-llahu. All-llahu është i fuqishëm, ligjdhënës i urtë",
+				"sqi-hasanefendinahi": "Vjedhësit dhe vjedhëses këputjuani duart e tyre, për ndëshkim të asaj që kanë punuar – dënim nga ana e Perëndisë; se, All-llahu, është i Plotëfuqishëm dhe i Gjithëdijshëm",
+				"sqi-fetimehdiu": "Vjedhësit e vjedhëses, preniu duartë, si dënim për atë çka kanë fituar shpërblim prej All-llahut. All-llahu është i fortë dhe i urtë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 39,
+			"textAr": "فَمَنْ تَابَ مِنْ بَعْدِ ظُلْمِهِ وَأَصْلَحَ فَإِنَّ اللَّهَ يَتُوبُ عَلَيْهِ ۗ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "E kush pendohet pas punës së keqe (vjedhjes) dhe përmirësohet, s’ka dyshim, All-llah ia pranon pendimin, All-llahu është që falë shumë, është mëshirues",
+				"sqi-hasanefendinahi": "E, kushdo që të pendohet pas të këqijave të tij dhe përmirëson punën e tij, All-llahu ia pranon pendimin, se All-llahu, me të vërtetë, është falës dhe mëshirues",
+				"sqi-fetimehdiu": "E kush pendohet, pas veprës së vet të keqe dhe përmirësohet, All-llahu me siguri e fal. All-llahu njëmend fal dhe është mëshirëplotë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 40,
+			"textAr": "أَلَمْ تَعْلَمْ أَنَّ اللَّهَ لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ يُعَذِّبُ مَنْ يَشَاءُ وَيَغْفِرُ لِمَنْ يَشَاءُ ۗ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "A nuk di se All-llahu është Ai që sundimi i qiejve dhe i tokës është vetëm iTij, andaj Ai dënon atë që do dhe e falë atë që do. All-llahu është i plotfuqishëm pr çdo gjë",
+				"sqi-hasanefendinahi": "Ti (o Muhammed!), e di me siguri, se të Perëndisë janë pushteti mbi qiejt dhe Tokën. Ai dënon kë të dojë dhe falë kë të dojë. Se All-llahu është i Plotëfuqishëm për çdo gjë",
+				"sqi-fetimehdiu": "A nuk e di se vetëm All-llahut i takon pushteti në qiej dhe në tokë. Ai dënon atë që do dhe ia fal kujt të do. All-llahu ka mundësi për çdo send"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 41,
+			"textAr": "۞ يَا أَيُّهَا الرَّسُولُ لَا يَحْزُنْكَ الَّذِينَ يُسَارِعُونَ فِي الْكُفْرِ مِنَ الَّذِينَ قَالُوا آمَنَّا بِأَفْوَاهِهِمْ وَلَمْ تُؤْمِنْ قُلُوبُهُمْ ۛ وَمِنَ الَّذِينَ هَادُوا ۛ سَمَّاعُونَ لِلْكَذِبِ سَمَّاعُونَ لِقَوْمٍ آخَرِينَ لَمْ يَأْتُوكَ ۖ يُحَرِّفُونَ الْكَلِمَ مِنْ بَعْدِ مَوَاضِعِهِ ۖ يَقُولُونَ إِنْ أُوتِيتُمْ هَٰذَا فَخُذُوهُ وَإِنْ لَمْ تُؤْتَوْهُ فَاحْذَرُوا ۚ وَمَنْ يُرِدِ اللَّهُ فِتْنَتَهُ فَلَنْ تَمْلِكَ لَهُ مِنَ اللَّهِ شَيْئًا ۚ أُولَٰئِكَ الَّذِينَ لَمْ يُرِدِ اللَّهُ أَنْ يُطَهِّرَ قُلُوبَهُمْ ۚ لَهُمْ فِي الدُّنْيَا خِزْيٌ ۖ وَلَهُمْ فِي الْآخِرَةِ عَذَابٌ عَظِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "O ti i dërguar! Të mos brengos vrapimi në mosbesim i tyre që me gojët e tyre thanë: “Ne kemi besuar”, e zemrat e tyre nuk kanë besuar (munafikët), e as i tyre që janë jehudi, të cilët shumë i përgjigjen gënjeshrës dhe shumë e dëgjojnë (fjalën) një populli që nuk vjen te ti, ata janë që i menjanjojnë fjalët pas vënies së tyre në vendin e vet (nga ana e All-llahut) e thonë: “Nëse u jepet kjo, pranoni, e nëse nuk u jepet, atëherë refuzoni. Po atë që All-llahu do, të humbë, ti nuk mund të bësh asgjë për te (nuk mund ta shpëtosh). Janë ata të cilëve All-llahu nuk deshi t’iu pstrojë zemrat (prej kufrit). janë ata që në këtë jetë kanë poshtërim, kurse në botën tjetër",
+				"sqi-hasanefendinahi": "O i dërguari i Perëndisë! Mos të brengos ty ajo, që ata shpejt shprehin mosbesimin, të cilët me gojën e tyre thonë: “Besojmë” kurse zemrat e tyre nuk besojnë, dhe Hebrenjt, të cilët trillimet i dëgjojnë shumë dhe të cilët i pranojnë lehtë fjalët e huaja, të atyre që s’kanë ardhur te ti; ata i ngatërruan vendet e fjalëve të tyre dhe thanë: “Nëse kështu gjykohet ndërlikueshëm atëherë pranoni këtë, e nëse nuk gjykohet kështu, atëherë, ruhuni e mos e pranoni. – E, këtë dojë All-llahu ta lë në humbje, ti asgjë nuk do të mund të pengosh Perëndinë për këtë. Këta janë të asaj dore (fare), të cilët All-llahu nuk dëshiron t’ua pastrojë zemrat e tyre. Për ta, në këtë jetë ka poshtërim, kurse në jetën tjetër për ta ka ndëshkim të rëndë",
+				"sqi-fetimehdiu": "O profet, le të mos brengosë ty puna e atyre që shpejtojnë për në mosbesim, të cilët me gojë të vetë thonë: “Besojmë!” por zemrat e tyre nuk besojnë. Ka nga ata ebrej të cilët më shumë dëgjojnë trillimet dhe me ëndje i pranojnë fjalët e huaja, e te Ti nuk vijnë. Ata ua ndërrojnë fjalëve kuptimin edhe pse kanë qenë me vend, thonë: “Nëse kështu ju caktohet, atëherë pranoni këtë, e nëse nuk ju caktohet atëherë ruajuni!” Dhe atë që All-llahu do ta lerë në humbje, ti nuk mund t’i bësh kurrgjë te All-llahu. Ata janë njerëz, zemrat e të cilëve All-llahu nuk ka dashur t’i pastrojë; ata në këtë botë kanë poshtërsimin, kurse në atë botë kanë një dënim të madh"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 42,
+			"textAr": "سَمَّاعُونَ لِلْكَذِبِ أَكَّالُونَ لِلسُّحْتِ ۚ فَإِنْ جَاءُوكَ فَاحْكُمْ بَيْنَهُمْ أَوْ أَعْرِضْ عَنْهُمْ ۖ وَإِنْ تُعْرِضْ عَنْهُمْ فَلَنْ يَضُرُّوكَ شَيْئًا ۖ وَإِنْ حَكَمْتَ فَاحْكُمْ بَيْنَهُمْ بِالْقِسْطِ ۚ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Janë ata që i përgjigjen të pavërteës dhe hanëshumë haramin (ryshfetin). Nëqoftë se vijnë te ti (për ndonjë gjykim), gjyko mes tyre ose hiqu tyre. nëse prapsesh prej tyre (nuk gjykon), ata nuk mund të sjellin ty kurrfarë dëmi. Po nëse gjykon ms tyre, gjyko drejtë; All-llahu i do të drejtit",
+				"sqi-hasanefendinahi": "(Ata) janë dëgjues të gënjeshrës, e hanë me kënaqësi të madhe atë që është e ndaluar. E, nëse vinë te ti, gjykoji ata ose shmangu prej tyre! Nëse shmangesh nga ata, nuk mund të dëmtojnë ty asgjë. E, nëe i gjykon – gjykoji me të drejtë! Se, All-llahu, me të vërtetë, i don të drejtët",
+				"sqi-fetimehdiu": "Ata shumë i dëgjojnë gënjeshtrat! Makutët e së ndaluarës! Po nëse të vijnë, ti ose gjykoji ose ktheju shpinën! Dhe nëse ua kthen shpinën, ata nuk mund të të bëjnë asgjë. Por nëse i gjykon, gjykoi drejt sepse All-llahu i do të drejtët"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 43,
+			"textAr": "وَكَيْفَ يُحَكِّمُونَكَ وَعِنْدَهُمُ التَّوْرَاةُ فِيهَا حُكْمُ اللَّهِ ثُمَّ يَتَوَلَّوْنَ مِنْ بَعْدِ ذَٰلِكَ ۚ وَمَا أُولَٰئِكَ بِالْمُؤْمِنِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "E si kërkojnë ata gjykimin tënd, kur ata kanë Tevratin, e në të cilin është vendimi i Allauhut, e pastaj ata refuzojnë më vonë atë (vendimin tënd)? Ata nuk janë besimtarë",
+				"sqi-hasanefendinahi": "E qysh të drejtohen ata ty për t’i gjykuar, e te ata është Teurati, në të cilin janë dispozitat e Perëndisë, e madje edhe pas kësaj shmangen prej teje. Sepse, ata nuk janë besimtarë",
+				"sqi-fetimehdiu": "E përse ata kërkojnë prej teje që t’i gjykosh Ti kur e kanë Tevratin, ku gjenden normat e All-llahut? Pastaj ata prapë i kthejnë shpinën. Ata nuk janë kurrfarë besimtarësh"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 44,
+			"textAr": "إِنَّا أَنْزَلْنَا التَّوْرَاةَ فِيهَا هُدًى وَنُورٌ ۚ يَحْكُمُ بِهَا النَّبِيُّونَ الَّذِينَ أَسْلَمُوا لِلَّذِينَ هَادُوا وَالرَّبَّانِيُّونَ وَالْأَحْبَارُ بِمَا اسْتُحْفِظُوا مِنْ كِتَابِ اللَّهِ وَكَانُوا عَلَيْهِ شُهَدَاءَ ۚ فَلَا تَخْشَوُا النَّاسَ وَاخْشَوْنِ وَلَا تَشْتَرُوا بِآيَاتِي ثَمَنًا قَلِيلًا ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْكَافِرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne e zbritëm Tevratin, në të cilin është udhëzimi i drejtë dhe drita. Sipas tij gjykuan ndaj atyre që ishin jehudi, pejgamerët që ishin të bindur, gjykuan edhe dijetarët e devotshëm e paria fetare, ngase ishin të obliguar ta ruanin librin e Allauhut dhe ishin mmbrojtës të tij. Prandaj, mos u frikësoni nga njerëzit, vetëm Mua të më frikësoheni dhe mos i ndërroni argumentet e Mia për pak send. E kush nuk gjykon me atë që zbriti All-llahu, ata janë mohues",
+				"sqi-hasanefendinahi": "Na kemi dërguar Teuratin, në të cilin është udhëzimi dhe drita. Sipas tij –pejgamberët, të cilët ishin të bindur e të ndershëm ndaj Perëndisë i gjykonin hebrenjt, por edhe të diturit dhe juristët gjykonin sipas aaj që është ruajtur nga Libri i Perëndisë, e për të cilin ata dëshmonin (se është i vërtetë). Prandaj, mos druani nga njerëzit, por druani vetëm prej Meje! Dhe mos i ndërroni argumentet e Mia me ndonjë vlerë të vogël! E, ata që nuk gjykojnë sipas asaj që ka shpallur All-llahu, ata janë mohues të vërtetë",
+				"sqi-fetimehdiu": "ne e kemi shpallur Tevratin në të cilin ka udhëzime dhe dritë. Me këtë kanë marrë vendime profetët, që ishin të përulurit e All-llahut, ndaj atyre, që ishin ebrej. Po edhe njerëz të urtë e të dijshëm, prej të cilëve është kërkuar të ruajnë librin e All-llahut, dhe ata e patën dëshmuar këtë. Prandaj (kur të gjykoni) mos u frikësoni prej njerëzve, por të më frikësoheni mua dhe mos bleni me argumentet e mia diçka që vlen fare pak! Dhe ata, të cilët nuk gjykojnë sipas asaj që ka shpallur All-llahu, mu ata janë mosbesimtarë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 45,
+			"textAr": "وَكَتَبْنَا عَلَيْهِمْ فِيهَا أَنَّ النَّفْسَ بِالنَّفْسِ وَالْعَيْنَ بِالْعَيْنِ وَالْأَنْفَ بِالْأَنْفِ وَالْأُذُنَ بِالْأُذُنِ وَالسِّنَّ بِالسِّنِّ وَالْجُرُوحَ قِصَاصٌ ۚ فَمَنْ تَصَدَّقَ بِهِ فَهُوَ كَفَّارَةٌ لَهُ ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne u caktuam atyre në të (në Tevrat) kundërmasat ndëshkuese: njeriu (mbytet) për njeriun, syri për syrin, hunda për hundën, veshi për veshin, dhëmbi për dhëmbin, por edhe plagët kanë kundër masë. E kush e falë atë (hakmarrjrrjen), ajo është shpagim (nga mëkatet) për të. E kush vendos sipas asaj që zbriti All-llahu, ata janë mizorë (të pa drejt)",
+				"sqi-hasanefendinahi": "Na iu caktuam atyre (Izraelitëve) në të (Teurat), që të: shkëmbehet me personin (të dënohet vrasësi me vrasje), syri me sy, hunda me hundë, veshi me vesh, dhëmbi me dhëmb, dhe plaga me plagë. E, kushdo që t’ia falë atë, ai është shpagues për mëkatet e tij. Dhe, kushdo që nuk gjykon me ate që ka zbritur All-llahu, ata janë zullumqarë të vërtetë",
+				"sqi-fetimehdiu": "Ne në të, atyre u kemi caktuar: kryet për krye, syrin për sy, hundën për hundë e veshin për vesh, dhëmbin për dhëmb, edhe varrët duhet kthyer. Por ai që heq dorë nga hakmarrja, kjo është kompensim për atë. Ata që nuk gjykojnë sipas asaj që ka shpallur All-llahu, si ata janë kriminelë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 46,
+			"textAr": "وَقَفَّيْنَا عَلَىٰ آثَارِهِمْ بِعِيسَى ابْنِ مَرْيَمَ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ مِنَ التَّوْرَاةِ ۖ وَآتَيْنَاهُ الْإِنْجِيلَ فِيهِ هُدًى وَنُورٌ وَمُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ مِنَ التَّوْرَاةِ وَهُدًى وَمَوْعِظَةً لِلْمُتَّقِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne vazhduam gjurmët e tyre (të pejgamberëve) me Isain, birin e Merjemes, vërtetues i Tevratit që kishin më parë. Atij i dhamë Inxhilin, që është udhëzim i drejtë dhe dritë, që është vërtetues i Tevratit që kishin pranë, që ishte udhëzues e këshillues për të devotshmit",
+				"sqi-hasanefendinahi": "Na dërguam në gjurmët e pejgamberëve, Isain – të birin e Merjemës, vërtetues të Teuratit që e kanë para tyre. Dhe Na ia dhamë atij Inxhilin, në të cilin ka udhëzim dhe dritë, vërtetues i Teuratit, të cilin e kanë para vet – udhërrëfim dhe këshillim për ata që i druajnë Perëndisë",
+				"sqi-fetimehdiu": "Pas atyre kemi dërguar Isanë, të birin e Merjemes, i cilivërtetonte Tevratin e shpallur përpara tij, kurse atij i dhamë Inxhilin, ku kishte udhëzim e dritë, dhe përforcim për Tevratin e shpallur para tij, si udhëzim e këshillë për të devotshmit"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 47,
+			"textAr": "وَلْيَحْكُمْ أَهْلُ الْإِنْجِيلِ بِمَا أَنْزَلَ اللَّهُ فِيهِ ۚ وَمَنْ لَمْ يَحْكُمْ بِمَا أَنْزَلَ اللَّهُ فَأُولَٰئِكَ هُمُ الْفَاسِقُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "(E zbritëm) Që ithtarët e Inxhilit të gjykojnë sipas asaj që All-llahu e zbriti në të. E kush nuk gjykon sipas asaj që All-llahu e zbriti, të tillët janë mëkatarë të dalë jashtë rrugës së Zotit",
+				"sqi-hasanefendinahi": "Le të gjykojnë ithtarët e Inxhilit ashtu siç ka shpallë All-llahu në të. E, kush nuk gjykon ashtu siç ka shpallë All-llahu – ata janë mëkatarë të vërtetë",
+				"sqi-fetimehdiu": "Edhe apsuesit e Inxhilit le të gjykojnë sipas asaj që ka shpallur All-llahu në ta. Ata që nuk gjykuan sipas asaj që ka shpallur All-llahu, ata janë njëmend mbrapshtanë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 48,
+			"textAr": "وَأَنْزَلْنَا إِلَيْكَ الْكِتَابَ بِالْحَقِّ مُصَدِّقًا لِمَا بَيْنَ يَدَيْهِ مِنَ الْكِتَابِ وَمُهَيْمِنًا عَلَيْهِ ۖ فَاحْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ اللَّهُ ۖ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ عَمَّا جَاءَكَ مِنَ الْحَقِّ ۚ لِكُلٍّ جَعَلْنَا مِنْكُمْ شِرْعَةً وَمِنْهَاجًا ۚ وَلَوْ شَاءَ اللَّهُ لَجَعَلَكُمْ أُمَّةً وَاحِدَةً وَلَٰكِنْ لِيَبْلُوَكُمْ فِي مَا آتَاكُمْ ۖ فَاسْتَبِقُوا الْخَيْرَاتِ ۚ إِلَى اللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ فِيهِ تَخْتَلِفُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne edhe ty (Muhammed) ta zbritëm librin (Kur’anin) e vërtetë që është vërtetues i librave të mëparshme dhe garantues i tyre. Gjyko, pra, mes tyre me atë që All-llahu e zbriti, e mos pëlqe epshet e tyre e të largohesh nga e vërteta që i erdhi. Për secilin prej jush, Ne caktuam ligje program (të posaçëm në çështje të veprimit). Sikur të donte Alahu, do t’ju bënte një popull (në fe e sheriat), por deshi t’ju sprovojë në atë që iu dha juve, andaj ju (besimtarë) përpiquni për punë të mira. Kthimi i të gjithë juve është te All-llahu, e Ai do t’ju njoftojë me atë që kundërshtoheshi",
+				"sqi-hasanefendinahi": "Na ty (o Muhammed!) ta kemi dërguar Librin (Kur’anin), me të vërtetë, vërtetues të librit që e kanë përpara dhe dëshmues i tij. Gjyko në mes tyre me atë që ka zbritur All-llahu dhe mos ndjek dëshirat e tyre, për të mos devijuar në atë që të ka ardhur ty nga e Vërteta. Na për të gjithë ju kemi bërë ligj një rrugë të qartë. E, sikur të donte All-llahu, do t’u kishte bërë juve një popull, por, Ai don që t’ju provojë juve në ate që ju ka dhënë, andaj bëni gara ju në punë të mira! Të gjithë do të ktheheni te All-llahu e Ai do t’ju lajmërojë për çështjet, në të cilat nuk jeni pajtuar ju",
+				"sqi-fetimehdiu": "Edhe ty të shpallëm Librin, me realitete, për të vërtetuar Librat e mëparme dhe përkujdeset për ata. Dhe ti gjyko, në mesin e atyre, sipas asaj që shpallë All-llahu dhe mos ndiq epshet e atyre e të largohesh nga e vërteta që të ka ardhur; për secilin kemi caktuar një ligj dhe një drejtim. Dhe sikur të kishte dashur All-llahu, Ai do t’ju kishte krijuar vetëm një popull, por Ai don t’ju sprovojë me atë çka u jep, prandaj bëni gara për vepra të mira! Te All-llahu do të ktheheni të gjithë dhe Ai do t’ju informojë për atë çka keni kundërshtuar"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 49,
+			"textAr": "وَأَنِ احْكُمْ بَيْنَهُمْ بِمَا أَنْزَلَ اللَّهُ وَلَا تَتَّبِعْ أَهْوَاءَهُمْ وَاحْذَرْهُمْ أَنْ يَفْتِنُوكَ عَنْ بَعْضِ مَا أَنْزَلَ اللَّهُ إِلَيْكَ ۖ فَإِنْ تَوَلَّوْا فَاعْلَمْ أَنَّمَا يُرِيدُ اللَّهُ أَنْ يُصِيبَهُمْ بِبَعْضِ ذُنُوبِهِمْ ۗ وَإِنَّ كَثِيرًا مِنَ النَّاسِ لَفَاسِقُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "(Ta zbritëm) Që edhe ti të gjykosh me atë që të zbriti All-llahu, e mos ndiq dëshirat e tyre dhe ruaju rrezikut të tyre që të mos të shmangin nga një pjesë e asaj që ta zbriti All-llahu. Nëse ata refuzojnë (gjykimin tënd), ti dije se All-llahu ka për qëllim t’i ndëshkojë për disa mëkate të tyre. Në të vërtetë, një shumicë e njerëzve janë jashtë rrugës",
+				"sqi-hasanefendinahi": "Dhe, (Na të dërguam Librin) që të gjykosh ti me atë që të ka shpallur All-llahu, e mos ndjek dëshirat e tyre! Ruaju nga ata, që të mos të turbullojnë ty prej disa sendesh që t’i ka zbritur All-llahu! Nëse ata kthehen e nuk dëgjojnë gjykimin tënd, atëherë ta dish se All-llahu don vetëm atë, që t’i dënojë ata, për disa mëkate të tyre. E, me të vërtetë, shumë njerëz janë mëkatarë",
+				"sqi-fetimehdiu": "Dhe gjykoji sipas asaj që të shpallë All-llahu dhe mos bjer nën ndikim të epsheve të tyre, dhe ruaju atyre që mos të largojnë prej asaj që të shpalli All-llahu! Dhe nëse e kthejnë shpinën, dije se All-llahu dëshiron që për shkak të disa mëkateve të tyre t’i godas me ndëshkim. Pra shumë njerëz me të vërtetë janë mbrapshtanë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 50,
+			"textAr": "أَفَحُكْمَ الْجَاهِلِيَّةِ يَبْغُونَ ۚ وَمَنْ أَحْسَنُ مِنَ اللَّهِ حُكْمًا لِقَوْمٍ يُوقِنُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "A thua mos po kërkojnë gjykimin e kohës së injorancës, po për një popull që bindshëm beson, a ka gjykim më i mirë se ai i All-llahut",
+				"sqi-hasanefendinahi": "A mos kërkojnë ata gjykimin e kohës së paganizmit?! E, kush është gjykatës më i mirë se All-llahu për njerëzit që besojnë bindshëm",
+				"sqi-fetimehdiu": "Ata të periudhës pagane kërkojnë gjykim? Po kush gjykon më mirë se All-llahu për popullin e bindshëm"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 51,
+			"textAr": "۞ يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الْيَهُودَ وَالنَّصَارَىٰ أَوْلِيَاءَ ۘ بَعْضُهُمْ أَوْلِيَاءُ بَعْضٍ ۚ وَمَنْ يَتَوَلَّهُمْ مِنْكُمْ فَإِنَّهُ مِنْهُمْ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الظَّالِمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat! Mos zini miq as jehuditë, e as të krishterët. Ata janë miq të njëri-tjetrit. E kush prej jush i miqëson ata, ai është prej tyre. Vërtetë All-llahu nuk vë në rrugë të drejtë popullin zullumqarë",
+				"sqi-hasanefendinahi": "O besimtarë! Mos i konsideroni për miq hebrenjt dhe të krishterët! Ata janë miq të njëri-tjetrit. Kushdo që prej jush i konsideron ata për miq, ai është me ta. Me të vërtetë, All-llahu nuk i udhëzon në rrugë të drejtë zullumqarët",
+				"sqi-fetimehdiu": "O besimtarë, mos merrni për mbrojtës ebrejtë dhe të krishterët! Ata janë mbrojtës të njëri-tjetrit! I atyre është madje edhe ai nga mesi i juaj i cili i pranon për mbrojtës; All-llahu me siguri nuk i drejton njerëzit që bëjnë mizori"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 52,
+			"textAr": "فَتَرَى الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ يُسَارِعُونَ فِيهِمْ يَقُولُونَ نَخْشَىٰ أَنْ تُصِيبَنَا دَائِرَةٌ ۚ فَعَسَى اللَّهُ أَنْ يَأْتِيَ بِالْفَتْحِ أَوْ أَمْرٍ مِنْ عِنْدِهِ فَيُصْبِحُوا عَلَىٰ مَا أَسَرُّوا فِي أَنْفُسِهِمْ نَادِمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "E ata që në zemrat e tyre kanë sëmundje, i sheh se ngarendin te ta (për miqësi) duke thënë: “Po frikësohemi se mos po na sillet ndonjë e keqe”. Po All-llahu do të sjellë fitoren, ose diç tjetër nga ana e Tij, e atëherë do të pendohen për atë që e mbanin fsheht në shpirtin e tyre",
+				"sqi-hasanefendinahi": "I sheh ti ata, zemrat e të cilëve lëngojnë (nga hipokrizia) se si vrapojnë për të lidhur miqësi me ta duke thënë: “Druajmë se mos po na goditë ndonjë fatkeqësi”. E, All-llahu do t’i sjell fitoren ose diçka tjetër nga ana e Tij, e prandaj, për atë që kanë fshehur në veten e tyre do të pendohen",
+				"sqi-fetimehdiu": "Do t’i shohësh ata, zemrat e të cilëve janë të sëmura, si shpejtojnë në të (të lidhin miqësi me ata), duke thënë: “Kemi frikë mos po na goditë ndonjë e papritur”. Ndoshta All-llahu do t’ju japë nga ana e tij fitore ose diçka tjetër, andaj ata do të pendohen për atë çka kanë fshehur në vetvete"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 53,
+			"textAr": "وَيَقُولُ الَّذِينَ آمَنُوا أَهَٰؤُلَاءِ الَّذِينَ أَقْسَمُوا بِاللَّهِ جَهْدَ أَيْمَانِهِمْ ۙ إِنَّهُمْ لَمَعَكُمْ ۚ حَبِطَتْ أَعْمَالُهُمْ فَأَصْبَحُوا خَاسِرِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata që besuan ju thonë: “A këta ishin që u betuan në Zotin me betimin më të fortë të tyre se ishin me ju? I shkatërruan veprat e veta dhe aguan të dëshpëruar",
+				"sqi-hasanefendinahi": "e ata që besojnë do të thonë: “A këta janë ata që përbetoheshin, me betimin më të thellë, se ata me të vërtetë janë me ju?” Veprat e tyre kanë dështuar (për shkak të hipokrizisë) dhe ata u dëmtuan",
+				"sqi-fetimehdiu": "Dhe ata që besojnë do të thonë: “A këta qenkan ata që betoheshin në All-llahun aq seriozisht se janë njëmend me ju?” Veprat e tyre janë të dështuara dhe ata janë të shkatërruar"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 54,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا مَنْ يَرْتَدَّ مِنْكُمْ عَنْ دِينِهِ فَسَوْفَ يَأْتِي اللَّهُ بِقَوْمٍ يُحِبُّهُمْ وَيُحِبُّونَهُ أَذِلَّةٍ عَلَى الْمُؤْمِنِينَ أَعِزَّةٍ عَلَى الْكَافِرِينَ يُجَاهِدُونَ فِي سَبِيلِ اللَّهِ وَلَا يَخَافُونَ لَوْمَةَ لَائِمٍ ۚ ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۚ وَاللَّهُ وَاسِعٌ عَلِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat! Kush largohet prej nga feja e vet (i bën dëm vetes) s’ka dyshim se All-llahu do të sjellë një popull që Ai e do atë (popull) dhe ata e duan Atë (Zotin), (një popull) që është modest e i butë ndaj besimtarëve, por i ashpër dhe i fortë ndaj mohuesve, që lufton në rrugën e All-llahut dhe që nuk i frikësohet kërcënimit të asnjë kërcënuesi. Kjo (cilës e atij populli) është dhuratë e All-llahut që i jep atij që do. All-llahu është dhurues i madh, i dijshëm",
+				"sqi-hasanefendinahi": "O besimtarë! Nëse ndokush prej jush shmanget nga besimi i vet, me të vërtetë All-llahu do të sjell një popull, që e don dhe që ata e donë (Perëndinë), të cilët janë të përulur ndaj besimtarëve dhe të ashpër ndaj mohuesve; luftojnë në rrugën e Perëndisë dhe nuk i druajnë qortimit të asnjë qortuesi. Kjo është mirësia e Perëndisë, të cilën Ai ia jep kujt të dojë, se All-llahu ka mirësinë e gjerë dhe di çdo gjë",
+				"sqi-fetimehdiu": "O besimtarë, nëse dikush prej jush i shmanget fesë së vet, ani, se All-llahu në vend të tyre do të sjellë njerëz që i do Ai dhe që e duan Atë; të përulur ndaj besimtarëve dhe kryelartë ndaj mosbesimtarëve; ata do të luftojnë në rrugë të All-llahut dhe nuk do t’i frikësohen qortimit të kurrfarë shpifësi. Ajo është mirësi e All-llahut, të cilën Ai ia jep kujt të dojë – dhe All-llahu ka dije shumë të gjerë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 55,
+			"textAr": "إِنَّمَا وَلِيُّكُمُ اللَّهُ وَرَسُولُهُ وَالَّذِينَ آمَنُوا الَّذِينَ يُقِيمُونَ الصَّلَاةَ وَيُؤْتُونَ الزَّكَاةَ وَهُمْ رَاكِعُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Mik (i afërt) juaji është vetëm All-llahu, është i dërguari i Tij dhe ata që besuan e që falin namazin dhe jalin zeqatin duke bërë rukuë (duke qenë respektues)",
+				"sqi-hasanefendinahi": "Miku juaj është vetëm All-llahu, Profeti i Tij dhe besimtarët, të cilët falin namazin, japin zeqatin, që janë modest e të përvuajtur ndaj Perëndisë",
+				"sqi-fetimehdiu": "Mbrojtësi juaj është All-llahu dhe Profeti i tij dhe besimtarët të cilët me përulje kryejnë faljen dhe japin zeqatin dhe janë të përulur"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 56,
+			"textAr": "وَمَنْ يَتَوَلَّ اللَّهَ وَرَسُولَهُ وَالَّذِينَ آمَنُوا فَإِنَّ حِزْبَ اللَّهِ هُمُ الْغَالِبُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E kush ka për mik All-llahun, të dërgurin e Tij dhe ata që besuan, s’ka dyshim se ana (pala-krahu) e All-llahut është ngadhënjyese",
+				"sqi-hasanefendinahi": "Me të vërtetë, ata që marrin për mik Perëndinë, Pejgamberin e Tij dhe ata që besojnë, (ata janë në anën e Perëndisë); dhe ana e Perëndisë do të jetë fitues",
+				"sqi-fetimehdiu": "Kush e merr për mbrojtës All-llahun, Profetin e tij, edhe besimtarët, ta dijë se edhe ata që janë me All-llahun – janë ngadhnjimëtarë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 57,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَتَّخِذُوا الَّذِينَ اتَّخَذُوا دِينَكُمْ هُزُوًا وَلَعِبًا مِنَ الَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلِكُمْ وَالْكُفَّارَ أَوْلِيَاءَ ۚ وَاتَّقُوا اللَّهَ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat! Mos i merrnipër miq aaata të cilëve u është dhënë libri para jush edhe as jobesimtarët që me fenë tuaj tallen dhe luajnë. Kinie dro All-llahun po qe se jeni besimtarë",
+				"sqi-hasanefendinahi": "O besimtarë! Mos i merrni për miq ata, të cilët, fenë tuaj e marrin për tallje dhe lojë, qofshin ata, të cilëve ju është dhënë Libri para jush, apo qofshin mohuesit, - dhe druajuni Perëndisë, nëse jeni besimtarë",
+				"sqi-fetimehdiu": "O besimtarë, mos i trajtoni si miq ata, të cilët fenë tuaj e marrin për tallje dhe dëfrim; qofshin ata që u është dhënë Libër para jush, qofshin mosbesimtarë dhe fikësohuni All-llahut nëse jeni besimtarë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 58,
+			"textAr": "وَإِذَا نَادَيْتُمْ إِلَى الصَّلَاةِ اتَّخَذُوهَا هُزُوًا وَلَعِبًا ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَا يَعْقِلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe thirrjen (ezanin) tuaj për namaz ata e marrin për tallje e lojë. Me këtë vërtetojnë se janë popull që nuk kupton",
+				"sqi-hasanefendinahi": "(Dhe mos i merrni për miq ata), që kurr t’i thirrni për namaz ata e marrin atë për tallje dhe lojë, sepse ai është popull i zhveshur nga mendja",
+				"sqi-fetimehdiu": "Edhe kur i thirrni për t’u falur edhe atë e marrin për tallje dhe zbavitje. Kështu bëjnë për shkak se janë njerëz që nuk kuptojnë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 59,
+			"textAr": "قُلْ يَا أَهْلَ الْكِتَابِ هَلْ تَنْقِمُونَ مِنَّا إِلَّا أَنْ آمَنَّا بِاللَّهِ وَمَا أُنْزِلَ إِلَيْنَا وَمَا أُنْزِلَ مِنْ قَبْلُ وَأَنَّ أَكْثَرَكُمْ فَاسِقُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Thuaj: “O ithtarë të librit, a na shihni për të me të vetëm pse besuam All-llahun; besuam atë që na zbriti neve dhe atë që zbriti më parë! S’ka dyshim, shumica jush janë të shfrenuar",
+				"sqi-hasanefendinahi": "Thuaj: “O ithtarët e Librit! – a mos na urreni neve për shkak se besojmë në Perëndinë dhe atë që na ëshë shpallur, dhe atë që është shpallur më parë, e shumica prej jush jeni mëkatarë?”",
+				"sqi-fetimehdiu": "Thuaj: “O ithtarë të Librit, a po na hakmerreni vetëm pse i besojmë All-llahut dhe çka na shpallet neve, dhe çka është shpallur më herët”, - shumica prej jush janë mëkatarë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 60,
+			"textAr": "قُلْ هَلْ أُنَبِّئُكُمْ بِشَرٍّ مِنْ ذَٰلِكَ مَثُوبَةً عِنْدَ اللَّهِ ۚ مَنْ لَعَنَهُ اللَّهُ وَغَضِبَ عَلَيْهِ وَجَعَلَ مِنْهُمُ الْقِرَدَةَ وَالْخَنَازِيرَ وَعَبَدَ الطَّاغُوتَ ۚ أُولَٰئِكَ شَرٌّ مَكَانًا وَأَضَلُّ عَنْ سَوَاءِ السَّبِيلِ",
+			"translations": {
+				"sqi-sherifahmeti": "Thuaj: “A t’ju lajmëroj për një të keqe (të zezë) më të dëmshme (nga ajo e metë që na e shihni) si dënim nga All-llahu? (Ajo është) Mallkimi i atij që e mallkoi All-llahu dhe hidhërimi ndaj tij, që disa rej tyre i shdërroi në majmunë e në derra, e i bëri të djallit. Të tillët janë në pozitë më të keqe dhe më të humburit prej rrugës së drejtë",
+				"sqi-hasanefendinahi": "Thuaj: “A doni t’ju tregoj juve për të keqën më të madhe (dhe kush meriton më të rëndin), dënimin te All-llahu? (Këta janë ata), në të cilët është pezmatuar All-llahu, dhe që i ka mallkuar, i ka shndërruar në majmunë dhe derra dhe ata që adhurojnë djallin – ata janë në vendin më të mjerueshëm, sepse, ata qëndrojnë larg rrugës së vërtetë”",
+				"sqi-fetimehdiu": "Thuaj: “A t’ju tregoj kush është më i keq se ai të cilin All-llahu e dënon rëndë? Është ai të cilin e ka mallkuar All-llahu dhe është i hidhëruar me të dhe i ka bërë majmunë e derra, dhe kanë adhuruar djallin – ata kanë pozitën më të keqe dhe janë më të humburit nga rruga e drejtë”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 61,
+			"textAr": "وَإِذَا جَاءُوكُمْ قَالُوا آمَنَّا وَقَدْ دَخَلُوا بِالْكُفْرِ وَهُمْ قَدْ خَرَجُوا بِهِ ۚ وَاللَّهُ أَعْلَمُ بِمَا كَانُوا يَكْتُمُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E kur vijnë te ju, thonë: “Kemi besuar”, ndërsa ata me (kufr) mosbesim kanë hyrë dhe me të kanë dalë. Po All-llahu di më së miri se çka fshihnin ata",
+				"sqi-hasanefendinahi": "E, kur ju erdhën ata juve, thanë: “Besojmë”, por ata hynë mohues dhe dolën mohues, e All-llahu e di mirë atë që fshehin ata",
+				"sqi-fetimehdiu": "Kur ju vijnë, ata thonë: “Besojmë!”, por ata që u vijnë me mosbesim, e ashtu edhe dalin, por All-llahu e di më së miri se çka fshehin ata"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 62,
+			"textAr": "وَتَرَىٰ كَثِيرًا مِنْهُمْ يُسَارِعُونَ فِي الْإِثْمِ وَالْعُدْوَانِ وَأَكْلِهِمُ السُّحْتَ ۚ لَبِئْسَ مَا كَانُوا يَعْمَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe, shumë prej tyre isheh se nguten në mëkat, në mizori e në ngrënie të haramit. Sa e shëmtuar është ajo që bënë ata",
+				"sqi-hasanefendinahi": "Ti do t’i shohësh shumë nga ata që vrapojnë në mëkate, në armiqësi dhe në ngrënien e haramit. E, me të vërtetë, të këqija janë ato vepra",
+				"sqi-fetimehdiu": "Ti sheh shumë prej atyre që po shpejtojnë në mëkate e armiqësi dhe që e hanë atë çka është e ndaluar; sa e keqe është vepra e tyre"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 63,
+			"textAr": "لَوْلَا يَنْهَاهُمُ الرَّبَّانِيُّونَ وَالْأَحْبَارُ عَنْ قَوْلِهِمُ الْإِثْمَ وَأَكْلِهِمُ السُّحْتَ ۚ لَبِئْسَ مَا كَانُوا يَصْنَعُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E, pse paria fetare (e krishterë dhe jehude) të mos i ndalin nga ato thënie të tyre të rreme dhe nga ngrënia e haramit (e ryshfetit)! Sa punë e keqe është ajo e tyre (e parisë fetare)",
+				"sqi-hasanefendinahi": "Sikur fetarët dhe dijetarët të mos i ndalonin ata, nga të folurit gënjeshtra dhe ngrënies së haramit, sa keq do të kishin punuar ata",
+				"sqi-fetimehdiu": "Përse të mos i largojnë njerëzit e ndershëm dhe të dijshëm nga fjalët mëkatare dhe ushqimet e ndaluara? Po shumë keq bëjnë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 64,
+			"textAr": "وَقَالَتِ الْيَهُودُ يَدُ اللَّهِ مَغْلُولَةٌ ۚ غُلَّتْ أَيْدِيهِمْ وَلُعِنُوا بِمَا قَالُوا ۘ بَلْ يَدَاهُ مَبْسُوطَتَانِ يُنْفِقُ كَيْفَ يَشَاءُ ۚ وَلَيَزِيدَنَّ كَثِيرًا مِنْهُمْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ طُغْيَانًا وَكُفْرًا ۚ وَأَلْقَيْنَا بَيْنَهُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ إِلَىٰ يَوْمِ الْقِيَامَةِ ۚ كُلَّمَا أَوْقَدُوا نَارًا لِلْحَرْبِ أَطْفَأَهَا اللَّهُ ۚ وَيَسْعَوْنَ فِي الْأَرْضِ فَسَادًا ۚ وَاللَّهُ لَا يُحِبُّ الْمُفْسِدِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Jehuditë thanë: “Dora e All-llahut është e shtrënguar!” Qofshin të shtangur duart e tyre dhe qofshin të mallkuar, pse thanë atë. Jo, duart e Tij janë të shlira. Ai furnizon ashtu si të dojë. Kjo që t’u zbrit ty do t’u shtojë disave nga ata (nga paria fetare) shumë largimin dhe mohimin. Ne ndërmjet tyre hodhëm armiqësi dhe urrejtje që do t’u vazhdojë deri në ditën e kijametit. Sa herë që ndezën zjarr për luftë, All-llahu e shuajti atë, e ata përpiqen për shkatërrime në tokë. All-llahu nuk i do ngatërrestarët",
+				"sqi-hasanefendinahi": "Hebrenjt thanë: “Dora e Perëndisë është koprrace!” Ju lidhshin duart atyre! – Dhe, qofshin të mallkuar për atë që thanë! Jo, duart e Tija janë të hapura. Ai dhuron dhe furnizon si të dojë. E, ajo që t’u ka shpallë ty nga Zoti yt, me të vërtetë, shumicës prej tyre, do t’ua shtojë (azganllëkun) dhe mohimin. Na, kemi shkaktuar në mes tyre armiqësi dhe urrejtje deri në Ditën e Kijametit. Kurdo që ata ndezin zjarrin e luftës, All-llahu e shuan atë. Ata përpiqen të shkaktojnë ngatërresa në Tokë. E All-llahu nuk i don ngatërrestarët",
+				"sqi-fetimehdiu": "Ebrejtë thonë: “Dora e All-llahut është e shtrënguar”! U lidhshin duart e atyre dhe qofshin mallkuar se çka po flasin! Jo, duart e tij janë të hapura, Ai jep sa të dojë. Ndërkaq ajo çka ta shpallë Zoti yt, gjithsesi te shumica e tyre do ta shtojë mosbesimin dhe humbjen. Ne kemi futur në mesin e tyre armiqësi dhe urrejtje deri në ditën e kijametit. Sa herë që përpiqen të ndezin ndonjë zjarr për luftë, atë e shuan All-llahu. Ata mundohen të bëjnë turbullira në tokë, por All-llahu nuk i do ngatrrestarët"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 65,
+			"textAr": "وَلَوْ أَنَّ أَهْلَ الْكِتَابِ آمَنُوا وَاتَّقَوْا لَكَفَّرْنَا عَنْهُمْ سَيِّئَاتِهِمْ وَلَأَدْخَلْنَاهُمْ جَنَّاتِ النَّعِيمِ",
+			"translations": {
+				"sqi-sherifahmeti": "Sikur ithtarët e librit të besonin dhe të ruheshin (naramit), Ne do t’ua shlyenim mëkatet e tyre dhe do t’i fusnim në Xhennete me përjetime të begatshme",
+				"sqi-hasanefendinahi": "E, sikur ithtarët e Librit të besonin dhe të ruhen nga mohimi, Ne do t’ua mbulonim atyre veprat e këqija dhe do t’i shpienim në kopshtet e kënaqësisë",
+				"sqi-fetimehdiu": "Sikur ithtarët e librit të besonin dhe të ruheshin nga mëkatet, Ne patëm me ua mbuluar veprat e tyre të këqia dhe patëm me i futur në xhennete të kënaqësive"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 66,
+			"textAr": "وَلَوْ أَنَّهُمْ أَقَامُوا التَّوْرَاةَ وَالْإِنْجِيلَ وَمَا أُنْزِلَ إِلَيْهِمْ مِنْ رَبِّهِمْ لَأَكَلُوا مِنْ فَوْقِهِمْ وَمِنْ تَحْتِ أَرْجُلِهِمْ ۚ مِنْهُمْ أُمَّةٌ مُقْتَصِدَةٌ ۖ وَكَثِيرٌ مِنْهُمْ سَاءَ مَا يَعْمَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe, sikur ta zbatonin Tevratin, Inxhilin dhe Kur’anin, që u zbritën nga Zoti i tyre, ata do të kishin furnizim me bollëk nga qielli dhe toka. Ështënjë grup i drejtë (i matur) prej tyre, por është e keqe ajo që punojnë shumica prej tyre",
+				"sqi-hasanefendinahi": "Sikur ata t’i përmbaheshin Teuratit dhe Inxhilit dhe asaj që iu është shpallur nga Zoti i tyre, ata do të kënaqeshin me frytet (që rriten) mbi ata dhe nën këmbët e tyre. Disa prej tyre nuk janë ekstremë, por shumë prej tyre bëjnë vepra të këqija",
+				"sqi-fetimehdiu": "Sikur t’i përmbaheshin Tevratit dhëe Inxhilit dhe asaj çka është shpallur nga Zoti i tyre, do të kishin pasur se çka të hanë, edhe nga çka është përmbi krye të tyre dhe çka kanë nën këmbët e tyre. Ka prej tyre edhe njerëz që veprojnë me maturi, por shumica sish bëjnë fort keq"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 67,
+			"textAr": "۞ يَا أَيُّهَا الرَّسُولُ بَلِّغْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ ۖ وَإِنْ لَمْ تَفْعَلْ فَمَا بَلَّغْتَ رِسَالَتَهُ ۚ وَاللَّهُ يَعْصِمُكَ مِنَ النَّاسِ ۗ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْكَافِرِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ti i dërguar! Komunikoje atë që t’u zbrit prej Zotit tënd, e nëse nuk bën (kumtimin në tërësi), atëherë nuk e ke kryer detyrën (revelatën-risalen). All-llahu të garanton mbrojtjen prej njerëzve (prej armiqve). All-llahu nuk vë në rrugë të drejtë popullin që mohon",
+				"sqi-hasanefendinahi": "O Pejgamber! Trego atë që të është shpallur nga Zoti yt! – Në qoftë se nuk e bën këtë, atëherë nuk e ke kryer profetninë tënde; All-llahu të ruan ty prej njerëzve. Se, All-llahu, me të vërtetë, nuk i udhëzon në rrugë të drejtë njerëzit që nuk besojnë",
+				"sqi-fetimehdiu": "O Profet, kumto atë çka të shpallet nga Zoti yt! Nëse nuk e bën, atëherë nuk e ke transmetuar porosinë e tij – kurse All-llahu do të mbrojë prej njerëzve. All-llahu me siguri nuk e drejton në rrugë të drejtë popullin që nuk beson"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 68,
+			"textAr": "قُلْ يَا أَهْلَ الْكِتَابِ لَسْتُمْ عَلَىٰ شَيْءٍ حَتَّىٰ تُقِيمُوا التَّوْرَاةَ وَالْإِنْجِيلَ وَمَا أُنْزِلَ إِلَيْكُمْ مِنْ رَبِّكُمْ ۗ وَلَيَزِيدَنَّ كَثِيرًا مِنْهُمْ مَا أُنْزِلَ إِلَيْكَ مِنْ رَبِّكَ طُغْيَانًا وَكُفْرًا ۖ فَلَا تَأْسَ عَلَى الْقَوْمِ الْكَافِرِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Thuaj: “O ithtarë të librit, junuk jeni asgjë (në fe) derisa të mos zbatoni Tevratin, Inxhilin dhe atë që ju zbriti nga Zoti i juaj. E kjo që t’uzbrit ty nga Zoti yt do të shtojë te shumica prej tyre rezistencë e mohim. Po ti, mos u keqëso për popullin që nuk beson",
+				"sqi-hasanefendinahi": "Thuaj: O ithtarët e Librit! Ju nuk keni asgjë (në besim), përderisa të mos i përmbaheni Teuratit dhe Inxhilit dhe asaj që iu është shpallur nga zoti juaj, e ajo që t’u ka shpallur ty nga Zoti yt, do t’ua shtojë shumicës së tyre të harbuarit dhe mohimin. E, mos u hidhëro ti (o Muhammed!) për fatin e mohuesve",
+				"sqi-fetimehdiu": "Thuaj: “O ithtarë të Librit, ju nuk keni kurrgjë deri sa të mos i përmbaheni Tevratit dhe Inxhilit dhe asa që po e shpall Zoti juaj”. Kurse ajo që të shpallë Zoti yt me siguri do të forcojë, te shumica prej tyre padëgjueshmërinë dhe mosbesimin, por ti mos u brengos për shkak të popullit që nuk beson"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 69,
+			"textAr": "إِنَّ الَّذِينَ آمَنُوا وَالَّذِينَ هَادُوا وَالصَّابِئُونَ وَالنَّصَارَىٰ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَعَمِلَ صَالِحًا فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "S’ka dyshim se kush e beson All-llahun (sinqerisht) e beson ditën e gjykimit dhe bën vepra të mira, qoftë prej atyre qëbesuan, prej jehudivë, prej sabiinëve (të krishterë që adhurojnë yjtë), prej të krishterëve, për ta nuk do të ketë frikë as pikëllim (me kusht që të kenë pranuar të dërguarin e fundit- Muhammedin)",
+				"sqi-hasanefendinahi": "Ata që besojnë, madje Hebrenjt, të krishterët dhe Sabi’inët; - kushdo që beson Perëndinë (si është urdhëruar), jetën tjetër dhe punon vepra të mira, për ta nuk ka kurrfarë droje as mërzie",
+				"sqi-fetimehdiu": "Ata të cilët besuan, edhe ata që ishin ebrej, edhe sabejt, edhe të krishterët – por se kush kanë besuar All-llahun dhe botën tjetër dhe kanë bërë vepra të mira, - për ata nuk ka frikë as pikëllim"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 70,
+			"textAr": "لَقَدْ أَخَذْنَا مِيثَاقَ بَنِي إِسْرَائِيلَ وَأَرْسَلْنَا إِلَيْهِمْ رُسُلًا ۖ كُلَّمَا جَاءَهُمْ رَسُولٌ بِمَا لَا تَهْوَىٰ أَنْفُسُهُمْ فَرِيقًا كَذَّبُوا وَفَرِيقًا يَقْتُلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne patëm marrë besën prej beni israilve, atyre u dërguam pejgamberë, por sa herë që u erdhi atyre ndonjë pejgamber që (me mësime) nuk u pëlqeu epsheve të tyre, ata disa prej tyre i përgënjeshtruan, kurse disa të tjerë i mbytën",
+				"sqi-hasanefendinahi": "Na kemi marrë premtimin nga bijt e Izraelit (për besim) dhe ju kemi dërguar pejgamberë. Por, sa herë që ju ka ardhur atyre ndonjë pejgamber me atë (dispozitë), që s’jua donte shpirti i tyre, disa nga ata (pejgamberë) i konsideronin për gënjeshtarë e disa prej tyre i mbytnin",
+				"sqi-fetimehdiu": "Ne pranuam besën nga izraelitët dhe u dërguam profetë. Sa herë që ndonjë profet u ka sjellë atë çka nuk u pëlqente epsheve të tyre, ata disa nga profetët (një grup sish) i mohonin, ndërsa disa i vrisnin"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 71,
+			"textAr": "وَحَسِبُوا أَلَّا تَكُونَ فِتْنَةٌ فَعَمُوا وَصَمُّوا ثُمَّ تَابَ اللَّهُ عَلَيْهِمْ ثُمَّ عَمُوا وَصَمُّوا كَثِيرٌ مِنْهُمْ ۚ وَاللَّهُ بَصِيرٌ بِمَا يَعْمَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata menduan se nuk do të kenë telashe (që i mbytën pejgamberët), mirëpo ashtu u verbuan (nga rruga e drejtë) dhe u shurdhuan (nga e vërteta). Pastaj (pasi i zuri belaja) All-llahu u pranoi pendimin. Mirëpo, më vonë shumë prej tyre mbetën të verbër e të shurdhër. All-llahu di për atë që punuan",
+				"sqi-hasanefendinahi": "Ata menduan se nuk do t’i gjejë kurrfarë dënimi, andaj ngelën të verbër dhe të shurdhët (nuk e panë drejtësinë). Pastaj, All-llahu ua pranoi pendimin tyre, e përsëri, u verbuan dhe u shurdhuan shumë nga ata; e All-llahu sheh mirë atë që punojnë ata",
+				"sqi-fetimehdiu": "Kanë menduar se nuk do të vihen në sprovë, andaj bëheshin të verbër e të shurdhër, dhe pastaj kur e pranoi All-llahu pendimin e tyre prap shumica sish bëheshin të verbër dhe të shurdhër; por All-llahu sheh mirë se çka bëjnë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 72,
+			"textAr": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ هُوَ الْمَسِيحُ ابْنُ مَرْيَمَ ۖ وَقَالَ الْمَسِيحُ يَا بَنِي إِسْرَائِيلَ اعْبُدُوا اللَّهَ رَبِّي وَرَبَّكُمْ ۖ إِنَّهُ مَنْ يُشْرِكْ بِاللَّهِ فَقَدْ حَرَّمَ اللَّهُ عَلَيْهِ الْجَنَّةَ وَمَأْوَاهُ النَّارُ ۖ وَمَا لِلظَّالِمِينَ مِنْ أَنْصَارٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Bënë kufr (mohuan të vërtetën) ata që thanë: “All-llah është ai, Mesihu, bir i Merjemes”. E vetë Mesihu, (Isai) tha: “O beni israil, adhuronie All-llahun, Zotin tim dhe Zotin tuaj, sepse ai që i përshkruan Zotit shok, All-llahu ia ka ndaluar (ia ka bërë haram) atij Xhennetin dhe vendi i tij është zjarri. Për mizorët nuk ka ndihmës",
+				"sqi-hasanefendinahi": "Me të vërtetë, kanë mohuar (të Vërtetën) ata që thonë: “Me siguri Perëndi është Mesihu – i biri i Merjemës! E, Mesihu tha: “O bijt e Israelit, adhuronie Perëndinë, që është Zoti im dhe Zoti juaj. Se, me të vërtetë, kush i ën shok Perëndisë, All-llahu ia ndalon atij Xhennetin dhe strehim i tij është zjarri. Dhe, për zullumqarët nuk ka ndihmëtarë",
+				"sqi-fetimehdiu": "Mosbesimtarët janë ata të cilët thonë: “Zot është Mesihi, i biri i Merjemes!”, kurse Mesihi thoshte: “O izraelitë adhurone All-llahu, Zotin tim dhe Zotin tuaj!” Kush i bën shok All-llahut, All-llahu ia ndalon xhennetin, kurse vendbanimi i tij është në xhehennem. Për mizorët nuk ka ndihmëtarë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 73,
+			"textAr": "لَقَدْ كَفَرَ الَّذِينَ قَالُوا إِنَّ اللَّهَ ثَالِثُ ثَلَاثَةٍ ۘ وَمَا مِنْ إِلَٰهٍ إِلَّا إِلَٰهٌ وَاحِدٌ ۚ وَإِنْ لَمْ يَنْتَهُوا عَمَّا يَقُولُونَ لَيَمَسَّنَّ الَّذِينَ كَفَرُوا مِنْهُمْ عَذَابٌ أَلِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Gjithashtu bënë kufr (mosbesim) ata që thanë: “All-llahu është i treti i treve”. S’ka në gjithësi tjetër pos një All-llahu, e nëse pushojnë nga ajo që thanë (tre zotëra), do t’i kapë dënim i dhëmbshëm, ata që nuk besuan prej tyre",
+				"sqi-hasanefendinahi": "Me të vërtetë, u bënë mohues ata, që thonë: “All-llahu është njëri prej treve!” S’ka Zot tjetër përveç se një Zot! E, nëse nuk frenohen nga ato që thanë, me të vërtetë, ka për t’i goditë ata – mohuesit, dënimi pikëllues",
+				"sqi-fetimehdiu": "Mosbesimtarë janë ata që thonë: “All-llahu është një nga të tre”! Por nuk ka asnjë Zot tjetër përveç një Zoti të vetëm. Dhe nëse nuk heqim dorë prej asaj që thonë, gjithsesi ata të cilët mohojnë, do t’i godas dënim i padurueshëm"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 74,
+			"textAr": "أَفَلَا يَتُوبُونَ إِلَى اللَّهِ وَيَسْتَغْفِرُونَهُ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "E pse të mos pendohen dhe të kërkojnë te All-llahu falje, kur All-llahu dihet se falë shumë, është mëshires",
+				"sqi-hasanefendinahi": "E, përse ata nuk pendohen, (të kthehen te All-llahu) e të kërkojnë ndjesë nga Ai? Se, All-llahu, është falës dhe mëshirues",
+				"sqi-fetimehdiu": "Përse nuk shprehën pendim te All-llahu dhe të kërkojnë falje prej tij? Se All-llahu fal, ai është mëshirëplotë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 75,
+			"textAr": "مَا الْمَسِيحُ ابْنُ مَرْيَمَ إِلَّا رَسُولٌ قَدْ خَلَتْ مِنْ قَبْلِهِ الرُّسُلُ وَأُمُّهُ صِدِّيقَةٌ ۖ كَانَا يَأْكُلَانِ الطَّعَامَ ۗ انْظُرْ كَيْفَ نُبَيِّنُ لَهُمُ الْآيَاتِ ثُمَّ انْظُرْ أَنَّىٰ يُؤْفَكُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Mesihu, bir i Merjemes, nuk është tjetër, vetëm se i dërguar; para tij pati shumë të dërguar. Nëna e tij ishte e drejtë (e ndershme). Që të dy ata ishin që ushqeheshin (si njerëzit tjerë). Ja, si u sqarohen atyre argumentet dhe shih pastaj sesi ikthejnë shpinën të vërtetës",
+				"sqi-hasanefendinahi": "Mesihu – i biri i Merjemës, është vetëm Pejgamber, - edhe para tij kanë kaluar pejgamberë. Nëna e tij përherë ka qenë e drejtë. Që të dy, ngrënin ushqim. Shiko si ua shpjegojmë Ne atyre argumentet dhe shih si zmbrapsën ata (nga e Vërteta)",
+				"sqi-fetimehdiu": "mesihi, i biri i merjemes, është vetëm Profet – edhe përpara tij kanë ardhur e kanë shkuar profetë – kurse nëna e tij është shumë e sinqertë, dhe të dy hanin ushqim. Shiko si ua shpalojmë ne argumentet e qarta, dhe shih, shih si po largohen"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 76,
+			"textAr": "قُلْ أَتَعْبُدُونَ مِنْ دُونِ اللَّهِ مَا لَا يَمْلِكُ لَكُمْ ضَرًّا وَلَا نَفْعًا ۚ وَاللَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+			"translations": {
+				"sqi-sherifahmeti": "Thuaju: A adhuroni pos All-llahut atë që nuk mund t’ju sjellë as dëm as dobi? All-llahu është që dëgjon (ç’thoni) që di (ç’veproni)",
+				"sqi-hasanefendinahi": "Thuaju (o Muhammed!): “Vallë, a e adhuroni ju, përpos Perëndisë, atë që nuk është në gjendje t’u sjell dëm e as dobi?” E, All-llahu është Ai, që dëgjon dhe di çdo gjë",
+				"sqi-fetimehdiu": "Thuaj: “A po e adhuroni, në vend të All-llahut, atë që nuk ka mundësi t’u bëjë dëm as dobi?” Por All-llahu, Ai di dhe dëgjon shumë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 77,
+			"textAr": "قُلْ يَا أَهْلَ الْكِتَابِ لَا تَغْلُوا فِي دِينِكُمْ غَيْرَ الْحَقِّ وَلَا تَتَّبِعُوا أَهْوَاءَ قَوْمٍ قَدْ ضَلُّوا مِنْ قَبْلُ وَأَضَلُّوا كَثِيرًا وَضَلُّوا عَنْ سَوَاءِ السَّبِيلِ",
+			"translations": {
+				"sqi-sherifahmeti": "Thuaju: “O ithtarë të librit, mos e teproni në fenë tuaj jashtë të vërtetës dhe mos shkoni pas epsheve të një populli mëparshëm që ka humbur, që ka shkakttjerëve dhe që u largua në tërsi prej rrugës së drejtë",
+				"sqi-hasanefendinahi": "Thuaj: “O ithtarët e Librit! Mos kaloni kufirin në besimin tuaj, në kundërshtimin me të vërtetën dhe mos ndiqni pasionin e një populli, që qysh më parë patën humbur dhe kanë nxjerrë prej udhës së drejtë shumë njerëz dhe vetë janë shmangur nga udha e drejtë”",
+				"sqi-fetimehdiu": "Thuaj: “O ithtarë të Librit, mos e teproni në fenë tuaj, me pa të drejtë, dhe mos pasoni epshet e njerëzve që kanë humbur moti dhe që shumica i kanë shpjerë në humbje, ndërsa vetë e kanë lëshuar rrugën e drejtë!”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 78,
+			"textAr": "لُعِنَ الَّذِينَ كَفَرُوا مِنْ بَنِي إِسْرَائِيلَ عَلَىٰ لِسَانِ دَاوُودَ وَعِيسَى ابْنِ مَرْيَمَ ۚ ذَٰلِكَ بِمَا عَصَوْا وَكَانُوا يَعْتَدُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata që mohuan të vërtetën nga beni israilët, u mallkuan prej gjuhës së Davudit dhe të Isait, të birit të Mejremës. Kshtu uveprua sepse kundërshtuan dhe e tepruan",
+				"sqi-hasanefendinahi": "U mallkuan ata nga bijtë e Israelit që ishin mohues, me gjuhën e Dautit dhe të Isait – të birit të Merjemës, për shkak se ishin të padëgjueshëm dhe ngase kishin kaluar kufirin",
+				"sqi-fetimehdiu": "Janë mallkuar ata, nga izraelitët, të cilët me gjuhën e Davudit dhe të Isasë, të birit të Merjemes, kanë mohuar, për shkak se ishin të padëgjueshëm dhe gjithmonë e tepronin"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 79,
+			"textAr": "كَانُوا لَا يَتَنَاهَوْنَ عَنْ مُنْكَرٍ فَعَلُوهُ ۚ لَبِئْسَ مَا كَانُوا يَفْعَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata ishin që nuk ndalonin njëri-tjetrin nga e keja që punonin. E ajo që bënin ishte e shëmtuar",
+				"sqi-hasanefendinahi": "njëri-tjetrin nuk e pengonin nga veprat e këqija që punonin. E, sa të shëmtuara ishin veprat që punonin ata",
+				"sqi-fetimehdiu": "Nuk e pengonin njëri-tjetrin nga të këqiat që i bënin. Vërtet vepronin shumë keq"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 80,
+			"textAr": "تَرَىٰ كَثِيرًا مِنْهُمْ يَتَوَلَّوْنَ الَّذِينَ كَفَرُوا ۚ لَبِئْسَ مَا قَدَّمَتْ لَهُمْ أَنْفُسُهُمْ أَنْ سَخِطَ اللَّهُ عَلَيْهِمْ وَفِي الْعَذَابِ هُمْ خَالِدُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "I sheh shumë prej tyre që i miqësojnë ata që mohuan. E keqe është ajo që i përgaditën vetës së tyre ngase All-llahu është i hidhëruar kundër tyre dhe ata përjanë në azab (në vuajtje të dënimit)",
+				"sqi-hasanefendinahi": "Ti i sheh shumicën nga ata që miqësohen me mohuesit. Me të vërtetë, e shëmtuar ësthë ajo që i përgatisin ata vetes: që All-llahu të pezmatohet në ta dhe t’i dënojë përherë",
+				"sqi-fetimehdiu": "I sheh shumë sish si miqësohen me ata që nuk besojnë. Është me të vërtetë shumë keq çka i përgatisin ata vetvetes: për t’u hidhëruar All-llahu në ata, andaj ata janë në vuajtje të përhershme"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 81,
+			"textAr": "وَلَوْ كَانُوا يُؤْمِنُونَ بِاللَّهِ وَالنَّبِيِّ وَمَا أُنْزِلَ إِلَيْهِ مَا اتَّخَذُوهُمْ أَوْلِيَاءَ وَلَٰكِنَّ كَثِيرًا مِنْهُمْ فَاسِقُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Sikur të ishin ata që vërteëtë e besojnë All-llahun, pejgamberin dhe atë që i zbriti atij, nuk do t’i zinin për miq ata (idhujtarët), por shumica prej janë fasika (mëkatarë)",
+				"sqi-hasanefendinahi": "Sikur t’i besonin ata Perëndisë, Pejgamberit dhe asaj që i është shpallur atij, nuk do t’i merrnim ata (mohuesit) për miq. Por, shumica prej tyre janë mëkatarë",
+				"sqi-fetimehdiu": "E sikur t’i besonin All-llahut dhe Profetit edhe asaj çka i shpallet atij, ata nuk do të bënin miqësi me ata, mirëpo shumica sish janë ngatërrestarë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 82,
+			"textAr": "۞ لَتَجِدَنَّ أَشَدَّ النَّاسِ عَدَاوَةً لِلَّذِينَ آمَنُوا الْيَهُودَ وَالَّذِينَ أَشْرَكُوا ۖ وَلَتَجِدَنَّ أَقْرَبَهُمْ مَوَدَّةً لِلَّذِينَ آمَنُوا الَّذِينَ قَالُوا إِنَّا نَصَارَىٰ ۚ ذَٰلِكَ بِأَنَّ مِنْهُمْ قِسِّيسِينَ وَرُهْبَانًا وَأَنَّهُمْ لَا يَسْتَكْبِرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Gjithqysh ti do të vëresh se jehuditë dhe ata që i përshkruan Zotit shok (idhujtarët) janë njerëzit me armiqësi të fortë kundër kundër besimtarëve (kundër muslimanëve). Ndërsa do të vëresh se më të afërmit si miq për besimtarët thanë: “Ne jemi nesara-krishterë”. Këtë ngase prej tyre (të krishtrëve) ka dijetarë (ulema) dhe të devotshëm, dhe se ata nuk janë kryeneçë",
+				"sqi-hasanefendinahi": "Ti gjithsesi do të vëresh, se armiqët më të ashpër për besimtarët (muslimanët) janë Hebrenjt dhe paganët. E, gjithsesi do të vëresh, se miqët më të afërt të besimtarëve janë ata që thonë: “Na jemi të krishterë”. Kjo rrjedh, nga se ndër ta ka dijetarë dhe murgë dhe ata me të vërtetë nuk madhështohen (në pranimin e së vërtetës)",
+				"sqi-fetimehdiu": "Ti me siguri do të shohësh se armiqtë më të flaktë të besimtarëve janë ebrejt dhe politeistët; dhe gjithsesi do të shohish se dashamirë më të afërt për besimtarët janë ata që thonë: “Ne jemi të krishterë”!, për shkak se në mesin e tyre ka klerikë dhe murgë, dhe se ata nuk bëjnë mendjemadhësi"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 83,
+			"textAr": "وَإِذَا سَمِعُوا مَا أُنْزِلَ إِلَى الرَّسُولِ تَرَىٰ أَعْيُنَهُمْ تَفِيضُ مِنَ الدَّمْعِ مِمَّا عَرَفُوا مِنَ الْحَقِّ ۖ يَقُولُونَ رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "kur edëgjojnë atë që i është zbritur të dërguarit (Kur’anin), prej syve të tyre rrjedhin lotë, ngase e kanë kuptuar të vërtetën dhe thonë: “Zoti ynë, ne kemi besuar, pra regjistro ndër ata që që dëshmojnë (ndër ymetin e Muhammedit)",
+				"sqi-hasanefendinahi": "Kur dëgjuan ata për ate (Kur’anin) që i është zbritur Pejgamberit, i sheh ti ata, prej se kuptuan të Vërtetën, se si ju rrjedhin lotët nga sytë. Ata thanë: “O Zoti ynë! Na besojmë, andaj na regjistro në mesin e atyre që dëshmojnë (profetninë e Muhammedit)”",
+				"sqi-fetimehdiu": "Kur dëgjojnë atë që i shpallet Profetit, e sheh si u shpërthejnë lotët, sepse e dinë se ajo është e vërtetë, dhe thonë: “O Zoti ynë, ne besojmë, pra, na shkruaj edhe neve me ata që dëshmojnë!”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 84,
+			"textAr": "وَمَا لَنَا لَا نُؤْمِنُ بِاللَّهِ وَمَا جَاءَنَا مِنَ الْحَقِّ وَنَطْمَعُ أَنْ يُدْخِلَنَا رَبُّنَا مَعَ الْقَوْمِ الصَّالِحِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "(the thonë) Përse të mos besojmë All-llahun dhe atë të vërtetë që na erdhi, duke qenë se ne shpresojmë që Zoti ynë do të na qojë (në Xhennet) së bashku me njerëzit emirë",
+				"sqi-hasanefendinahi": "E përse të mos besojmë Perëndinë dhe të Vërtetën (Kur’anin), që na është dërguar, kur shpresojmë se edhe neve Zoti ynë do të na shpie me njerëz të mirë",
+				"sqi-fetimehdiu": "Përse të mos i besojmë All-llahut dhe të vërtetës që na vjen, kur edhe ne lakmojmë që edhe Zoti ynë të na shpjerë me njerëzit e mirë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 85,
+			"textAr": "فَأَثَابَهُمُ اللَّهُ بِمَا قَالُوا جَنَّاتٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ وَذَٰلِكَ جَزَاءُ الْمُحْسِنِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Për ata që thanë, All-llahu i shpërbleu me Xhennete, në të cilët rjedhin lumenj, ku do të jenë përgjithmonë. Ky është shpërblimi për njerëzit bamirës",
+				"sqi-hasanefendinahi": "E All-llahu do t’i shpërblejë ata për fjalët që thanë (që besuan) me kopshte, nëpër të cilat rrjedhin lumenj dhe ku ata do të qëndrojnë përgjithmonë. E ky është shpërblimi i bamirësve",
+				"sqi-fetimehdiu": "Dhe All-llahu, për shkak të asaj që flasin, do t’i shpërblejë me kopshte të xhennetit ku rrjedhin lumenj dhe aty do të mbesin përgjithmonë, e ky është shpërblim për punëmirët"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 86,
+			"textAr": "وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ndërkaq, ata që mohuan dhe përgenjeshtruan arumentet Tona, janë banues të zjarrit",
+				"sqi-hasanefendinahi": "E ata që mohuan dhe i konsideruan të rrejshme argumentet tona, ata do të jenë banorë të ferrit (skëterrës)",
+				"sqi-fetimehdiu": "Kurse ata që mohojnë dhe i përgënjeshtrojnë argumentet tona, ata janë banorë të xhehennemit"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 87,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُحَرِّمُوا طَيِّبَاتِ مَا أَحَلَّ اللَّهُ لَكُمْ وَلَا تَعْتَدُوا ۚ إِنَّ اللَّهَ لَا يُحِبُّ الْمُعْتَدِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat! Mos i ndaloni (mos i bëni haram) të mirat që për ju i lejoi (i bëri hallall) dhe mos teproni, se All-llahu nuk i do ata që teprojnë (i kalojnë kufijtë e dispozitave të Zotit)",
+				"sqi-hasanefendinahi": "O besimtarë! Mos ia ndaloni vetes gjërat e bukura, të cilat All-llahu ua ka lejuar dhe mos kaloni kufirin. Se, All-llahu, nuk i don ata që e kapërcejnë kufirin (e urdhërave të Perëndisë)",
+				"sqi-fetimehdiu": "O besimtarë, mos i ndalni vetes gjërat e mira që ua ka lejuar All-llahu, dhe mos e teproni, sepse All-llahu nuk i do ata që e teprojnë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 88,
+			"textAr": "وَكُلُوا مِمَّا رَزَقَكُمُ اللَّهُ حَلَالًا طَيِّبًا ۚ وَاتَّقُوا اللَّهَ الَّذِي أَنْتُمْ بِهِ مُؤْمِنُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Hani nga ajo që All-llahu ju furnizou si hallall të mirë dhe, duke qenë se ju All-llahut i besoni, ruanu dënimit të Tij",
+				"sqi-hasanefendinahi": "Hani nga ato që u ka furnizuar All-llahu – të lëjuara dhe të mira! Druajuni Perëndisë, të cilit ju i keni besuar",
+				"sqi-fetimehdiu": "Dhe hani atë çka u jep All-llahu, çka është e mirë dhe e lejuar, dhe frikësohuni All-llahut të cilit i besoni"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 89,
+			"textAr": "لَا يُؤَاخِذُكُمُ اللَّهُ بِاللَّغْوِ فِي أَيْمَانِكُمْ وَلَٰكِنْ يُؤَاخِذُكُمْ بِمَا عَقَّدْتُمُ الْأَيْمَانَ ۖ فَكَفَّارَتُهُ إِطْعَامُ عَشَرَةِ مَسَاكِينَ مِنْ أَوْسَطِ مَا تُطْعِمُونَ أَهْلِيكُمْ أَوْ كِسْوَتُهُمْ أَوْ تَحْرِيرُ رَقَبَةٍ ۖ فَمَنْ لَمْ يَجِدْ فَصِيَامُ ثَلَاثَةِ أَيَّامٍ ۚ ذَٰلِكَ كَفَّارَةُ أَيْمَانِكُمْ إِذَا حَلَفْتُمْ ۚ وَاحْفَظُوا أَيْمَانَكُمْ ۚ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمْ آيَاتِهِ لَعَلَّكُمْ تَشْكُرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahu nuk ju merr në përgjegjësi për betimiet e juaja të paqëllimta (për betim), por ju merr për ato që jeni zotuar qëllimisht. E shpagimi i tij (i betimit të bërë) është duke i ushqyer dhjetë të varfër me ushqim mesatar që ushqeni familjen tuaj, ose duke i veshur ata (të dhjetë), ose duke liruar një rob. E kush nuk ka mundësi t’i bëjë këto, le të agjërojë tri ditë. Ky është shpagim për betimet tuaja kur itheni ato. Ruani betimet tuaja. Kështu All-llahu ju shqaron dispozitat e veta, ashtu që jeni mirënjohës",
+				"sqi-hasanefendinahi": "All-llahu nuk do t’ju ndëshkojë për betimin që e bëni pa qëllim, por do t’ju ndëshkojë për betimin e bërë me qëllim. Larja e mëkatit për thyerjen e betimit është: ushqyerja e dhjetë të varfërve me mesataren e ushqimit, të familjes suaj, ose t’i vishni ata, ose të lironi një skllav. Ai që nuk gjen mundësi për këto, le të agjërojë tri ditë. Ky është dënimi i thyerjes së betimeve tuaja – kur betoheni. Mbani betimet tuaja! Kështu ua shpjegon All-llahu argumentet e Veta, që të jeni falënderues",
+				"sqi-fetimehdiu": "All-llahu nuk ju dënon nëse betoheni pa qëllim, por do t’ju dënojë për betimin që po e bëni me qëllim. Kompensimi për atë është: Të ushqeni dhjetë varfënjakë me ushqim mesatar, me çka e ushqeni familjen tuaj, ose t’i vishni ose t’i lironi nga robëria. Por kush nuk ka, le të agjërojë tri ditë. Ashtu bëhet kompensimi nga betimi kur betoheni, por kini kujdes në betimet tuaja! Ja, ashtu All-llahu ju sqaron rregullat e veta që të jeni mirënjohës"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 90,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنَّمَا الْخَمْرُ وَالْمَيْسِرُ وَالْأَنْصَابُ وَالْأَزْلَامُ رِجْسٌ مِنْ عَمَلِ الشَّيْطَانِ فَاجْتَنِبُوهُ لَعَلَّكُمْ تُفْلِحُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat, s’ka dyshim se vera, bixozi, idhujt dhe hedhja e shigjetës (për fall) janë vepra të ndyta nga shejtani. Pra, largohuni prej tyre që të jeni të shpëtuar",
+				"sqi-hasanefendinahi": "O besimtarë! Me të vërtetë, vera (pijet alkoolike), bixhozi, statujet dhe shigjetat e fallit janë vepra të ndyta nga punët e djallit. Pra, për të shpëtuar, largohuni nga këto",
+				"sqi-fetimehdiu": "O besimtarë, nuk ka dyshim se alkooli edhe loja me para edhe idolatria edhe shigjetat për falla janë të ndyra, nga punët e djallit, prandaj largohuni sish që të jeni të shpëtuar"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 91,
+			"textAr": "إِنَّمَا يُرِيدُ الشَّيْطَانُ أَنْ يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَنْ ذِكْرِ اللَّهِ وَعَنِ الصَّلَاةِ ۖ فَهَلْ أَنْتُمْ مُنْتَهُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Shejtani nuk dëshiron tjetër, përveç se nëpërmjet verës dhe bixhozit të hedh armiqësi mes jush, t’ju pengojë nga të përmendurit Zotit dhe t’ju largojë nga namazi. Pra, a po i jepni fund (alkoolit e bixhozit)",
+				"sqi-hasanefendinahi": "Me të vërtetë, djalli me pije alkoolike dhe me bixhoz dëshiron që të fusë në mes jush armiqësi dhe urrejtje dhe t’ju shmangë juve nga të kujtuarit e Perëndisë dhe kryerjen e namazit. Prandaj, a doni të shmangeni? (Shmanguni ju nga këto vepra të këqia)",
+				"sqi-fetimehdiu": "Djalli dëshiron që me anë të alkoolit dhe lojës me fat (bixhozit) të fusë ndërmjet jush armiqësi e urrejtje dhe t’ju largojë nga përmendja e All-llahut dhe falja e namazit. Ani, a po hiqni dorë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 92,
+			"textAr": "وَأَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَاحْذَرُوا ۚ فَإِنْ تَوَلَّيْتُمْ فَاعْلَمُوا أَنَّمَا عَلَىٰ رَسُولِنَا الْبَلَاغُ الْمُبِينُ",
+			"translations": {
+				"sqi-sherifahmeti": "Bindjuni All-llahut dhe të dërguarit e kini kujdes (mos kundërshtoni). E nëse refuzoni, atëherë pra, dine se obligim i të dërguarit Tonë është vetëm komunikimit i qartë",
+				"sqi-hasanefendinahi": "Bindjuni Perëndisë, bindjuni dhe Pejgamberit dhe ruajuni (nga kundërshtarët)! E, nëse zmbrapseni (nga bindja), ta dini se Pejgamberi Ynë është i obliguar të bëjë vetëm shpalljen e qartë",
+				"sqi-fetimehdiu": "Nderone All-llahun dhe nderone Profetin dhe kini kujdes! Por nëse i ktheni shpinën, atëherë dijeni se detyrë e Profetit tonë është të predikojë vetëm haptazi"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 93,
+			"textAr": "لَيْسَ عَلَى الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جُنَاحٌ فِيمَا طَعِمُوا إِذَا مَا اتَّقَوْا وَآمَنُوا وَعَمِلُوا الصَّالِحَاتِ ثُمَّ اتَّقَوْا وَآمَنُوا ثُمَّ اتَّقَوْا وَأَحْسَنُوا ۗ وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata që besuan dhe bënë punë të mira, nuk kanë mëkat për atë që u ushqyen (më herët) derisa ruhen (prej haramit), besojnë dhe bëjnë vepra të mira, mandej ruhen (nga ajo që ka qenë e lejuar e është e ndaluar) dhe besojnë dhe pastaj ruhen (nga çdo mëkat) dhe bëjnë mirë. All-llahu i do ata që bëjnë mirë",
+				"sqi-hasanefendinahi": "S’ka mëkat për ata besimtarë që bëjnë punë të mira (në atë) që kanë ngranë (para ndalimit), kur ata të jenë ruajtur (nga ndalimet), të kenë besuar e të kenë bërë vepra të mira; të ruhen e të besojnë; dhe të ruhen e të bëjnë vepra të mira (vijimisht). E, All-llahu i don bamirësit",
+				"sqi-fetimehdiu": "Ata, të cilët besojnë dhe bëjnë vepra të mira, nuk kanë mëkat për atë që hanë dhe pinë, nëse ruhen (nga e ndaluara) dhe besojnë edhe bëjnë vepra të mira, pastaj i frikësohen All-llahut dhe besojnë, dhe prapë frikësohen dhe bëjnë punë të mira. All-llahu i do punëmirët"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 94,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَيَبْلُوَنَّكُمُ اللَّهُ بِشَيْءٍ مِنَ الصَّيْدِ تَنَالُهُ أَيْدِيكُمْ وَرِمَاحُكُمْ لِيَعْلَمَ اللَّهُ مَنْ يَخَافُهُ بِالْغَيْبِ ۚ فَمَنِ اعْتَدَىٰ بَعْدَ ذَٰلِكَ فَلَهُ عَذَابٌ أَلِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat, All-llahu do t’ju sprovojë me diçka nga gjahu që e arrijnë duart ose shigjetat tuaja, për t’u te All-llahu ai që i frikësohet Atij në heshtje (në bazë besimi). E kush i shkel (dispozitat) pas këtij (sqarimi) ai ka dënim të dhëmbshëm",
+				"sqi-hasanefendinahi": "O besimtarë! All-llahu do t’ju provojë juve me ndalim nga një gjueti që e arrijnë duart tuaja dhe shigjetat tuaja, që All-llahu ta tregojë atë që i druan Atij, kur askush nuk e sheh. E, kushdo që ta kalojë kufirin (këtë dispozitë), për të ka dënim pikëllues",
+				"sqi-fetimehdiu": "O besimtarë, All-llahu do t’ju vërë gjithsesi në sprovë me diçka nga gjahu që do t’i kapni me duar dhe shigjetat tuaja – që All-llahu t’u tregojë se kush i frikësohet Atij kur nuk e sheh askush. Por ai që e tepron edhe pas kësaj, atë e pret dënim i dhembshëm"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 95,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَقْتُلُوا الصَّيْدَ وَأَنْتُمْ حُرُمٌ ۚ وَمَنْ قَتَلَهُ مِنْكُمْ مُتَعَمِّدًا فَجَزَاءٌ مِثْلُ مَا قَتَلَ مِنَ النَّعَمِ يَحْكُمُ بِهِ ذَوَا عَدْلٍ مِنْكُمْ هَدْيًا بَالِغَ الْكَعْبَةِ أَوْ كَفَّارَةٌ طَعَامُ مَسَاكِينَ أَوْ عَدْلُ ذَٰلِكَ صِيَامًا لِيَذُوقَ وَبَالَ أَمْرِهِ ۗ عَفَا اللَّهُ عَمَّا سَلَفَ ۚ وَمَنْ عَادَ فَيَنْتَقِمُ اللَّهُ مِنْهُ ۗ وَاللَّهُ عَزِيزٌ ذُو انْتِقَامٍ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat, mos e mbytni gjahun, duke qenë ju në ihram. E kush e mbyt atë me qëlim, aterë dënimi është therrorizimi injë kafshe shtëpiake të ngjashme me atë (të egrën) që ka mbytur. Për këtë çështje vendosin dy njerëz të drejtë nga mesi juaj, duke bërë at kurban për Qabe, ose (dënimi është) duke ushqyer të varfër, ose sa ai (ushqimi), agjërimi, këtë për shijuar të keqen e punës së tij. All-llahu ka falur të kaluarën. E kush bën përsëri, (gabimin) All-llahu dënon ashpër. All-llahu çshtjet), hakmerret (me dënim)",
+				"sqi-hasanefendinahi": "O besimtarë! Mos gjuani, duke qenë në ihram! E, kushdo që qet të vret (egërsirën) me paramendim, për dënim do të therrë një shtazë shtëpiake të ngjashme me kafshën e gjuajtur. Këtë, e vlerësojnë dy vetë të drejtë, duke dërguar kurban në Qabe, ose duke i ushqyer të varfërit për të larë mëkatin, ose të agjëroj në këtë masë, që ta ndiejë ndëshkimin e mëkatit të bërë. All-llahu i falë atë që ka kaluar (para ndalimit). E, kush vepron edhe pas ndalimit, All-llahu do ta ndëshkojë. Se, All-llahu është i Plotëfuqishëm dhendëshkues",
+				"sqi-fetimehdiu": "O besimtarë, mos u merrni me gjueti derisa jeni duke kryer haxhin! Ai i cili mbyt me qëllim dënohet që një kafshë shtëpiake si ajo të cilën e caktojnë dy vetë të drejtë nga ju, ta falë në Qabe, ose do të kompenzohet me vlerën e asaj, të ushqyerit e varfënjakëve ose sa është kundërvlera e saj të agjërojë për ta ndie pasojën e veprës së vet. All-llahu e fal të kaluarën, por kush e përsërit All-llahu do ta dënojë. All-llahu është i fortë edhe në dënim"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 96,
+			"textAr": "أُحِلَّ لَكُمْ صَيْدُ الْبَحْرِ وَطَعَامُهُ مَتَاعًا لَكُمْ وَلِلسَّيَّارَةِ ۖ وَحُرِّمَ عَلَيْكُمْ صَيْدُ الْبَرِّ مَا دُمْتُمْ حُرُمًا ۗ وَاتَّقُوا اللَّهَ الَّذِي إِلَيْهِ تُحْشَرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Gjahu dhe ushqimi në det u është lejuar, si përjetim për ju dhe për udhëtarët, kurse gjahu tokësor u është ndaluar sa të jeni në ihram. Kinie dro All-llahun, te i cili do të tuboheni",
+				"sqi-hasanefendinahi": "U është lejuar gjuetia e detit dhe ngrënia e saj, duke u kënaqur me të, në shtëpi dhe në udhëtim. E, ju është ndaluar gjuetia e tokës, deri sa të gjendeni në Ihram. Druajeni Perëndinë, para të cilit do të tuboheni",
+				"sqi-fetimehdiu": "Ju lejohet peshkimi në det dhe ushqimi i detit me kënaqësi për ju dhe ekipin, por ju ndalohet të gjahtoni në tokë gjatë periudhës së haxhit. Dhe frikësohuni All-llahut para të cilit do të tuboheni"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 97,
+			"textAr": "۞ جَعَلَ اللَّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِلنَّاسِ وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلَائِدَ ۚ ذَٰلِكَ لِتَعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahu e bëri Qaben, shtëpinë e shenjtë, vend jetësimi (çështjet të fesë të jetës) për njerëz, dhe muajin e shenjtë, edhe kurbanin edhe (ato kafshë të shënuara për kurban) atë me qafore. Këtë (përcaktim nga Zoti) që ta dini se All-llahu e di ç’ka në qiej dhe ç’ka ka në tokë dhe se All-llahu ka përfshirë me urtësinë e dijen e vet çdo send (përcaktimi i Zotit për këto është me qëllim të caktuar, e për të mirën e njerëzve)",
+				"sqi-hasanefendinahi": "All-llahu e bëri Qaben – Shtëpi të shenjtë që njerëzit t’i kryejnë detyrat fetare dhe muajin e shenjt, kurbanin dhe kurbanin e shënuar. Këto të gjitha, i bëri, për të ditur se All-llahu di çdo gjë në qiej dhe në Tokë dhe që All-llahu është i Gjithëdijshëm",
+				"sqi-fetimehdiu": "All-llahu ka bërë Qaben, tempull të shenjtë, që bota të kryej haxhin, si edhe muajin e shenjtë dhe kurbanët, edhe ata të shenjuarit me qafore, që ta dinë se All-llahu e di se çka ka në qiej dhe në tokë, dhe All-llahu, me siguri, di çdo send"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 98,
+			"textAr": "اعْلَمُوا أَنَّ اللَّهَ شَدِيدُ الْعِقَابِ وَأَنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Dijeni se All-llahu është ndëshkues i rreptë, dhe se All-llahu është dhurues, është mëshirues",
+				"sqi-hasanefendinahi": "Dinie se All-llahu është ndëshkues i rreptë dhe se është falës e mëshirues",
+				"sqi-fetimehdiu": "TA dini se All-llahu është ndëshkimrëndë, por All-llahu edhe fal dhe është mëshirëplotë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 99,
+			"textAr": "مَا عَلَى الرَّسُولِ إِلَّا الْبَلَاغُ ۗ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "I dërguari nuk ka tjetër obligim vetëm të kumtojë (shpalljen); All-llahu di ç’publikoni dhe ç’bani fshehtë",
+				"sqi-hasanefendinahi": "Pejgamberi ka për detyrë vetëm t’ju komunikojë Shpalljes. Se All-llahu di çka punoni sheshazi e çka fshehurazi",
+				"sqi-fetimehdiu": "Profeti e ka për detyrë vetëm të shpallë, kurse All-llahu e di edeh atë çka shfaqni haptazi edhe atë çka fshihni"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 100,
+			"textAr": "قُلْ لَا يَسْتَوِي الْخَبِيثُ وَالطَّيِّبُ وَلَوْ أَعْجَبَكَ كَثْرَةُ الْخَبِيثِ ۚ فَاتَّقُوا اللَّهَ يَا أُولِي الْأَلْبَابِ لَعَلَّكُمْ تُفْلِحُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Thuaj: “Nuk është e njejtë e keqja dhe e mira, po edhe nëse të mahnit ty shumimi i së keqes, pra kini frikë All-llahun (e mos pranoni të keqen) o ju të zotët e mendjes, ashtu që të shpëtoni",
+				"sqi-hasanefendinahi": "Thuaju: “Nuk barazohet e keqja me të mirën, sikur edhe të të kënaqte shumica e të këqijave. Druajeni Perëndinë, o të zotët e mendjes së hollë, që të shpëtoni",
+				"sqi-fetimehdiu": "Thuaj: “Nuk është njëlloj e keqja dhe e mira, edhe pse të habit numri i madh i të këqijave”. Prandaj, frikësohuni All-llahut, o të mençur, që të shpëtoni"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 101,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَسْأَلُوا عَنْ أَشْيَاءَ إِنْ تُبْدَ لَكُمْ تَسُؤْكُمْ وَإِنْ تَسْأَلُوا عَنْهَا حِينَ يُنَزَّلُ الْقُرْآنُ تُبْدَ لَكُمْ عَفَا اللَّهُ عَنْهَا ۗ وَاللَّهُ غَفُورٌ حَلِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat, mos pyetni për sende që, nëse u thuhet ajo (pyetja) haptazi, ju vjen keq juve, e nëse pyetni për to gjatë kohës kur zbritej Kur’ani, do t’ju dalë në shesh (dhe do ta ngarkoni veten pa nevojë). All-llahu u fali (pyetjet që i bëtë më herët); All-llahu falë shumë, është i bute",
+				"sqi-hasanefendinahi": "O besimtarë! Mos pyetni për disa sende, që sikur t’ju thuhet haptazi do të ishit të pakënaqur, e nëse pyetni për ato kur zbritet Kur’ani, do t’u jenë të qarta. All-llahu ua ka falë kërshërinë. Se, All-llahu, është falës dhe i butë, (nuk nxiton në ndëshkime)",
+				"sqi-fetimehdiu": "O besimtarë, mos pyetni për ato gjëra që u shkaktojnë pakënaqësi nëse u sqarohen; por nëse pyetni ato derisa po u shpallet Kur’ani, do t’ju tfillohen. All-llahu ua fal se All-llahu është i butë dhe fal shumë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 102,
+			"textAr": "قَدْ سَأَلَهَا قَوْمٌ مِنْ قَبْلِكُمْ ثُمَّ أَصْبَحُوا بِهَا كَافِرِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Një popull që ishte para jushpat bërë aso pyetjesh, e pastaj (nuk i zbatoi) u bë mohues i tyre",
+				"sqi-hasanefendinahi": "Disa njerëz kanë pyetur kështu, para jush, e nuk kanë besuar (u bënë mohues)",
+				"sqi-fetimehdiu": "Kanë pyetur për ata disa njerëz edhe përpara jush, e pastaj u bënë mosbesimtarë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 103,
+			"textAr": "مَا جَعَلَ اللَّهُ مِنْ بَحِيرَةٍ وَلَا سَائِبَةٍ وَلَا وَصِيلَةٍ وَلَا حَامٍ ۙ وَلَٰكِنَّ الَّذِينَ كَفَرُوا يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ ۖ وَأَكْثَرُهُمْ لَا يَعْقِلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahu nuk emëroi (për të shenjtë) Behirën, as Saibën, as Vesilën, dhe as Hamën, porata që nuk besuan trillojnë rrenë për All-llahun, (duke thënë se All-llahu i përcaktoi) dhe shumica e tyre nuk kuptojnë (se janë duke shpifur)",
+				"sqi-hasanefendinahi": "All-llahu nuk e përligji Behirën (devën femër me veshë të prerë); as Saibën (devën që e flijonin për statujë); as Vesilën (devën që ka pjellë pesë herë rresht qingja – femër e u është flijuar statujeve); as Hamin (devën që nuk e ngarkonin as shalonin). Por, mohuesit (duke besuar kështu shtrembër), kanë trilluar gënjeshtra për Perëndinë! Shumica nga ata nuk kanë mend",
+				"sqi-fetimehdiu": "All-llahu nuk u ka caktuar Behirën, as Saibën, as Vasilën, as Hamën, por ata që nuk besojnë shpifin ndaj All-llahut gënjeshtra, sepse, shumica prej tyre nuk kanë mend"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 104,
+			"textAr": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا إِلَىٰ مَا أَنْزَلَ اللَّهُ وَإِلَى الرَّسُولِ قَالُوا حَسْبُنَا مَا وَجَدْنَا عَلَيْهِ آبَاءَنَا ۚ أَوَلَوْ كَانَ آبَاؤُهُمْ لَا يَعْلَمُونَ شَيْئًا وَلَا يَهْتَدُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E kur ju thuhet atyre: “Ejani te ajo që zbriti All-llahu dhe te (çka thotë) i dërguari, ata thonë: “Na mjafton ajo që igjetëm prindërit tanë”, (a mjafton) edhe nëse prindërit e tyre ishiin që nuk dinin asgjë dhe nuk ishin në rrugë të drejtë",
+				"sqi-hasanefendinahi": "E kur ju thuhet atyre: “Ejani në atë që e ka zbritur All-llahu dhe ejani te Pejgamberi!” Ata thanë: “Neve na mjafton ajo, në çka i kemi gjetë etërit tonë”. A mos edhe atëherë, kur etërit e tyre nuk kanë ditur asgjë, e as nuk ishin në udhën e vërtetë",
+				"sqi-fetimehdiu": "Dhe kur u thuhet: “Ejani te ajo që u shpalli All-llahu, edhe te Profeti!” thonë: “Na mjafton ajo që kemi gjetur nga baballarët tanë”. Edhe pse të parët e tyre nuk kanë ditur asgjë dhe nuk kanë qenë të udhëzuar"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 105,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا عَلَيْكُمْ أَنْفُسَكُمْ ۖ لَا يَضُرُّكُمْ مَنْ ضَلَّ إِذَا اهْتَدَيْتُمْ ۚ إِلَى اللَّهِ مَرْجِعُكُمْ جَمِيعًا فَيُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat, ruane veten tuaj! Ai që ka humbur, nuk ju dëmton juve kur jeni në rrugë të drejtë. Kthimi i të gjithë juve është te All-llahu dhe Ai ju njohton për atë që vepruat",
+				"sqi-hasanefendinahi": "O besimtarë! Ruajuni! Kur të gjendeni në rrugën e vërtetë, nuk do t’ju dëmtojë ai që është i humbur. Te All-llahu të gjithë do të ktheheni, e do t’ju lajmërojë për atë që keni punuar",
+				"sqi-fetimehdiu": "O besimtarë, kujdesohuni për vete; nëse jeni në rrugë të drejtë, ai i cili është i humbur nuk do të ju bëjë dot asgjë! Te All-llahu të gjithë do të ktheheni dhe do t’ju informojë se çka keni punuar"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 106,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا شَهَادَةُ بَيْنِكُمْ إِذَا حَضَرَ أَحَدَكُمُ الْمَوْتُ حِينَ الْوَصِيَّةِ اثْنَانِ ذَوَا عَدْلٍ مِنْكُمْ أَوْ آخَرَانِ مِنْ غَيْرِكُمْ إِنْ أَنْتُمْ ضَرَبْتُمْ فِي الْأَرْضِ فَأَصَابَتْكُمْ مُصِيبَةُ الْمَوْتِ ۚ تَحْبِسُونَهُمَا مِنْ بَعْدِ الصَّلَاةِ فَيُقْسِمَانِ بِاللَّهِ إِنِ ارْتَبْتُمْ لَا نَشْتَرِي بِهِ ثَمَنًا وَلَوْ كَانَ ذَا قُرْبَىٰ ۙ وَلَا نَكْتُمُ شَهَادَةَ اللَّهِ إِنَّا إِذًا لَمِنَ الْآثِمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat, dëshmimi me rastin e atij që lë testament (vasijjet) kur i është afruar ndonjërit prej jush vdekja, bëhet me dy dëshmitarë të drejtë nga mesi juaj, ose nga dy të tjerë pos jush, nëse jeni në udhëtim (në rrugë e s’keni të afërm) dhe ju gjen telashja e vdekjes. E nëse dyshoni (në dëshminë e tyre) i ndalni ata të dy pas namazit (të iqindisë) dhe ata betohen në All-llahun: “Ne nuk e japim betimin në All-llahun për asgjë edhe sikur të jetë (ai për të cilin betohemi) i afërm dhe nuk e fshehim dëshminë e (porositur prej) All-llahut, pse atëherë ne do të jemi mëkatarë!”",
+				"sqi-hasanefendinahi": "O besimtarë! – kur t’ju afrohet vdekja, me rastin e dhënies së testamentit, le të dëshmojnë dy të drejtë prej jush, ose dy të tjerë që nuk janë prej jush – nëse gjendeni në rrugë dhe u duken shenjat e vdekjes. E, nëse dyshoni në ta, mbani ata pas namazit dhe le të betohen në Perëndinë. “Na nuk do ta shesim betimin me kurrfarë çmimi, edhe nëse është fjala për çfarëdo të afërmi, dhe dëshminë që na urdhëron All-llahu nuk do ta fshehim, sepse, atëherë, do të ishim, me të vërtetë mëkatarë”",
+				"sqi-fetimehdiu": "O besimtarë, kur ju afrohet vdekja, e kur leni porosi le të dëshmojnë dy vetë të drejtë nga ju, ose dy vetë të tjerë që nuk janë nga ju, nëse jeni në rrugë dhe u goditë momenti i vdekjes. Ndaloni pak ata të dy pasi të kryeni namazin dhe le të bëjnë be në All-llahun, nëse dyshoni. Me këtë nuk blejmë asnjëfarë vlere, edhe kur është fjala për ndonjë të afërm, dhe nuk i fshehim dëshmitë e All-llahut, sepse ne atëherë do të ishim, me të vërtetë, mëkatarë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 107,
+			"textAr": "فَإِنْ عُثِرَ عَلَىٰ أَنَّهُمَا اسْتَحَقَّا إِثْمًا فَآخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ الَّذِينَ اسْتَحَقَّ عَلَيْهِمُ الْأَوْلَيَانِ فَيُقْسِمَانِ بِاللَّهِ لَشَهَادَتُنَا أَحَقُّ مِنْ شَهَادَتِهِمَا وَمَا اعْتَدَيْنَا إِنَّا إِذًا لَمِنَ الظَّالِمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "E nëse dihet se ata të dy kanë merituar mëkat (kanë gënjyer) atëherë në vend të tyre merren dy të tjerë prej atyre që kanë meritë (meritë trashëgimi) dhe ata të dy betohen në All-llahun: “Dëshmimi ynë është më i drejtë nga dëshmimi i atyre (dy të parëve), dhe ne nuk e tejkaluam (drejtësinë), pse atëherë do të ishim nga mizorët!”",
+				"sqi-hasanefendinahi": "Nëse hetohet se ata dy dëshmues kanë bërë mëkat, atëherë dy të tjerë do t’i zëvendësojnë ata të dy, nga ata që u është bërë padrejtësi, e këta dy do të betohen në Perëndinë (duke thënë): “Dëshmia jonë është gjithsesi më e drejtë se dëshmia e atyre dyve dhe na nuk i kemi kaluar kufijt. Sepse, atëherë, ne do të ishim zullumqarë”",
+				"sqi-fetimehdiu": "Dhe nëse merret vesh se ata dy kanë bërë mëkat, atëherë do t’i zëvendësojnë dy të tjerë nga ata të cilët u është bërë dëm, dhe le të betohen në All-llahun: “(Se) njëmend dëshmitë tona janë më besnike se dëshmia e atyre dyve, ne nuk kemi bërë thyerje të betimit, sepse atëherë, njëmend, do të ishim mizorë”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 108,
+			"textAr": "ذَٰلِكَ أَدْنَىٰ أَنْ يَأْتُوا بِالشَّهَادَةِ عَلَىٰ وَجْهِهَا أَوْ يَخَافُوا أَنْ تُرَدَّ أَيْمَانٌ بَعْدَ أَيْمَانِهِمْ ۗ وَاتَّقُوا اللَّهَ وَاسْمَعُوا ۗ وَاللَّهُ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ky (rregull) është më afër që të bëjnë dëshmimin (dëshmitarët e testamentit) ashtu si është drejt, dhe që të frikësohen (dëshmitarët trashëgimtarë) se po thyhet betimi i tyre me një betim tjetër. Kini frikë All-llahun dhe bindjuni, se All-llahu nuk vë në rrugë të drejtë popullin shkatërrues",
+				"sqi-hasanefendinahi": "Kështu, më së lehti mund të bëjnë dëshminë e tyre të saktë, ose të frikohen që betimet e tyre të refuzohen (mohohen) me betime tjera. – Druajuni Perëndisë dhe dëgjonie! Se, All-llahu, nuk i udhëzon në rrugë të drejtë njerëzit ngatërrestarë",
+				"sqi-fetimehdiu": "Ata më lehtë e kanë të sigurojnë dëshminë besnike ose të frikësohen se betimet e tyre dot ë thehen (zhvleftësohen) pas betimeve të tyre. Dhe frikësohuni All-llahut e dëgjonie! Se All-llahu, njerëzit ngatrrestarë nuk i drejton në rrugë të drejtë"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 109,
+			"textAr": "۞ يَوْمَ يَجْمَعُ اللَّهُ الرُّسُلَ فَيَقُولُ مَاذَا أُجِبْتُمْ ۖ قَالُوا لَا عِلْمَ لَنَا ۖ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ",
+			"translations": {
+				"sqi-sherifahmeti": "(Përkujtonie o njerëz) Ditën kur All-llahu i tubon të dërguarit e u thotë: “çfarë përgjigje (popujt) u dhanë juve?” Ata (pejgamberët) thonë: “Ne nuk dimë, vërtet Ti je që i di të gjitha të fshehtat!”",
+				"sqi-hasanefendinahi": "Kujtojeni ditën kur All-llahu i tubon Pejgamberët e ju thotë: “Çka ju përgjigjën?” Ata thonë: “Na s’kemi dijeni (të plotë), se vetëm Ti i di të gjitha fshehtësitë”",
+				"sqi-fetimehdiu": "Atë ditë kur All-llahu i tubon profetët dhe u thotë: “Çka u janë përgjigjur?”, do të thonë “Ne nuk e dimë, vetëm Ti i di të gjitha të fshehtat”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 110,
+			"textAr": "إِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ اذْكُرْ نِعْمَتِي عَلَيْكَ وَعَلَىٰ وَالِدَتِكَ إِذْ أَيَّدْتُكَ بِرُوحِ الْقُدُسِ تُكَلِّمُ النَّاسَ فِي الْمَهْدِ وَكَهْلًا ۖ وَإِذْ عَلَّمْتُكَ الْكِتَابَ وَالْحِكْمَةَ وَالتَّوْرَاةَ وَالْإِنْجِيلَ ۖ وَإِذْ تَخْلُقُ مِنَ الطِّينِ كَهَيْئَةِ الطَّيْرِ بِإِذْنِي فَتَنْفُخُ فِيهَا فَتَكُونُ طَيْرًا بِإِذْنِي ۖ وَتُبْرِئُ الْأَكْمَهَ وَالْأَبْرَصَ بِإِذْنِي ۖ وَإِذْ تُخْرِجُ الْمَوْتَىٰ بِإِذْنِي ۖ وَإِذْ كَفَفْتُ بَنِي إِسْرَائِيلَ عَنْكَ إِذْ جِئْتَهُمْ بِالْبَيِّنَاتِ فَقَالَ الَّذِينَ كَفَرُوا مِنْهُمْ إِنْ هَٰذَا إِلَّا سِحْرٌ مُبِينٌ",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahu (atë ditë) i thotë: “O Isa, bir i merjemes, përkujtoj të mirat e Mia ndaj teje dhe ndaj nënës sate, kur të fuqizova me shpirtin e shenjtë (Xhibrilin), e ti u fole njerëzve (kur ishe) në djep dhe (kush ishe) i pjekur (si burrë), kur ta mësova ty librih e urtësinë Tevratin e Inxhilin, kur melejen Time formove nga balta si formë shpeze e i fryve asaj dhe me urdhërin Tim u bë shpezë, kur e shërove të verbërin dhe të sëmurin nga sëmundja e lëkurës me dëshirën Time, kur me urdhërin Tim i nxore (të gjallë) të vdekurit, kur i zbrapa beni israilët prej teje (që deshën të të mbysin) atëherë kur erdhe me argumente, e disa prej tyre që nuk besuan than: “Kjo (mrekullia e Isait) nuk është tjetër vetëm se magji e qartë!”",
+				"sqi-hasanefendinahi": "(Kujtoje o Muhammed!), kur All-llahu tha: “O Isa, i biri i Merjemës, kutjoje mirësinë Time ndaj teje dhe nënës tënde: kur të forcova ty me Shpirtin e shenjtë (Xhebrailin), e ju flitje njerëzve duke qenë fëmijë (në djep) dhe si njeri i rritur; dhe kur ta mësova shkrimin dhe dijeninë e thellë, Teuratin dhe Inxhilin, dhe kur krijove një figurë shpendi prej balte me urdhërin Tim e fryeve në të, e u bë zog, me urdhërin Tim; dhe kur me urdhërin Tim, i ngjalle të vdekurit; dhe kur i pengova sulmet e Israelitëve në Ty, atëheë kur ju solle atyre argumente të qarta, e ata që nuk besuan ndër, ta, thanë: “Kjo është vetëm magji e kulluar!”",
+				"sqi-fetimehdiu": "Kur All-llahu tha: “O isa, biri i Merjemes, kujto dhuntitë e mia ndaj teje dhe nënës sate, kur të ndihmova me Xhebrailin (shpirtin e shenjtë) që qysh në djep të bisedosh me njerëzit sikur burrë i pjekur; dhe kur të mësova Librin dhe urtësinë edhe Tevratin edhe Inxhilin; dhe kur me lejen time bërë nga balta diçka në formë të zogut edhe e fryve e ai me vullnetin tim, u bë zog; dhe kur me vullnetin tim, të lindurit e verbër dhe me nëpërkë i ke shëruar; dhe kur, me vullnetin tim, ke ngritur të vdekurit; dhe kur i largova prej teje izraelitët, kur ti u solle argumente të qarta, ata të cilët nuk i besuan thanë: “Kjo nuk është asgjë veçse magji e hapët”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 111,
+			"textAr": "وَإِذْ أَوْحَيْتُ إِلَى الْحَوَارِيِّينَ أَنْ آمِنُوا بِي وَبِرَسُولِي قَالُوا آمَنَّا وَاشْهَدْ بِأَنَّنَا مُسْلِمُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur i frymëzova Havarijjunët (i urdhërova): “Të më besoni Mua dhe të dërguarin Tim!” E ata thanë: “Ne besuam, e ti dëshmo se ne jemi muslimanë”",
+				"sqi-hasanefendinahi": "dhe kur i urdhërova Havarijjunët (Apostujt): “Besomëni Mua dhe Pejgamberin Tim!” Ata u përgjigjën: “Na besojmë, e ti bëhu dëshmues që ne jemi muslimanë!”",
+				"sqi-fetimehdiu": "Dhe kur dishepujve u kumtova: “Besomëni mua dhe Profetit tim!” ata thanë: “Ne besojmë dhe na u bënë dëshmitarë se jemi muslimanë!”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 112,
+			"textAr": "إِذْ قَالَ الْحَوَارِيُّونَ يَا عِيسَى ابْنَ مَرْيَمَ هَلْ يَسْتَطِيعُ رَبُّكَ أَنْ يُنَزِّلَ عَلَيْنَا مَائِدَةً مِنَ السَّمَاءِ ۖ قَالَ اتَّقُوا اللَّهَ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe (përkujto) kur Havarijjunët thanë: “O Isa, bir i Merjemes, Zoti ta mund të na zbresë një tryezë nga qielli?” (Isai) tha: “Keni frikë All-llahun nëse jeni besimtarë!”",
+				"sqi-hasanefendinahi": "E, kur apostujt thanë: “O Isa, i biri i Merjemës, a mundet Zot’i yt të na zbresë një sofër prej qielli?” Ai tha: “Druani Perëndinë, nëse jeni besimtarë!”",
+				"sqi-fetimehdiu": "Kur dishepujt thanë: “O Isa, i biri i Merjemes, a mundet Zoti yt të na zbresë një tryezë nga qielli? Ai u tha: “Frikësohuni All-llahut, nëse jeni besimtarë!”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 113,
+			"textAr": "قَالُوا نُرِيدُ أَنْ نَأْكُلَ مِنْهَا وَتَطْمَئِنَّ قُلُوبُنَا وَنَعْلَمَ أَنْ قَدْ صَدَقْتَنَا وَنَكُونَ عَلَيْهَا مِنَ الشَّاهِدِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "(Ata) Thanë: “Ne dëshirojmë të hamë nga ajo dhe të na binden (edhe më shumë) zemrat tona dhe të vërtetojmë bindshëm se na e the të vërtetën e të bëhemi dëshmues të saj!”",
+				"sqi-hasanefendinahi": "Ata thanë: “Na dëshirojmë ta hamë nga ajo (sofër), dhe të na qetësohen zemrat, dhe ta dimë (konkretisht) që na ke thanë të vërtetën dhe për atë të jemi dëshmitarë”",
+				"sqi-fetimehdiu": "Ata thanë: “Ne dëshirojmë të hamë prej asaj dhe të na qetësohen zemrat edhe ta dimë se na ke thënë të vërtetën, dhe të jemi dëshmitarë të asaj”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 114,
+			"textAr": "قَالَ عِيسَى ابْنُ مَرْيَمَ اللَّهُمَّ رَبَّنَا أَنْزِلْ عَلَيْنَا مَائِدَةً مِنَ السَّمَاءِ تَكُونُ لَنَا عِيدًا لِأَوَّلِنَا وَآخِرِنَا وَآيَةً مِنْكَ ۖ وَارْزُقْنَا وَأَنْتَ خَيْرُ الرَّازِقِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Isai, bir i Merjemes, tha: “O All-llah, Zoti ynë, zbritna nga qielli një tryezë, të na jetë festë (gëzim) për ne dhe për ata (që vijnë) pas nesh, të jetë argument prej Teje, dhe dhurona se Ti je furnizuesi më i mirë!”",
+				"sqi-hasanefendinahi": "Isai, i bir’i Merjemës tha: “O Perëndi, o Zoti ynë! Zbritna neve një sofër nga qielli, që të na jetë festë për bashkëkohanikët dhe pasardhësit tonë; dhe të jetë mrekulli prej Teje dhe furnizona, se Ti je më i miri furnizues”",
+				"sqi-fetimehdiu": "Isa, i biri i Merjemes, tha: “All-llah! O Zoti ynë, na zbrit nga qielli një tryezë që do të jetë festë për ne, për të parët tanë edhe ata që vinë pas nesh, por edhe argument nga ana jote, dhe na furnizo, se Ti je furnizuesi më i mirë”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 115,
+			"textAr": "قَالَ اللَّهُ إِنِّي مُنَزِّلُهَا عَلَيْكُمْ ۖ فَمَنْ يَكْفُرْ بَعْدُ مِنْكُمْ فَإِنِّي أُعَذِّبُهُ عَذَابًا لَا أُعَذِّبُهُ أَحَدًا مِنَ الْعَالَمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahu tha: “Unë atë ua zbres, e kush prej jush mohon pastaj, Unë atë e dënoj me një dënim që nuk e dënoj asnjë nga njerëzit”",
+				"sqi-hasanefendinahi": "All-llahu tha: “Unë do t’ju zbres sofrën, e kush nga ju, pas kësaj nuk beson, Unë do ta dënoj me një dënim, me çfarë nuk do ta dënojë askënd në botë”",
+				"sqi-fetimehdiu": "All-llahu tha: “Unë do t’ju zbres atë, por ai që e mohon prej jush, edhe pas asaj unë do ta dënoj me një dënim me çka askë nuk e dënoj në botë”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 116,
+			"textAr": "وَإِذْ قَالَ اللَّهُ يَا عِيسَى ابْنَ مَرْيَمَ أَأَنْتَ قُلْتَ لِلنَّاسِ اتَّخِذُونِي وَأُمِّيَ إِلَٰهَيْنِ مِنْ دُونِ اللَّهِ ۖ قَالَ سُبْحَانَكَ مَا يَكُونُ لِي أَنْ أَقُولَ مَا لَيْسَ لِي بِحَقٍّ ۚ إِنْ كُنْتُ قُلْتُهُ فَقَدْ عَلِمْتَهُ ۚ تَعْلَمُ مَا فِي نَفْسِي وَلَا أَعْلَمُ مَا فِي نَفْسِكَ ۚ إِنَّكَ أَنْتَ عَلَّامُ الْغُيُوبِ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur All-llahu tha: “O Isa, bir i Merjemes, a ti njerëzve u the: “Më besoni mua dhe nënës time dy zota pos All-llahut!?” (Isai) Tha: “Larg asaj të mete je Ti (o Zoti im). Nuk më takon mua ta them atë që s’është e vërtetë. Ta kisha thënë unë atë, ti do ta dije. Ti e di ç’ka në mua, e unë e di ç’ka në Ty. Ti je më i dijshmi i të fshehtave!”",
+				"sqi-hasanefendinahi": "E, kur All-llahu thotë: “O Isa, i bir’i Merjemës, a mos ti u ke thënë njerëzve: “Merrmëni mua dhe nënën time si dy zotra, përpos Perëndisë?” Isai thotë: “Ti je i pastër nga të metat!” Mua nuk më përket të them ate çka ka në Ty. Vetëm Ti i di të gjitha ato që janë të fshehta",
+				"sqi-fetimehdiu": "Kur All-llahu tha: “O Isa, i biri i Merjemes, a ti u ke thënë njerëzve – merrne nënën time dhe mua si dy zotër përveç All-llahut”! – “Qofsh lartësuar”, tha, “Mua nuk më ka mbetur të them atë çka s’është e vërtetë. Po n’e paça thënë këtë, Ti e di me siguri atë; Ti e di se çka ka në mua, kurse unë nuk e di se çka ka tek Ti. Ti e di shumë mirë atë çka është e padukshme"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 117,
+			"textAr": "مَا قُلْتُ لَهُمْ إِلَّا مَا أَمَرْتَنِي بِهِ أَنِ اعْبُدُوا اللَّهَ رَبِّي وَرَبَّكُمْ ۚ وَكُنْتُ عَلَيْهِمْ شَهِيدًا مَا دُمْتُ فِيهِمْ ۖ فَلَمَّا تَوَفَّيْتَنِي كُنْتَ أَنْتَ الرَّقِيبَ عَلَيْهِمْ ۚ وَأَنْتَ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Unë nuk u kam thënë tjetër atyre, pos asaj që Ti më urdhërove; ta adhuroni All-llahun, Zotin tim dhe Zotin tuaj, dhe sa isha ndër ta, kam qenë përcjellës i tyre, e pasi që më more mua, Ti ishe roje (dhe dëshmues) i tyre. Ti je dëshmitar për çdo send!”",
+				"sqi-hasanefendinahi": "Unë nuk ju kam thënë asgjë tjetër, përveç asaj që më ke urdhëruar Ti: “Adhuronie Perëndinë, Zotin tim dhe Zotin tuaj!” Kam qenë dëshmitar deri sa kam qenë në mesin e tyre. E pasi më more mua, vetëm Ti ishe mbikëqyrës i tyre. E, Ti je dëshmitar për çdo gjë",
+				"sqi-fetimehdiu": "Unë nuk u kam thënë asgjë tjetër përpos asaj që më ke urdhëruar Ti. Adhurone All-llahun, Zot i imi dhe Zot i juaj! Kam qenë dëshmitar derisa isha në mesin e tyre, e pasi që ma more shpirtin, mbete Ti mbikëqyrës i tyre. Dhe Ti je dëshmitar i çdo sendi"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 118,
+			"textAr": "إِنْ تُعَذِّبْهُمْ فَإِنَّهُمْ عِبَادُكَ ۖ وَإِنْ تَغْفِرْ لَهُمْ فَإِنَّكَ أَنْتَ الْعَزِيزُ الْحَكِيمُ",
+			"translations": {
+				"sqi-sherifahmeti": "Nëse i dënon ata, në të vërtetë ata janë robër Tu, e nëse u falë atyre, Ti je i gjithëfuqishmi, i urti",
+				"sqi-hasanefendinahi": "Nëse Ti i dënon ata – robërit e Tu janë, e nëse i falë ata, me të vërtetë, vetëm Ti je i Plotëfuqishëm dhe i Gjithëdijshëm",
+				"sqi-fetimehdiu": "Nëse i dënon, dënon robërit tu, e nëse ua fal, me të vërtetë Ti je i fortë e i urtë”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 119,
+			"textAr": "قَالَ اللَّهُ هَٰذَا يَوْمُ يَنْفَعُ الصَّادِقِينَ صِدْقُهُمْ ۚ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۚ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ الْفَوْزُ الْعَظِيمُ",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahu tha: “kjo është dita që të drejtëve u bën dobi drejtësia e tyre. Ata kanë Xhennete në të cilët rrjedhin lumenj, janë për jetë të pasosur në ta. All-llahu është i kënaqur me ta dhe ata janë të kënaqur ndaj Tij. Ky është shpëtim i madh",
+				"sqi-hasanefendinahi": "Perëntia thotë: “Kjo është Dita, në të cilën, të sinqertëve u sjell dobi sinqeriteti i tyre. Atyre u takojnë kopshtet, nëpër të cilat rrjedhin lumenjt, ku do të qëndrojnë përgjithmonë. All-llahu është i kënaqur me ta; dhe ata janë të kënaqur me Te. Kjo është fitorja e madhe!”",
+				"sqi-fetimehdiu": "All-llahu tha: “Kjo është ditë kur të sinqertëve u ndihmon sinqeriteti i tyre; Atyre u takojnë xhennete, ku po rrjedhin lumenj, ndër të cilët ata do të mbesin përgjithmonë e jetë. All-llahu është i kënaqur me ata, por edhe ata janë të kënaqur me Të. Kjo është fitore e madhe”"
+			}
+		},
+		{
+			"surah": 5,
+			"number": 120,
+			"textAr": "لِلَّهِ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ وَمَا فِيهِنَّ ۚ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Vetëm i All-llahut është sundimi ndaj qiejve e tokës dhe çka ka në to. Ai është i plotëfuqishëm për çdo send",
+				"sqi-hasanefendinahi": "Të Perëndisë janë pushteti mbi qiej dhe mbi Tokë dhe çka gjendet në To. Ai është i pushtetshëm për çdo gjë",
+				"sqi-fetimehdiu": "All-llahut i takon pushteti i qiejve dhe i tokës, edhe çka ka në to. Ai është i gjithëfuqishëm"
+			}
+		}
+	]
+}

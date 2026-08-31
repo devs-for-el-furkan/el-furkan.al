@@ -1,0 +1,83 @@
+{
+  "surah": 107,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 107,
+      "number": 1,
+      "textAr": "أَرَأَيْتَ الَّذِي يُكَذِّبُ بِالدِّينِ",
+      "translations": {
+        "sqi-sherifahmeti": "A e ke parë ti (a e sheh) atë, që përgënjeshtron përgjegjësinë dhe llogarinënë botën tjetër",
+        "sqi-hasanefendinahi": "A di ti për atë që e përgënjeshtron Ditën e llogarisë (e shpërblimit)",
+        "sqi-fetimehdiu": "A e pe atë i cili përgënjeshtron atë botë"
+      }
+    },
+    {
+      "surah": 107,
+      "number": 2,
+      "textAr": "فَذَٰلِكَ الَّذِي يَدُعُّ الْيَتِيمَ",
+      "translations": {
+        "sqi-sherifahmeti": "Po ai është që e përzë në mënyrë të vrazhdë bonjakun",
+        "sqi-hasanefendinahi": "E ai është, i cili ashpër i dëbon bonjakët",
+        "sqi-fetimehdiu": "Po ai është i cili e refuzon ashpër bonjakun"
+      }
+    },
+    {
+      "surah": 107,
+      "number": 3,
+      "textAr": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ الْمِسْكِينِ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe që nuk nxit për të ushqyer të varfërin",
+        "sqi-hasanefendinahi": "dhe nuk nxitë që të ushqejnë të varfërit",
+        "sqi-fetimehdiu": "Dhe nuk e ndihmon të varfërin në ushqim"
+      }
+    },
+    {
+      "surah": 107,
+      "number": 4,
+      "textAr": "فَوَيْلٌ لِلْمُصَلِّينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Pra shkatërrim është për ata që falen",
+        "sqi-hasanefendinahi": "Mjerë për ata, të cilët kur falen",
+        "sqi-fetimehdiu": "Pra, të mjerët ata që kryejnë namazin"
+      }
+    },
+    {
+      "surah": 107,
+      "number": 5,
+      "textAr": "الَّذِينَ هُمْ عَنْ صَلَاتِهِمْ سَاهُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "të cilët ndaj namazit të tyre janë të pakujdesshëm",
+        "sqi-hasanefendinahi": "janë të pakujdesshëm (të harrueshëm)",
+        "sqi-fetimehdiu": "Por të cilët janë indiferentë në namazin e tyre"
+      }
+    },
+    {
+      "surah": 107,
+      "number": 6,
+      "textAr": "الَّذِينَ هُمْ يُرَاءُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Ata që vetëm shtiren (sa për sy e faqe)",
+        "sqi-hasanefendinahi": "e veprojnë, vetëm sa për sy e faqe (para botës)",
+        "sqi-fetimehdiu": "Dhe të cilët vetëm eksponohen"
+      }
+    },
+    {
+      "surah": 107,
+      "number": 7,
+      "textAr": "وَيَمْنَعُونَ الْمَاعُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe nuk japin as sendin më të vogël (as hua)",
+        "sqi-hasanefendinahi": "dhe pengojnë dhënien e ndihmës (në shërbimet e vogla midis njerëzve)",
+        "sqi-fetimehdiu": "Dhe pengojnë dhënien e lëmoshës"
+      }
+    }
+  ]
+}

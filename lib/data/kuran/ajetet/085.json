@@ -1,0 +1,229 @@
+{
+	"surah": 85,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 85,
+			"number": 1,
+			"textAr": "وَالسَّمَاءِ ذَاتِ الْبُرُوجِ",
+			"translations": {
+				"sqi-sherifahmeti": "Pasha qiellin me plot yje",
+				"sqi-hasanefendinahi": "Betohem në qiellin e stolisur me hyllsi",
+				"sqi-fetimehdiu": "Pasha qiellin me pyrgje për yje"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 2,
+			"textAr": "وَالْيَوْمِ الْمَوْعُودِ",
+			"translations": {
+				"sqi-sherifahmeti": "Pasha ditën e premtuar",
+				"sqi-hasanefendinahi": "dhe në Ditën e premtuar (Kijametit)",
+				"sqi-fetimehdiu": "Pasha Ditën e premtuar"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 3,
+			"textAr": "وَشَاهِدٍ وَمَشْهُودٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Pasha atë që dëshmon dhe atë që dëshmohet",
+				"sqi-hasanefendinahi": "dhe në dëshmitarët, si dhe në atë që do të dëshmohet (atë ditë)",
+				"sqi-fetimehdiu": "Pasha dëshmitarin dhe çka është dëshmuar"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 4,
+			"textAr": "قُتِلَ أَصْحَابُ الْأُخْدُودِ",
+			"translations": {
+				"sqi-sherifahmeti": "Mallkuar qofshin ata të zotët e hendeqeve",
+				"sqi-hasanefendinahi": "mallkuar qofshin ata ë kanë hapur hendeqe",
+				"sqi-fetimehdiu": "Qofshin mallkuar hapësit e hendeqeve"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 5,
+			"textAr": "النَّارِ ذَاتِ الْوَقُودِ",
+			"translations": {
+				"sqi-sherifahmeti": "Të zjarrit më plot lëndë djegëse",
+				"sqi-hasanefendinahi": "dhe që i mbushën me zjarr, me gjithëfarë lënëdësh djegëse",
+				"sqi-fetimehdiu": "Nxitësit e zjarrit me plot lëndë djegëse"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 6,
+			"textAr": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Kur ata rrinin ulur rreth tij",
+				"sqi-hasanefendinahi": "(mallkuar qofshin ata) kur u ulën pranë tij",
+				"sqi-fetimehdiu": "Dhe që rrijnë ulur rreth tij"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 7,
+			"textAr": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِالْمُؤْمِنِينَ شُهُودٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe dëshmonin atë që bënin me besimtarët",
+				"sqi-hasanefendinahi": "dhe ishin prezent të asaj (që u bënë besimtarëve)",
+				"sqi-fetimehdiu": "Dhe që janë dëshmitarë se ç’kanë bërë me besimtarët"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 8,
+			"textAr": "وَمَا نَقَمُوا مِنْهُمْ إِلَّا أَنْ يُؤْمِنُوا بِاللَّهِ الْعَزِيزِ الْحَمِيدِ",
+			"translations": {
+				"sqi-sherifahmeti": "E nuk patën pse t’i urrejë, përveç që e besuan All-llahun, ngadhënjyesin, të lavdëruarin",
+				"sqi-hasanefendinahi": "E, (jobesimtarët) i munduan ata vetëm pse i besuan Zotit të Plotëfuqishëm dhe Falenderues",
+				"sqi-fetimehdiu": "Dhe nuk i urrejnë për tjetër përveç përse i besojnë All-llahu, të fortit, të merituarit për respekt"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 9,
+			"textAr": "الَّذِي لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Të cilit i takon sundimi i qiejve e i tokës;, e All-llahu është dëshmitar i çdo sendi",
+				"sqi-hasanefendinahi": "pushteti i të cilit shtrihet në qiej dhe në Tokë, - e All-llahu është Dëshmitar i çdo gjëje",
+				"sqi-fetimehdiu": "Pushtet i të cilit shtë në qiej dhe në tokë dhe All-llahu është dëshmitar për çdo send"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 10,
+			"textAr": "إِنَّ الَّذِينَ فَتَنُوا الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ ثُمَّ لَمْ يَتُوبُوا فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ الْحَرِيقِ",
+			"translations": {
+				"sqi-sherifahmeti": "Është i sigurt se ata që i sprovuan besimtarët dhe besimtaret dhe nuk u penduan; ata kanë dënimin e Xhehennemit dhe dënimin e djegies",
+				"sqi-hasanefendinahi": "Pa dyshim, ata që i torturojnë besimtarët dhe besimtaret e që (pastaj) nuk pendohen – i pret dënimi i skëterrës dhe (për ta ka) dënim zjarri",
+				"sqi-fetimehdiu": "Ata të cilët maltretojnë besimtarët dhe besimtaret dhe nuk pendohen, i pret dënim i xhehennemit dhe dënim me djegije"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 11,
+			"textAr": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ ۚ ذَٰلِكَ الْفَوْزُ الْكَبِيرُ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata që besuan dhe bënë vepra të mira, ata kanë Xhennete nën të cilët burojnë lumenj. e ai është suksesi më i madh",
+				"sqi-hasanefendinahi": "e, me të vërtetë, ata që besojnë dhe punojnë vepra të mira – për ta ka kopshte të xhennetit, nëpër të cilët rrjedhin lumenjtë; - e ky është sukses i madh",
+				"sqi-fetimehdiu": "Kurse ata që besojnë dhe bëjnë vepra të mira, i presin kopshte të xhennetit ku do të rrjedhin lumenj – ai është sukses i madh"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 12,
+			"textAr": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Është e vërtetë se goditja e Zotit tënd është e fortë",
+				"sqi-hasanefendinahi": "Me të vërtetë, ndëshkimi i Zotit tënd, është i ashpër",
+				"sqi-fetimehdiu": "Njëmend hakmarrja e Zotit tënd është shumë e fortë"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 13,
+			"textAr": "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+			"translations": {
+				"sqi-sherifahmeti": "Në të vërtetë, Ai është që e fillon (krijimin) dhe e rikthen",
+				"sqi-hasanefendinahi": "Me të vërtetë, Ai krijon prej kurrgjëje dhe përsëri i kthen (ps vdekjes – i ringjallë)",
+				"sqi-fetimehdiu": "Pa dyshim vetëm Ai është që e fillon dhe e rifillon"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 14,
+			"textAr": "وَهُوَ الْغَفُورُ الْوَدُودُ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai është që falë mëkatet, është i dashur",
+				"sqi-hasanefendinahi": "Ai është falës dhe plot dashuri",
+				"sqi-fetimehdiu": "Dhe fal shumë dhe ka plot dashuri"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 15,
+			"textAr": "ذُو الْعَرْشِ الْمَجِيدُ",
+			"translations": {
+				"sqi-sherifahmeti": "Është i zoti i Arshit, të madhëruar",
+				"sqi-hasanefendinahi": "Zot i Arshit (fronit) të Madhërueshëm",
+				"sqi-fetimehdiu": "Zot i gjithësisë i Lartëmadhërishëm"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 16,
+			"textAr": "فَعَّالٌ لِمَا يُرِيدُ",
+			"translations": {
+				"sqi-sherifahmeti": "E punon atë që dëshiron",
+				"sqi-hasanefendinahi": "Ai punon çka të dojë",
+				"sqi-fetimehdiu": "Që punon çka dëshiron vet"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 17,
+			"textAr": "هَلْ أَتَاكَ حَدِيثُ الْجُنُودِ",
+			"translations": {
+				"sqi-sherifahmeti": "A të ka ardhur ty lajmi i ushtrive",
+				"sqi-hasanefendinahi": "A ka arritur te ti lajmi për ushtritë",
+				"sqi-fetimehdiu": "A të ka ardhur ty lajmi për ushtritë"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 18,
+			"textAr": "فِرْعَوْنَ وَثَمُودَ",
+			"translations": {
+				"sqi-sherifahmeti": "Të faraonit dhe të Thmeudit",
+				"sqi-hasanefendinahi": "e Faraonit dhe Themudit",
+				"sqi-fetimehdiu": "E Faraonit dhe Themudit"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 19,
+			"textAr": "بَلِ الَّذِينَ كَفَرُوا فِي تَكْذِيبٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Por, këta që mohuan (idhujtarët), vazhdojnë me gënjeshtër",
+				"sqi-hasanefendinahi": "Por, jobesimtarët – gjithmonë mohojnë",
+				"sqi-fetimehdiu": "Por ata të cilët mohojnë – përgënjeshtrojnë"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 20,
+			"textAr": "وَاللَّهُ مِنْ وَرَائِهِمْ مُحِيطٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Po All-llahu ata i ka rrethuar (nuk mund t’i shpëtojnë)",
+				"sqi-hasanefendinahi": "e All-llahu (i Plotëfuqishëm), i përfshinë të gjithë",
+				"sqi-fetimehdiu": "Por All-llahu do t’i përthekojë nga të gjitha anët"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 21,
+			"textAr": "بَلْ هُوَ قُرْآنٌ مَجِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Përkundrazi, (ata që gënjejnë), ai është Kur’an i famshëm",
+				"sqi-hasanefendinahi": "ky Kur’an – (që e mohonin ata), është Kur’ani i madhërueshëm",
+				"sqi-fetimehdiu": "Po, ai është Kur’an madhështor"
+			}
+		},
+		{
+			"surah": 85,
+			"number": 22,
+			"textAr": "فِي لَوْحٍ مَحْفُوظٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Në një pllakë të ruajtur mirë (në Levhi Mahfudhë)",
+				"sqi-hasanefendinahi": "i shkruar në Levhi Mahfudh (në pllakën e ruajtur me kujdes)",
+				"sqi-fetimehdiu": "Në një pllakatë të ruajtur mirë"
+			}
+		}
+	]
+}

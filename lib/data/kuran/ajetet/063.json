@@ -1,0 +1,119 @@
+{
+	"surah": 63,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 63,
+			"number": 1,
+			"textAr": "إِذَا جَاءَكَ الْمُنَافِقُونَ قَالُوا نَشْهَدُ إِنَّكَ لَرَسُولُ اللَّهِ ۗ وَاللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُ وَاللَّهُ يَشْهَدُ إِنَّ الْمُنَافِقِينَ لَكَاذِبُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Kur të erdhën ty hipokritët, të thanë: “Ne dëshmojmë se vërtet ti je i dërguar i All-llahut!” E, All-llahu e di se ti je i dërguar i Tij, por All-llahu dëshmon se hipokritët janë rrenacakë (kur thonë ashtu)",
+				"sqi-hasanefendinahi": "Kur të vijnë te ti hipokritët, ata thonë: “Ne dëshmojmë, se ti, me të vërtetë, je i dërguari i Perëndisë!” – E All-llahu e di, se ti, me siguri, je i dërguari i Tij, por All-llahu dëshmon edhe se hipokritët janë gënjeshtarë të qartë",
+				"sqi-fetimehdiu": "Kur të vijnë hipokritët të thonë: “Ne dëshmojmë se ti je, me të vërtetë, Profet i All-llahut” edhe All-llahu e di se ti je njëmend Profet i Tij, porse All-llahu dëshmon se hipokritët janë me siguri rrenacak"
+			}
+		},
+		{
+			"surah": 63,
+			"number": 2,
+			"textAr": "اتَّخَذُوا أَيْمَانَهُمْ جُنَّةً فَصَدُّوا عَنْ سَبِيلِ اللَّهِ ۚ إِنَّهُمْ سَاءَ مَا كَانُوا يَعْمَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata betimin e tyre e bëjnë për t’u mbrojtur, andaj ata penguan nga rruga e All-llahut. Veprimi që ata bënë është shumë keq",
+				"sqi-hasanefendinahi": "Ata betimet e tyre i kanë bërë maskë, andaj i kanë penguar (njerëzit) prej rrugës së Perëndisë. – Me të vërtetë, është shëmtim, atë që kanë punuar",
+				"sqi-fetimehdiu": "Ata betimin e tyre e shfrytëzojnë si mbrojtje dhe shmangen nga rruga e All-llahut. Është shumë keq, njëmend, çka bëjnë ata"
+			}
+		},
+		{
+			"surah": 63,
+			"number": 3,
+			"textAr": "ذَٰلِكَ بِأَنَّهُمْ آمَنُوا ثُمَّ كَفَرُوا فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ngase ata besuan (me gojë) e pastaj mohuan, andaj zemrat e tyre u mbyllën dhe ata nuk kuptojnë",
+				"sqi-hasanefendinahi": "Kjo është ngase kanë besuar, pastaj kanë mohuar, e u vulosën zemrat e tyre, prandaj ata nuk kuptojnë",
+				"sqi-fetimehdiu": "Ajo është nga se ata besuan e pastaj mohuan, prandaj u vulosën zemrat e tyre dhe ata më nuk kuptojnë"
+			}
+		},
+		{
+			"surah": 63,
+			"number": 4,
+			"textAr": "۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِنْ يَقُولُوا تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ الْعَدُوُّ فَاحْذَرْهُمْ ۚ قَاتَلَهُمُ اللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E kur t’i shohish ata, trupat e tyre të mahnisin, e kur të flasin, fjalës së tyre i vë veshin. Po ata janë si trungujt e zgavruar e të mbështetur, e çdo zë e mendojnë se është kundër tyre. Ata janë armiq, pra ruaju prej tyre! All-llahu i vraftë, si shmangen nga e vërteta",
+				"sqi-hasanefendinahi": "Kur i shikon ata, figura e tyre të mahnitë; e nëse flasin, dëgjon fjalët e tyre, - mirëpo, ata u gjasojnë trungjeve të mbështetura dhe mendojnë se çdo fjalë është kundër tyre. Ata janë armiq të vërtetë, andaj ruajuni prej tyre! – All-llahu i vraftë, si po shmangen prej së vërtetës",
+				"sqi-fetimehdiu": "Kur i shikon ata, pamja e tyre të mahnit, por kur flasin, ti i dëgjon fjalët e tyre, mirëpo ata janë sikur shtylla të zbrazëta dhe mendojnë se çdo thirrje është kundër tyre. Ata janë armiq, andaj ruaju prej tyre! Ku po shkojnë, All-llahu i vraftë"
+			}
+		},
+		{
+			"surah": 63,
+			"number": 5,
+			"textAr": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللَّهِ لَوَّوْا رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُمْ مُسْتَكْبِرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E kur u thuhet: “Ejani te i dërguari i All-llahut që ai të kërkojë prej Tij falje për ju”, ata tundin kokat e tyre dhe i sheh se si ta kthejnë shpinën duke e mbajtur veten të madh",
+				"sqi-hasanefendinahi": "E kur ju thuhet atyre: “Ejani, se i dërguari i Perëndisë do të lutet për t’ju falë”, - ata tundin kokat e tyre dhe i sheh ata që pengojnë, e që janë mendjemëdhenj",
+				"sqi-fetimehdiu": "Dhe kur u thuhet: “Ejani, Profeti i All-llahut do të kërkojë falje për ju”, ata luajnë kokat e tyre dhe ti i sheh se largohen, se ata janë arrogantë"
+			}
+		},
+		{
+			"surah": 63,
+			"number": 6,
+			"textAr": "سَوَاءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَنْ يَغْفِرَ اللَّهُ لَهُمْ ۚ إِنَّ اللَّهَ لَا يَهْدِي الْقَوْمَ الْفَاسِقِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Sa u përket atyre, është krejt njësoj: si kërkove për ta falje, si nuk kërkove për ta falje (nga Zoti), sepse All-llahu kurrsesi nuk do t’i falë dhe është e sigurt se All-llahu nuk ia ofron udhëzimin popullit arrogant",
+				"sqi-hasanefendinahi": "Njësoj është – u lute për faljen e tyre apo nuk u lute, All-llahu kurrsesi nuk i falë. All-llahu, me të vërtetë, nuk e udhëzon popullin ngatërrestar",
+				"sqi-fetimehdiu": "Për ata është një lloj, u lute ti për ata apo nuk u lute, All-llahu me siguri nuk udhëzon në rrugë të drejtë popullin e mbrapshtë"
+			}
+		},
+		{
+			"surah": 63,
+			"number": 7,
+			"textAr": "هُمُ الَّذِينَ يَقُولُونَ لَا تُنْفِقُوا عَلَىٰ مَنْ عِنْدَ رَسُولِ اللَّهِ حَتَّىٰ يَنْفَضُّوا ۗ وَلِلَّهِ خَزَائِنُ السَّمَاوَاتِ وَالْأَرْضِ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَفْقَهُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata janë që u thonë (vendasve të Medinës): “Mos u jepni atyre që janë me të dërguarin e All-llahut (muhaxhirëve), ashtu që të shpërndahen!. Po, te All-llahu janë pasuritë (depot) e iqejve e të tokës, por hipokritët nuk janë duke kuptuar”",
+				"sqi-hasanefendinahi": "Ata thonë: “Mos u jepni kurrgjë atyre që janë te Profeti i Perëndisë, përderisa të largohen (prej tij)!” Por, Perëndisë i takojnë thesarët në qiej dhe në Tokë, por hipokritët nuk kuptojnë",
+				"sqi-fetimehdiu": "Ata janë që thonë: “Mos u jepni kurrgjë atyre që janë me Profetin e All-llahut, derisa të largohen”. Pasuria e qiejve dhe e tokës janë të All-llahut, por hipokritët nuk e marrin vesh"
+			}
+		},
+		{
+			"surah": 63,
+			"number": 8,
+			"textAr": "يَقُولُونَ لَئِنْ رَجَعْنَا إِلَى الْمَدِينَةِ لَيُخْرِجَنَّ الْأَعَزُّ مِنْهَا الْأَذَلَّ ۚ وَلِلَّهِ الْعِزَّةُ وَلِرَسُولِهِ وَلِلْمُؤْمِنِينَ وَلَٰكِنَّ الْمُنَافِقِينَ لَا يَعْلَمُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata thonë: “Nëse do të kthehemi (prej gjuhës me beni Mustalikët) në Medine, ai më i forti pa tjetër prej aty ka për ta përzënë atë më të dobëtin!” (ashtu thanë) Ndërsa e tërë krenaria i takon All-llahut, të dërguarit të Tij dhe besimtarëve, por hipokritët këtë nuk e dinë",
+				"sqi-hasanefendinahi": "Ata thonë: “Nëse kthehemi në Medinë, padyshim të fuqishmit do t’i dëbojnë të dobëtit nga ajo (Medina)!” Por, fuqia është e Perëndisë dhe e Profetit të Tij dhe e besimtarëve, mirëpo – hipokritët nuk e dijnë (këtë)",
+				"sqi-fetimehdiu": "Ata thonë: “Nëse kthehemi në medine gjithsesi të fortit kanë për t’i përzënë prej aty më të dobëtit!” Por forca është e All-llahut dhe Profetit të tij dhe e besimtarëve, por hipokritët s’e dinë"
+			}
+		},
+		{
+			"surah": 63,
+			"number": 9,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُلْهِكُمْ أَمْوَالُكُمْ وَلَا أَوْلَادُكُمْ عَنْ ذِكْرِ اللَّهِ ۚ وَمَنْ يَفْعَلْ ذَٰلِكَ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat, as pasuria juaj e as fëmijët tuaj të mos u shmangin prej adhurimit të All-llahut, e kush bën ashtu të tillët janë mu ata të humburit",
+				"sqi-hasanefendinahi": "O besimtarë, mos t’ju habisin pasuria juaj dhe fëmijët tuaj nga të përmendurit Perëndinë. E ata që bëjnë këtë, do të humbin",
+				"sqi-fetimehdiu": "O besimtarë, le të mos u largojë pasuria dhe fëmijët tuaj vëmendjen nga All-llahu. Kush bën ashtu, hej, ata janë të humbur"
+			}
+		},
+		{
+			"surah": 63,
+			"number": 10,
+			"textAr": "وَأَنْفِقُوا مِنْ مَا رَزَقْنَاكُمْ مِنْ قَبْلِ أَنْ يَأْتِيَ أَحَدَكُمُ الْمَوْتُ فَيَقُولَ رَبِّ لَوْلَا أَخَّرْتَنِي إِلَىٰ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُنْ مِنَ الصَّالِحِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe jepni nga ajo që Ne u kemi dhënë juve, para se ndonjërit prej jush t’i vijë vdekja, e atëherë të thotë: “O Zoti im, përse nuk më shtyve edhe pak afatin (e vdekjes), që të jepja lëmoshë e të bëhesha prej të mira!”",
+				"sqi-hasanefendinahi": "Jepni ju prej atyre dhuntive, që u kam dhënë Unë juve, para se t’ju vijë vdekja ndonjërit, e ai të thotë: “O Zoti im, sikur të më kishe lënë edhe një kohë të shkurtër në jetë, do të kisha dhënë lëmoshën dhe do të bëhesha ndër të mirët!”",
+				"sqi-fetimehdiu": "Dhe shpërndani prej asaj që Ne ju furnizojmë para se t’i vijë vdekja ndonjërit prej jush, e të thotë: “O Zot, sikur të më presësh edhe pak do të jap lëmoshë dhe të bëhem nga të mirët”"
+			}
+		},
+		{
+			"surah": 63,
+			"number": 11,
+			"textAr": "وَلَنْ يُؤَخِّرَ اللَّهُ نَفْسًا إِذَا جَاءَ أَجَلُهَا ۚ وَاللَّهُ خَبِيرٌ بِمَا تَعْمَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Po, All-llahu kurrsesi askë nuk e shtyn për më vonë, kur atij t’i vijë afati i vet. All-llahu hollësisht është i njohur me atë që ju punoni",
+				"sqi-hasanefendinahi": "All-llahu nuk i jep afat askujt, kur t’i vijë momenti i vdekjes; e All-llahu di mirë atë që punoni ju",
+				"sqi-fetimehdiu": "All-llahu, me siguri, nuk do t’ia vonojë askujt kur t’i vijë momenti i vet, dhe All-llahu e di mirë se çka punoni"
+			}
+		}
+	]
+}

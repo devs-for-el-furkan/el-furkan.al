@@ -1,0 +1,413 @@
+{
+  "surah": 78,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 78,
+      "number": 1,
+      "textAr": "عَمَّ يَتَسَاءَلُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Për çka ata i bëjnë pyetje njëri-tjetri",
+        "sqi-hasanefendinahi": "Për çka pyesin ata njëri-tjetrin? –",
+        "sqi-fetimehdiu": "Për çka e pyesin ata njëri-tjetrin"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 2,
+      "textAr": "عَنِ النَّبَإِ الْعَظِيمِ",
+      "translations": {
+        "sqi-sherifahmeti": "Për lajmin e madh e tronditës",
+        "sqi-hasanefendinahi": "Për lajmin e madh",
+        "sqi-fetimehdiu": "Për lajmin madhështor"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 3,
+      "textAr": "الَّذِي هُمْ فِيهِ مُخْتَلِفُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Në të cilin ata janë në kundërshti",
+        "sqi-hasanefendinahi": "për të cilin ata kanë mendime të ndryshme",
+        "sqi-fetimehdiu": "Për të cilin janë në kundërshtim"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 4,
+      "textAr": "كَلَّا سَيَعْلَمُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Jo, të mos pyesin, sepse ata do ta kuptojnë",
+        "sqi-hasanefendinahi": "Jo, jo, ata, me siguri, do ta dinë",
+        "sqi-fetimehdiu": "Ani, do ta marrin vesh"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 5,
+      "textAr": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Përsëri Jo, se ata do ta kuptojnë",
+        "sqi-hasanefendinahi": "E pastaj, sërish, me të vërtetë, do ta dinë",
+        "sqi-fetimehdiu": "Dhe prapë ani, ata do ta dinë me siguri"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 6,
+      "textAr": "أَلَمْ نَجْعَلِ الْأَرْضَ مِهَادًا",
+      "translations": {
+        "sqi-sherifahmeti": "A nuk e bëmë Ne tokën të përshtatshme (për jetë)",
+        "sqi-hasanefendinahi": "A nuk u kemi bërë ne Tokën shtrat",
+        "sqi-fetimehdiu": "A nuk e kemi bërë tokën shtrojë"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 7,
+      "textAr": "وَالْجِبَالَ أَوْتَادًا",
+      "translations": {
+        "sqi-sherifahmeti": "Ndërsa kodrat shtylla",
+        "sqi-hasanefendinahi": "E malet shtyll",
+        "sqi-fetimehdiu": "Kurse malet shtylla"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 8,
+      "textAr": "وَخَلَقْنَاكُمْ أَزْوَاجًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe Ne u krijuam juve në çifte",
+        "sqi-hasanefendinahi": "Ne ju kemi krijuar dy lloje (mashkull e femër)",
+        "sqi-fetimehdiu": "Ndërsa juve ju kemi krijuar çift"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 9,
+      "textAr": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe gjumin tuaj ua bëmë për pushim",
+        "sqi-hasanefendinahi": "dhe gjumin tuaj ua kemi bërë çlodhje",
+        "sqi-fetimehdiu": "dhe gjumin ua kemi bërë për pushim"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 10,
+      "textAr": "وَجَعَلْنَا اللَّيْلَ لِبَاسًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe natën ua bëmë mbulesë (si rrobet)",
+        "sqi-hasanefendinahi": "kure natën ua kemi bërë mbulesë",
+        "sqi-fetimehdiu": "E natën ua kemi bërë për mbulim"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 11,
+      "textAr": "وَجَعَلْنَا النَّهَارَ مَعَاشًا",
+      "translations": {
+        "sqi-sherifahmeti": "Ndërsa ditën e bëmë për gjallërim",
+        "sqi-hasanefendinahi": "dhe ditën e kemi caktuar për jetesë (ekonomizim)",
+        "sqi-fetimehdiu": "Kurse ditën për gjallërim (fitim)"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 12,
+      "textAr": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe Ne kemi ndërtuar mbi ju një shtatëshe të fortë",
+        "sqi-hasanefendinahi": "dhe mbi ju kemi ndërtuar shtratë qiej të fortë",
+        "sqi-fetimehdiu": "dhe mbi ju kemi krijuar një shtatësh të fortë"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 13,
+      "textAr": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kemi vënë ndriçuesin që flakëron",
+        "sqi-hasanefendinahi": "Dhe kemi krijur kandil (diell) të shëndritshëm",
+        "sqi-fetimehdiu": "Dhe e kemi bërë një kandil flakrues"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 14,
+      "textAr": "وَأَنْزَلْنَا مِنَ الْمُعْصِرَاتِ مَاءً ثَجَّاجًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe prej reve të shtrydhura kemi lëshuar shi të madh",
+        "sqi-hasanefendinahi": "Ne, nga retë, u leshojmë ujëra të mëdha (shira)",
+        "sqi-fetimehdiu": "Dhe nga retë lëshojmë ujë të mjaftueshëm"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 15,
+      "textAr": "لِنُخْرِجَ بِهِ حَبًّا وَنَبَاتًا",
+      "translations": {
+        "sqi-sherifahmeti": "Që me të të rrisim drithëra e bimë",
+        "sqi-hasanefendinahi": "për rritjen e drithërave dhe bimëve",
+        "sqi-fetimehdiu": "Për të rritur me të drithëra e bimë"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 16,
+      "textAr": "وَجَنَّاتٍ أَلْفَافًا",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe kopshte të dendura palë mbi palë",
+        "sqi-hasanefendinahi": "dhe kopshteve të dendura",
+        "sqi-fetimehdiu": "Edhe kopshte të dendura"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 17,
+      "textAr": "إِنَّ يَوْمَ الْفَصْلِ كَانَ مِيقَاتًا",
+      "translations": {
+        "sqi-sherifahmeti": "S’ka dyshim se dita e gjykimit është caktuar",
+        "sqi-hasanefendinahi": "Me të vërtetë, Dita e sqarimit, është caktuar",
+        "sqi-fetimehdiu": "Dita e shkoqitjes, njëmend, është caktuar"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 18,
+      "textAr": "يَوْمَ يُنْفَخُ فِي الصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+      "translations": {
+        "sqi-sherifahmeti": "Është dita që i fryhet surit, e ju vini grupe-grupe",
+        "sqi-hasanefendinahi": "Dita kur do të fryhet në buri (Sur), e do të vini ju, grupe-grupe",
+        "sqi-fetimehdiu": "Dita kur do të fryhet në sur, dhe ju do të vini grupe-grupe"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 19,
+      "textAr": "وَفُتِحَتِ السَّمَاءُ فَكَانَتْ أَبْوَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe qielli hapet e bëhet dyer-dyer",
+        "sqi-hasanefendinahi": "dhe qielli do të hapet dhe do të bëhet dyer",
+        "sqi-fetimehdiu": "Edhe qielli do të hapet dhe do të ketë dyer"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 20,
+      "textAr": "وَسُيِّرَتِ الْجِبَالُ فَكَانَتْ سَرَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kodrat shkulen dhe bëhen pluhur (si valë rrezesh)",
+        "sqi-hasanefendinahi": "dhe malet lëvizin e bëhen si hije e ajrit (fatamorganë)",
+        "sqi-fetimehdiu": "Edhe malet do të rrotullohen si në vegim"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 21,
+      "textAr": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+      "translations": {
+        "sqi-sherifahmeti": "E Xhehennemi është në pritë (në pusi)",
+        "sqi-hasanefendinahi": "Me të vërtetë, Skëterra do të bëhet pusi",
+        "sqi-fetimehdiu": "E xhehennemi, me siguri, do tëjetë vendstrehim"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 22,
+      "textAr": "لِلطَّاغِينَ مَآبًا",
+      "translations": {
+        "sqi-sherifahmeti": "Është vendstrehim i arrogantëve",
+        "sqi-hasanefendinahi": "për të këqinjtë vendbanim",
+        "sqi-fetimehdiu": "Vendstrehim për kriminelët"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 23,
+      "textAr": "لَابِثِينَ فِيهَا أَحْقَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Aty do të mbesin për tërë kohën (pa mbarim)",
+        "sqi-hasanefendinahi": "që aty të mbeten përgjithmonë",
+        "sqi-fetimehdiu": "Ku do të mbesin përgjithmonë"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 24,
+      "textAr": "لَا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Aty nuk do të shijojnë as freskim, as ndonjë pije",
+        "sqi-hasanefendinahi": "në të, nuk do të shijojnë as freskim, as pije",
+        "sqi-fetimehdiu": "Aty nuk do të shijojnë as freskim as pije"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 25,
+      "textAr": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+      "translations": {
+        "sqi-sherifahmeti": "Përveç ujë të valë e kalbësirë",
+        "sqi-hasanefendinahi": "përpos ujit të vluar dhe qelbësirave",
+        "sqi-fetimehdiu": "Përveç qelb e ujë të vluar"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 26,
+      "textAr": "جَزَاءً وِفَاقًا",
+      "translations": {
+        "sqi-sherifahmeti": "Si ndëshkim i merituar",
+        "sqi-hasanefendinahi": "(si) shpërblim gjegjës (i veprave të tyre)",
+        "sqi-fetimehdiu": "Si shpërblim të merituar"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 27,
+      "textAr": "إِنَّهُمْ كَانُوا لَا يَرْجُونَ حِسَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Ata ishin që nuk pritnin se do të jepin llogari",
+        "sqi-hasanefendinahi": "Ata, me të vërtetë, nuk kanë menduar në dhënie të llogarisë",
+        "sqi-fetimehdiu": "Ata, me të vërtetë, nuk pritnin të japin llogari"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 28,
+      "textAr": "وَكَذَّبُوا بِآيَاتِنَا كِذَّابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe argumentet Tona i përgënjeshtruan më këmbëngulje",
+        "sqi-hasanefendinahi": "dhe argumentet Tona i kanë mohuar krejtësisht",
+        "sqi-fetimehdiu": "Dhe argumentet tona i përgënjeshtruan kategorikisht"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 29,
+      "textAr": "وَكُلَّ شَيْءٍ أَحْصَيْنَاهُ كِتَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Ndërsa Ne çdo send e kemi ruajtur me shkrim të saktë",
+        "sqi-hasanefendinahi": "por Ne, çdo gjë e kemi numërura dhe shënuar",
+        "sqi-fetimehdiu": "Por ne çdo send e kemi regjistruar me shkrim"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 30,
+      "textAr": "فَذُوقُوا فَلَنْ نَزِيدَكُمْ إِلَّا عَذَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "E ju pra, vuani, se Ne nuk do t’u shtojmë tjetër vetëm se vuajtje",
+        "sqi-hasanefendinahi": "“Andaj, shijoni, Ne do t’ju shtojmë vetëm dënimin”",
+        "sqi-fetimehdiu": "Prandaj shijone! Ne nuk do t’u shtojmë tjetër përveç dënimit"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 31,
+      "textAr": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+      "translations": {
+        "sqi-sherifahmeti": "S’ka dyshim se të devotshmit kanë fitime të mëdha",
+        "sqi-hasanefendinahi": "E, me të vërtetë, për ata që i kanë druajtur Perëndisë, u janë përgatitur vende kënaqësie",
+        "sqi-fetimehdiu": "Ndërsa për të devotshmit ka shpëtim"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 32,
+      "textAr": "حَدَائِقَ وَأَعْنَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Kopshte e vreshta rrushi",
+        "sqi-hasanefendinahi": "kopshte dhe vreshta",
+        "sqi-fetimehdiu": "Kopshte e vreshta"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 33,
+      "textAr": "وَكَوَاعِبَ أَتْرَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe vasha të një moshe",
+        "sqi-hasanefendinahi": "dhe vajza të reja, të njëjtës moshë",
+        "sqi-fetimehdiu": "Dhe vasha moshënjëjta"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 34,
+      "textAr": "وَكَأْسًا دِهَاقًا",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe gota të mbushura plot verë",
+        "sqi-hasanefendinahi": "dhe kupa të plota",
+        "sqi-fetimehdiu": "Edhe gotën plot"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 35,
+      "textAr": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Aty nuk dëgjojnë fjalë të kota, as gënjeshtra",
+        "sqi-hasanefendinahi": "Nuk do të dëgjojnë atje (në xhennet) biseda të kota as gënjeshtra",
+        "sqi-fetimehdiu": "Atje nuk do të dëgjojën fjalë të kota e gënjeshtra"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 36,
+      "textAr": "جَزَاءً مِنْ رَبِّكَ عَطَاءً حِسَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Shpërblime e dhurata të shumta dhënë nga Zoti yt",
+        "sqi-hasanefendinahi": "(ky është) shpërblimi i Zotit tënd, i dhënë sipas llogarisë (së veprave të tyre)",
+        "sqi-fetimehdiu": "Si shpërblim e dhurata të shumta nga Zoti yt"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 37,
+      "textAr": "رَبِّ السَّمَاوَاتِ وَالْأَرْضِ وَمَا بَيْنَهُمَا الرَّحْمَٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Zoti i qiejve e i tokës, dhe çka ka ndërmjet tyre, që është mëshirues, të cilit nuk kanë të drejtë t’i bëjnë vërejtje",
+        "sqi-hasanefendinahi": "Zotit të qiejve dhe të Tokës, dhe çka gjendet në mes tyre, Mëshiruesi, të cilit askush nuk do të mund t’i bëzejë (flas)",
+        "sqi-fetimehdiu": "Zoti i qiejve dhe i tokës, dhe i asaj që gjendet ndërjet tyre, i Mëshirshmi të cilit nuk mund t’i bëhet vërejtje"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 38,
+      "textAr": "يَوْمَ يَقُومُ الرُّوحُ وَالْمَلَائِكَةُ صَفًّا ۖ لَا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ الرَّحْمَٰنُ وَقَالَ صَوَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Atë ditë Xibrili dhe engjëjt qëndrojnë të rreshtuar, askush nuk flet pos atij që e lejon Mëshiruesi, dhe i cili e thotë të vërtetën",
+        "sqi-hasanefendinahi": "në Ditën kur Xhebraili dhe engjëjt do të jenë të rreshtuar, e nuk do të flas askush, përpos atij që do t’i lejojë Mëshiruesi, e që do të thonë të vërtetën",
+        "sqi-fetimehdiu": "Atë ditë, kur Ruhi (Xhebraili) dhe engjujt do të radhiten në rrjeshta, nuk do të flasë askush përveç atij të cilit ia lejon i Gjithmëshirshmi dhe do të thotë të vërtetën"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 39,
+      "textAr": "ذَٰلِكَ الْيَوْمُ الْحَقُّ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ مَآبًا",
+      "translations": {
+        "sqi-sherifahmeti": "Ajo është dita e vërtetë, e kush dëshiron le të kthehet rrugës te Zoti i vet",
+        "sqi-hasanefendinahi": "Ajo është Ditë e pashmangshme, e kush të dojë, do ta marr strehimin te Zoti i vet",
+        "sqi-fetimehdiu": "Ajo është ditë e pamohueshme dhe kush dëshiron do të shkojë në strehim te Zoti i vet"
+      }
+    },
+    {
+      "surah": 78,
+      "number": 40,
+      "textAr": "إِنَّا أَنْذَرْنَاكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنْظُرُ الْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ الْكَافِرُ يَا لَيْتَنِي كُنْتُ تُرَابًا",
+      "translations": {
+        "sqi-sherifahmeti": "Ne ua tërhoqëm juve (idhujtarëve) vërejtjen për një dënim të afërt, në ditën kur njeriu (besimtar) shikon se çka i kanë sjellë duart e veta, e jobesimtari thotë: “Ah, sa mirë do të ishte për mua sikur të isha dhe",
+        "sqi-hasanefendinahi": "Me të vërtetë, Ne u kemi paralajmëruar se është i afërt dënimi, në Ditën kur njeriu do t’i shohë veprat e tija, dhe, kur jobesimtari, do të thotë: “Ah, të isha dhé!”",
+        "sqi-fetimehdiu": "Ne ua tërheqim vërejtjen për dënimin e afërt, atë ditë kur njeriu do të shohë çka ia kanë bërë duart e veta, dhe mosbesimtari do të thotë: “Ku është ai fat të kisha qenë dhé!”"
+      }
+    }
+  ]
+}

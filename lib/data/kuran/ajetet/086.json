@@ -1,0 +1,179 @@
+{
+	"surah": 86,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 86,
+			"number": 1,
+			"textAr": "وَالسَّمَاءِ وَالطَّارِقِ",
+			"translations": {
+				"sqi-sherifahmeti": "Pasha qiellin dhe yllin ndriçues (të natës)",
+				"sqi-hasanefendinahi": "Betohem në qiellin dhe yllin e natës",
+				"sqi-fetimehdiu": "Pasha qiellin dhe Yllin e dritës"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 2,
+			"textAr": "وَمَا أَدْرَاكَ مَا الطَّارِقُ",
+			"translations": {
+				"sqi-sherifahmeti": "E ku e di tise çka është tariku - trokitësi",
+				"sqi-hasanefendinahi": "E, a e di ti se ç’është ylli i natës",
+				"sqi-fetimehdiu": "A e di ti çka është Ylli i dritës"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 3,
+			"textAr": "النَّجْمُ الثَّاقِبُ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai është ylli që shpon (errësirën me dritë)",
+				"sqi-hasanefendinahi": "Ai është ylli që shpon terrin (me dritën e vet)",
+				"sqi-fetimehdiu": "Ylli i shkëlqyer"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 4,
+			"textAr": "إِنْ كُلُّ نَفْسٍ لَمَّا عَلَيْهَا حَافِظٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Nuk ka asnjëri njeri që ndaj tij të mos ketë përcjellës",
+				"sqi-hasanefendinahi": "Për çdo njeri ka mbikëqyrës (ndaj tij)",
+				"sqi-fetimehdiu": "Nuk ka njeri i cii nuk ka një mbrojtës"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 5,
+			"textAr": "فَلْيَنْظُرِ الْإِنْسَانُ مِمَّ خُلِقَ",
+			"translations": {
+				"sqi-sherifahmeti": "Le të shikojë njeriu se prej çkahit është krijuar",
+				"sqi-hasanefendinahi": "Le të shikojë njeriu prej çkahjes është krijuar",
+				"sqi-fetimehdiu": "Le të shikojë njeriu prej çka është krijuar"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 6,
+			"textAr": "خُلِقَ مِنْ مَاءٍ دَافِقٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai është krijuar prej një uji që hidhet fuqishëm",
+				"sqi-hasanefendinahi": "është krijuar nga lëngu që kullon (hudhet)",
+				"sqi-fetimehdiu": "Është krijuar nga një ujë i hedhur"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 7,
+			"textAr": "يَخْرُجُ مِنْ بَيْنِ الصُّلْبِ وَالتَّرَائِبِ",
+			"translations": {
+				"sqi-sherifahmeti": "E që del nga kurrizi i shpinës dhe dërrasa e gjoksit",
+				"sqi-hasanefendinahi": "i cili del nga kurrizi (i mashkullit) dhe krahërori",
+				"sqi-fetimehdiu": "Që del nga meskryqet dhe krahërori"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 8,
+			"textAr": "إِنَّهُ عَلَىٰ رَجْعِهِ لَقَادِرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "E s’ka dyshim se Ai ka fuqi ta rikthejë në jetë atë",
+				"sqi-hasanefendinahi": "dhe, me të vërtetë, Ai (All-llahu) është i pushtetshëm – për ta kthyer (ringjallë) atë",
+				"sqi-fetimehdiu": "Dhe ai, me të vërtetë, ka forcë të përsërisë këtë"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 9,
+			"textAr": "يَوْمَ تُبْلَى السَّرَائِرُ",
+			"translations": {
+				"sqi-sherifahmeti": "Ditën kur do të gjurmohen të fshehtat",
+				"sqi-hasanefendinahi": "në Ditën kur do të zbulohen sekretet",
+				"sqi-fetimehdiu": "Atë ditë kur do të shpalohen fshehtësitë"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 10,
+			"textAr": "فَمَا لَهُ مِنْ قُوَّةٍ وَلَا نَاصِرٍ",
+			"translations": {
+				"sqi-sherifahmeti": "E ai (njeriu) nuk ka forcë as ndihmëtarë",
+				"sqi-hasanefendinahi": "kur njeriu nuk do të ketë as fuqi, as ndihmës",
+				"sqi-fetimehdiu": "Kur njeriu nuk do të ketë as forcë e as ndihmës"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 11,
+			"textAr": "وَالسَّمَاءِ ذَاتِ الرَّجْعِ",
+			"translations": {
+				"sqi-sherifahmeti": "Pasha qiellin që kohë pas kohe kthehet me shi",
+				"sqi-hasanefendinahi": "Betohem në qiellin, shëndrues i (plot) gjendjeve",
+				"sqi-fetimehdiu": "Pasha qiellin plot me shi"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 12,
+			"textAr": "وَالْأَرْضِ ذَاتِ الصَّدْعِ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe kohën që qahet për bimë",
+				"sqi-hasanefendinahi": "dhe Tokën që plasaritet për të mbirë bimët",
+				"sqi-fetimehdiu": "Edhe tokën që çahet e plasaritet (për të mbi)"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 13,
+			"textAr": "إِنَّهُ لَقَوْلٌ فَصْلٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Është e vërtetë se ai (Kur’ani) është fjalë që dallon - gjykon",
+				"sqi-hasanefendinahi": "Kur’ani, me të vërtetë, është fjalë që ndanë të vërtetën prej të pavërtetës",
+				"sqi-fetimehdiu": "Ai (Kur’ani) është njëmend fjalë që vendosmërisht shkoqit, dallon"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 14,
+			"textAr": "وَمَا هُوَ بِالْهَزْلِ",
+			"translations": {
+				"sqi-sherifahmeti": "Nuk është ai i parëndësishëm (lojë e kotë)",
+				"sqi-hasanefendinahi": "ai nuk është kurrfarë burleske (tregim i kotë)",
+				"sqi-fetimehdiu": "Nuk është fjalamani e kotë"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 15,
+			"textAr": "إِنَّهُمْ يَكِيدُونَ كَيْدًا",
+			"translations": {
+				"sqi-sherifahmeti": "Ata vërtetë bëjnë kurtha",
+				"sqi-hasanefendinahi": "Me të vërtetë, at shërbehen me dinakëri (të mëdha)",
+				"sqi-fetimehdiu": "Ata njëmend thurin kurtha"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 16,
+			"textAr": "وَأَكِيدُ كَيْدًا",
+			"translations": {
+				"sqi-sherifahmeti": "Po edhe Unë përgatis dështimin e kurtheve të tyre",
+				"sqi-hasanefendinahi": "e, Unë i ndëshkojë për dinakërinë, e tyre –",
+				"sqi-fetimehdiu": "Por unë u kundërvihem me kurtha"
+			}
+		},
+		{
+			"surah": 86,
+			"number": 17,
+			"textAr": "فَمَهِّلِ الْكَافِرِينَ أَمْهِلْهُمْ رُوَيْدًا",
+			"translations": {
+				"sqi-sherifahmeti": "E ti jobesimtarët jepju afat, afatizoi ata pak",
+				"sqi-hasanefendinahi": "andaj, caktoju pak afat jobesimtarëve, lëri në qetësi ata edhe për një çast",
+				"sqi-fetimehdiu": "Prandaj priti mosbesimtarët, jepu edhe pak afat"
+			}
+		}
+	]
+}

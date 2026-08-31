@@ -1,0 +1,203 @@
+{
+  "surah": 82,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 82,
+      "number": 1,
+      "textAr": "إِذَا السَّمَاءُ انْفَطَرَتْ",
+      "translations": {
+        "sqi-sherifahmeti": "E kur të çahet qielli",
+        "sqi-hasanefendinahi": "Kur të shkyhet qielli",
+        "sqi-fetimehdiu": "Kur të çahet qielli"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 2,
+      "textAr": "وَإِذَا الْكَوَاكِبُ انْتَثَرَتْ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kur të shkapërderdhen yjet",
+        "sqi-hasanefendinahi": "dhe kur të rrëzohen (derdhën) yjet",
+        "sqi-fetimehdiu": "Dhe kur yjtë të derdhen"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 3,
+      "textAr": "وَإِذَا الْبِحَارُ فُجِّرَتْ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kur të përzihen detet",
+        "sqi-hasanefendinahi": "dhe kur përzihen detërat (njëri me tjetrin)",
+        "sqi-fetimehdiu": "Dhe kur detet të përzihen"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 4,
+      "textAr": "وَإِذَا الْقُبُورُ بُعْثِرَتْ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kur të trazohen varret",
+        "sqi-hasanefendinahi": "dhe kur të rrotullohen varret",
+        "sqi-fetimehdiu": "Dhe kur varret të rrotullohen (trazohen)"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 5,
+      "textAr": "عَلِمَتْ نَفْسٌ مَا قَدَّمَتْ وَأَخَّرَتْ",
+      "translations": {
+        "sqi-sherifahmeti": "Atëbotë secili njeri e din se çka punuar dhe çka ka lënë prapa",
+        "sqi-hasanefendinahi": "çdokush do të di për veprat që ka punuar dhe lëshimet (që ka bërë)",
+        "sqi-fetimehdiu": "Secili do ta dijë se ç’ka përgatitur dhe çka ka lënë"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 6,
+      "textAr": "يَا أَيُّهَا الْإِنْسَانُ مَا غَرَّكَ بِرَبِّكَ الْكَرِيمِ",
+      "translations": {
+        "sqi-sherifahmeti": "O ti njeri po ç’të mashtroi ty kundrejt Zotit tënd që është bujar e i urtë",
+        "sqi-hasanefendinahi": "O njeri, ç’të mashtroi ty që nuk i besove Zotit tënd bujar",
+        "sqi-fetimehdiu": "O njeri, ç’të mashtron dhe ç’të shmang nga Zoti yt fisnik"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 7,
+      "textAr": "الَّذِي خَلَقَكَ فَسَوَّاكَ فَعَدَلَكَ",
+      "translations": {
+        "sqi-sherifahmeti": "I cili të krijoi, të përsosi dhe të drejtoi",
+        "sqi-hasanefendinahi": "Ai të krijoi ty dh bëri që ta kesh (në formë) të harmonizuar tërë organizmin",
+        "sqi-fetimehdiu": "I cili të ka krijuar, të ka pajisur dhe të ka bërë me organe të barabarta"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 8,
+      "textAr": "فِي أَيِّ صُورَةٍ مَا شَاءَ رَكَّبَكَ",
+      "translations": {
+        "sqi-sherifahmeti": "Të formësoi në formën që Ai dëshiroi",
+        "sqi-hasanefendinahi": "dhe çfarë forme deshi (Ai), të dha",
+        "sqi-fetimehdiu": "Të ka bërë në formën e dëshiruar"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 9,
+      "textAr": "كَلَّا بَلْ تُكَذِّبُونَ بِالدِّينِ",
+      "translations": {
+        "sqi-sherifahmeti": "Jo, nuk është ashtu. Ju përgënjeshtroni ditën e përgjegjësisë",
+        "sqi-hasanefendinahi": "Jo, jo! Kurrsesi! Ju po e konsideroni besimin gënjeshtër",
+        "sqi-fetimehdiu": "Po jo! Ju prapëseprapë e përgënjeshtroni Ditën e Kijametit"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 10,
+      "textAr": "وَإِنَّ عَلَيْكُمْ لَحَافِظِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Kurse ndaj jush janë përcjellësit",
+        "sqi-hasanefendinahi": "Me të vërtetë, ka rojtarë për ju",
+        "sqi-fetimehdiu": "Dhe mbi ju, me siguri, vigjilojnë"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 11,
+      "textAr": "كِرَامًا كَاتِبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Janë shkrues të ndershëm te All-llahu",
+        "sqi-hasanefendinahi": "që janë të nderueshëm tek ne",
+        "sqi-fetimehdiu": "Shkrues fisnikë"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 12,
+      "textAr": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Ata e dinë se çka punoni",
+        "sqi-hasanefendinahi": "që i shënojnë veprat tuaja, dinë çka punoni",
+        "sqi-fetimehdiu": "Të cilët dinë se çka punoni"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 13,
+      "textAr": "إِنَّ الْأَبْرَارَ لَفِي نَعِيمٍ",
+      "translations": {
+        "sqi-sherifahmeti": "E s’ka dyshim se të mirët janë në kënaqësinë e përjetimeve (në Xhennet)",
+        "sqi-hasanefendinahi": "Të ndershmit, me të vërtetë, do të gjenden në xhennet",
+        "sqi-fetimehdiu": "Pa dyshim të mirët janë në xhennet"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 14,
+      "textAr": "وَإِنَّ الْفُجَّارَ لَفِي جَحِيمٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe se mëkatarët janë në Xhehennem",
+        "sqi-hasanefendinahi": "kurse fajtorët, me të vërtetë, do të gjenden në skëterrë",
+        "sqi-fetimehdiu": "Kurse mëkatarët me siguri në xhehennem"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 15,
+      "textAr": "يَصْلَوْنَهَا يَوْمَ الدِّينِ",
+      "translations": {
+        "sqi-sherifahmeti": "Aty futen ata ditën e gjykimit (të cilën nuk e besonin)",
+        "sqi-hasanefendinahi": "Në Ditën e Kijametit (ata) do të digjen në zjarr",
+        "sqi-fetimehdiu": "Ku do të digjen në ditën e gjykimit"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 16,
+      "textAr": "وَمَا هُمْ عَنْهَا بِغَائِبِينَ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe nuk kanë të larguar prej tij",
+        "sqi-hasanefendinahi": "dhe kurrë nuk do të dalin prej tij",
+        "sqi-fetimehdiu": "Dhe nuk do të nxirren më prej aty"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 17,
+      "textAr": "وَمَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "translations": {
+        "sqi-sherifahmeti": "E ç’të mësoi ty se ç’është dita e gjykimit",
+        "sqi-hasanefendinahi": "E, kush të shpjegon ty për Ditën e Kijametit? –",
+        "sqi-fetimehdiu": "Ç’send të tregon ty se çka është dita e Gjykimit"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 18,
+      "textAr": "ثُمَّ مَا أَدْرَاكَ مَا يَوْمُ الدِّينِ",
+      "translations": {
+        "sqi-sherifahmeti": "Përsëri, ç’të mësoi ty se ç’është dita e gjykimit",
+        "sqi-hasanefendinahi": "dhe edhe njëherë: kush të shpjegon ty ç’është Dita e Kijametit",
+        "sqi-fetimehdiu": "Edhe njëherë: ç’është ajo që të tregon ty se çka është Dita e Gjykimit"
+      }
+    },
+    {
+      "surah": 82,
+      "number": 19,
+      "textAr": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِنَفْسٍ شَيْئًا ۖ وَالْأَمْرُ يَوْمَئِذٍ لِلَّهِ",
+      "translations": {
+        "sqi-sherifahmeti": "Është dita kur askush, askujt nuk do të mund t’i ndihmojë asgjë; atë ditë e tërë çështja i takon vetëm All-llahut",
+        "sqi-hasanefendinahi": "Ajo është Ditë kur askush nuk mund t’i ndihmojë ndokujt asgjë, atë ditë pushteti i tërë është vetëm i Perëndisë",
+        "sqi-fetimehdiu": "Dita kur askush askujt nuk do të mund t’i ndihmojë aspak, atë ditë vetëm All-llahu do të ketë pushtet"
+      }
+    }
+  ]
+}

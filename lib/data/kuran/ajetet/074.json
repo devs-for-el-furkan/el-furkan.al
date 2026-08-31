@@ -1,0 +1,569 @@
+{
+	"surah": 74,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 74,
+			"number": 1,
+			"textAr": "يَا أَيُّهَا الْمُدَّثِّرُ",
+			"translations": {
+				"sqi-sherifahmeti": "O ti i mbuluar",
+				"sqi-hasanefendinahi": "O ti, i mbuluar (Muhammed)",
+				"sqi-fetimehdiu": "O i mbuluar"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 2,
+			"textAr": "قُمْ فَأَنْذِرْ",
+			"translations": {
+				"sqi-sherifahmeti": "Ngrihu dhe tërhiqu vërejtjen (duke i thirrur)",
+				"sqi-hasanefendinahi": "Çou dhe lajmëroi",
+				"sqi-fetimehdiu": "Ngritu dhe qorto (thirr)"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 3,
+			"textAr": "وَرَبَّكَ فَكَبِّرْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe madhëroje Zotin tënd",
+				"sqi-hasanefendinahi": "Dhe Zotin tënd madhëroje",
+				"sqi-fetimehdiu": "dhe Zotin tënd madhëro"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 4,
+			"textAr": "وَثِيَابَكَ فَطَهِّرْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe rrobat tua pastroji",
+				"sqi-hasanefendinahi": "Dhe petkat tuaja pastroji",
+				"sqi-fetimehdiu": "Dhe rrobet tua pastro"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 5,
+			"textAr": "وَالرُّجْزَ فَاهْجُرْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe të keqës së ndyrë largohu",
+				"sqi-hasanefendinahi": "Dhe largoju (veprave) të këqia",
+				"sqi-fetimehdiu": "Dhe nga të këqiat u largo"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 6,
+			"textAr": "وَلَا تَمْنُنْ تَسْتَكْثِرُ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe mos u mburr me atë që jep e të duket shumë",
+				"sqi-hasanefendinahi": "Dhe mos ndajë me qëllim që të marrësh më shumë",
+				"sqi-fetimehdiu": "Dhe mos u kënaq as me shumë, por këshillo"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 7,
+			"textAr": "وَلِرَبِّكَ فَاصْبِرْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe për hir të Zotit tënd duro",
+				"sqi-hasanefendinahi": "Dhe për hir të Zotit tënd, duro",
+				"sqi-fetimehdiu": "Dhe për hirë të Zotit tënd duro"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 8,
+			"textAr": "فَإِذَا نُقِرَ فِي النَّاقُورِ",
+			"translations": {
+				"sqi-sherifahmeti": "E, kur të fryhet në Sur",
+				"sqi-hasanefendinahi": "e, kur të fryhet në buri –",
+				"sqi-fetimehdiu": "E kur të fryhet në sure"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 9,
+			"textAr": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Atëherë ajo është ditë e vështirë",
+				"sqi-hasanefendinahi": "do të jetë ato ditë e rëndë",
+				"sqi-fetimehdiu": "Ajo atëherë do të jetë ditë e rëndë"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 10,
+			"textAr": "عَلَى الْكَافِرِينَ غَيْرُ يَسِيرٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Për jobesimtarët është jo e lehtë",
+				"sqi-hasanefendinahi": "për jobesimtarët nuk do të jetë e lehtë",
+				"sqi-fetimehdiu": "Për mosbesimtarët, pa lehtësi"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 11,
+			"textAr": "ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا",
+			"translations": {
+				"sqi-sherifahmeti": "Ti, më le Mua dhe atë që e krijova të vetmuar",
+				"sqi-hasanefendinahi": "Lemëni Mua dhe atë që e kam krijuar Unë, vet",
+				"sqi-fetimehdiu": "M’i lë mua dhe atë që i kam krijuar vetë"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 12,
+			"textAr": "وَجَعَلْتُ لَهُ مَالًا مَمْدُودًا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe bëra këtë pasuri të madhe",
+				"sqi-hasanefendinahi": "dhe i kam dhënë pasuri kolosale",
+				"sqi-fetimehdiu": "Dhe i kam dhënë pasuri të madhe"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 13,
+			"textAr": "وَبَنِينَ شُهُودًا",
+			"translations": {
+				"sqi-sherifahmeti": "E bëra edhe me djem që i ka me vete",
+				"sqi-hasanefendinahi": "dhe djemtë që i ka të pranishëm",
+				"sqi-fetimehdiu": "Edhe djem që janë me ta"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 14,
+			"textAr": "وَمَهَّدْتُ لَهُ تَمْهِيدًا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe Unë i lash në disponim të gjitha mundësitë",
+				"sqi-hasanefendinahi": "dhe nderë e prestigj i kam dhuruar",
+				"sqi-fetimehdiu": "Edhe shumë të mira kam dhuruar"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 15,
+			"textAr": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+			"translations": {
+				"sqi-sherifahmeti": "E ai lakmon që t’i shtoj edhe më tepër",
+				"sqi-hasanefendinahi": "dhe përpos kësaj - dëshiron, që Unë t’ia zmadhojë (të mirat)",
+				"sqi-fetimehdiu": "Pastaj lakmon t’ia shtojë edhe më tepër"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 16,
+			"textAr": "كَلَّا ۖ إِنَّهُ كَانَ لِآيَاتِنَا عَنِيدًا",
+			"translations": {
+				"sqi-sherifahmeti": "E jo, se ai vërtet ishte mohues i fakteve tona",
+				"sqi-hasanefendinahi": "Jo, kurrsesi! Me të vërtetë, ai është mohues kryeneç i ajeteve Tona",
+				"sqi-fetimehdiu": "Kurrsesi! Ai, me të vërtetë, u kundëdrvihet fakteve tona"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 17,
+			"textAr": "سَأُرْهِقُهُ صَعُودًا",
+			"translations": {
+				"sqi-sherifahmeti": "Atë do ta ndrydhi me një dënim të rëndë e të padurueshëm",
+				"sqi-hasanefendinahi": "e Unë do ta ngarkojë atë me dënime të rënda",
+				"sqi-fetimehdiu": "Do ta ngarkoj shumë rëndë"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 18,
+			"textAr": "إِنَّهُ فَكَّرَ وَقَدَّرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Pse ai shumë mendonte, radhitte e përgatiste (për Kur’anin)",
+				"sqi-hasanefendinahi": "sepse, ka paramenduar dhe ka kurdisur (kundër Kur’anit)",
+				"sqi-fetimehdiu": "Sepse ai ka menduar dhe planifikuar"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 19,
+			"textAr": "فَقُتِلَ كَيْفَ قَدَّرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Qoftë i shkatërruar, po si përceptonte",
+				"sqi-hasanefendinahi": "dhe, qoftë mallkuar, si e ka kurdisur",
+				"sqi-fetimehdiu": "Qoftë i mallkuar si e ka planifikuar"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 20,
+			"textAr": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Prapë qoftë i shkatërruar, po si përceptonte",
+				"sqi-hasanefendinahi": "dhe sërish – edhe njëherë, qoftë mallkuar, si e ka kurdisur! –",
+				"sqi-fetimehdiu": "Prapë qoftë i mallkuar si e ka planifikuar"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 21,
+			"textAr": "ثُمَّ نَظَرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai sërish thellohej në mendime",
+				"sqi-hasanefendinahi": "Pastaj ka shikuar",
+				"sqi-fetimehdiu": "Pastaj ka shikuar"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 22,
+			"textAr": "ثُمَّ عَبَسَ وَبَسَرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Pastaj mrrolej dhe bëhej edhe i vrazhdë",
+				"sqi-hasanefendinahi": "e, u vrejt dhe iu mrrol (fytyra)",
+				"sqi-fetimehdiu": "E mandej u ngrys e u mrrol"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 23,
+			"textAr": "ثُمَّ أَدْبَرَ وَاسْتَكْبَرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Pastaj ktheu shpinën me mendjemadhësi",
+				"sqi-hasanefendinahi": "dhe u kthye (nga mendimi i drejtë) dhe u kapardis",
+				"sqi-fetimehdiu": "E pastaj ktheu shpinën me mendjemadhësi"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 24,
+			"textAr": "فَقَالَ إِنْ هَٰذَا إِلَّا سِحْرٌ يُؤْثَرُ",
+			"translations": {
+				"sqi-sherifahmeti": "E tha: “Ky (Kur’ani) nuk është tjetër, vetëm se magji që përcillet prej të tjerëve",
+				"sqi-hasanefendinahi": "dhe tha: “Ky (Kur’ani) nuk është gjë tjetër, përpos magji trashëguese",
+				"sqi-fetimehdiu": "Dhe tha: “Kjo nuk është kurrgjë përveç një magji q transmetohet"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 25,
+			"textAr": "إِنْ هَٰذَا إِلَّا قَوْلُ الْبَشَرِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ky nuk është tjetër, përveç fjalë njerëzish!”",
+				"sqi-hasanefendinahi": "këto janë vetëm fjalë njeriu!”",
+				"sqi-fetimehdiu": "Këto janë vetëm fjalë njeriu”"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 26,
+			"textAr": "سَأُصْلِيهِ سَقَرَ",
+			"translations": {
+				"sqi-sherifahmeti": "E Unë atë do ta hedhë në Sekar",
+				"sqi-hasanefendinahi": "Do ta hudhi (dënojë) në Sekar (Skëterrë) –",
+				"sqi-fetimehdiu": "Atë do ta hudhë në Sekar"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 27,
+			"textAr": "وَمَا أَدْرَاكَ مَا سَقَرُ",
+			"translations": {
+				"sqi-sherifahmeti": "E, ku e di ti se çka është Sekar",
+				"sqi-hasanefendinahi": "e kush të shpjegon ty se çka është Sekari",
+				"sqi-fetimehdiu": "A e di ç’është Sekar"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 28,
+			"textAr": "لَا تُبْقِي وَلَا تَذَرُ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai nuk lë send të mbetet pa e djegur",
+				"sqi-hasanefendinahi": "Ai nuk lë gjë dhe i përfshinë të gjithë (i djegë)",
+				"sqi-fetimehdiu": "Aio asgjë nuk kursen"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 29,
+			"textAr": "لَوَّاحَةٌ لِلْبَشَرِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai është që ua prish dhe ua nxin lëkurat",
+				"sqi-hasanefendinahi": "lëkurat iu bënë të zeza (nga të djegurit)",
+				"sqi-fetimehdiu": "Lëkurët njerëzve ua nxinë"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 30,
+			"textAr": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Mbikëqyrës mbi të janë nëntëmbëdhjetë",
+				"sqi-hasanefendinahi": "mbikëqyrës të tij (Skëterrës) janë nëntëmbëdhjetë (engjëj). –",
+				"sqi-fetimehdiu": "Mbi të vigjëlon nëntëmbëdhjetë"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 31,
+			"textAr": "وَمَا جَعَلْنَا أَصْحَابَ النَّارِ إِلَّا مَلَائِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِلَّذِينَ كَفَرُوا لِيَسْتَيْقِنَ الَّذِينَ أُوتُوا الْكِتَابَ وَيَزْدَادَ الَّذِينَ آمَنُوا إِيمَانًا ۙ وَلَا يَرْتَابَ الَّذِينَ أُوتُوا الْكِتَابَ وَالْمُؤْمِنُونَ ۙ وَلِيَقُولَ الَّذِينَ فِي قُلُوبِهِمْ مَرَضٌ وَالْكَافِرُونَ مَاذَا أَرَادَ اللَّهُ بِهَٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ اللَّهُ مَنْ يَشَاءُ وَيَهْدِي مَنْ يَشَاءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِيَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+			"translations": {
+				"sqi-sherifahmeti": "E mbiqëkyrës të zjarrit, Ne nuk bëjmë tjetër, përveç engjëjve dhe numrin e tyre (të përmendur në Kur’an) nuk e bëmë për tjetër, por vetëm si sprovë për ata që nuk besuan, e që të binden ata që u është dhënë libri, e atyre që besuan t’u shtohet besimi, e atyre që u është dhëmë libri dhe besimtarët të mos kenë dyshim, dhe ata që zemrat i kanë të sëmura dhe jobesimtarët të thonë: “çka dashti All-llahu me këtë shembull?” Ja ashtu, All-llahu e lë të humbur atë që do, e ushtrinë e Zotit tënd nuk e di kush pos Atij, e ai (Sekari), nuk është tjetër vetëm se një përkujtim për njerëz",
+				"sqi-hasanefendinahi": "Na, kemi bërë rojtarë të zjarrit (engjëj) dhe kemi caktuar numrin e tyre, vetëm për t’i provuar jobesimtarët; për ‘tu bindur njerëzit, të cilëve, u është dhënë Libri, që t’u shtohet (forcohet) besimi atyre që besojnë, e mos të dyshojnë, ata, të cilëve u është dhënë Libri, - dhe për të thënë ata që janë zemërkëqinj (hipokrit) dhe jobesimtarë: “Ç’ka dashur Zoti (të tregojë) me këtë shembull?” Kështu, All-llahu i lë në hutim (dhe në humbje) ata që do, dhe në rrugë të drejtë e udhëzon atë që don. Askush tjetër, përveç Tij, nuk e di numrin e ushtrisë së Zotit tënd. Kjo është vetëm këshillë për njerëzit",
+				"sqi-fetimehdiu": "Dhe nuk kemi bërë rojtar të zjarrit tjetër kënd, veç engjujve dhe numrin e tyre e kemi caktuar si sprovë për ata që nuk besojnë, për t’i bindur ata që u është dhënë Libri, kurse ata që besojnë t’u forcohet besimi, ndërsa ata të cilëve u është dhënë Libri dhe besimtarët, të mos dyshojnë, dhe që ata zemrat e të cilëve janë të sëmura, dhe ata që janë mosbesimtarë të thonë: “Çka ka dashur All-llahu me këtë shembull?” Ashtu All-llahu e lë të humbur kë të dojë dhe udhëzon kë të dojë, dhe askush nuk i di ushtritë e Zotit tënd përveç Atij. Kurse ai (Sekari) është vetëm qortim për njerëzimin"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 32,
+			"textAr": "كَلَّا وَالْقَمَرِ",
+			"translations": {
+				"sqi-sherifahmeti": "Jo, nuk është ashtu, Pasha hënën",
+				"sqi-hasanefendinahi": "Kurrsesi! Betohem në Hënën",
+				"sqi-fetimehdiu": "Po, si jo! Pasha Hënën"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 33,
+			"textAr": "وَاللَّيْلِ إِذْ أَدْبَرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe natën kur tërhiqet",
+				"sqi-hasanefendinahi": "dhe në natën që largohet",
+				"sqi-fetimehdiu": "Edhenatën kur kalon"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 34,
+			"textAr": "وَالصُّبْحِ إِذَا أَسْفَرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe agimin kur agon",
+				"sqi-hasanefendinahi": "e mëngjesin që zbardhëllon",
+				"sqi-fetimehdiu": "E agimi kur agon"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 35,
+			"textAr": "إِنَّهَا لَإِحْدَى الْكُبَرِ",
+			"translations": {
+				"sqi-sherifahmeti": "S’ka dyshim se ai (Sekari) është një nga belatë më të mëdha",
+				"sqi-hasanefendinahi": "ajo (skëterra), me të vërtetë, është njëra nga fatkeqësitë më të mëdha",
+				"sqi-fetimehdiu": "Ajo është, njëmend, një nga (fatkeqësi) të mëdhatë"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 36,
+			"textAr": "نَذِيرًا لِلْبَشَرِ",
+			"translations": {
+				"sqi-sherifahmeti": "Është vërejtje për njerëz",
+				"sqi-hasanefendinahi": "kjo është si këshillim –",
+				"sqi-fetimehdiu": "Qortim për njerëzit"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 37,
+			"textAr": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+			"translations": {
+				"sqi-sherifahmeti": "Për atë nga mesi juaj që dëshiron të përparojë (në të mira) apo të ngecë",
+				"sqi-hasanefendinahi": "për ata nga ju që dëshirojnë të bëjnë mirë ose të abstenojnë (në këtë)",
+				"sqi-fetimehdiu": "Për atë nga mesi juaj i cili do të shpëtojë ose të vonojë"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 38,
+			"textAr": "كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Secili njeri është pengë i veprës së vet",
+				"sqi-hasanefendinahi": "Çdo njeri është peng (përgjegjës) për veprat e veta",
+				"sqi-fetimehdiu": "Secili është përgjegjës për atë çka ka fituar (ç’ka bërë)"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 39,
+			"textAr": "إِلَّا أَصْحَابَ الْيَمِينِ",
+			"translations": {
+				"sqi-sherifahmeti": "Përveç atyre të djathtëve",
+				"sqi-hasanefendinahi": "përveç fatlumëve",
+				"sqi-fetimehdiu": "Përveç të djathtëve"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 40,
+			"textAr": "فِي جَنَّاتٍ يَتَسَاءَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Që janë në Xhennete e i bëjnë pyetje njëri-tjetrit",
+				"sqi-hasanefendinahi": "të cilët në kopshtijet e xhenneti i pyesin fajtorët",
+				"sqi-fetimehdiu": "Ata në xhennete do të bisedojnë"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 41,
+			"textAr": "عَنِ الْمُجْرِمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Përkitazi me kriminelët (e u thonë)",
+				"sqi-hasanefendinahi": "Për mizorët – mëkatarët",
+				"sqi-fetimehdiu": "Për mizorët – mëkatarët"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 42,
+			"textAr": "مَا سَلَكَكُمْ فِي سَقَرَ",
+			"translations": {
+				"sqi-sherifahmeti": "“çka u solli juve në Sekar?”",
+				"sqi-hasanefendinahi": "“Çka u ka sjellë juve në Sekar (Skëterrë)?”",
+				"sqi-fetimehdiu": "“Çka ju solli në Sekar”"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 43,
+			"textAr": "قَالُوا لَمْ نَكُ مِنَ الْمُصَلِّينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata thonë: “Nuk kemi qenë prej atyre që faleshin (që bënin namaz)",
+				"sqi-hasanefendinahi": "Ata do të përgjigjen: “Nuk kemi qenë nga ata që kanë bërë namaz",
+				"sqi-fetimehdiu": "Do të thonë: “Nuk kemi pas kryer namazin"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 44,
+			"textAr": "وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Nuk kemi qenë që ushqyenim të varfërit",
+				"sqi-hasanefendinahi": "dhe prej atyre që i kanë ushqyer të varfërit",
+				"sqi-fetimehdiu": "Dhe të varfërit nuk i kemi ushqyer"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 45,
+			"textAr": "وَكُنَّا نَخُوضُ مَعَ الْخَائِضِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kemi qenë që përziheshim me të tjerët në punë të kota",
+				"sqi-hasanefendinahi": "dhe jemi lëshuar në biseda të kota me djerraditësit (badihavxhinjtë)",
+				"sqi-fetimehdiu": "Dhe kemi llomotitur me llomotitësit"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 46,
+			"textAr": "وَكُنَّا نُكَذِّبُ بِيَوْمِ الدِّينِ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kemi qenë që nuk e besonim ditën e gjykimit",
+				"sqi-hasanefendinahi": "dhe kemi përgënjeshtruar Ditën e Kijametit",
+				"sqi-fetimehdiu": "Edhe e kemi pas mohuar ditën e kijametit"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 47,
+			"textAr": "حَتَّىٰ أَتَانَا الْيَقِينُ",
+			"translations": {
+				"sqi-sherifahmeti": "Derisa na erdhi e vërteta (vdekja)!”",
+				"sqi-hasanefendinahi": "përderisa nuk na erdhi vdekja”",
+				"sqi-fetimehdiu": "Derisa nuk na erdhi vdekja”"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 48,
+			"textAr": "فَمَا تَنْفَعُهُمْ شَفَاعَةُ الشَّافِعِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "E tanimë, atyre nuk u bën dobi ndërmjetësimi i ndërmjetësuesve",
+				"sqi-hasanefendinahi": "Kurrfarë ndërmjetësimi i ndërmjetësuesve nuk do t’u ndihmojë atyre",
+				"sqi-fetimehdiu": "Atyre nuk u bën dobi ndërmjetësimi i ndërmjetësuesve"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 49,
+			"textAr": "فَمَا لَهُمْ عَنِ التَّذْكِرَةِ مُعْرِضِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Po çka kishin ata që largohesin prej këshillës (Kur’ait)",
+				"sqi-hasanefendinahi": "E, përse shmangën ata nga këshillimi",
+				"sqi-fetimehdiu": "E pse ata largohen nga këshilla"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 50,
+			"textAr": "كَأَنَّهُمْ حُمُرٌ مُسْتَنْفِرَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata ishin si gomarë të trembur (të egër)",
+				"sqi-hasanefendinahi": "thua se janë gomarë të egër",
+				"sqi-fetimehdiu": "Sikur gomarë të tërhuzur"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 51,
+			"textAr": "فَرَّتْ مِنْ قَسْوَرَةٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Që ikin prej luanit (ose prej gjahtarit)",
+				"sqi-hasanefendinahi": "të frikësuar, që kanë ikur prej luanit",
+				"sqi-fetimehdiu": "Që ikin nga ndjekësi"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 52,
+			"textAr": "بَلْ يُرِيدُ كُلُّ امْرِئٍ مِنْهُمْ أَنْ يُؤْتَىٰ صُحُفًا مُنَشَّرَةً",
+			"translations": {
+				"sqi-sherifahmeti": "Veç kësaj, secili prej tyre dëshironte t’i jepej libër i posaçëm (i hapët, i qartë)",
+				"sqi-hasanefendinahi": "Po! Çdonjëri nga ata do të kërkojë që t’i jepet rregjistri i qartë (nga Zoti)",
+				"sqi-fetimehdiu": "Po! Secili njeri prej tyre dëshiron t’i jepen broshura të shpallura qartë"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 53,
+			"textAr": "كَلَّا ۖ بَلْ لَا يَخَافُونَ الْآخِرَةَ",
+			"translations": {
+				"sqi-sherifahmeti": "E jo! Por ata janë që nuk frikësohen botës tjetër",
+				"sqi-hasanefendinahi": "Kurrsesi, pasi që ata nuk i frikohen Ditës së Kijametit",
+				"sqi-fetimehdiu": "Kurrë! Sepse ata nuk i frikësohen asaj bote"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 54,
+			"textAr": "كَلَّا إِنَّهُ تَذْكِرَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe jo! Se ai (Kur’ani) është këshillë e lartë",
+				"sqi-hasanefendinahi": "Ai (Kur’ani), në të vërtetë, është këshillë",
+				"sqi-fetimehdiu": "S’ka dyshim, ai është këshillë"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 55,
+			"textAr": "فَمَنْ شَاءَ ذَكَرَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "E kush do, këshillohet me të",
+				"sqi-hasanefendinahi": "dhe kush të dojë, le ta pranojë",
+				"sqi-fetimehdiu": "Dhe kush do të mund, ta ketë në mend"
+			}
+		},
+		{
+			"surah": 74,
+			"number": 56,
+			"textAr": "وَمَا يَذْكُرُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ ۚ هُوَ أَهْلُ التَّقْوَىٰ وَأَهْلُ الْمَغْفِرَةِ",
+			"translations": {
+				"sqi-sherifahmeti": "Po ata nuk mund të marrin mësim prej tij, vetëm nëse All-llahu di, Ai është i denjë për t’iu ruajtur dhe i denjë për falje mëkatesh",
+				"sqi-hasanefendinahi": "e këshillohen vetëm ata që do All-llahu; Ai është i vetmi të cilit duhet t’i druajmë dhe Ai është i vetmi falës",
+				"sqi-fetimehdiu": "Por në mend mund ta ketë vetëm nëse do All-llahu. Ai është i denjë për t’iu friëksuar dhe kompetentë për të falur"
+			}
+		}
+	]
+}

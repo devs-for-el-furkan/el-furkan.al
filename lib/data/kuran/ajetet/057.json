@@ -1,0 +1,299 @@
+{
+	"surah": 57,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 57,
+			"number": 1,
+			"textAr": "سَبَّحَ لِلَّهِ مَا فِي السَّمَاوَاتِ وَالْأَرْضِ ۖ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahun e lartësoi me adhurim ç’ka në qiej e në tokë dhe Ai është i gjithfuqishmi, i urti",
+				"sqi-hasanefendinahi": "Perëndinë e falenderon çdo gjë që është në qiej dhe në Tokë, e Ai është i Plotëfuqishëm dhe i Gjithëdijshëm",
+				"sqi-fetimehdiu": "All-llahun e lartëson çka ka në qiej dhe në tokë. Ai është i forti, i urti"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 2,
+			"textAr": "لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۖ يُحْيِي وَيُمِيتُ ۖ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "I Tij është pushteti në qiej e në tokë, Ai jep jetë dhe Ai jep vdekje dhe Ai ka fuqi për çdo send",
+				"sqi-hasanefendinahi": "Pushteti i Tij është në qiej dhe në Tokë; jeta dhe vdekja janë vepër e Tij, dhe Ai është i pushtetshëm për çdo gjë",
+				"sqi-fetimehdiu": "Pushteti në qiej dhe në tokë është i Tij. Ai ngjall dhe vdes dhe ai ka forcë për çdo send"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 3,
+			"textAr": "هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ ۖ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai është i pari që s’ka mbarim, i dukshmi dhe i padukshmi, dhe Ai është më i dijshmi për çdo gjë",
+				"sqi-hasanefendinahi": "Ai është i Pari dhe i Mbrami, edhe i Dukshmi edhe i Padukshmi, dhe Ai është i dijshëm për çdo gjë",
+				"sqi-fetimehdiu": "Ai është i pari dhe i fundit. I dukshmi dhe i padukshmi. Ai është i gjithëdijshëm për çdo send"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 4,
+			"textAr": "هُوَ الَّذِي خَلَقَ السَّمَاوَاتِ وَالْأَرْضَ فِي سِتَّةِ أَيَّامٍ ثُمَّ اسْتَوَىٰ عَلَى الْعَرْشِ ۚ يَعْلَمُ مَا يَلِجُ فِي الْأَرْضِ وَمَا يَخْرُجُ مِنْهَا وَمَا يَنْزِلُ مِنَ السَّمَاءِ وَمَا يَعْرُجُ فِيهَا ۖ وَهُوَ مَعَكُمْ أَيْنَ مَا كُنْتُمْ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai është që krijoi qiejt dhe tokën vetëm për gjashtë ditë, pastaj qëndroi mbi Arsh. Ai e di çka futet në tokë dhe çka del prej saj, çka zbret nga qielli dhe çka ngritet në të, dhe Ai është me ju kudo që të jeni, All-llahu është përcjellës i asaj që punoni",
+				"sqi-hasanefendinahi": "Ai ka krijuar qiejt dhe Tokën për gjashtë ditë (periudha kohore), dhe pastaj mbisundoi Arshin (Gjithësinë); Ai di se çka hyn në Tokë dhe çka del prej saj, çka zbret prej qiellit dhe çka ngritet kah ai. Ai është me ju (u sheh) kudo që gjendeni, dhe çkado që punoni, All-llahu i sheh (të gjitha) çka punoni",
+				"sqi-fetimehdiu": "Ai është i cili ka krijuar qiejt dhe tokën për gjashtë ditë, pastaj mbisundoi gjithësinë. Ai e di se çka futet në tokë dhe çka del prej saj edhe çka zbret nga qielli dhe çka ngjitet atje. Ai është me ju kudo qofshi. All-llahu sheh gjithë çka punoni"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 5,
+			"textAr": "لَهُ مُلْكُ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَإِلَى اللَّهِ تُرْجَعُ الْأُمُورُ",
+			"translations": {
+				"sqi-sherifahmeti": "Vetëm i Tij është sundimi i qiejve dhe i tokës dhe vetëm te All-llahu kthehen të gjitha çështjet",
+				"sqi-hasanefendinahi": "Pushteti i Tij ësht ënë qiej dhe në Tokë, dhe te Perndia do të kthehen të gjitha",
+				"sqi-fetimehdiu": "Pushteti i Tij është në qiej dhe në tokë, dhe te All-llahu kthehen tëra çështjet"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 6,
+			"textAr": "يُولِجُ اللَّيْلَ فِي النَّهَارِ وَيُولِجُ النَّهَارَ فِي اللَّيْلِ ۚ وَهُوَ عَلِيمٌ بِذَاتِ الصُّدُورِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai e ngërthen (e zgjaton) natën në ditë dhe e ngërthen (zgjaton) ditën në natë dhe Ai është që i di të fshehtat në gjoksa",
+				"sqi-hasanefendinahi": "Ai e shtie natën në ditë dhe ditën në natë, dhe ai e di mendimin e çdokujt",
+				"sqi-fetimehdiu": "Natën e bën ditë dhe ditën e bënë natë, dhe Ai i di se çka ka në krahërorë"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 7,
+			"textAr": "آمِنُوا بِاللَّهِ وَرَسُولِهِ وَأَنْفِقُوا مِمَّا جَعَلَكُمْ مُسْتَخْلَفِينَ فِيهِ ۖ فَالَّذِينَ آمَنُوا مِنْكُمْ وَأَنْفَقُوا لَهُمْ أَجْرٌ كَبِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Besoni All-llahut dhe të dërguarit të Tij dhe jepni nga ajo që Ai u bëri trashëgues në të, se ata që besuan prej jush dhanë për hir të Zotit, ata kanë shpërblim të madh",
+				"sqi-hasanefendinahi": "Besoni Perëndinë dhe të Dërguarin e Tij dhe shpenzoni nga ato çka Ai ju ka lënë në dispozicion juve, se ata që kanë besuar nga ju dhe kanë shpenzuar (për të mirë), për ta ka shpërblim të madh",
+				"sqi-fetimehdiu": "Besoni All-llahun dhe Profetin e tij, dhe shpërndani (jepni falas) nga ajo që u ka dhënë në disponim, sepse ata, nga ju, të cilët besojnë dhe japin falas kanë shpërblim të madh"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 8,
+			"textAr": "وَمَا لَكُمْ لَا تُؤْمِنُونَ بِاللَّهِ ۙ وَالرَّسُولُ يَدْعُوكُمْ لِتُؤْمِنُوا بِرَبِّكُمْ وَقَدْ أَخَذَ مِيثَاقَكُمْ إِنْ كُنْتُمْ مُؤْمِنِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "ç’keni ju që nuk i besoni All-llahut, kue i dërguari i Tij ju thërret t’i besoni Zotit tuaj dhe kur Ai ka marrë besën tuaj, nëse jeni besimtarë (o sot o kurrë)",
+				"sqi-hasanefendinahi": "Çka keni që nuk besoni në Perëndinë? E i Dërguari i Tij ju fton që ta besoni Zotin tuaj, kurse ai prej jush ka marrë obligimin – nëse dëshroni të jeni besimtarë",
+				"sqi-fetimehdiu": "Çka është me ju që nuk i besoni All-llahut? Profeti ju thërret t’i besoni Zotit tuaj dhe nga ju pat marrë besë – nëse ju jeni besimtarë"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 9,
+			"textAr": "هُوَ الَّذِي يُنَزِّلُ عَلَىٰ عَبْدِهِ آيَاتٍ بَيِّنَاتٍ لِيُخْرِجَكُمْ مِنَ الظُّلُمَاتِ إِلَى النُّورِ ۚ وَإِنَّ اللَّهَ بِكُمْ لَرَءُوفٌ رَحِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai robit të vet i shpall argumente të qarta për t’iu nxjerrë juve prej errësirave ne dritë. E, s’ka dyshim se All-llahu është i butë e i mëshirshëm ndaj jush",
+				"sqi-hasanefendinahi": "Ai, robit të Vet i ka zbritur fakte të qarta për t’ju nxjerrë nga errësira në dritë – e All-llahu ndaj jush, me të vërtetë, është i mirë dhe i mëshirshëm",
+				"sqi-fetimehdiu": "Ai është i cili robit të vet i shpall argumente të qarta për t’iu nxjerrë juve nga terri në dritë. Dhe All-llahu është, me të vërtetë, ndaj jush i butë dhe mëshirëplotë"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 10,
+			"textAr": "وَمَا لَكُمْ أَلَّا تُنْفِقُوا فِي سَبِيلِ اللَّهِ وَلِلَّهِ مِيرَاثُ السَّمَاوَاتِ وَالْأَرْضِ ۚ لَا يَسْتَوِي مِنْكُمْ مَنْ أَنْفَقَ مِنْ قَبْلِ الْفَتْحِ وَقَاتَلَ ۚ أُولَٰئِكَ أَعْظَمُ دَرَجَةً مِنَ الَّذِينَ أَنْفَقُوا مِنْ بَعْدُ وَقَاتَلُوا ۚ وَكُلًّا وَعَدَ اللَّهُ الْحُسْنَىٰ ۚ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "E, ç’keni ju që nuk jepni për rrugën e All-llahut, kur dihet se All-llahut i mbesin trashëgim qiejt dhe toka? Nuk janë të barabartë prej jush ata që dhanë nga pasuria e tyre dhe luftuan para çlirimit, sepse të tillët kanë vlerë të madhe nga ata që dhanë dhe luftuan pas. Por të gjithve All-llahu u premyoi të mirat; All-llahu di çka punoni",
+				"sqi-hasanefendinahi": "Dhe, ç’keni që nuk shpenzoni në rrugën e Perëndisë, pasi që qiejt dhe Toka i mbetën trashëgim Perëndisë? Nuk janë të barabartë ata që kanë shpenzuar dhe luftuan para fitores – dhe ata që kanë luftuar dhe shpenzuar pastaj. Këtu, dallimi është në një shkallë të lartë; mirëpo, All-llahu të gjithëve u premton dhuntinë. – All-llahu di mirë atë që punoni ju",
+				"sqi-fetimehdiu": "E çka është me ju që nuk shpenzoni për hirë të All-llahut, kurse për All-llahun është trashëgim i qiejve dhe i tokës. Nuk janë, ndërmjet jush, të barabartë, ata të cilët, kanë dhënë falas para fitores dhe kanë luftuar. Ata kanë shkallë më të lartë se ata të cilët kanë dhënë falas dhe kanë luftuar më vonë. Kurse All-llahu të gjithëve u premton mirësi. All-llahu është i njoftuar se çka bëni"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 11,
+			"textAr": "مَنْ ذَا الَّذِي يُقْرِضُ اللَّهَ قَرْضًا حَسَنًا فَيُضَاعِفَهُ لَهُ وَلَهُ أَجْرٌ كَرِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Kush është ai që i huazon All-llahut një hua të mirë e që Ai t’ia shumëfishojë atë dhe ai ka një shpërbllim të mirë",
+				"sqi-hasanefendinahi": "Kush do t’i jap vullnetarisht Perëndisë hua – të mirë – që Ai pastaj t’ia kthejë shumëfish, e madje, për të ka shpërblim fisnik",
+				"sqi-fetimehdiu": "Ai i cili u jep hua të mirë All-llahut, Ai ia kthen shumëfish dhe për te ka shpërblim fisnik"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 12,
+			"textAr": "يَوْمَ تَرَى الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ يَسْعَىٰ نُورُهُمْ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَانِهِمْ بُشْرَاكُمُ الْيَوْمَ جَنَّاتٌ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا ۚ ذَٰلِكَ هُوَ الْفَوْزُ الْعَظِيمُ",
+			"translations": {
+				"sqi-sherifahmeti": "(Përkujto) Ditën kur i sheh besimtarët dhe besimtaret që drita e tyre flakëron para tyre dhe në djathtë të tyre. (U thuhet) Myzhde e juaj sot janë Xhennetet nën të cilat rrjedhin lumenj, aty do të jeni përgjithmonë. E ajo është fitore e madhe",
+				"sqi-hasanefendinahi": "në Ditën që do të shohish besimtarët dhe besimtaret, që para tyre dhe në të djahtë ecë dritë e tyre (e ju thuhet): “Gëzim (ka) sot për ju: kopshtet e xhennetit nëpër të cilët rrjedhin lumenjtë, në të cilët do të banoni përgjithmonë. Ky është sukses i madh",
+				"sqi-fetimehdiu": "Atë ditë kur ti shohësh besimtarët dhe besimtaret se si shpejton drita e tyre para tyre dhe nga ana e djathtë e tyre. Përgëzimi juaj sot janë xhennetet nëpër të cilët rrjedhin lumenj, ku do të qëndroni përgjithmonë. Ai është sukses i madh"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 13,
+			"textAr": "يَوْمَ يَقُولُ الْمُنَافِقُونَ وَالْمُنَافِقَاتُ لِلَّذِينَ آمَنُوا انْظُرُونَا نَقْتَبِسْ مِنْ نُورِكُمْ قِيلَ ارْجِعُوا وَرَاءَكُمْ فَالْتَمِسُوا نُورًا فَضُرِبَ بَيْنَهُمْ بِسُورٍ لَهُ بَابٌ بَاطِنُهُ فِيهِ الرَّحْمَةُ وَظَاهِرُهُ مِنْ قِبَلِهِ الْعَذَابُ",
+			"translations": {
+				"sqi-sherifahmeti": "Ditën kur hipokritët dhe hipokritet atyre që besuan u thonë: “Na pritni (ose na shikoni) të ndriçoheni prej dritës suaj!” U thuhet: “Kthehuni prapa jush (në dynja) e kërkoni ndonjë dritë!” Atëherë vihet ndërmjet tyre njëfarë muri që ka një derë, e brendia e tij është mëshirë (Xhenneti), e ana e jashtme e tij është dënimi (zjarri)",
+				"sqi-hasanefendinahi": "Në Ditën kur hipokritët dhe hipokritet do t’u flasin besimtarëve: “Pritna neve, që të shpërblehemi me dritën tuaj!” – u përgjigjet (atyre): “Kthehuni prapa, e kërkoni tjetër dritë!” Dhe, ndërmjet tyre do të vendose barriera (pengesa) që ka derë; brenda saj ka mëshirë, kurse jashtë saj ka vuajtje",
+				"sqi-fetimehdiu": "Atë ditë kur hipokritët dhe hipokritet do t’u thonë besimtarëve: “Nna pritni edhe ne të marrim nga drita e juaj”! Do t’u thuhet: “Kthehuni prap dhe kërkoni tjetër dritë”! Dhe do të vihet ndërmjet tyre një mur që do të ketë derë. Përmbrenda tij është mëshira, kurse nga jashtë do të jetë dënimi"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 14,
+			"textAr": "يُنَادُونَهُمْ أَلَمْ نَكُنْ مَعَكُمْ ۖ قَالُوا بَلَىٰ وَلَٰكِنَّكُمْ فَتَنْتُمْ أَنْفُسَكُمْ وَتَرَبَّصْتُمْ وَارْتَبْتُمْ وَغَرَّتْكُمُ الْأَمَانِيُّ حَتَّىٰ جَاءَ أَمْرُ اللَّهِ وَغَرَّكُمْ بِاللَّهِ الْغَرُورُ",
+			"translations": {
+				"sqi-sherifahmeti": "(Hipokritët e mbetur në errësirë) I thërrasin ata (besimtarët): “A nuk kemi qenë edhe ne së bashku me ju!? (Besimtarët përgjigjen): “Po, por ju e shkatërruat veten (me hipokrizi), ju prisnit kob të zi për besimtarët, ju dyshonit çëshjtet e fesë dhe ju mashtruan shpresat e kota deri kur ju erdhi caktimi i All-llahut (vdekja) dhe ashtu, mashtruesi ju mashtroi",
+				"sqi-hasanefendinahi": "A nuk kemi qenë me ju? – thërrasin ata. – “Po” – përgjigjen, - por ju e keni komprometuar veten dhe keni pritur, edhe keni dyshuar, dhe dëshirat e kota ju kanë mashtruar, përderisa ka arritur urdhëri i Perëndisë, e djalli u ka mashtruar ndaj Perëndisë",
+				"sqi-fetimehdiu": "Atyre do t’u thuhet: “A nuk kemi qenë bshkë me ju?” Po – do të përgjegjen, - por keni shkatërruar veten me hipokrizi se keni pritur dhe keni dyshuar dhe u kanë mashtruar shpresat derisa u erdh urdhëri i All-llahut, kurse mashtruesi (djalli) ju ka mashtruar te All-llahu”"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 15,
+			"textAr": "فَالْيَوْمَ لَا يُؤْخَذُ مِنْكُمْ فِدْيَةٌ وَلَا مِنَ الَّذِينَ كَفَرُوا ۚ مَأْوَاكُمُ النَّارُ ۖ هِيَ مَوْلَاكُمْ ۖ وَبِئْسَ الْمَصِيرُ",
+			"translations": {
+				"sqi-sherifahmeti": "E sot, prej jush nuk pranohet ndonjë kompensim e as prej atyre që nuk besuan, vendi juaj është zjarri, ai është ndihma e juaj: sa përfundim i keq është ai”",
+				"sqi-hasanefendinahi": "Sot, prej jush nuk pranohet kurrfarë kompensimi, e as prej atyre që nuk kanë besuar: zjarri është vendbanimi juaj, ai është për ju, e sa vendbanim i tmerrshëm që është ai!”",
+				"sqi-fetimehdiu": "sot nuk pranohet prej jush kurrfarë kompenzimi, e as prej atyre të cilët kanë mohuar. Vendbanimi juaj është zjarri, atë ju e meritoni. Sa vendbanim i tmerrshëm"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 16,
+			"textAr": "۞ أَلَمْ يَأْنِ لِلَّذِينَ آمَنُوا أَنْ تَخْشَعَ قُلُوبُهُمْ لِذِكْرِ اللَّهِ وَمَا نَزَلَ مِنَ الْحَقِّ وَلَا يَكُونُوا كَالَّذِينَ أُوتُوا الْكِتَابَ مِنْ قَبْلُ فَطَالَ عَلَيْهِمُ الْأَمَدُ فَقَسَتْ قُلُوبُهُمْ ۖ وَكَثِيرٌ مِنْهُمْ فَاسِقُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "A nuk është koha që zemrat të zbuten me këshillat e All-llahut dhe ne atë të vërtetën që zbriti (me Kur’an), e të mos bëhen si ata, të cilëve u është dhënë libri më parë e zhgjati koha dhe zemrat e tyre u shtangën e shumë prej tyre janë jashtë rrugës",
+				"sqi-hasanefendinahi": "A nuk është koha që besimtarëve t’u zbutet zemra, kur përmendet All-llahu dhe e Vërteta (Kur’ani) që është reveluar (shpallur), dhe mos të bëhen ata sikur atyre që qysh më parë iu është dhënë Libri, por zemrat e tyre, me kalimin e një kohe të gjatë – u forcuan (në të keqe), dhe shumë prej tyre janë mëkatarë",
+				"sqi-fetimehdiu": "A nuk është koha që besimtarëve t’u zbutet zemra kur përmendet All-llahu dhe çka ka zbritur nga e vërteta (Kur’ani), e të mos jenë sikur ata të cilët qysh më herët u është dhënë libri. Atyre u është zgjatur koha, andaj zemrat e tyre janë bërë të ashpra, dhe shumica prej tyre janë të mbrapshtë"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 17,
+			"textAr": "اعْلَمُوا أَنَّ اللَّهَ يُحْيِي الْأَرْضَ بَعْدَ مَوْتِهَا ۚ قَدْ بَيَّنَّا لَكُمُ الْآيَاتِ لَعَلَّكُمْ تَعْقِلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dijeni se All-llahu e ngjall tokën pas vdekjes së saj. Ne ua kemi sqaruar argumentet ashtu që të kuptoni",
+				"sqi-hasanefendinahi": "Dijeni, se All-llahu, me të vërtetë, e ngjallë tokën pas vdekjes së saj! Na ju sqarojmë argumentet për të kuptuar ju",
+				"sqi-fetimehdiu": "Dijeni se All-llahu e ngjall tokën pasi të ketë vdekur! Ne ua kemi shpjeguar argumentet, ndoshta mblidhni mend"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 18,
+			"textAr": "إِنَّ الْمُصَّدِّقِينَ وَالْمُصَّدِّقَاتِ وَأَقْرَضُوا اللَّهَ قَرْضًا حَسَنًا يُضَاعَفُ لَهُمْ وَلَهُمْ أَجْرٌ كَرِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "S’ka dyshim se ata që japin lëmoshë (sadaka) dhe sinqerisht japin për hirë të All-llahut, atyre u shumëfishohet dhe ata kanë shpërblim të madh",
+				"sqi-hasanefendinahi": "At dhe ato që japin lëmoshë dhe vullnetarisht i japin hua Perëndisë, do t’u kthehet shumëfish dhe për ta ka shpërblim fisnik",
+				"sqi-fetimehdiu": "Ata dhe ato të cilët japin sadakë dhe vullnetarisht japin për hirë të All-llahut, do t’u shumëfishohet dhe ata i pret shpërblim fisnik"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 19,
+			"textAr": "وَالَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ أُولَٰئِكَ هُمُ الصِّدِّيقُونَ ۖ وَالشُّهَدَاءُ عِنْدَ رَبِّهِمْ لَهُمْ أَجْرُهُمْ وَنُورُهُمْ ۖ وَالَّذِينَ كَفَرُوا وَكَذَّبُوا بِآيَاتِنَا أُولَٰئِكَ أَصْحَابُ الْجَحِيمِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata që besuan All-llahun dhe të dërguarin e Tij, ata janë të sinqertit dhe dëshmorët te Zoti i tyre, ata kanë shpërblimin e vet, ndërsa ata që e mohuan dhe përgënjeshtruan faktet Tona, ata janë banues të Xhehennemit",
+				"sqi-hasanefendinahi": "Ata që besojnë Perëndinë dhe profetët e Tij, ata janë njerëz të drejtë dhe dëshmitarë te Zoti i tyre dhe do të shpërblehen dhe do të kenë dritë. Kurse, ata që nuk janë besimtarë dhe i mohojnë argumentet Tona, do të jenë banorë të zjarrit",
+				"sqi-fetimehdiu": "Ata të cilët i besojnë All-llahut dhe profetëve të tij, ata janë të sinqertë si edhe heronjtë për hirë të Zotit të tyre. Ata kanë shpërblimin e tyre dhe dritën e tyre, kurse ata të cilët kanë mohuar dhe përgënjeshtruar argumentet tona, ata janë banorë të zjarrit"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 20,
+			"textAr": "اعْلَمُوا أَنَّمَا الْحَيَاةُ الدُّنْيَا لَعِبٌ وَلَهْوٌ وَزِينَةٌ وَتَفَاخُرٌ بَيْنَكُمْ وَتَكَاثُرٌ فِي الْأَمْوَالِ وَالْأَوْلَادِ ۖ كَمَثَلِ غَيْثٍ أَعْجَبَ الْكُفَّارَ نَبَاتُهُ ثُمَّ يَهِيجُ فَتَرَاهُ مُصْفَرًّا ثُمَّ يَكُونُ حُطَامًا ۖ وَفِي الْآخِرَةِ عَذَابٌ شَدِيدٌ وَمَغْفِرَةٌ مِنَ اللَّهِ وَرِضْوَانٌ ۚ وَمَا الْحَيَاةُ الدُّنْيَا إِلَّا مَتَاعُ الْغُرُورِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ju njerëz dijeni se jeta e kësaj bote nuk është tjetër vetëm se lojë, kalim kohe në argëtim, stoli, krenari mes jush dhe përpjekje në shtimin e pasurisë dhe të fëmijve, e që është shembull i një përpjekje në shtimin e pasurisë dhe të fëmijve, e që është shembull i një shiu prej të cilit bima habit bujqit, e pastaj ajo thahet dhe e sheh atë t verdhë, mandej të thyer e llomitur, e në botën tjetër është dënimi i rëndë, por edhe falje mëkatesh dhe dhurim i kënaqësisë nga All-llahu; pra jeta e kësaj bote nuk është tjetër vetëm se përjetim mashtrues",
+				"sqi-hasanefendinahi": "Dijeni që jeta në këtë botë nuk është kurrgjë tjeër veçse lojë dhe dëfrim, dhe zbukurim (stolisje) dhe mburrje ndërmjet jush dhe vrapim kah pasuria dhe numri i fëmijëve! Kjo i shembëllen bimës, e cila pas hiut rritet dhe entuziazmon bujqit, e ajo pastaj gufon, po më vonë e sheh të zverdhur (vyshkur), që më në fund (të shkatërrohet). Kurse, në botën tjetër ka vuajtje të mëdha dhe amnesti nga All-llahu dhe kënaqësi nga Ai; jeta në këtë botë është vetëm kënaqësi e mashtruar",
+				"sqi-fetimehdiu": "Ta dini se jeta në këtë botë është një lojë dhe zbavitje edhe stoli edhe gara ndërmjet jush në shtimin e pasurisë dhe të fëmijëve si shembull i shiut pas të cilit bima rritet që i mahnit bujqit; ajo mugullon, por pastaj e sheh të zbehtë e pastaj bëhet e tharë. Ndërsa në atë botë ka dënim të rëndë edhe falje e kënaqësi të All-llahut. Jeta në këtë botë është vetëm një kënaqësi e rrejshme"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 21,
+			"textAr": "سَابِقُوا إِلَىٰ مَغْفِرَةٍ مِنْ رَبِّكُمْ وَجَنَّةٍ عَرْضُهَا كَعَرْضِ السَّمَاءِ وَالْأَرْضِ أُعِدَّتْ لِلَّذِينَ آمَنُوا بِاللَّهِ وَرُسُلِهِ ۚ ذَٰلِكَ فَضْلُ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+			"translations": {
+				"sqi-sherifahmeti": "Shpejtoni në atë që e fitoni falje prej Zotit tuaj dhe Xhennetit që gjërsia e qiellit e tokës, i përgaditur për ata që i besuan All-llahut dhe të dërguarve të Tij. Ajo është dhunti e All-llahut ë ia jep kujt të dojë, All-llahu është dhurues i madh",
+				"sqi-hasanefendinahi": "Bëni gara që te All-llahu i juaj të meritoni amnestinë parajsën e gjerë sa qielli dhe Toka, që është e përgatitur për ata që i kanë besuar Perëndisë dhe profetëve të Tij. Ajo është dhurata e Perëndisë që ia jep Ai kujt të dojë; e All-llahu është pronar i dhuntisë së madhe",
+				"sqi-fetimehdiu": "Shpejtoni të meritoni te Zoti juaj falje dhe xhenet të gjerë si gjerësia e qiellit dhe tokës që është përgatitur për ata të cilët i besojnë All-llahut dhe profetëve të tij. Ajo është mirësi e All-llahut që ia jep kujt të dojë Ai. All-llahu ka mirësi të madhe"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 22,
+			"textAr": "مَا أَصَابَ مِنْ مُصِيبَةٍ فِي الْأَرْضِ وَلَا فِي أَنْفُسِكُمْ إِلَّا فِي كِتَابٍ مِنْ قَبْلِ أَنْ نَبْرَأَهَا ۚ إِنَّ ذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Nuk ndodh asnjë fatkeqësi në tokë e as në trupin tuaj, e që të mos jetë në shënime (libër - Lehvi Mahfudh) para se të ngjajë ajo, e kjo për All-llahun është e lehtë",
+				"sqi-hasanefendinahi": "S’ka mjerim (fatkeqësi) që e godet Tokën dhe juve, përveç asaj që ëshë shënur më parë në Libër, - kjo për Perëndinë, me të vërtetë, është lehtë",
+				"sqi-fetimehdiu": "Asnjë fatkeqësi nuk e godit tokën e as juve e të mos jetë, më parë se ta zbatojmë, në libër (e shkruar). Ajo është, njëmend, lehtë për All-llahun"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 23,
+			"textAr": "لِكَيْلَا تَأْسَوْا عَلَىٰ مَا فَاتَكُمْ وَلَا تَفْرَحُوا بِمَا آتَاكُمْ ۗ وَاللَّهُ لَا يُحِبُّ كُلَّ مُخْتَالٍ فَخُورٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Ashtu që të mos dëshproheni tepër për atë që u ka kaluar, e as të mos gëzohi tepër me atë që Ai u ka dhënë, pse All-llahu nuk e do asnjë arrogant që u lavdërohet të tjerëve",
+				"sqi-hasanefendinahi": "Për të mos u dëshpëruar për atë që ju ka kaluar, por edhe për të mos u gëzuar së tepërmi për atë që Ai ju ka dhënë juve, All-llahu nuk i don lavdëruesit dhe vetmburrësit",
+				"sqi-fetimehdiu": "Që ju të mos mërziteni për atë çka ju ka kaluar, por as të mos gëzoheni shumë për ate çka ju jep. All-llahu nuk e do asnjë arrogant e mendjemadh"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 24,
+			"textAr": "الَّذِينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ ۗ وَمَنْ يَتَوَلَّ فَإِنَّ اللَّهَ هُوَ الْغَنِيُّ الْحَمِيدُ",
+			"translations": {
+				"sqi-sherifahmeti": "Të cilët vetë bëjnë koprraci dhe me koprraci i këshillojnë njerzit. E kush largohet prej dhënies, le ta dijë se All-llahu është i begatshëm, i lavdishëm",
+				"sqi-hasanefendinahi": "ata që janë koprracë dhe nxisin edhe të tjerët në koprraci. E ata që i shmangën urdhërit, me të vërtetë, All-llahu është i pavarur (i pasur) dhe i lavdërueshëm",
+				"sqi-fetimehdiu": "Ata të cilët bëjnë koprraci dhe rekomandojnë njerëzve koprracinë. E kush ua kthen shpinën, ani, All-llahu është me të vërtetë, i pasur dhe i denjë për lavdatë"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 25,
+			"textAr": "لَقَدْ أَرْسَلْنَا رُسُلَنَا بِالْبَيِّنَاتِ وَأَنْزَلْنَا مَعَهُمُ الْكِتَابَ وَالْمِيزَانَ لِيَقُومَ النَّاسُ بِالْقِسْطِ ۖ وَأَنْزَلْنَا الْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَافِعُ لِلنَّاسِ وَلِيَعْلَمَ اللَّهُ مَنْ يَنْصُرُهُ وَرُسُلَهُ بِالْغَيْبِ ۚ إِنَّ اللَّهَ قَوِيٌّ عَزِيزٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne i dërguam të dërguarit Tonë me dokumente të qarta dhe Ne zbritëm me ata librin dhe drejtësinë që t’i përmbahen njerëzit të së drejtës. Ne e kemi zbritur edhe hekurin që në të ka forcë të fortë dhe dobi për njerz, e edhe për t’u ditur te All-llahu se kush ndihmon Atë (rrugën e Tij) dhe të dërguarit e Tij duke i besuar të fshehtës. S’ka dyshim se All-llahu është furnizues, mbizotërues",
+				"sqi-hasanefendinahi": "Me të vërtetë, Ne i kemi dërguar profetët Tonë me argumente të qarta dhe me ta u kemi dhënë librin dhe terezitë, (drejtësinë): që njerëzit të veprojnë drejt; kurse hekurin e kemi krijuar, se, në atë ka tmerr të madh, po edhe dobi për njerëzit dhe që All-llahu të dëftojë ata që ndihmojnë besimin e Tij dhe të dërguarit e Tij – pa i parë. Me të vërtetë, All-llahu është i fuqishëm dhe i madhërueshëm",
+				"sqi-fetimehdiu": "Ne i kemi dërguar profetët tanë me argumente të qarta dhe me ata kemi shpallur librin dhe peshojën që njerëzit të sillen me drejtësi. Kemi zbritur hekurin ku ka focë të madhe edhe dobi të madhe për njerëzit, për ta ditur All-llahu se kush e ndihmon atë dhe profetët e tij edhe kur nuk i sheh. All-llahu është pa dyshim shumë i fortë"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 26,
+			"textAr": "وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَاهِيمَ وَجَعَلْنَا فِي ذُرِّيَّتِهِمَا النُّبُوَّةَ وَالْكِتَابَ ۖ فَمِنْهُمْ مُهْتَدٍ ۖ وَكَثِيرٌ مِنْهُمْ فَاسِقُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne Nuhun dhe Ibrahimin i zgjodhëm të dërguar e pasardhësve të atyre dyve ua dhamë pejgamberllëkun dhe librin, e disa prej tyre po shumë prej tyre mbetën jashtë rrugës",
+				"sqi-hasanefendinahi": "Me të vërtetë, e kemi dërguar Nuhun dhe Ibrahimin dhe disa trashëgimtarë të tyre, që iu kemi shpallur profetninë dhe iu kemi dërguar Librin. Disa prej tyre kanë qenë në rrugë të drejtë, kurse shumica prej tyre kanë qenë ngatërrestarë",
+				"sqi-fetimehdiu": "Ne e kemi dërguar Nuhin edhe Ibrahimin dhe disave nga pasardhësit e tyre u kemi dhënë profetësi dhe libër, disa prej tyre janë të udhëzuar, porse shumë sish janë të mbrapshtë"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 27,
+			"textAr": "ثُمَّ قَفَّيْنَا عَلَىٰ آثَارِهِمْ بِرُسُلِنَا وَقَفَّيْنَا بِعِيسَى ابْنِ مَرْيَمَ وَآتَيْنَاهُ الْإِنْجِيلَ وَجَعَلْنَا فِي قُلُوبِ الَّذِينَ اتَّبَعُوهُ رَأْفَةً وَرَحْمَةً وَرَهْبَانِيَّةً ابْتَدَعُوهَا مَا كَتَبْنَاهَا عَلَيْهِمْ إِلَّا ابْتِغَاءَ رِضْوَانِ اللَّهِ فَمَا رَعَوْهَا حَقَّ رِعَايَتِهَا ۖ فَآتَيْنَا الَّذِينَ آمَنُوا مِنْهُمْ أَجْرَهُمْ ۖ وَكَثِيرٌ مِنْهُمْ فَاسِقُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Pastaj vazhduam pas tyre me të dërguarit Tanë, e pas tyre dërguam Isain të birin e Merjemes dhe atij ia dhamë Ingjillin, e në zemrat e ithtarëve të tij dhuruam butësi e mëshirë, ndërsa murgësinë ata vetë e shpikën. Ne atë nuk ua bëmë obligim atyre, mirëpo edhe pse kishin për qëllim me të vetëm të arrijnë kënaqësinë e All-llahut, ata nuk iu përmbajtën asaj si duhet përmbajtur, prandaj atyre që besuan, Ne u dhamë shpërblimin e tyre, po shumica prej tyre janë mëkatarë (jobesimtarë)",
+				"sqi-hasanefendinahi": "Pastaj pas gjurmëve të tyre – ju kemi dërguar profetët Tonë, dhe pastaj kemi dërguar Isanë, të birin e Merjemës, të cilit ia dhamë Inxhilin, kurse në zemrat e ithtarëve të tij kemi mbjellë (frymëzuar) butësi dhe mëshirë, ndërsa, ata vetë e kanë trilluar jetën (lutëse – të tërhequr prej shoqërisë dhe jetës normale), për të arritur kënaqësinë e Perëndisë. Ne nuk i kemi obliguar ata për këtë, por ata nuk u kujdesën për atë si duhet. Ata të cilët kanë besuar si duhet – i shpërblejmë, e shumë prej tyre janë ngatërrestarë",
+				"sqi-fetimehdiu": "Pastaj, vazhduam gjurmët e tyre me profetët tanë, pasuam me Isanë, të birin e Merjemes, dhe atij i kemi dhënë Inxhilin, kurse në zemrat e pasardhësve të tij kemi derdhur butësi dhe mëshirë, kurse murgësinë e kanë shpifur vetë, nuk ua kemi caktuar Ne, vetëm për të arritur kënaqësinë e All-llahut. Mirëpo ata nuk kujdesen për këtë si duhet, prandaj atyre, nga mesi i atyre që kanë besuar, u kemi dhënë shpërblimin e tyre, kurse shumica prej tyre janë mosbesimtarë"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 28,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا اتَّقُوا اللَّهَ وَآمِنُوا بِرَسُولِهِ يُؤْتِكُمْ كِفْلَيْنِ مِنْ رَحْمَتِهِ وَيَجْعَلْ لَكُمْ نُورًا تَمْشُونَ بِهِ وَيَغْفِرْ لَكُمْ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që keni besuar, kinie frikë All-llahun dhe vazhdoni me besim ndaj të dërguarit të Tij, se Ai ju jep dyfish nga mëshira e tij, ju dhuron dritë që ecni me të, ju falë mëkatet tuaja All-llahu është mekatfalës, mëshirues",
+				"sqi-hasanefendinahi": "O ju besimtarë, - ruajuni Perëndisë dhe besoni Profetin e Tij, Ai do t’ju dhurojë mëshirë të dyfishtë, dhe do t’u japë dritë me ndihmën e së cilës do të ecni dhe do t’ju falë (gabimet); All-llahu është falës dhe mëshirues –",
+				"sqi-fetimehdiu": "O besimtarë, frikësohuni All-llahut dhe besoni Profetit të tij! Do t’iu dhurojë mëshirë të dyfisht dhe do t’iu bëjë dritë me të cilën do të ecni, dhe do t’iu falë, sepse All-llahu fal dhe është mëshirëplotë"
+			}
+		},
+		{
+			"surah": 57,
+			"number": 29,
+			"textAr": "لِئَلَّا يَعْلَمَ أَهْلُ الْكِتَابِ أَلَّا يَقْدِرُونَ عَلَىٰ شَيْءٍ مِنْ فَضْلِ اللَّهِ ۙ وَأَنَّ الْفَضْلَ بِيَدِ اللَّهِ يُؤْتِيهِ مَنْ يَشَاءُ ۚ وَاللَّهُ ذُو الْفَضْلِ الْعَظِيمِ",
+			"translations": {
+				"sqi-sherifahmeti": "Le ta dinë ithtarët e librit se ata nuk kanë asgjë në dorë ng mirësia e All-llahut dhe se të gjithë e mira (pejgamberllëku, shpallja) është në dorë të All-llahut, e Ai ia jep kujt të dojë, All-llahu është dhurues i madh",
+				"sqi-hasanefendinahi": "dhe le ta dinë ithtarët e Librit, se ata, kurrfarë dhuntie të Perëndisë nuk do të fitojnë (marrin), pasi që dhuntia është vetëm në dorën e Perëndisë – Ai ia dhuron kujt të dojë. E All-llahu është pronar i mirësisë së madhe",
+				"sqi-fetimehdiu": "Që ta dini ithtarët e Librit se ata nuk mund të fitojnë asgjë nga mëshira e dhuntia e All-llahut, sepse mirësia është vetëm në duar të All-llahut, ia jep kujt të dojë. All-llahu është bamirës i madh"
+			}
+		}
+	]
+}

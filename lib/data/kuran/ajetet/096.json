@@ -1,0 +1,203 @@
+{
+  "surah": 96,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 96,
+      "number": 1,
+      "textAr": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+      "translations": {
+        "sqi-sherifahmeti": "Lexo me emrin e Zotit tënd, i cili krijoi",
+        "sqi-hasanefendinahi": "Lexo në emër të Zotit tënd, i cili ka krijuar (të gjitha)",
+        "sqi-fetimehdiu": "Lexo, në emër të Zotit tënd i cili të ka krijuar"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 2,
+      "textAr": "خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Krijoi njeriun prej gjakut të ngjizur",
+        "sqi-hasanefendinahi": "i cili e krijoi njeriun nga gjaku i droçkuar (embrioni)",
+        "sqi-fetimehdiu": "Krijoi njeriun prej një rrëcke"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 3,
+      "textAr": "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ",
+      "translations": {
+        "sqi-sherifahmeti": "Lexo për Zotin tënd Bujar",
+        "sqi-hasanefendinahi": "lexo, se Zoti yt, është më bujari",
+        "sqi-fetimehdiu": "Lexo! Se është fisnik Zoti yt"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 4,
+      "textAr": "الَّذِي عَلَّمَ بِالْقَلَمِ",
+      "translations": {
+        "sqi-sherifahmeti": "Është Ai që ua mësoi pendën",
+        "sqi-hasanefendinahi": "që ia mësoi njeriut pendën (të shkruajë)",
+        "sqi-fetimehdiu": "I cili e mësoi me pendë"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 5,
+      "textAr": "عَلَّمَ الْإِنْسَانَ مَا لَمْ يَعْلَمْ",
+      "translations": {
+        "sqi-sherifahmeti": "Ia mësoi njeriut atë që nuk e dinte",
+        "sqi-hasanefendinahi": "që njeriut ia mësoi atë që nuk e diti",
+        "sqi-fetimehdiu": "E mësoi njeirun çka nuk e kishte ditur"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 6,
+      "textAr": "كَلَّا إِنَّ الْإِنْسَانَ لَيَطْغَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Jo, është e vërtetë se ai i kalon kufintë",
+        "sqi-hasanefendinahi": "Jo, jo! (megjithatë), me të vërtetë, njeriu ka kalur kufirin (në të keqe)",
+        "sqi-fetimehdiu": "Me të vërtetë njeriu është bukëshkelë"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 7,
+      "textAr": "أَنْ رَآهُ اسْتَغْنَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Për shkak se e ndien veten të pavarur",
+        "sqi-hasanefendinahi": "posa e ka ndier veten të pasur (se nuk i nevojitet askush)",
+        "sqi-fetimehdiu": "Sapo e ndien vetën të pasur"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 8,
+      "textAr": "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Po kthimi është vetëm te Zoti yt",
+        "sqi-hasanefendinahi": "e, me të vërtetë, kthimi është te Zoti yt",
+        "sqi-fetimehdiu": "Por do të kthehen tek Zoti yt"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 9,
+      "textAr": "أَرَأَيْتَ الَّذِي يَنْهَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "A më tregon atë që pengon",
+        "sqi-hasanefendinahi": "A e ke parë ti atë që pengon",
+        "sqi-fetimehdiu": "A e pe atë që pengonte"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 10,
+      "textAr": "عَبْدًا إِذَا صَلَّىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "një rob kur ai falet",
+        "sqi-hasanefendinahi": "njeriun (adhuruesin) kur falet (bënë namaz)",
+        "sqi-fetimehdiu": "Një njeri deri sa po falej"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 11,
+      "textAr": "أَرَأَيْتَ إِنْ كَانَ عَلَى الْهُدَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "ç’mendon kur ai (robi) është në rrugë të drejtë",
+        "sqi-hasanefendinahi": "Më thuaj ti (o Muhammed!), nëse ai mendon se është në rrugën e drejtë",
+        "sqi-fetimehdiu": "Më trego: a është ai në rrugë të drejtë"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 12,
+      "textAr": "أَوْ أَمَرَ بِالتَّقْوَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Ose ai (rob) urdhëroi për sinqeritet",
+        "sqi-hasanefendinahi": "apo rekomandon që të adhurohen idhujt",
+        "sqi-fetimehdiu": "Apo kërkon devotshmëri"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 13,
+      "textAr": "أَرَأَيْتَ إِنْ كَذَّبَ وَتَوَلَّىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "A më trego nëse ai përgënjeshtron dhe zmbrapset (nga besimi)",
+        "sqi-hasanefendinahi": "e, çka mendon ti nëse ai i përgënjeshtron (argumentet Tona) dhe kthehet",
+        "sqi-fetimehdiu": "Tregom, nëse ai përgënjeshtron dhe kthen kryet anash"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 14,
+      "textAr": "أَلَمْ يَعْلَمْ بِأَنَّ اللَّهَ يَرَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "A nuk e di ai se All-llahu e sheh",
+        "sqi-hasanefendinahi": "A nuk e di ai – se Zoti i sheh të gjitha (e dhuron të mirin, ndërsa e dënon të keqin)",
+        "sqi-fetimehdiu": "A nuk e di se All-llahu sheh"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 15,
+      "textAr": "كَلَّا لَئِنْ لَمْ يَنْتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ",
+      "translations": {
+        "sqi-sherifahmeti": "Jo, Jo! Nëse nuk tërhiqet, vërtet do ta kapim për flokësh mbi ballin",
+        "sqi-hasanefendinahi": "Jo, jo! Me të vërtetë, nëse nuk tërhiqet nga kjo, do ta kapim për flokësh (gërshetën)",
+        "sqi-fetimehdiu": "Po, si jo?! Nëse nuk heq dorë do ta zëmë për bishtaleci"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 16,
+      "textAr": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Floku rrenacak, mëkatar",
+        "sqi-hasanefendinahi": "për flokët (gërshetin) e gënjeshtarit dhe fajtorit",
+        "sqi-fetimehdiu": "Bishtalecë të rrejshëm dhe të gabuar"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 17,
+      "textAr": "فَلْيَدْعُ نَادِيَهُ",
+      "translations": {
+        "sqi-sherifahmeti": "E ai le t’i thërret ata të vetët",
+        "sqi-hasanefendinahi": "e, ai le ta thërras shoqërinë e vet (në ndihmë)",
+        "sqi-fetimehdiu": "Dhe ai le t’i thërret shokët e vet"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 18,
+      "textAr": "سَنَدْعُ الزَّبَانِيَةَ",
+      "translations": {
+        "sqi-sherifahmeti": "Ne do t’i thërrasim zebanitë",
+        "sqi-hasanefendinahi": "Na do t’i thërrasim Zebanijt (rojet e Skëterrës)",
+        "sqi-fetimehdiu": "E Ne do të thërrasim zebanitë"
+      }
+    },
+    {
+      "surah": 96,
+      "number": 19,
+      "textAr": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِبْ ۩",
+      "translations": {
+        "sqi-sherifahmeti": "Jo, Jo! Ti mos iu bind atij, vazhdo me sexhde dhe afroju Zotit me të",
+        "sqi-hasanefendinahi": "Jo, jo! Mos iu përul ti atij; por bënë ti sexhde dhe afroju (Zotit tënd)",
+        "sqi-fetimehdiu": "Kurrsesi, ti mos iu nënshtro atij, por bënë sexhde dhe afroju Zotit tënd"
+      }
+    }
+  ]
+}

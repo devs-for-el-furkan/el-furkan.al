@@ -1,0 +1,459 @@
+{
+	"surah": 50,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 50,
+			"number": 1,
+			"textAr": "ق ۚ وَالْقُرْآنِ الْمَجِيدِ",
+			"translations": {
+				"sqi-sherifahmeti": "Kaf, pasha Kur’anin e lavdishëm (do të ringjalleni)",
+				"sqi-hasanefendinahi": "Kâf. Pasha Kur’anin e madhërueshëm",
+				"sqi-fetimehdiu": "Kaf. Pasha Kur’anin e madhërishëm"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 2,
+			"textAr": "بَلْ عَجِبُوا أَنْ جَاءَهُمْ مُنْذِرٌ مِنْهُمْ فَقَالَ الْكَافِرُونَ هَٰذَا شَيْءٌ عَجِيبٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Por jo, ata u çuditën që u erdhi i dërguari (qortues) nga mesi tyre, andaj jobesimtarët thanë: “Kjo është diçka shumë e çuditshme",
+				"sqi-hasanefendinahi": "Po, ata janë çuditur që nga mesi i tyre u ka ardhur një paralajmërues, e mohuesit thonë: “Kjo gjë është e çuditshme”",
+				"sqi-fetimehdiu": "Ata u habitën që u erdhi një qortues nga mesi i tyre t’u tërheë vërejtjen, prandaj mosbesimtarët thonë: “Kjo është diçka shumë e çuditshme"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 3,
+			"textAr": "أَإِذَا مِتْنَا وَكُنَّا تُرَابًا ۖ ذَٰلِكَ رَجْعٌ بَعِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "A pasi të vdesim e të bëhemi dhe (do të kthehemi në jetë)? Ai kthim është larg (mendjes e mundësisë)!”",
+				"sqi-hasanefendinahi": "Vallë, a pasi të vdesin e të bëhemi dhé (do të ringjallemi)? Ai kthim është i largët!”",
+				"sqi-fetimehdiu": "A thua kur të vdesim e të bëhemi dhé? Ai është kthim i largët”"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 4,
+			"textAr": "قَدْ عَلِمْنَا مَا تَنْقُصُ الْأَرْضُ مِنْهُمْ ۖ وَعِنْدَنَا كِتَابٌ حَفِيظٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne dimë se ç’pakësohet (ç’tret) toka prej tyre. Te Ne është edhe libri që ruan çdo gjë (numrin e tyre, emrat, pjesët e trupit)",
+				"sqi-hasanefendinahi": "Na dimë çka do t’ua mungojë toka atyre (pasi të vdesin), te Ne është Libri që i ruan të gjitha",
+				"sqi-fetimehdiu": "Ne e dimë se tokës nuk i mbet gjë mangut për ata. Te Ne është Libri në të cilin ruhet çdo gjë"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 5,
+			"textAr": "بَلْ كَذَّبُوا بِالْحَقِّ لَمَّا جَاءَهُمْ فَهُمْ فِي أَمْرٍ مَرِيجٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata përgënjeshtruan të vërtetën kur ajo u erdhi dhe ata janë në gjendje të luhatshme",
+				"sqi-hasanefendinahi": "Aq më tepër, ta e mohuan të Vërtetën kur u erdhi dhe ata janë në gjendje të luhatshme (në çështjen e profetnisë)",
+				"sqi-fetimehdiu": "Mirëpo ata mohojnë të vërtetën ë u ka ardhur dhe në këtë çështje janë të habitur"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 6,
+			"textAr": "أَفَلَمْ يَنْظُرُوا إِلَى السَّمَاءِ فَوْقَهُمْ كَيْفَ بَنَيْنَاهَا وَزَيَّنَّاهَا وَمَا لَهَا مِنْ فُرُوجٍ",
+			"translations": {
+				"sqi-sherifahmeti": "A nuk shikojnë ata me vëmendje kah qielli se si mbi ta kemi ndërtuar atë, e kemi zbukuruar atë duke mos pasur në të ndonjë zbrazëti",
+				"sqi-hasanefendinahi": "A, nuk e kanë shikuar ata qiellin që qëndron mbi ta, si e kemi ndërtuar dhe zbukuruar, e i cili nuk ka kurrfarë të mete (çrregullimi)",
+				"sqi-fetimehdiu": "A nuk e shohin qiellin përmbi vete! Se e kemi ngritur dhe stolisur, dhe aty nuk ka asnjë plasaritje"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 7,
+			"textAr": "وَالْأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ بَهِيجٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe tokën se si e kemi shtrirë, e në të kemi vendosur kodra përforcuese dhe kemi bërë që në të të mbijnë gjithfarë bimësh të bukura",
+				"sqi-hasanefendinahi": "E, Tokën e kemi shtruar dhe në të kemi shpërndarë male të palëvizshme dhe kemi bërë që nga ajo të mbijnë gjithfarë lloj bimësh të bukur",
+				"sqi-fetimehdiu": "Kurse tokën e kemi shtruar dhe nëpër të kemi shpërndarë kodrat, dhe bëmë që në të të mbijnë çifte bimësh të bukura"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 8,
+			"textAr": "تَبْصِرَةً وَذِكْرَىٰ لِكُلِّ عَبْدٍ مُنِيبٍ",
+			"translations": {
+				"sqi-sherifahmeti": "(I bëmë ashtu) Dëshmi të dukshme dhe përkujtuese për secilin njeri që ka drejtuar mendjen (te Zoti)",
+				"sqi-hasanefendinahi": "për t’u menduar dhe këshilluar çdo rob që i drjtohet Zotit të vet",
+				"sqi-fetimehdiu": "Për t’i parë me sy dhe të mendojë secili që i drejtohet Zotit të vet"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 9,
+			"textAr": "وَنَزَّلْنَا مِنَ السَّمَاءِ مَاءً مُبَارَكًا فَأَنْبَتْنَا بِهِ جَنَّاتٍ وَحَبَّ الْحَصِيدِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne, nga qielli lëshuam shiun e dobishëm dhe më të bëmë që të kultivohen kopshte e drithëra të korren",
+				"sqi-hasanefendinahi": "Ne nga qielli lëshojmë ujin (shiun) e bekuar dhe bëjmë që me të, të ujiten kopshtijet dhe drithërat që korren",
+				"sqi-fetimehdiu": "Ne lëshojmë ujë nga qielli si bekim dhe me të bëjmë të kultivohen kopshte dhe drithëra për të korrur"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 10,
+			"textAr": "وَالنَّخْلَ بَاسِقَاتٍ لَهَا طَلْعٌ نَضِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe rritëm trungje të gjata hurmash me frua të paluara njëri mbi tjetrin",
+				"sqi-hasanefendinahi": "Dhe palmet e hurmës së lartë me kalavesh njëri mbi tjetrin",
+				"sqi-fetimehdiu": "Edhe lisa të lartë me fryte të grumbulluara njërin mbi tjetrin"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 11,
+			"textAr": "رِزْقًا لِلْعِبَادِ ۖ وَأَحْيَيْنَا بِهِ بَلْدَةً مَيْتًا ۚ كَذَٰلِكَ الْخُرُوجُ",
+			"translations": {
+				"sqi-sherifahmeti": "ushqim për njerëz, dhe me të, Ne e ngjallëm tokën e vdekur, e kështu do të jetë edhe ringjallja",
+				"sqi-hasanefendinahi": "ushqim për robërit (njerëzit), dhe Ne me shi e ringjallim tokën (visin) e vdekur; e kështu do të jetë edhe dalja (prej tokës – ringjallja)",
+				"sqi-fetimehdiu": "Për ushqim njerëzve dhe Ne me të ngjallim truallin e vdekur; ashtu do të jetë edhe (ri) ngjallja"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 12,
+			"textAr": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَابُ الرَّسِّ وَثَمُودُ",
+			"translations": {
+				"sqi-sherifahmeti": "Para tyre përgënjeshtruan populli i Nuhut, banorët e Bunarit (të pusit) dhe Themudi",
+				"sqi-hasanefendinahi": "Pas tyre, kanë mohuar populli i Nuhut, edhe banorët e Ressit dhe Themudi",
+				"sqi-fetimehdiu": "Para tyre përgënjeshtruan populli i Nuhit dhe banroët e Resit e Themudit"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 13,
+			"textAr": "وَعَادٌ وَفِرْعَوْنُ وَإِخْوَانُ لُوطٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe Adi, edhe Faraoni dhe vëllezërit e Lutit",
+				"sqi-hasanefendinahi": "dhe Adi dhe Faraoni, dhe vëllezërit (populli) e Lutit",
+				"sqi-fetimehdiu": "Edhe A, edhe Faraoni, edhe njerëzit e Lutit"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 14,
+			"textAr": "وَأَصْحَابُ الْأَيْكَةِ وَقَوْمُ تُبَّعٍ ۚ كُلٌّ كَذَّبَ الرُّسُلَ فَحَقَّ وَعِيدِ",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe banorët e Ejkes, populli i Tubbeit. Të gjithë i përgënjeshtruan të dërguarit, atëherë e merituan dënimin Tim",
+				"sqi-hasanefendinahi": "edhe banorët e Ejkës dhe populli i Tubbas; të gjithë ata i kanë përgënjeshtruar pejgamberët dhe ndaj tyre u sendërtua dënimi Im",
+				"sqi-fetimehdiu": "Edhe banorët e Ejkes dhe populli Tubba; të gjithë ata përgënjeshtruan profetët dhe merituan dënimin tim"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 15,
+			"textAr": "أَفَعَيِينَا بِالْخَلْقِ الْأَوَّلِ ۚ بَلْ هُمْ فِي لَبْسٍ مِنْ خَلْقٍ جَدِيدٍ",
+			"translations": {
+				"sqi-sherifahmeti": "A mos u lodhëm Ne me krijimin e parë? Jo, por ata janë në një huti rreth një krijimi të ri",
+				"sqi-hasanefendinahi": "E, vallë, mos jemi lodhur Ne gjatë krijimit të parë? Jo, por ata dyshojnë në krijimin e sërishëm",
+				"sqi-fetimehdiu": "Vallë, a u lodhëm me rastin e krijimit të parë? Jo, por ata dyshojnë (pa arsye) në krijimin e sërishëm"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 16,
+			"textAr": "وَلَقَدْ خَلَقْنَا الْإِنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne e kemi krijuar njeriun dhe dimë se ç’pëshpëritë ai në vetvete dhe Ne jemi më afër tij se damari (që rrah) i qafës së tij",
+				"sqi-hasanefendinahi": "Na e kemi krijuar njeriun dhe Na dimë çka i pëshpërit shpirti atij, se Ne (me dijeninë Tonë) jemi më afër se damari i tij i qafës",
+				"sqi-fetimehdiu": "Ne e krijuam njeriun dhe e dimë se çka i dëshiron shpirti i tij, sepse Ne te ai jemi më i afërt se damari i qafës"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 17,
+			"textAr": "إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنِ الْيَمِينِ وَعَنِ الشِّمَالِ قَعِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe se kur dy engjëjt qëndrojnë pranë tij në të djathtë dhe në të majtë",
+				"sqi-hasanefendinahi": "(dhe nga të dy engjëjt) të cilët i rrinë atij nga ana e djathtë dhe e majtë",
+				"sqi-fetimehdiu": "Kur takohen dy palë dhe ulen njëri nga e djathta e tjetri nga e majta"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 18,
+			"textAr": "مَا يَلْفِظُ مِنْ قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Që ai nuk hedh ndonjë fjalë e të mos jetë pranë tij përcjellësi i gatshëm",
+				"sqi-hasanefendinahi": "dhe ai nuk e thotë asnjë fjalë e që pranë tij të mos jetë ai që mbikëqyrë",
+				"sqi-fetimehdiu": "Ai nuk belbëzon asnjë fjalë e të mos jetë afër tij vigjilenti i gatshëm"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 19,
+			"textAr": "وَجَاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ۖ ذَٰلِكَ مَا كُنْتَ مِنْهُ تَحِيدُ",
+			"translations": {
+				"sqi-sherifahmeti": "Agonia e vdekjes i vjen me atë të vërtetën (i zbulohet çështja e ahiretit); kjo është ajo prej së cilës ke ikur",
+				"sqi-hasanefendinahi": "Mundimet e vdekjes do të arrijnë me siguri – kësaj nuk mund t’i ikësh",
+				"sqi-fetimehdiu": "Dhe vjen tronditja e vdekjes, me të vërtetë, ajo është diç që nuk mund t’i ikësh"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 20,
+			"textAr": "وَنُفِخَ فِي الصُّورِ ۚ ذَٰلِكَ يَوْمُ الْوَعِيدِ",
+			"translations": {
+				"sqi-sherifahmeti": "Dje i fryhet surit, e ajo është dita e premtuar (për dënim)",
+				"sqi-hasanefendinahi": "dhe do të fryhet në Sur – kjo është Dita e premtimit –",
+				"sqi-fetimehdiu": "Dhe i fryhet surit – ajo është ditë kërcënimi"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 21,
+			"textAr": "وَجَاءَتْ كُلُّ نَفْسٍ مَعَهَا سَائِقٌ وَشَهِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "E do të vijë secili njeri bashkë me të dhe grahësi edhe dëshmitari",
+				"sqi-hasanefendinahi": "dhe çdonjëri do të vijë, e me të ka grahës dhe dëshmitar",
+				"sqi-fetimehdiu": "Dhe secili do të vijë e bashkë me të edhe dëshmitari dhe ai që i sjell (çobani)"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 22,
+			"textAr": "لَقَدْ كُنْتَ فِي غَفْلَةٍ مِنْ هَٰذَا فَكَشَفْنَا عَنْكَ غِطَاءَكَ فَبَصَرُكَ الْيَوْمَ حَدِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "(I thuhet) Ti ishe në një huti nga kjo (ditë) e NE ta tërhoqëm perdën tënde dhe tash ti sheh shumë mprehtë",
+				"sqi-hasanefendinahi": "Ti, me të vërtetë, ke qenë i pakujdesshëm për këtë (momentin e vdekjes), andaj ta kemi ngritur perden (e syve), dhe shikimi yt sot është i prehtë",
+				"sqi-fetimehdiu": "Ti nuk i vure vesh kësaj, prandaj ta hoqëm mbulesën, e sot e ke shikimin të shtangur"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 23,
+			"textAr": "وَقَالَ قَرِينُهُ هَٰذَا مَا لَدَيَّ عَتِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "E shoku (përcjellësi) i tij do të thotë: “Kjo që është te unë (regjistri i veprave) është gati",
+				"sqi-hasanefendinahi": "E, shoku i tij do të thotë: “Ky pranë meje, është i gatshëm”",
+				"sqi-fetimehdiu": "Kurse shoku i tij do të thotë: “Ky që është pranë meje, është gati”"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 24,
+			"textAr": "أَلْقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Ju të dy (engjëjt) hidhinie në Xhehennem secilin mohues kryeneç",
+				"sqi-hasanefendinahi": "(u thuhet): “Hidheni në zjarr çdo mohues inatçi",
+				"sqi-fetimehdiu": "Ju të dy hudhni në xhehennem, çdo bukëshkelë e kokëfortë"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 25,
+			"textAr": "مَنَّاعٍ لِلْخَيْرِ مُعْتَدٍ مُرِيبٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Secilin pengues të veprave, mizor e të dyshimtë në fe",
+				"sqi-hasanefendinahi": "pengues i të mirave, që kalon (kufirin) dhe i cili dyshon (në fé)",
+				"sqi-fetimehdiu": "I cili ka penguar të bëhen vepra të mira dhe që ka qenë mizor dhe i dyshimtë"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 26,
+			"textAr": "الَّذِي جَعَلَ مَعَ اللَّهِ إِلَٰهًا آخَرَ فَأَلْقِيَاهُ فِي الْعَذَابِ الشَّدِيدِ",
+			"translations": {
+				"sqi-sherifahmeti": "I cili All-llahut i shoqëroi Zot tjetër, pra hidhnie atë në vuajtjet më të rënda”",
+				"sqi-hasanefendinahi": "i cili, pos Perëndisë, beson në zot tjetër – andaj hidhe atë në dënimin më të rëndë!”",
+				"sqi-fetimehdiu": "I cili përveç All-llahut ka pranuar tjetër zot – andaj hudhne në mundimin më të rëndë!”"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 27,
+			"textAr": "۞ قَالَ قَرِينُهُ رَبَّنَا مَا أَطْغَيْتُهُ وَلَٰكِنْ كَانَ فِي ضَلَالٍ بَعِيدٍ",
+			"translations": {
+				"sqi-sherifahmeti": "E shoku i tij (djalli) thotë: “Zoti ynë, unë nuk u shmanga prej rrugës së drejtë, por ai vetë ka qenë i humbur larg”",
+				"sqi-hasanefendinahi": "E, shoku i tij do të thotë: “O Zoti ynë, unë nuk e kam mashtruar atë, por ai vet ka qenë në humbje të madhe”",
+				"sqi-fetimehdiu": "Shoku i tij do të thotë: “Zoti ynë, unë nuk e kam tërhequr me dhunë, por vetë ka pas humbur keq”"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 28,
+			"textAr": "قَالَ لَا تَخْتَصِمُوا لَدَيَّ وَقَدْ قَدَّمْتُ إِلَيْكُمْ بِالْوَعِيدِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai (All-llahu) thotë: “Mos u gridni tash para Meje, se Unë më parë ju tërhoqa vërejtjen",
+				"sqi-hasanefendinahi": "Atyre (All-llahu) do t’ju thotë: “Mos u grindni para Meje, Unë ju kam lajmëruar premtimin (dënimin)",
+				"sqi-fetimehdiu": "“Mos ngrindeni para Meje”! – do t’u thotë Ai, - “u jam kërcënuar më herët"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 29,
+			"textAr": "مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ وَمَا أَنَا بِظَلَّامٍ لِلْعَبِيدِ",
+			"translations": {
+				"sqi-sherifahmeti": "te Unë nuk ndryshon fjala (vendimi) dhe Unë nuk jam zullumqar për robërit”",
+				"sqi-hasanefendinahi": "Fjala Ime nuk ndryshohet dhe Unë nuk jam zullumqar i robërve të Mi”",
+				"sqi-fetimehdiu": "Tek unë nuk ndërrohet fjala dhe Unë nuk jam mizor ndaj krijesave të mia”"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 30,
+			"textAr": "يَوْمَ نَقُولُ لِجَهَنَّمَ هَلِ امْتَلَأْتِ وَتَقُولُ هَلْ مِنْ مَزِيدٍ",
+			"translations": {
+				"sqi-sherifahmeti": "(Përkujto) Ditën kur Ne Xhehennemit i themi: “A je mbushur?” E, ai thotë: “A ka ende?”",
+				"sqi-hasanefendinahi": "Në Ditën kur do ta pyesin xhehennemin: “A u mbushe?” e ai, përgjigjet: “A ka edhe më?”",
+				"sqi-fetimehdiu": "Atë ditë kur ta pyesim xhehennemin, “A je mbushur?”, ai do të përgjigjet: “A ka akoma?”"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 31,
+			"textAr": "وَأُزْلِفَتِ الْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Ndërsa besimtarëve të ruajtur Xhenneti u afrohet krejt afër",
+				"sqi-hasanefendinahi": "E, xhenneti do t’u afrohet besimtarëve, jo larg",
+				"sqi-fetimehdiu": "Kurse xhenneti u afrohet të devotshmëve, shumë afër"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 32,
+			"textAr": "هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Kjo është ajo që u premtohet për secilin që pendohet dhe që e ruan besën e dhënë",
+				"sqi-hasanefendinahi": "Kjo ju është premtuar, çdokujt që është penduar dhe ruajtur (nga kalimi i kufirit)",
+				"sqi-fetimehdiu": "Kjo është ajo që i është premtuar secilit që është penduar dhe është ruajtur (prej mëkatesh)"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 33,
+			"textAr": "مَنْ خَشِيَ الرَّحْمَٰنَ بِالْغَيْبِ وَجَاءَ بِقَلْبٍ مُنِيبٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Për secilin që i është frikësuar Zotit pa e parë dhe ka qenë i kthyer te Ai me zemër të sinqertë",
+				"sqi-hasanefendinahi": "i cili frikohet prej Perëndisë edhe atëhrë kur nuk e sheh kush dhe i cili vie me zemër të kthyer kah All-llahu”",
+				"sqi-fetimehdiu": "I cili i është frikësuar të Mëshirshmit në mosprezencë (pa e parë) dhe ka ardhur zemërbardhë"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 34,
+			"textAr": "ادْخُلُوهَا بِسَلَامٍ ۖ ذَٰلِكَ يَوْمُ الْخُلُودِ",
+			"translations": {
+				"sqi-sherifahmeti": "(U thuhet) Hyni në te, të shpëtuar, se kjo është dita e përjetshme",
+				"sqi-hasanefendinahi": "(U thuhet atyre): “Hyni në të (në xhennet), në qetësi (e mirësi), kjo është Dita e përhershme!”",
+				"sqi-fetimehdiu": "Hyni në të të qetë! Kjo është Dita e amshueshme"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 35,
+			"textAr": "لَهُمْ مَا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata aty kanë çka të dëshirojnë, e te Ne ka edhe më shumë",
+				"sqi-hasanefendinahi": "Në të do të kenë çka të duan – e prej Nesh edhe më shumë",
+				"sqi-fetimehdiu": "Aty do të kenë çka dëshirojnë – se tek Ne ka edhe më tepër"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 36,
+			"textAr": "وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ هُمْ أَشَدُّ مِنْهُمْ بَطْشًا فَنَقَّبُوا فِي الْبِلَادِ هَلْ مِنْ مَحِيصٍ",
+			"translations": {
+				"sqi-sherifahmeti": "E sa e sa brezni para tyre kemi shkatërruar e që ishin më të fortë e më të shkathët se këta (idhujtarët kurejshitë). Ata brodhën andej e këndej nëpër tokë (për t’i ikur vdekjes). Por, a mos gjetën rrugëdalje",
+				"sqi-hasanefendinahi": "E, sa gjenerata i kemi shkatërruar par tyre, duke qenë ata më të fortë (se Kurejshit) dhe ata bredhnin nëpër Tokë. – E, a kanë mund të gjejnë strehim",
+				"sqi-fetimehdiu": "Sa brezni para tyre kemi shfarosur, dhe ata kanë qenë më të fortë se këta, andaj kërkuan strehim nëpër botë, por a ka tjetër rrugëdalje"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 37,
+			"textAr": "إِنَّ فِي ذَٰلِكَ لَذِكْرَىٰ لِمَنْ كَانَ لَهُ قَلْبٌ أَوْ أَلْقَى السَّمْعَ وَهُوَ شَهِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Në të gjitha këto, për atë që ka mendje të shëndoshë dhe që i ka vënë me vëmendje, ka argumente",
+				"sqi-hasanefendinahi": "Me të vërtetë, për të gjitha këto ka këshillë për atë që ka mend ose që dëgjon, e që është i përqëndruar",
+				"sqi-fetimehdiu": "këtu ka, njëmend, argumente për ata që kanë zemër dhe ia kap veshi (kupton) edhe është dëshmitar"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 38,
+			"textAr": "وَلَقَدْ خَلَقْنَا السَّمَاوَاتِ وَالْأَرْضَ وَمَا بَيْنَهُمَا فِي سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِنْ لُغُوبٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne krijuam qiejt e tokën dhe gjithçka ka ndërmjet tyre brenda gjashtë ditesh dhe Ne nuk ndiem lodhje",
+				"sqi-hasanefendinahi": "Ne, kemi krijuar qiejt dhe Tokën dhe çdo gjë që gjendet mes tyre për gjashtë ditë (periudha kohore), dhe nuk na përshkoi kurrëfarë lodhje",
+				"sqi-fetimehdiu": "Ne kemi krijuar qiejt dhe tokën edhe gjithçka ka ndërmjet tyre, për gjashtë ditë, dhe as që na preku lodhja"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 39,
+			"textAr": "فَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ",
+			"translations": {
+				"sqi-sherifahmeti": "Po ti (Mumahed) me përballo atë që ata të thonë, para lindjes së diellit dhe para përendimit madhëro e falënderim Zotin tënd",
+				"sqi-hasanefendinahi": "Andaj, duroje atë që e thonë ata dhe madhëroje Zotin tënd, dhe falenderoje Atë para lindjes së diellit dhe para muzgut",
+				"sqi-fetimehdiu": "Prandaj, përballoi me durim asaj që flasin ata dhe madhëro Zotin tënd, dhe falënderoju para se të lind dielli edhe para se të perëndojë"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 40,
+			"textAr": "وَمِنَ اللَّيْلِ فَسَبِّحْهُ وَأَدْبَارَ السُّجُودِ",
+			"translations": {
+				"sqi-sherifahmeti": "Falu për të Tij edhe në një pjesë të natës edhe pas sexhdes (pas namazit farz)",
+				"sqi-hasanefendinahi": "dhe madhëroje Atë në një pjesë të natës dhe pas kryerjes së namazit",
+				"sqi-fetimehdiu": "Madhëroje natën edhe pas namazit"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 41,
+			"textAr": "وَاسْتَمِعْ يَوْمَ يُنَادِ الْمُنَادِ مِنْ مَكَانٍ قَرِيبٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe vëni veshin thirrësit kur thërret nga ndonjë vend i afërt",
+				"sqi-hasanefendinahi": "Dhe përgjoje ti! Ditën kur thërritësi (engjëlli) thërret prej vendit të afërt",
+				"sqi-fetimehdiu": "Dhe hap veshët e dëgjo! Atëherë kur thirrësi të thërrasë nga vendi i afërt"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 42,
+			"textAr": "يَوْمَ يَسْمَعُونَ الصَّيْحَةَ بِالْحَقِّ ۚ ذَٰلِكَ يَوْمُ الْخُرُوجِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ditën kur e dëgjojnë thirrjen për të vërtetën (ringjalljen), e ajo është dita e daljes (prej varrezave)",
+				"sqi-hasanefendinahi": "Ditën kur ata do ta dëgjojnë zërin e vërtetë, ajo do të jetë Dita e daljes (ringjalljes)",
+				"sqi-fetimehdiu": "Ditën kur ata do të dëgjojnë me arsye këlithitjen – ajo do të jetë Dita e ringjalljes"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 43,
+			"textAr": "إِنَّا نَحْنُ نُحْيِي وَنُمِيتُ وَإِلَيْنَا الْمَصِيرُ",
+			"translations": {
+				"sqi-sherifahmeti": "S’ka dyshim se Ne japim vdekje dhe vetëm te Ne është kthimi i tyre",
+				"sqi-hasanefendinahi": "Na, me të vërtetë, japim gjallëri dhe japim vdekje dhe te Ne është kthimi",
+				"sqi-fetimehdiu": "Ne, me të vërtetë, i ngjallim dhe i vdesim, por edhe te Ne do të kthehen"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 44,
+			"textAr": "يَوْمَ تَشَقَّقُ الْأَرْضُ عَنْهُمْ سِرَاعًا ۚ ذَٰلِكَ حَشْرٌ عَلَيْنَا يَسِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ditën kur me ata hapet toka e ata nguten (për vendtubim), e ai është një tubim i lehtë për Ne",
+				"sqi-hasanefendinahi": "E, në Ditën kur toka do të çahet e të dalin ata me nxitim; kjo është ringjallja, për Ne (kjo) është lehtë",
+				"sqi-fetimehdiu": "Atë ditë kur të plasë toka prej tyre me shpejtësi, ai tubim për Ne është krejt i lehtë"
+			}
+		},
+		{
+			"surah": 50,
+			"number": 45,
+			"textAr": "نَحْنُ أَعْلَمُ بِمَا يَقُولُونَ ۖ وَمَا أَنْتَ عَلَيْهِمْ بِجَبَّارٍ ۖ فَذَكِّرْ بِالْقُرْآنِ مَنْ يَخَافُ وَعِيدِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne dimë më së miri çka thonë ata, e ti ndaj tyre nuk je ndonjë dhunues, ti këshilloje me këtë Kur’an atë që i ka frikë kërcënimit Tim",
+				"sqi-hasanefendinahi": "Na dimë mirë çka thonë ata; e ti nuk je ai që i shtrëngon ata (të besojnë), por këshilloje me Kur’an atë që i druan premtimit (dënimit) Tim",
+				"sqi-fetimehdiu": "Ne e dimë më mirë se ç’flasin ata; Ti ata nuk mund t’i detyrosh, por përkujtoje me Kur’an atë që i frikësohet (dhe i ruhet) kërcënimit"
+			}
+		}
+	]
+}

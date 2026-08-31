@@ -1,0 +1,123 @@
+{
+  "surah": 101,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 101,
+      "number": 1,
+      "textAr": "الْقَارِعَةُ",
+      "translations": {
+        "sqi-sherifahmeti": "Krisma e kijametit",
+        "sqi-hasanefendinahi": "Goditja e tmerrshme (Kijameti)",
+        "sqi-fetimehdiu": "Kijameti"
+      }
+    },
+    {
+      "surah": 101,
+      "number": 2,
+      "textAr": "مَا الْقَارِعَةُ",
+      "translations": {
+        "sqi-sherifahmeti": "Ç'ka është krisma",
+        "sqi-hasanefendinahi": "Ç’është Goditja e tmerrshme",
+        "sqi-fetimehdiu": "Ç’është Kijameti"
+      }
+    },
+    {
+      "surah": 101,
+      "number": 3,
+      "textAr": "وَمَا أَدْرَاكَ مَا الْقَارِعَةُ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe ç’të mësoi ty se ç’është krisma",
+        "sqi-hasanefendinahi": "Kush të tregon ty për Goditjen e tmerrshme",
+        "sqi-fetimehdiu": "Dhe çka është ajo që të njofton se ç’është kijameti"
+      }
+    },
+    {
+      "surah": 101,
+      "number": 4,
+      "textAr": "يَوْمَ يَكُونُ النَّاسُ كَالْفَرَاشِ الْمَبْثُوثِ",
+      "translations": {
+        "sqi-sherifahmeti": "Ajo është ditë kur njerëzit bëhen si insekte të shpërndara",
+        "sqi-hasanefendinahi": "Njerëzit, atë Ditë do të jenë të shpërndarë si fluturat",
+        "sqi-fetimehdiu": "Atë ditë njerëzit do të jenë sikur fluturat e shpërndara"
+      }
+    },
+    {
+      "surah": 101,
+      "number": 5,
+      "textAr": "وَتَكُونُ الْجِبَالُ كَالْعِهْنِ الْمَنْفُوشِ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe kodrat bëhen si leshi i shprishur",
+        "sqi-hasanefendinahi": "kurse malet – si leshi i shprishur",
+        "sqi-fetimehdiu": "E malet të bëhen sikur lesh i shprishur"
+      }
+    },
+    {
+      "surah": 101,
+      "number": 6,
+      "textAr": "فَأَمَّا مَنْ ثَقُلَتْ مَوَازِينُهُ",
+      "translations": {
+        "sqi-sherifahmeti": "E sa i përket atij që i rëndohet peshoja e veprave të tij",
+        "sqi-hasanefendinahi": "Atij (njeriut), veprat e mira të të cilit rëndojnë në peshojë",
+        "sqi-fetimehdiu": "Sa për atë, veprat e të cilit çojnë peshë"
+      }
+    },
+    {
+      "surah": 101,
+      "number": 7,
+      "textAr": "فَهُوَ فِي عِيشَةٍ رَاضِيَةٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Ai është në një jetë të këndshme",
+        "sqi-hasanefendinahi": "ai do të jetë në jetën e kënaqur (në jetën e përhershme)",
+        "sqi-fetimehdiu": "Ai është i kënaqur në jetë"
+      }
+    },
+    {
+      "surah": 101,
+      "number": 8,
+      "textAr": "وَأَمَّا مَنْ خَفَّتْ مَوَازِينُهُ",
+      "translations": {
+        "sqi-sherifahmeti": "Ndërsa, atij që ka peshojën e lehtë të veprave të tij",
+        "sqi-hasanefendinahi": "e atij (njeriu), veprat e mira të të cilit nuk rëndojnë në peshojë",
+        "sqi-fetimehdiu": "Kurse ai, veprat e të cilit vijnë të lehta në terezi"
+      }
+    },
+    {
+      "surah": 101,
+      "number": 9,
+      "textAr": "فَأُمُّهُ هَاوِيَةٌ",
+      "translations": {
+        "sqi-sherifahmeti": "Vendi i tij do të jetë në Havije",
+        "sqi-hasanefendinahi": "strehimi i tij do të jetë gremina e Skëterrës",
+        "sqi-fetimehdiu": "Vendbanim do të kenë zjarrin"
+      }
+    },
+    {
+      "surah": 101,
+      "number": 10,
+      "textAr": "وَمَا أَدْرَاكَ مَا هِيَهْ",
+      "translations": {
+        "sqi-sherifahmeti": "E ç’është ajo që të njoftoi ç’është ai (Havije)",
+        "sqi-hasanefendinahi": "E, kush të tregon ty se ç’është gremina e Skëterrës",
+        "sqi-fetimehdiu": "Ç’është ajo që ta sqaron se ç’është ky"
+      }
+    },
+    {
+      "surah": 101,
+      "number": 11,
+      "textAr": "نَارٌ حَامِيَةٌ",
+      "translations": {
+        "sqi-sherifahmeti": "Është zjarri me nxehtësi shumë të lartë",
+        "sqi-hasanefendinahi": "(Ajo është) zjarr i vrullshëm",
+        "sqi-fetimehdiu": "Zjarr i këndellur"
+      }
+    }
+  ]
+}

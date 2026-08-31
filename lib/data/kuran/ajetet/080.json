@@ -1,0 +1,429 @@
+{
+	"surah": 80,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 80,
+			"number": 1,
+			"textAr": "عَبَسَ وَتَوَلَّىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai vrenjti (fytyrën) dhe u kthye",
+				"sqi-hasanefendinahi": "Ai (Muhammedi) u mrrol e u kthye (me fytyrë)",
+				"sqi-fetimehdiu": "U vrenjt dhe ktheu shpinën"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 2,
+			"textAr": "أَنْ جَاءَهُ الْأَعْمَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Ngase atij i erdh i verbëri",
+				"sqi-hasanefendinahi": "ngase i erdhi pranë i verbëri",
+				"sqi-fetimehdiu": "Se i pat ardhur i verbëri"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 3,
+			"textAr": "وَمَا يُدْرِيكَ لَعَلَّهُ يَزَّكَّىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "E ku mund ta dish ti, ndoshta ai do të pastrohet",
+				"sqi-hasanefendinahi": "E kush të dëfton ty – ndoshta ai dëshiron të pastrohet (nga mëkatet)",
+				"sqi-fetimehdiu": "Ku e di ti, ndoshta do të pastrohet"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 4,
+			"textAr": "أَوْ يَذَّكَّرُ فَتَنْفَعَهُ الذِّكْرَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Apo do të këshillohet dhe këshilla do t’i bëjë dobi",
+				"sqi-hasanefendinahi": "ose të këshillohet, e t’i sjell dobi atij këshillimi",
+				"sqi-fetimehdiu": "Ose të këshillohet dhe këshilla të jetë me dobi"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 5,
+			"textAr": "أَمَّا مَنِ اسْتَغْنَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "E ai që nuk ndien nevojë (për Zotin) pse ka pasuri",
+				"sqi-hasanefendinahi": "e atij që ësthë i pasur (e prezentohet si i panevojshëm për të besuar)",
+				"sqi-fetimehdiu": "E kush është i pasur"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 6,
+			"textAr": "فَأَنْتَ لَهُ تَصَدَّىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Ti atij i vë veshin (i drejtohesh)",
+				"sqi-hasanefendinahi": "atij po i kthehesh",
+				"sqi-fetimehdiu": "Ti atë e pranon"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 7,
+			"textAr": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Po ti nuk ke përgjegjësi, pse ai nuk pastrohet",
+				"sqi-hasanefendinahi": "sepse, ti nuk ke përgjegjësi, nëse ai nuk don të pastrohet (të besojë)",
+				"sqi-fetimehdiu": "Dhe nëse ai nuk pastrohet, ç’ke ti"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 8,
+			"textAr": "وَأَمَّا مَنْ جَاءَكَ يَسْعَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Ndërsa ai që nxiton dhe vjen te ti",
+				"sqi-hasanefendinahi": "e atij që të vjen ty duke nxituar (për këshillim)",
+				"sqi-fetimehdiu": "Kurse ai që të vjen me vrap"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 9,
+			"textAr": "وَهُوَ يَخْشَىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe meqë ai frikësohet",
+				"sqi-hasanefendinahi": "dhe ndien drojë",
+				"sqi-fetimehdiu": "Ngase ai frikësohet"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 10,
+			"textAr": "فَأَنْتَ عَنْهُ تَلَهَّىٰ",
+			"translations": {
+				"sqi-sherifahmeti": "E ti nuk e zë asgjë (dhe nuk ia vë veshin fjalës së tij)",
+				"sqi-hasanefendinahi": "e ti atë nuk po e merr në konsiderim",
+				"sqi-fetimehdiu": "E ti nuk ia vë veshin atij"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 11,
+			"textAr": "كَلَّا إِنَّهَا تَذْكِرَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Jo ashtu! Në të vërtetë këto janë këshilla",
+				"sqi-hasanefendinahi": "Mos vepro ashtu! Ato janë këshilla",
+				"sqi-fetimehdiu": "Kurrsesi! (ashtu mos bën) Ajo është mësim"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 12,
+			"textAr": "فَمَنْ شَاءَ ذَكَرَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Kush do merr mesim nga kjo (nga Kur’ani)",
+				"sqi-hasanefendinahi": "e, kush të dojë, le të mësojë",
+				"sqi-fetimehdiu": "Andaj kush do e merr atë mësim (Kur’anin)"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 13,
+			"textAr": "فِي صُحُفٍ مُكَرَّمَةٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Është këshillë në flet të çmueshme",
+				"sqi-hasanefendinahi": "në faqet e (Kur’anit të) çmueshme",
+				"sqi-fetimehdiu": "Është në fletë të respektuara"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 14,
+			"textAr": "مَرْفُوعَةٍ مُطَهَّرَةٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Me vlerë të lartë e të ruajtur",
+				"sqi-hasanefendinahi": "të lartësuara (të madhërueshme), të pastra",
+				"sqi-fetimehdiu": "Të lartësuara, të pastruara"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 15,
+			"textAr": "بِأَيْدِي سَفَرَةٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Në duar të udhëtuesve (engjëjve udhëtues mes All-llahut e njerëzve)",
+				"sqi-hasanefendinahi": "me duart e shkruesve (engjëjve)",
+				"sqi-fetimehdiu": "Në duar të ambasadorëve (engjujve)"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 16,
+			"textAr": "كِرَامٍ بَرَرَةٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Të nderuar e të ruajtur",
+				"sqi-hasanefendinahi": "të ndershëm dhe të drejtë",
+				"sqi-fetimehdiu": "Fisnikë e të pagabueshëm"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 17,
+			"textAr": "قُتِلَ الْإِنْسَانُ مَا أَكْفَرَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Qoftë mallkuar njeriu, sa mohues i fortë është ai",
+				"sqi-hasanefendinahi": "Mallkuar qoftë njeriu! Sa jomirënjohës që është ai",
+				"sqi-fetimehdiu": "Qoftë shkatërruar njeriu! Po sa mohues i madh është"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 18,
+			"textAr": "مِنْ أَيِّ شَيْءٍ خَلَقَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Po prej çkafi e krijoi Ai atë",
+				"sqi-hasanefendinahi": "Prej çkahjes e krijoi Ai (All-llahu) atë (njeriun)",
+				"sqi-fetimehdiu": "Prej çka e ka krijuar Ai"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 19,
+			"textAr": "مِنْ نُطْفَةٍ خَلَقَهُ فَقَدَّرَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë e krijoi prej një pike uji dhe e përgatiti",
+				"sqi-hasanefendinahi": "Prej pikës së farës e krijoi dhe përgatiti për të çdo gjë të dobishme",
+				"sqi-fetimehdiu": "Nga pika e farës e ka krijuar dhe e ka aftësuar"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 20,
+			"textAr": "ثُمَّ السَّبِيلَ يَسَّرَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Pastaj atij ia lehtësoi rrugën",
+				"sqi-hasanefendinahi": "dhe pastaj ia lehtësoi rrugën (e lindjes)",
+				"sqi-fetimehdiu": "Pastaj rrugën ia ka lehtësuar"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 21,
+			"textAr": "ثُمَّ أَمَاتَهُ فَأَقْبَرَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Mandej atë e bëri të vdesë dhe atij i bëri varr (të varrosët)",
+				"sqi-hasanefendinahi": "pas kësaj, (Ai) ia caktoi vdekjen dhe bëri që të varroset",
+				"sqi-fetimehdiu": "Pastaj e vdes dhe e varros"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 22,
+			"textAr": "ثُمَّ إِذَا شَاءَ أَنْشَرَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Pastaj kur të dojë Ai e ringjallë atë",
+				"sqi-hasanefendinahi": "dhe, mandej kur të dojë Ai, e ringjallë",
+				"sqi-fetimehdiu": "Dhe kur do e ringjallë"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 23,
+			"textAr": "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Jo! Ai nuk zbatoi atë që urdhëroi Ai",
+				"sqi-hasanefendinahi": "Në të vërtetë! Ai – njeriu, ende nuk i ka plotësuar ato që i ka urdhëruar Ai",
+				"sqi-fetimehdiu": "Jo! Ende nuk e ka zbatuar çkai ka urdhëruar Ai"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 24,
+			"textAr": "فَلْيَنْظُرِ الْإِنْسَانُ إِلَىٰ طَعَامِهِ",
+			"translations": {
+				"sqi-sherifahmeti": "Njeriu le të shikoje ushqimin e vet",
+				"sqi-hasanefendinahi": "Le të shikojë njeriu në ushqimin e vet",
+				"sqi-fetimehdiu": "Le të shikojë njeriu ushqimin e vet"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 25,
+			"textAr": "أَنَّا صَبَبْنَا الْمَاءَ صَبًّا",
+			"translations": {
+				"sqi-sherifahmeti": "Ne lëshuam shi të mjaftueshëm",
+				"sqi-hasanefendinahi": "Ne kemi derdhur ujëra (shira) të bollshme",
+				"sqi-fetimehdiu": "Ne e kemi njomë me shi të mjaftueshëm"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 26,
+			"textAr": "ثُمَّ شَقَقْنَا الْأَرْضَ شَقًّا",
+			"translations": {
+				"sqi-sherifahmeti": "Pastaj e çamë tokën sipas nevojës së bimës",
+				"sqi-hasanefendinahi": "pastaj e kemi plasaritur tokën me çarje",
+				"sqi-fetimehdiu": "Pastaj e plasarisim tokën dhe e çajmë"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 27,
+			"textAr": "فَأَنْبَتْنَا فِيهَا حَبًّا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe bëmë që në të të mbijnë drithëra",
+				"sqi-hasanefendinahi": "dhe bëjmë që nga ajo të rriten drithërat",
+				"sqi-fetimehdiu": "Dhe në të rrisim drith"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 28,
+			"textAr": "وَعِنَبًا وَقَضْبًا",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe rrush e perime",
+				"sqi-hasanefendinahi": "dhe rrushi e perimet",
+				"sqi-fetimehdiu": "Edhe rrush e tërfojë"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 29,
+			"textAr": "وَزَيْتُونًا وَنَخْلًا",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe ullinj e hurma",
+				"sqi-hasanefendinahi": "dhe ulliri e palma",
+				"sqi-fetimehdiu": "Edhe ullinj dhe pemë"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 30,
+			"textAr": "وَحَدَائِقَ غُلْبًا",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe kopshte të dendura",
+				"sqi-hasanefendinahi": "dhe kopshtet e dendura",
+				"sqi-fetimehdiu": "Edhe kopshte të dendura"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 31,
+			"textAr": "وَفَاكِهَةً وَأَبًّا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe pemë e kullosa",
+				"sqi-hasanefendinahi": "dhe pëmët e barishtet",
+				"sqi-fetimehdiu": "Edhe pemë dhe kullosa"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 32,
+			"textAr": "مَتَاعًا لَكُمْ وَلِأَنْعَامِكُمْ",
+			"translations": {
+				"sqi-sherifahmeti": "Si mjete gjallërimi për ju dhe për bagëtinë tuaj",
+				"sqi-hasanefendinahi": "për ju dhe bagëtinë tuaj",
+				"sqi-fetimehdiu": "Për nevoja tuaja dhe kafshëve tuaja"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 33,
+			"textAr": "فَإِذَا جَاءَتِ الصَّاخَّةُ",
+			"translations": {
+				"sqi-sherifahmeti": "E kur të vijë ushtima (krisma e kijametit)",
+				"sqi-hasanefendinahi": "E, kur të arrijë zëri i madh shurdhues",
+				"sqi-fetimehdiu": "E kur të vijë ushtima shurdhuese"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 34,
+			"textAr": "يَوْمَ يَفِرُّ الْمَرْءُ مِنْ أَخِيهِ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë njeriu ikën prej vëllait të vet",
+				"sqi-hasanefendinahi": "në Ditën kur njeriu ikën nga vëllau i tij",
+				"sqi-fetimehdiu": "Atë ditë kur njeriu ik nga vëllai i vet"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 35,
+			"textAr": "وَأُمِّهِ وَأَبِيهِ",
+			"translations": {
+				"sqi-sherifahmeti": "Prej nënës dhe prej babait të vet",
+				"sqi-hasanefendinahi": "dhe nga nëna e babai i tij",
+				"sqi-fetimehdiu": "Edhe nga nëna edhe nga babai i vet"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 36,
+			"textAr": "وَصَاحِبَتِهِ وَبَنِيهِ",
+			"translations": {
+				"sqi-sherifahmeti": "Prej gruas dhe prej fëmjëve të vet",
+				"sqi-hasanefendinahi": "dhe nga bashkëshortja e fëmijët e tij",
+				"sqi-fetimehdiu": "Edhe nga shoqja e vet dhe djemt e vet"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 37,
+			"textAr": "لِكُلِّ امْرِئٍ مِنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë secilit njeri i mjafton çështja e vet",
+				"sqi-hasanefendinahi": "atë Ditë, çdonjëri është i preokupuar me gjendjen e vetvetes",
+				"sqi-fetimehdiu": "Atë ditë secilit njeri do t’i mjaftojë çështja e vet"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 38,
+			"textAr": "وُجُوهٌ يَوْمَئِذٍ مُسْفِرَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë do të ketë fytyra të shndritura",
+				"sqi-hasanefendinahi": "disa fytyra atë Ditë, shëndrisin",
+				"sqi-fetimehdiu": "Atë ditë disa fytyra do të jenë të ndritura"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 39,
+			"textAr": "ضَاحِكَةٌ مُسْتَبْشِرَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Të buzëqeshura e të gëzuara",
+				"sqi-hasanefendinahi": "të qeshura, të gëzuara",
+				"sqi-fetimehdiu": "Të qeshura, të gëzuara"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 40,
+			"textAr": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë do të ketë edhe fytyra të pluhëruara",
+				"sqi-hasanefendinahi": "kurse disa fytyra, atë Ditë, pluhërosen",
+				"sqi-fetimehdiu": "Kurse disa fytyra atë ditë do të jenë të pluhrosura"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 41,
+			"textAr": "تَرْهَقُهَا قَتَرَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Që i ka mbuluar errësira e zezë",
+				"sqi-hasanefendinahi": "errësira do t’i kaplojë",
+				"sqi-fetimehdiu": "Do t’i mbulojë terri i fortë"
+			}
+		},
+		{
+			"surah": 80,
+			"number": 42,
+			"textAr": "أُولَٰئِكَ هُمُ الْكَفَرَةُ الْفَجَرَةُ",
+			"translations": {
+				"sqi-sherifahmeti": "E të tillët janë ata mohuesit, mëkatarët",
+				"sqi-hasanefendinahi": "këta janë jobesimtarët, të korruptuarit",
+				"sqi-fetimehdiu": "E ata janë mosbesimtarët e mbrapshtë"
+			}
+		}
+	]
+}

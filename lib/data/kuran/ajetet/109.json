@@ -1,0 +1,73 @@
+{
+  "surah": 109,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 109,
+      "number": 1,
+      "textAr": "قُلْ يَا أَيُّهَا الْكَافِرُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Thuaj: “O ju jobesimtarë",
+        "sqi-hasanefendinahi": "Thuaj: “O ju mohues",
+        "sqi-fetimehdiu": "Thuaj: “O mosbesimtarë"
+      }
+    },
+    {
+      "surah": 109,
+      "number": 2,
+      "textAr": "لَا أَعْبُدُ مَا تَعْبُدُونَ",
+      "translations": {
+        "sqi-sherifahmeti": "Unë nuk adhuroj atë që ju e adhuroni",
+        "sqi-hasanefendinahi": "Unë nuk do ta adhurojë atë, që po e adhuroni ju",
+        "sqi-fetimehdiu": "Unë nuk adhuroj atë çka adhuroni ju"
+      }
+    },
+    {
+      "surah": 109,
+      "number": 3,
+      "textAr": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "translations": {
+        "sqi-sherifahmeti": "As ju nuk jeni adhurues të Atij që unë e adhuroj",
+        "sqi-hasanefendinahi": "e as ju nuk do ta adhuroni Atë që po e adhuroj unë",
+        "sqi-fetimehdiu": "Por as ju nuk adhuroni atë që adhuroj unë"
+      }
+    },
+    {
+      "surah": 109,
+      "number": 4,
+      "textAr": "وَلَا أَنَا عَابِدٌ مَا عَبَدْتُمْ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe unë kurr nuk do të jem adhurues i asaj që ju adhuroni",
+        "sqi-hasanefendinahi": "Unë nuk kam adhuruar atë që e keni adhuruar ju",
+        "sqi-fetimehdiu": "Unë nuk jam adhurues i atyre që ju i adhuroni"
+      }
+    },
+    {
+      "surah": 109,
+      "number": 5,
+      "textAr": "وَلَا أَنْتُمْ عَابِدُونَ مَا أَعْبُدُ",
+      "translations": {
+        "sqi-sherifahmeti": "Por edhe ju nuk do të jeni adhurues të Atij që unë adhuroj",
+        "sqi-hasanefendinahi": "por, edhe ju nuk e keni adhuruar Atë, që po e adhuroj unë",
+        "sqi-fetimehdiu": "Por edhe ju nuk jeni adhurues të asaj që adhuroj unë"
+      }
+    },
+    {
+      "surah": 109,
+      "number": 6,
+      "textAr": "لَكُمْ دِينُكُمْ وَلِيَ دِينِ",
+      "translations": {
+        "sqi-sherifahmeti": "Ju keni fenë tuaj (që i përmbaheni), e unë kam fenë time (që i përmbahem)",
+        "sqi-hasanefendinahi": "Ju keni besimin tuaj, e unë kam besimin tim!”",
+        "sqi-fetimehdiu": "Ju keni fenë tuaj, kurse unë kamë fenë time”"
+      }
+    }
+  ]
+}

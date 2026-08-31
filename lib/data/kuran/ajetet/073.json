@@ -1,0 +1,209 @@
+{
+	"surah": 73,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 73,
+			"number": 1,
+			"textAr": "يَا أَيُّهَا الْمُزَّمِّلُ",
+			"translations": {
+				"sqi-sherifahmeti": "O ti i mbështjellë",
+				"sqi-hasanefendinahi": "O ti i mbështjellur (Muhammed)",
+				"sqi-fetimehdiu": "O i mbështjellur"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 2,
+			"textAr": "قُمِ اللَّيْلَ إِلَّا قَلِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "Ngrihu për falje natën, përveç një pjese të vogël të saj",
+				"sqi-hasanefendinahi": "Zgjoju (lutju) Perëndisë natën, pos të paktën",
+				"sqi-fetimehdiu": "Ngritu natën, përveç një pjese të vogël"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 3,
+			"textAr": "نِصْفَهُ أَوِ انْقُصْ مِنْهُ قَلِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "Gjysmën e saj ose diç më pak se gjysmën",
+				"sqi-hasanefendinahi": "gjysmën e saj ose edhe më pak nga ajo",
+				"sqi-fetimehdiu": "Gjysmës e saj ose diçka më pak se kjo"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 4,
+			"textAr": "أَوْ زِدْ عَلَيْهِ وَرَتِّلِ الْقُرْآنَ تَرْتِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "Ose shto diç prej saj dhe Kur’anin lexoje me vëmendje",
+				"sqi-hasanefendinahi": "ose diçka më shumë se ajo, dhe lexo Kur’anin me kujdes dhe qartë",
+				"sqi-fetimehdiu": "Ose, pak më shumë se ajo, dhe Kur’anin shqiptoje qartë e me kujdes"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 5,
+			"textAr": "إِنَّا سَنُلْقِي عَلَيْكَ قَوْلًا ثَقِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "Ne do të shpallim ty fjalë të rëndë (të madhe)",
+				"sqi-hasanefendinahi": "Ne, me të vërtetë, do të dërgojmë ty fjalë të rënda –",
+				"sqi-fetimehdiu": "Ne do të dërgojmë, njëmend, fjalë të rënda"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 6,
+			"textAr": "إِنَّ نَاشِئَةَ اللَّيْلِ هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "E s’ka dyshim se akiviteti i natës është fuqizues dhe fjlë më e qartë",
+				"sqi-hasanefendinahi": "sepse, zgjuarja natën, me të vërtetë, vepron më fuqishëm dhe shprehjet (mësimet) janë më të kthjellta",
+				"sqi-fetimehdiu": "Qetësia e natës, me siguri, është më efektive dhe më qartë theksohet"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 7,
+			"textAr": "إِنَّ لَكَ فِي النَّهَارِ سَبْحًا طَوِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "Vërtet, Ti gjatë ditës ke angazhim të gjatë (të madh)",
+				"sqi-hasanefendinahi": "meqë ti, me të vërtetë, ditën je shumë i angazhuar",
+				"sqi-fetimehdiu": "Ti, njëmend, ditën ke shumë angazhime"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 8,
+			"textAr": "وَاذْكُرِ اسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "Po ti përmende Zotin tënd dhe plotësisht përkushtoju Atij",
+				"sqi-hasanefendinahi": "Dhe përmende emrin e Zotit tënd dhe përkushtoju krejtësisht Atij",
+				"sqi-fetimehdiu": "Por përmende emrin e Zotit tënd dhe Atij përkushtoju plotësisht"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 9,
+			"textAr": "رَبُّ الْمَشْرِقِ وَالْمَغْرِبِ لَا إِلَٰهَ إِلَّا هُوَ فَاتَّخِذْهُ وَكِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "Zot i lindjes dhe i perëndimit, nuk ka zot tjetër vetëm Ai, pra Atë merrë për mbështetje",
+				"sqi-hasanefendinahi": "Ai ësht Zot i lindjes dhe i perëndimit, s’ka zot tjetër përveç Tij, dhe Atë merre për mbrojtës",
+				"sqi-fetimehdiu": "Është Zot i lindjes dhe i perëndimt. Nuk ka Zot përveç Atij, dhe vetëm tek Ai kij mbështetje"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 10,
+			"textAr": "وَاصْبِرْ عَلَىٰ مَا يَقُولُونَ وَاهْجُرْهُمْ هَجْرًا جَمِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kij durim ndaj asaj që të thonë dhe largohu atyre i matur",
+				"sqi-hasanefendinahi": "Dhe, duroji llomotitjet e atyre dhe largohu nga ata në mënyrë të bukur",
+				"sqi-fetimehdiu": "Duro atë çka thonë dhe largohu në mënyrë të denjë"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 11,
+			"textAr": "وَذَرْنِي وَالْمُكَذِّبِينَ أُولِي النَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe më lë Mua për ata gënjeshtarët pasanikë, dhe jepu atyre pak afat",
+				"sqi-hasanefendinahi": "e lermëni Mua (t’i qeroj hesapet) me ata që të konsiderojnë (ty) për gënjeshtar, të cilët jetojnë në luks dhe jepju pak afat atyre",
+				"sqi-fetimehdiu": "Më lë mua edhe ata që të shtyjnë në gënjeshtra, të pasurit, dhe jepu pak afat"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 12,
+			"textAr": "إِنَّ لَدَيْنَا أَنْكَالًا وَجَحِيمًا",
+			"translations": {
+				"sqi-sherifahmeti": "Se me të vërtetë te Ne ka pranga e zjarr",
+				"sqi-hasanefendinahi": "se, padyshim, Ne kemi pranga dhe zjarr",
+				"sqi-fetimehdiu": "Me të vërtetë tek Ne do të ketë zjarr dhe vargoj"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 13,
+			"textAr": "وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا",
+			"translations": {
+				"sqi-sherifahmeti": "Edhe ushqim që nuk gëlltitet edhe dënim të dhembshëm",
+				"sqi-hasanefendinahi": "dhe gjellëra që ngelin në fyt, dhe dënime të dhembshme",
+				"sqi-fetimehdiu": "Dhe ushqimqë të mbetet në fyt, dhe dënim të dhembshëm"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 14,
+			"textAr": "يَوْمَ تَرْجُفُ الْأَرْضُ وَالْجِبَالُ وَكَانَتِ الْجِبَالُ كَثِيبًا مَهِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë kur toka e kodrat të dridhen, e kodrat bëhen rërë rrëshqitëse",
+				"sqi-hasanefendinahi": "në Ditën kur Toka dhe malet dridhen e bëhen si grumbuj të shkapërderdhur të rërës",
+				"sqi-fetimehdiu": "Atë ditë kur toka dhe malet të dridhen, e malet të shndërrohen në kodrina rëre"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 15,
+			"textAr": "إِنَّا أَرْسَلْنَا إِلَيْكُمْ رَسُولًا شَاهِدًا عَلَيْكُمْ كَمَا أَرْسَلْنَا إِلَىٰ فِرْعَوْنَ رَسُولًا",
+			"translations": {
+				"sqi-sherifahmeti": "Ne dërguam te ju të dërguar që dëshmon kundër jush, ashtu siç patëm dërguar edhe te faraoni të dërguar",
+				"sqi-hasanefendinahi": "Ne, juve, me të vërtetë, ju kemi dërguar një Profet dëshmitar kundër jush, ashtu siç ia kemi pas dërguar një profet Faraonit",
+				"sqi-fetimehdiu": "ne ju kemi dërguar, njëmend, një Profet si dëshmitar kundër jush, mu ashtu siç patëm dërguar Profet edhe Faraonit"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 16,
+			"textAr": "فَعَصَىٰ فِرْعَوْنُ الرَّسُولَ فَأَخَذْنَاهُ أَخْذًا وَبِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "E faraoni e kundërshtoi të dërguarin, andaj Ne i dhamë atij një dënim të rëndë",
+				"sqi-hasanefendinahi": "por Faraoni e ka kundërshtuar Profetin, andaj e kemi dënuar atë me dënim të rëndë",
+				"sqi-fetimehdiu": "Por Faraoni nuk dëgjoi Profetin, andaj e përfshimë me dënim të rëndë"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 17,
+			"textAr": "فَكَيْفَ تَتَّقُونَ إِنْ كَفَرْتُمْ يَوْمًا يَجْعَلُ الْوِلْدَانَ شِيبًا",
+			"translations": {
+				"sqi-sherifahmeti": "Nëse ju mohoni, si do të mbroheni në një ditë që fëmijët do t’i bëjë pleq",
+				"sqi-hasanefendinahi": "Qysh do të ruheni ju (nga dënimet) nëse mbeteni jobesimtarë Ditën në të cilën fëmijët bëhen të thinjët (prej tmerrit të madh)",
+				"sqi-fetimehdiu": "Po si do të ruheni nëse mohoni ditën e cila fëmijët do t’i bëjë pleq të thinjur"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 18,
+			"textAr": "السَّمَاءُ مُنْفَطِرٌ بِهِ ۚ كَانَ وَعْدُهُ مَفْعُولًا",
+			"translations": {
+				"sqi-sherifahmeti": "Atë ditë qielli do të çahet dhe premtimi i Tij do të realizohet",
+				"sqi-hasanefendinahi": "Atë ditë, qielli do të çahet (nga tmerri), e premtimi i Zotit do të jetë i plotësuar",
+				"sqi-fetimehdiu": "Atë ditë qielli do të copëtohet e premtimi i Tij do të realizohet"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 19,
+			"textAr": "إِنَّ هَٰذِهِ تَذْكِرَةٌ ۖ فَمَنْ شَاءَ اتَّخَذَ إِلَىٰ رَبِّهِ سَبِيلًا",
+			"translations": {
+				"sqi-sherifahmeti": "Këto janë një përkujtim qortues, e kush do, ai e zgjedh rrugën për te Zoti i vet",
+				"sqi-hasanefendinahi": "Kjo, me të vërtetë, është këshillë; dhe kush dëshiron – le ta zgjedhin rrugën (që shpie) te Zoti i tij",
+				"sqi-fetimehdiu": "Kjo është, me të vërtetë, mësim dhe kush do e zgjedh rrugën kah Zoti i vet"
+			}
+		},
+		{
+			"surah": 73,
+			"number": 20,
+			"textAr": "۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِنْ ثُلُثَيِ اللَّيْلِ وَنِصْفَهُ وَثُلُثَهُ وَطَائِفَةٌ مِنَ الَّذِينَ مَعَكَ ۚ وَاللَّهُ يُقَدِّرُ اللَّيْلَ وَالنَّهَارَ ۚ عَلِمَ أَنْ لَنْ تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنَ الْقُرْآنِ ۚ عَلِمَ أَنْ سَيَكُونُ مِنْكُمْ مَرْضَىٰ ۙ وَآخَرُونَ يَضْرِبُونَ فِي الْأَرْضِ يَبْتَغُونَ مِنْ فَضْلِ اللَّهِ ۙ وَآخَرُونَ يُقَاتِلُونَ فِي سَبِيلِ اللَّهِ ۖ فَاقْرَءُوا مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا الصَّلَاةَ وَآتُوا الزَّكَاةَ وَأَقْرِضُوا اللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا لِأَنْفُسِكُمْ مِنْ خَيْرٍ تَجِدُوهُ عِنْدَ اللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَاسْتَغْفِرُوا اللَّهَ ۖ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Zoti yt e di se ti dhe një grup i atyre që janë me ty, kaloni në adhurim më pak se dy të tretat e natës ose gjysmën e saj a një të tretën e saj. All-llahu e di gjatësinë e natës dhe të ditës dhe Ai e diti që ju nuk do mund t’i përmbaheni asaj, andaj u lehtësoi juve, pra falnu duke lexuar Kur’an sa t’ju vijë më lehtë prej namazit. Ai e diti se nga ju do të ketë të sëmurë dhe të tjerët që gjallërojnë nëpër tokë dke kërkuar nga begatitë e All-llahut, e dhe të tjerë që luftojnë në rrugën e All-llahut, pra falnu dhe lexoni sa të jetë më lehtë për tij dhe kryene me rregull faljen, jepne zeqatin, huazoni (jepni sadaka) për hir të All-llahut hua të mirë, se çka të përgatitni për veten tuaj prej të mirave, atë do ta gjeni te All-llahu edhe më të mirë, dhe shpërblim më të madh, e kërkoni falje prej All-llahut, se All-llahu është mëkatfalës, mëshirues",
+				"sqi-hasanefendinahi": "Me të vërtetë, Zoti yt e di, se ti (o Muhammed) lutesh më pak se dy të tretat e natës, ndonjëherë gjysmën ose të tretën e saj, si edhe disa prej atyre që janë me ty. Zoti e ka caktuar gjatësinë e ditës dhe të natës, Ai e di se ju nuk mundeni me e llogaritur atë, andaj ju ka bërë lehtësi; e ju lexoni Kur’an aq sa mundeni; Ai e di që ndokush nga ju do të jetë i sëmurë, kurse disa të tjerë udhëtojnë nëpër botë, duke kërkuar dhuntitë e Perëndisë (për jetesë), dhe të tjerë që luftojnë në rrugën e Perëndisë – prandaj, lexoni ju sa keni mundëis nga Kur’ani, dhe kryeni namazin dhe jepnie zeqatin, dhe për hir të Perëndisë jepnihua, sepse, çdo të mirë që e përgatitni ju për vete më parë, do ta gjeni te All-llahu më të mirë dhe (do të keni) shpërblim më të madh. Kërkoni falje te All-llahu, se, All-llahu, me të vërtetë, është falës dhe mëshirues i madh",
+				"sqi-fetimehdiu": "Me të vërtetë Zoti yt e di se ti në adhurim kalon më pak se dy të tretat e natës, gjysmën e saj ose një të tretën e asaj, si edhe një grup prej tyre që janë me ty. All-llahu cakton gjatësinë e natës dhe të ditës. Ai e di se ju atë nuk mund ta llogaritni dhe ua fal, kurse ju nga Kur’ani lexoni atë që është e lehtë. Ai e di se në mesin tuaj do të ketë të sëmurë dhe të tjerë që të udhëtojnë nëpër botë dhe do të kërkojnë dhuntitë e All-llahut, dhe të tjerë që do të luftojnë në rrugë të Zotit, prandaj lexoni nga Kur’ani çka u vjen më lehtë edhe faljen kryene, edhe lëmoshë jipni dhe All-llahut me gjithë zemër jipni hua! Ndërsa të mirat që tek All-llahu i siguroni për vete qysh më parë, do t’i gjeni edhe më të mëdha tek All-llahu dhe do të fitoni shpërblim edhe më të madh. Por lutne All-llahun t’ua falë se All-llahu fal dhe është i mëshirshëm"
+			}
+		}
+	]
+}

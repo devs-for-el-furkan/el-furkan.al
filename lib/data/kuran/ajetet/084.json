@@ -1,0 +1,259 @@
+{
+	"surah": 84,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 84,
+			"number": 1,
+			"textAr": "إِذَا السَّمَاءُ انْشَقَّتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Kur të pëlcet qielli",
+				"sqi-hasanefendinahi": "Kur qiellit të shkyet",
+				"sqi-fetimehdiu": "Kur të çahet qielli"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 2,
+			"textAr": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+			"translations": {
+				"sqi-sherifahmeti": "T’i bindet urdhërit të Zotit të vet, ashtu si takoi",
+				"sqi-hasanefendinahi": "dhe të dëgjojë me përvujtni Zotin e vet – siç i përket",
+				"sqi-fetimehdiu": "Dhe t’i nënshtrohet Zotit të vet ashtu si e ka detyrë"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 3,
+			"textAr": "وَإِذَا الْأَرْضُ مُدَّتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur toka të shtrihet në gjerësinë e saj",
+				"sqi-hasanefendinahi": "dhe kur Toka do të shtrihet (me shafitjen) e maleve",
+				"sqi-fetimehdiu": "Dhe kur toka të shtrihet"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 4,
+			"textAr": "وَأَلْقَتْ مَا فِيهَا وَتَخَلَّتْ",
+			"translations": {
+				"sqi-sherifahmeti": "E të nxjerr çka ka brenda e të çlirohet",
+				"sqi-hasanefendinahi": "dhe ta hedhë gjithë atë që ka brenda e të zbrazët",
+				"sqi-fetimehdiu": "Edhe të hjedh gjithë ç’ka në të e të zbrazet"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 5,
+			"textAr": "وَأَذِنَتْ لِرَبِّهَا وَحُقَّتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe t’i bindet Zotit të saj, ashtu si takoi",
+				"sqi-hasanefendinahi": "dhe të dëgjojë me përvujtni Zotin e vet – siç i përket –",
+				"sqi-fetimehdiu": "Dhe t’i përulet Zotit të vet, ashtu si e ka detyrë"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 6,
+			"textAr": "يَا أَيُّهَا الْإِنْسَانُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدْحًا فَمُلَاقِيهِ",
+			"translations": {
+				"sqi-sherifahmeti": "O ti njeri, vërtet ti përpiqesh me një përpjekje të madhe që çon te Zoti yt, e atë (përpjekje) do ta gjesh",
+				"sqi-hasanefendinahi": "ti, o njeri, që përpiqesh shumë, mundin tënd do ta gjesh te Zoti yt",
+				"sqi-fetimehdiu": "Ti, o njeri, vërtetë shumë mundohesh dhe atë mund ta gjesh te Zoti i yt"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 7,
+			"textAr": "فَأَمَّا مَنْ أُوتِيَ كِتَابَهُ بِيَمِينِهِ",
+			"translations": {
+				"sqi-sherifahmeti": "E përsa i përket atij që libri i vet i jepet nga e djathta",
+				"sqi-hasanefendinahi": "atij që do t’i jepet libri i tij në dorën e tij të djathtë",
+				"sqi-fetimehdiu": "Ai, të cilit libri i vet do t’i jepet nga e djathta"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 8,
+			"textAr": "فَسَوْفَ يُحَاسَبُ حِسَابًا يَسِيرًا",
+			"translations": {
+				"sqi-sherifahmeti": "Ai do të llogaritet me një llogari të lehtë",
+				"sqi-hasanefendinahi": "lehtë do të japi llogari",
+				"sqi-fetimehdiu": "Do ta ketë të lehtë llogarinë"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 9,
+			"textAr": "وَيَنْقَلِبُ إِلَىٰ أَهْلِهِ مَسْرُورًا",
+			"translations": {
+				"sqi-sherifahmeti": "Do të kthehet te familja e vet i gëzuar",
+				"sqi-hasanefendinahi": "dhe do të kthehet i gëzueshëm te të afërmit e tij",
+				"sqi-fetimehdiu": "Dhe do të kthehet te familja e vet i gëzuar"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 10,
+			"textAr": "وَأَمَّا مَنْ أُوتِيَ كِتَابَهُ وَرَاءَ ظَهْرِهِ",
+			"translations": {
+				"sqi-sherifahmeti": "E përsa i përket atij që libri i vet i jepet pas shpinës",
+				"sqi-hasanefendinahi": "e, atij që do t’i jepet libri i tij pas shpinës",
+				"sqi-fetimehdiu": "Kurse, ai, të cilit do t’i jepet libri i et prej pas shpine"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 11,
+			"textAr": "فَسَوْفَ يَدْعُو ثُبُورًا",
+			"translations": {
+				"sqi-sherifahmeti": "Ai do t’i ndjellë vetes shkatërrim",
+				"sqi-hasanefendinahi": "e thërret shkatërrimi",
+				"sqi-fetimehdiu": "Do të lutet për shkatërrim"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 12,
+			"textAr": "وَيَصْلَىٰ سَعِيرًا",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe do të hyjë në zjarr të ndezur fort",
+				"sqi-hasanefendinahi": "dhe në zjarr do të digjet",
+				"sqi-fetimehdiu": "Dhe do të digjet në zjarr"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 13,
+			"textAr": "إِنَّهُ كَانَ فِي أَهْلِهِ مَسْرُورًا",
+			"translations": {
+				"sqi-sherifahmeti": "Ai ka qenë i gëzuar në familjen e vet",
+				"sqi-hasanefendinahi": "sepse, (në jetë) ka qenë i gëzueshëm në familjen e tij",
+				"sqi-fetimehdiu": "Ai njëmend ka qenë i gëzuar me fëmijët e vet"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 14,
+			"textAr": "إِنَّهُ ظَنَّ أَنْ لَنْ يَحُورَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe ka menduar se nuk ka për t’u kthyer",
+				"sqi-hasanefendinahi": "dhe ka menduar se kurrë nuk do të kthehet (ringjallet për të dhënë llogari)",
+				"sqi-fetimehdiu": "Dhe ka menduar se nuk do të kthehet"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 15,
+			"textAr": "بَلَىٰ إِنَّ رَبَّهُ كَانَ بِهِ بَصِيرًا",
+			"translations": {
+				"sqi-sherifahmeti": "Po, se, vërtet Zoti i tij gjithnjë e ka parë atë",
+				"sqi-hasanefendinahi": "Po, po, do të kthehet te Zoti i tij, me të vërtetë, Ai i sheh të gjitha punët e tij",
+				"sqi-fetimehdiu": "Nuk ka dyshim se Zoti i tij e sheh mirë atë"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 16,
+			"textAr": "فَلَا أُقْسِمُ بِالشَّفَقِ",
+			"translations": {
+				"sqi-sherifahmeti": "Betohem në kuqërrimin e horizontit pas perëndimit",
+				"sqi-hasanefendinahi": "Dhe, betohem në kuqërrimin e mbrëmjes",
+				"sqi-fetimehdiu": "Betohem në kuqrrimin e Diellit pas perëndimit"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 17,
+			"textAr": "وَاللَّيْلِ وَمَا وَسَقَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe në natën dhe çka ajo tubon",
+				"sqi-hasanefendinahi": "dhe natën, dhe në atë që paklon ajo me errësirën e saj",
+				"sqi-fetimehdiu": "Pasha natën dhe atë çka ajo pështjell"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 18,
+			"textAr": "وَالْقَمَرِ إِذَا اتَّسَقَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe në hënën kur ajo është e plotë",
+				"sqi-hasanefendinahi": "dhe hënën e plotë",
+				"sqi-fetimehdiu": "Pasha hënën pesëmbëdhjetë"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 19,
+			"textAr": "لَتَرْكَبُنَّ طَبَقًا عَنْ طَبَقٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Ju patjetër do të përjetoni gjendje pas gjendjeje",
+				"sqi-hasanefendinahi": "ju, me siguri, do të gjendeni në rrethana të vështira dhe më të vështira",
+				"sqi-fetimehdiu": "Ju gjithsesi do të hudheni në peripeti pas peripetish"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 20,
+			"textAr": "فَمَا لَهُمْ لَا يُؤْمِنُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E, çka kanë ata që nuk besojnë",
+				"sqi-hasanefendinahi": "E, çka kanë ata, që nuk duan të besojnë",
+				"sqi-fetimehdiu": "Ç’është me ata që nuk besojnë"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 21,
+			"textAr": "وَإِذَا قُرِئَ عَلَيْهِمُ الْقُرْآنُ لَا يَسْجُدُونَ ۩",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur u lexohet atyre Kur’ani, nuk përulen (nuk bien në sexhde)",
+				"sqi-hasanefendinahi": "e, përse kur t’u lexohet Kur’ani, nuk përulen (nuk bëjnë sexhde)",
+				"sqi-fetimehdiu": "Dhe kur u këndohet Kur’ani sexhde nuk bëjnë"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 22,
+			"textAr": "بَلِ الَّذِينَ كَفَرُوا يُكَذِّبُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Përkundrazi, ata që nuk besuan edhe përgënjeshtrojnë",
+				"sqi-hasanefendinahi": "E, madje, jobesimtarët, e përgënjeshtrojnë atë (Kur’anin)",
+				"sqi-fetimehdiu": "Madje ata që kanë mohuar – përgënjeshtrojnë"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 23,
+			"textAr": "وَاللَّهُ أَعْلَمُ بِمَا يُوعُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E All-llahu e di më së miri se çka mbajnë fshehtë ata",
+				"sqi-hasanefendinahi": "e All-llahu, me të vërtetë, di çka fshehin ata (në zemrat e tyre)",
+				"sqi-fetimehdiu": "Kurse All-llahu e di më së miri çka fshehin"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 24,
+			"textAr": "فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Lajmëroji, pra me një dënim të dhembshëm",
+				"sqi-hasanefendinahi": "prandaj, sihariqoi ata me dënim të dhembshëm",
+				"sqi-fetimehdiu": "Prandaj, përgëzoji për vuajtje të dhembshme"
+			}
+		},
+		{
+			"surah": 84,
+			"number": 25,
+			"textAr": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Me përjashtim të atyre që besuan e bënë vepra të mira, të cilët kanë shpërblim të vazhdueshëm",
+				"sqi-hasanefendinahi": "Por, ata që besojnë dhe punojnë vepra të mira, do të shpërblehen pandërprerë",
+				"sqi-fetimehdiu": "Përveç atyre që kanë besuar dhe kanë bërë vepra të mira, ata kanë shpërblim të përhershëm"
+			}
+		}
+	]
+}

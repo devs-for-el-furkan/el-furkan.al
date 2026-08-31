@@ -1,0 +1,103 @@
+{
+  "surah": 104,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 104,
+      "number": 1,
+      "textAr": "وَيْلٌ لِكُلِّ هُمَزَةٍ لُمَزَةٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Mjerë për secilin që e ofendon e përqesh (njerëzit)",
+        "sqi-hasanefendinahi": "Mjer për çdo përqeshës – shpifës",
+        "sqi-fetimehdiu": "Vaj halli për secilin shpifës – tallës"
+      }
+    },
+    {
+      "surah": 104,
+      "number": 2,
+      "textAr": "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
+      "translations": {
+        "sqi-sherifahmeti": "Që ka tubuar pasuri dhe që atë e ruan të mos i pakësohet",
+        "sqi-hasanefendinahi": "që grumbullon pasuri dhe e ruan, (për ardhmërinë e ëndërruar)",
+        "sqi-fetimehdiu": "I cili grumbullon pasuri dhe e numron"
+      }
+    },
+    {
+      "surah": 104,
+      "number": 3,
+      "textAr": "يَحْسَبُ أَنَّ مَالَهُ أَخْلَدَهُ",
+      "translations": {
+        "sqi-sherifahmeti": "E mendon se pasuria e tij do të bëjë të përjetshëm",
+        "sqi-hasanefendinahi": "dhe mendon që ajo pasuri e tij, do ta bëjë të pavdekshëm",
+        "sqi-fetimehdiu": "Dhe mendon se pasuria e tij do ta bëjë të pavdekshëm"
+      }
+    },
+    {
+      "surah": 104,
+      "number": 4,
+      "textAr": "كَلَّا ۖ لَيُنْبَذَنَّ فِي الْحُطَمَةِ",
+      "translations": {
+        "sqi-sherifahmeti": "Jo, të mos medojë ashtu! Se ai pa tjetër do të hidhet në Hutame",
+        "sqi-hasanefendinahi": "Jo, jo! Mashtrohet! Ai, me të vërtetë, do të hidhet (në) Hutameh (Skëterrë), i habitur",
+        "sqi-fetimehdiu": "Po, si jo! Ai me siguri do të jetë i hudhur në xhehennem"
+      }
+    },
+    {
+      "surah": 104,
+      "number": 5,
+      "textAr": "وَمَا أَدْرَاكَ مَا الْحُطَمَةُ",
+      "translations": {
+        "sqi-sherifahmeti": "E çka dini ti se ç’është Hutame",
+        "sqi-hasanefendinahi": "E kush të tregon ty se ç’është el-Hutameh",
+        "sqi-fetimehdiu": "Por a e di ti ç’është xhehennemi"
+      }
+    },
+    {
+      "surah": 104,
+      "number": 6,
+      "textAr": "نَارُ اللَّهِ الْمُوقَدَةُ",
+      "translations": {
+        "sqi-sherifahmeti": "Është zjarri i All-llahut i ndezur fort",
+        "sqi-hasanefendinahi": "Ai është zjarri i ndezur i Zotit",
+        "sqi-fetimehdiu": "Zjarr i këndellur i All-llahut"
+      }
+    },
+    {
+      "surah": 104,
+      "number": 7,
+      "textAr": "الَّتِي تَطَّلِعُ عَلَى الْأَفْئِدَةِ",
+      "translations": {
+        "sqi-sherifahmeti": "Që depërton deri në loçkë të zemrës",
+        "sqi-hasanefendinahi": "i cili do të depërtojë deri në zemër",
+        "sqi-fetimehdiu": "I cili do të futet thellë dei në zemër"
+      }
+    },
+    {
+      "surah": 104,
+      "number": 8,
+      "textAr": "إِنَّهَا عَلَيْهِمْ مُؤْصَدَةٌ",
+      "translations": {
+        "sqi-sherifahmeti": "Ai i mbyll ata, ua zë frymën",
+        "sqi-hasanefendinahi": "Ai (zjarri) do të jetë i mbyllur mbi ta (si saç)",
+        "sqi-fetimehdiu": "Ai mbi ta do të jetë i ngujuar"
+      }
+    },
+    {
+      "surah": 104,
+      "number": 9,
+      "textAr": "فِي عَمَدٍ مُمَدَّدَةٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Ata janë të lidhur në pranga",
+        "sqi-hasanefendinahi": "në shtylla të gjata flakëruese",
+        "sqi-fetimehdiu": "Në një shtyllë të zgjatur"
+      }
+    }
+  ]
+}

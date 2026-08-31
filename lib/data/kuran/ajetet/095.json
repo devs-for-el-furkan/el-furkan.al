@@ -1,0 +1,89 @@
+{
+	"surah": 95,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 95,
+			"number": 1,
+			"textAr": "وَالتِّينِ وَالزَّيْتُونِ",
+			"translations": {
+				"sqi-sherifahmeti": "Pasha fikun dhe ullirin",
+				"sqi-hasanefendinahi": "Betohem në fiq dhe ullinj",
+				"sqi-fetimehdiu": "Pasha fikun dhe ullirin"
+			}
+		},
+		{
+			"surah": 95,
+			"number": 2,
+			"textAr": "وَطُورِ سِينِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe (kodrën) Turi Sina-en",
+				"sqi-hasanefendinahi": "dhe malin e Sinajit",
+				"sqi-fetimehdiu": "Edhe Turi Sinanë"
+			}
+		},
+		{
+			"surah": 95,
+			"number": 3,
+			"textAr": "وَهَٰذَا الْبَلَدِ الْأَمِينِ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe këtë qytet të sigurisë",
+				"sqi-hasanefendinahi": "dhe në këtë qytet të sigurt",
+				"sqi-fetimehdiu": "Edhe këtë vend të siguruar"
+			}
+		},
+		{
+			"surah": 95,
+			"number": 4,
+			"textAr": "لَقَدْ خَلَقْنَا الْإِنْسَانَ فِي أَحْسَنِ تَقْوِيمٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Vërtet, Ne e krijuam njerin në formën më të bukur",
+				"sqi-hasanefendinahi": "me të vërtetë, Na e kemi krijuar njeriun në formën (hrmoninë) më të bukur",
+				"sqi-fetimehdiu": "Ne e kemi krijuar njeriun në formën më të bukur"
+			}
+		},
+		{
+			"surah": 95,
+			"number": 5,
+			"textAr": "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Pastaj e zbritëm atë në më të ultin e të ultëve",
+				"sqi-hasanefendinahi": "pastaj, e kemi kthyer atë në gjendjen më të ulët (në këtë jetë dhe tjetrën)",
+				"sqi-fetimehdiu": "Pastaj e shtyjmë në fund të fundit"
+			}
+		},
+		{
+			"surah": 95,
+			"number": 6,
+			"textAr": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَلَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Përveç atyre që besuan dhe bënë vepra të mira; ata kanë shpërblim të pandërprerë",
+				"sqi-hasanefendinahi": "përveç atyre që besojnë dhe punojnë vepra të mira, për ta ka shpëblime të pandërprera",
+				"sqi-fetimehdiu": "Përveç atyre të cilët besojnë dhe bëjnë vepra të mira. Ata i pret shpërblim i vazhdueshëm"
+			}
+		},
+		{
+			"surah": 95,
+			"number": 7,
+			"textAr": "فَمَا يُكَذِّبُكَ بَعْدُ بِالدِّينِ",
+			"translations": {
+				"sqi-sherifahmeti": "E pas gjithë kësaj, ç’të shtyri të përgënjeshtrosh ditën e shpërblimit (përgjegjësisë)",
+				"sqi-hasanefendinahi": "E, çka atëherë të shtyni ty (o njeri), që ta mohosh besimin",
+				"sqi-fetimehdiu": "E çka po të shtyn pra të përgënjeshtrosh botën tjetër"
+			}
+		},
+		{
+			"surah": 95,
+			"number": 8,
+			"textAr": "أَلَيْسَ اللَّهُ بِأَحْكَمِ الْحَاكِمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "A nuk është All-llahu më i urti gjykuesve",
+				"sqi-hasanefendinahi": "A nuk është All-llahu gjykatësi më i drejtë",
+				"sqi-fetimehdiu": "A nuk është All-llahu më i drejti gjykatës"
+			}
+		}
+	]
+}

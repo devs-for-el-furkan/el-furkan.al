@@ -1,0 +1,299 @@
+{
+	"surah": 81,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 81,
+			"number": 1,
+			"textAr": "إِذَا الشَّمْسُ كُوِّرَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Kur dielli të jetë mbështjellur (dhe errësohet)",
+				"sqi-hasanefendinahi": "Kur Dielli të humbë shkëlqimin",
+				"sqi-fetimehdiu": "Kur dielli ngjeshet dhe humb shkëlqimin"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 2,
+			"textAr": "وَإِذَا النُّجُومُ انْكَدَرَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur yjet të kenë rënë (e shkapërderdhur)",
+				"sqi-hasanefendinahi": "dhe kur yjet të rrëzohen (errësohen)",
+				"sqi-fetimehdiu": "Dhe kur yjtë bijnë dhe errësohen"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 3,
+			"textAr": "وَإِذَا الْجِبَالُ سُيِّرَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur kodrat të kenë udhëtuar (e bërë pluhur në ajër)",
+				"sqi-hasanefendinahi": "dhe kur malet të lëvizin",
+				"sqi-fetimehdiu": "Dhe kur malet dynden"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 4,
+			"textAr": "وَإِذَا الْعِشَارُ عُطِّلَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur devetë e shtrenjta të lihen pa bari në fushë",
+				"sqi-hasanefendinahi": "dhe kur devet mbarsë të mbeten pa çoban (të pakujdes)",
+				"sqi-fetimehdiu": "Dhe kur devet mbarsa lihen"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 5,
+			"textAr": "وَإِذَا الْوُحُوشُ حُشِرَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur egërsirat të jenë bashkuar (tubuar)",
+				"sqi-hasanefendinahi": "dhe kur shtazët e egra të tubohen",
+				"sqi-fetimehdiu": "Dhe kur mblidhen egërsirat"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 6,
+			"textAr": "وَإِذَا الْبِحَارُ سُجِّرَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur detet të vlojnë si zjarr i flakruar",
+				"sqi-hasanefendinahi": "dhe kur devet vlojnë",
+				"sqi-fetimehdiu": "Dhe kur detrat si në zjarr vlojnë"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 7,
+			"textAr": "وَإِذَا النُّفُوسُ زُوِّجَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur shpirtrat të jenë bashkuar",
+				"sqi-hasanefendinahi": "dhe kur shpirtërat bashkohen me trupëra",
+				"sqi-fetimehdiu": "Dhe kur shpirtërat kurorëzohen (bashkohen) me trup"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 8,
+			"textAr": "وَإِذَا الْمَوْءُودَةُ سُئِلَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur të pyeten ato vajza të varrosura të gjalla",
+				"sqi-hasanefendinahi": "dhe kur vajza e varrosur për së gjalli, do të pyetet",
+				"sqi-fetimehdiu": "Dhe kur të pyetet e varrosura për së gjalli"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 9,
+			"textAr": "بِأَيِّ ذَنْبٍ قُتِلَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Për çfarë mëkati ato janë mbytur",
+				"sqi-hasanefendinahi": "për çfarë faji është mbytur",
+				"sqi-fetimehdiu": "Që është mbytur çka ishte faji"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 10,
+			"textAr": "وَإِذَا الصُّحُفُ نُشِرَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur fletushkat të jenë shpaluar",
+				"sqi-hasanefendinahi": "dhe kur të shpërndahen listat (librat e veprave të njerëzve)",
+				"sqi-fetimehdiu": "dhe kur të shpërndahen broshurat"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 11,
+			"textAr": "وَإِذَا السَّمَاءُ كُشِطَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur qielli të jetë hequr",
+				"sqi-hasanefendinahi": "dhe kur qielli zhvendoset",
+				"sqi-fetimehdiu": "Dhe kur qielli të shmanget"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 12,
+			"textAr": "وَإِذَا الْجَحِيمُ سُعِّرَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur Xhehennemi të jetë ndezur fort",
+				"sqi-hasanefendinahi": "dhe kur të flakërojë skëterra",
+				"sqi-fetimehdiu": "Dhe kur xhehennemi të këndellet"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 13,
+			"textAr": "وَإِذَا الْجَنَّةُ أُزْلِفَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe kur Xhenneti të jetë afruar",
+				"sqi-hasanefendinahi": "dhe kur të afrohet xhenneti",
+				"sqi-fetimehdiu": "Dhe xheneti të afrohet"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 14,
+			"textAr": "عَلِمَتْ نَفْسٌ مَا أَحْضَرَتْ",
+			"translations": {
+				"sqi-sherifahmeti": "Atëbotë njeriu do të dijë se çka ka ofruar (të mirë ose të keqe)",
+				"sqi-hasanefendinahi": "çdokush do të di për veprat që ka përgatitur",
+				"sqi-fetimehdiu": "Njeriu do ta dijë se ç’ka përgatitur"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 15,
+			"textAr": "فَلَا أُقْسِمُ بِالْخُنَّسِ",
+			"translations": {
+				"sqi-sherifahmeti": "Betohem fuqimisht në yjet që tërhiqen (ditën, e ndriçojnë natën)",
+				"sqi-hasanefendinahi": "Dhe – betohem në yjet – që perëndojnë",
+				"sqi-fetimehdiu": "Dhe betohem në yjtë që prarojnë"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 16,
+			"textAr": "الْجَوَارِ الْكُنَّسِ",
+			"translations": {
+				"sqi-sherifahmeti": "Që udhëtojnë e fshihen (si dreni në strofkë)",
+				"sqi-hasanefendinahi": "të cilët lëvizin dhe zhduken nga shikimi (horizonti)",
+				"sqi-fetimehdiu": "Të cilët lëvizin dhe të humben syshë"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 17,
+			"textAr": "وَاللَّيْلِ إِذَا عَسْعَسَ",
+			"translations": {
+				"sqi-sherifahmeti": "Pasha natën kur ajo ia beh me errësirë",
+				"sqi-hasanefendinahi": "dhe në natën kur bie terri",
+				"sqi-fetimehdiu": "Pasha natën kur errësohet"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 18,
+			"textAr": "وَالصُّبْحِ إِذَا تَنَفَّسَ",
+			"translations": {
+				"sqi-sherifahmeti": "Pasha agimin kur ia shkrep",
+				"sqi-hasanefendinahi": "dhe agimin kur gdhinë (zbardhëllon drita)",
+				"sqi-fetimehdiu": "Dhe agimin kur zbardhohet"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 19,
+			"textAr": "إِنَّهُ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+			"translations": {
+				"sqi-sherifahmeti": "S’ka dyshim se ai (Kur’ani) është thënie e të dërguarit fisnik (që e pranoi prej Zotit)",
+				"sqi-hasanefendinahi": "Me të vërtetë, Kur’ani është fjala e të Dërguarit fisnik (Xhebrailit)",
+				"sqi-fetimehdiu": "Ai (Kur’ani) është, me të vërtetë, fjalë e të dërguarit fisnik"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 20,
+			"textAr": "ذِي قُوَّةٍ عِنْدَ ذِي الْعَرْشِ مَكِينٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Që është i fortë dhe që ka vend të lartë te Zoti i Arshit",
+				"sqi-hasanefendinahi": "të fuqishëm, të çmuar nga Zoti i Arshit (Kozmosit)",
+				"sqi-fetimehdiu": "Të fortit, nga Zoti i gjithësisë së çmuar"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 21,
+			"textAr": "مُطَاعٍ ثَمَّ أَمِينٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Që është i respektuar atje (në mesin e engjëjve) dhe besnik",
+				"sqi-hasanefendinahi": "të cilin e dëgjojnë (engjëjt) dhe është i besuar (i madh)",
+				"sqi-fetimehdiu": "Të dëgjueshmit dhe të besueshmit"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 22,
+			"textAr": "وَمَا صَاحِبُكُمْ بِمَجْنُونٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Nuk është i marrë shoku juaj (Muhammedi)",
+				"sqi-hasanefendinahi": "E shoku juaj (Muhammedi), nuk është i marrë",
+				"sqi-fetimehdiu": "Shoku i juaj nuk është i marrë"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 23,
+			"textAr": "وَلَقَدْ رَآهُ بِالْأُفُقِ الْمُبِينِ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe se ai e pat parë atë (Xhibrilin) në horizontin e qartë lindor",
+				"sqi-hasanefendinahi": "Ai (Muhammedi) e ka parë qartë (Xhebrailin) në horizont",
+				"sqi-fetimehdiu": "Në horizont të qartë atë e ka parë"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 24,
+			"textAr": "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe ai nuk është që në të fshehtën (shpalljen) ka dyshim (ose ua lë mangu)",
+				"sqi-hasanefendinahi": "dhe, kur është fjala për Shpalljen, ai (Muhammedi) nuk është dorështrënguar (nuk e mshehë atë)",
+				"sqi-fetimehdiu": "Dhe ai nuk e lë mangut shpalljen"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 25,
+			"textAr": "وَمَا هُوَ بِقَوْلِ شَيْطَانٍ رَجِيمٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe ai (Kur’ani) nuk është thënie e djallit të mallkuar",
+				"sqi-hasanefendinahi": "dhe Kur’ani nuk është fjalë e djallit të mllkuar",
+				"sqi-fetimehdiu": "Ai (Kur’ani) nuk është fjalë e djallit të mallkuar"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 26,
+			"textAr": "فَأَيْنَ تَذْهَبُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Pra, ku jeni, kah shkoni",
+				"sqi-hasanefendinahi": "e, kah po ia mbani (me këto mendime)",
+				"sqi-fetimehdiu": "E ju ku po shkoni pra"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 27,
+			"textAr": "إِنْ هُوَ إِلَّا ذِكْرٌ لِلْعَالَمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai (Kur’ani) s’është tjetër pos këshillë për njerëzit",
+				"sqi-hasanefendinahi": "Ai (Kur’ani), është vetëm këshillë, për tërë botën (njerëzit)",
+				"sqi-fetimehdiu": "Ai është vetëm këshillë botërave"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 28,
+			"textAr": "لِمَنْ شَاءَ مِنْكُمْ أَنْ يَسْتَقِيمَ",
+			"translations": {
+				"sqi-sherifahmeti": "Për atë nga mesi juaj që dëshiron të gjendet në të vërtetën",
+				"sqi-hasanefendinahi": "për ata nga ju që duan rrugën e vërtetë",
+				"sqi-fetimehdiu": "Për secilin nga ju që don të jetë në rrugë të drejtë"
+			}
+		},
+		{
+			"surah": 81,
+			"number": 29,
+			"textAr": "وَمَا تَشَاءُونَ إِلَّا أَنْ يَشَاءَ اللَّهُ رَبُّ الْعَالَمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Po ju nuk mundeni, por vetëm nëse dëshiron All-llahu, Zoti i botëve",
+				"sqi-hasanefendinahi": "e ju nuk mund të dëshironi (të drejtën), përveç atëherë kur dëshiron All-llahu, Zoti i gjithë botërave",
+				"sqi-fetimehdiu": "Dhe ju nuk dëshironi asgjë, përveç asaj çka dëshiron All-llahu, Zoti i botërave"
+			}
+		}
+	]
+}

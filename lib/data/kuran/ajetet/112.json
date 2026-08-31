@@ -1,0 +1,49 @@
+{
+	"surah": 112,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 112,
+			"number": 1,
+			"textAr": "قُلْ هُوَ اللَّهُ أَحَدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Thuaj: Ai, All-llahu është Një",
+				"sqi-hasanefendinahi": "Thuaj: “All-llahu është Një",
+				"sqi-fetimehdiu": "Thuaj: “Ai është All-llahu, Një, i vetmi"
+			}
+		},
+		{
+			"surah": 112,
+			"number": 2,
+			"textAr": "اللَّهُ الصَّمَدُ",
+			"translations": {
+				"sqi-sherifahmeti": "All-llahu është mbështetja (Atij i mbështetet çdo krijesë)",
+				"sqi-hasanefendinahi": "Perëndisë i drejtohen për çdo gjë",
+				"sqi-fetimehdiu": "All-llahu është mbrojtës i gjithkujt"
+			}
+		},
+		{
+			"surah": 112,
+			"number": 3,
+			"textAr": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+			"translations": {
+				"sqi-sherifahmeti": "As s’ka lindur kë, as nuk është i lindur",
+				"sqi-hasanefendinahi": "(Ai) nuk ka lindur prej ndokujt, as nuk ka lindur kë",
+				"sqi-fetimehdiu": "Nuk ka lind as është lindur"
+			}
+		},
+		{
+			"surah": 112,
+			"number": 4,
+			"textAr": "وَلَمْ يَكُنْ لَهُ كُفُوًا أَحَدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe Atij askush nuk i është i barabartë",
+				"sqi-hasanefendinahi": "dhe askush nuk i gjason Atij!”",
+				"sqi-fetimehdiu": "Dhe askush Atij nuk i përngjet"
+			}
+		}
+	]
+}

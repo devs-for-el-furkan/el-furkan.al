@@ -1,0 +1,43 @@
+{
+  "surah": 103,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 103,
+      "number": 1,
+      "textAr": "وَالْعَصْرِ",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha kohën",
+        "sqi-hasanefendinahi": "Betohem në kohë",
+        "sqi-fetimehdiu": "Pasha kohën"
+      }
+    },
+    {
+      "surah": 103,
+      "number": 2,
+      "textAr": "إِنَّ الْإِنْسَانَ لَفِي خُسْرٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Nuk ka dyshim njeriu është në një humbje të sigurt",
+        "sqi-hasanefendinahi": "me të vërtetë, njeriu është në humbje",
+        "sqi-fetimehdiu": "Njeriu me siguri është në humbje"
+      }
+    },
+    {
+      "surah": 103,
+      "number": 3,
+      "textAr": "إِلَّا الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+      "translations": {
+        "sqi-sherifahmeti": "Me përjashtim të atyre që besuan, që bënë vepra të mira, që porositën njëri-tjetrin t’i përmbahen të vërtetës dhe që këshilluan njëri-tjetrin të jenë të durueshëm",
+        "sqi-hasanefendinahi": "përveç atyre që besojnë dhe punojnë vepra të mira, dhe të cilët rekomandojnë njëri-tjetrit të vërtetën (fenë Islame), dhe të cilët i rekomandojnë njëri-tjetrit durimin, (në zbatimin e urdhërave të Perëndisë)",
+        "sqi-fetimehdiu": "Përveç atyre të cilët besojnë dhe bëjnë vepra të mira dhe të cilët porosisin për drejtësi dhe i rekomandojnë njëri-tjetrit durim"
+      }
+    }
+  ]
+}

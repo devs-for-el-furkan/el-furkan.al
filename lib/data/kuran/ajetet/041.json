@@ -1,0 +1,549 @@
+{
+	"surah": 41,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 41,
+			"number": 1,
+			"textAr": "حم",
+			"translations": {
+				"sqi-sherifahmeti": "Ha, Mimë",
+				"sqi-hasanefendinahi": "Hâ, Mîm",
+				"sqi-fetimehdiu": "Ha Mim"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 2,
+			"textAr": "تَنْزِيلٌ مِنَ الرَّحْمَٰنِ الرَّحِيمِ",
+			"translations": {
+				"sqi-sherifahmeti": "Zbritje prej Mëshiruesit, Mëshirëbërësit",
+				"sqi-hasanefendinahi": "(Kjo është) Shpallja prej Bamirësit, Mëshiruesit",
+				"sqi-fetimehdiu": "Shpallja është nga i Gjithmëshirshmi, Mëshirëploti"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 3,
+			"textAr": "كِتَابٌ فُصِّلَتْ آيَاتُهُ قُرْآنًا عَرَبِيًّا لِقَوْمٍ يَعْلَمُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Libër që ajetet e tij janë të shkoqitura, duke qenë Kur’an arabisht për një popull që di ta kuptojë",
+				"sqi-hasanefendinahi": "Libër, argumentet e të cilit janë të qarta, (që është) Kur’ani në gjuhën arabe, për popullin që di",
+				"sqi-fetimehdiu": "Libri, ajetet e të cilit janë shkoqitur në Kur’an, në gjuhën arabe, është për njerëzit që dinë"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 4,
+			"textAr": "بَشِيرًا وَنَذِيرًا فَأَعْرَضَ أَكْثَرُهُمْ فَهُمْ لَا يَسْمَعُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Është përgëzues dhe qortues, po shumica e tyre ia kthyen shpinën, andaj ata nuk dëgjojnë",
+				"sqi-hasanefendinahi": "si sihariques dhe paralajmërues, por shumica e tyre janë shmangë (prej studimit të tij) e nuk duan të dëgjojnë",
+				"sqi-fetimehdiu": "Sihariq dhe vërejtje, por prapëseprapë shumica prej tyre ia kthyen shpinën. Ata nuk dëgjojnë"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 5,
+			"textAr": "وَقَالُوا قُلُوبُنَا فِي أَكِنَّةٍ مِمَّا تَدْعُونَا إِلَيْهِ وَفِي آذَانِنَا وَقْرٌ وَمِنْ بَيْنِنَا وَبَيْنِكَ حِجَابٌ فَاعْمَلْ إِنَّنَا عَامِلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata thanë: “Zemrat tona janë të mbyllura nga ajo që ti na thërret dhe në veshët tanë kemi shurdhim të rëndë, kështu që nddërmjet nesh edhe ndërmjet teje ekziston një perde, prandaj, ti vepro sipas tëndës e ne vazhdojmë tonën",
+				"sqi-hasanefendinahi": "(por) thonë: “Zemrat tona janë të mbuluara (blinduara e nuk kuptojnë) atë që na thërret ti neve, veshët tanë janë të shurdhër për atë, e në mes nesh e teje ka perde, andaj puno ti (në idenë tënde), (por) me të vërtetë, dhe ne do të punojmë”",
+				"sqi-fetimehdiu": "“Zemrat tona – thonë ata – janë të izoluara prej asaj që na thërret ti, dhe jemi të shurdhër për atë, ndërsa ndërmjet nesh dhe teje ka një grile (perde), por ti puno se edhe ne do të punojmë”"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 6,
+			"textAr": "قُلْ إِنَّمَا أَنَا بَشَرٌ مِثْلُكُمْ يُوحَىٰ إِلَيَّ أَنَّمَا إِلَٰهُكُمْ إِلَٰهٌ وَاحِدٌ فَاسْتَقِيمُوا إِلَيْهِ وَاسْتَغْفِرُوهُ ۗ وَوَيْلٌ لِلْمُشْرِكِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Thuaj: “Unë jam vetëm njeri sikurse edhe ju, mua më shpallet se Zoti juaj është vetëm Zoti një, pra drejtonju Atj dhe kërkoni falje prej Tij. Për idhujtarët është mjerim i madh",
+				"sqi-hasanefendinahi": "Thuaj: “Unë, me të vërtetë, jam njeri si ju, mua më është shpallur që Zoti juaj është vetëm një Zot, andaj lutjuni Atij sinqerisht dhe kërkoni falje prej Tij! E, mjerë për ata që i bëjnë shok Atij",
+				"sqi-fetimehdiu": "Thuaj: “Unë jam një njeri sikurse edhe ju, që më shpallet se Zoti juaj është vetëm një Zot, prandaj jini korrekt ndaj Tij dhe kërkoni falje! Mjerë politeistët"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 7,
+			"textAr": "الَّذِينَ لَا يُؤْتُونَ الزَّكَاةَ وَهُمْ بِالْآخِرَةِ هُمْ كَافِرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "të cilët nuk ejapin zeqatin dhe mu ata e mohojnë botën tjetër",
+				"sqi-hasanefendinahi": "të cilët nuk japin zeqatin dhe të cilët nuk besojnë në jetën tjetër",
+				"sqi-fetimehdiu": "Ata të cilët nuk japin zeqatin. Të gjithë ata nuk besojnë në botën tjetër"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 8,
+			"textAr": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَهُمْ أَجْرٌ غَيْرُ مَمْنُونٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Nuk ka dyshim se ata që besuan dhe bënë vepra të mira, kanë shpërblim të përhershëm",
+				"sqi-hasanefendinahi": "Me të vërtetë, ata që besojnë dhe bëjnë vepra të mira do të kenë shpërblim të pandërprerë",
+				"sqi-fetimehdiu": "Ata të cilët besojnë dhe bëjnë vepra të mira, pa dyshim, shpërblehen vazhdimisht”"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 9,
+			"textAr": "۞ قُلْ أَئِنَّكُمْ لَتَكْفُرُونَ بِالَّذِي خَلَقَ الْأَرْضَ فِي يَوْمَيْنِ وَتَجْعَلُونَ لَهُ أَنْدَادًا ۚ ذَٰلِكَ رَبُّ الْعَالَمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "thuaj: “A ju jeni ata që nuk i besoni Atij që e krijoi tokën për dy ditë dhe Atij i përshkruani shok, e Ai është Zoti i botëve",
+				"sqi-hasanefendinahi": "Thuaj (o Muhammed!): “Vallë, a me të vërtetë ju e mohoni Atë, i cili e ka krijuar Tokën në dy ditë (periudha kohore) – dhe madje i përshkruani Atij shok? (Ja), ky është Zoti i gjithësisë!”",
+				"sqi-fetimehdiu": "Thuaj: “A, me të vërtetë, ju mohoni Atë i cili ka krijuar tokën për dy ditë, madje i bëni edhe shok?! Ai është Zot i botërave!”"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 10,
+			"textAr": "وَجَعَلَ فِيهَا رَوَاسِيَ مِنْ فَوْقِهَا وَبَارَكَ فِيهَا وَقَدَّرَ فِيهَا أَقْوَاتَهَا فِي أَرْبَعَةِ أَيَّامٍ سَوَاءً لِلسَّائِلِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ai që në të vuri kodra të forta, ia shtoi të mirat asaj dhe brenda katër ditëve të plota caktoi të gjitha kushtet për të jetuar në të. Pra, për ata që pyesin (për kohën e krijimit të saj)”",
+				"sqi-hasanefendinahi": "Dhe, krijoi në Tokë (sipërfaqe të saj) male të palëvizshme, e bëri që në të – të krijohen shumë begati, dhe u caktoi në te (të gjithëve) furnizimin e tyre, të gjitha këto për katër ditë (periudha kohore); ky është shpjegimi për të gjithë ata që pyesin",
+				"sqi-fetimehdiu": "Ai nëpër të, përmbi, ka bërë kodra të palëvizshme, i ka bekur edhe prodhimet e saj i ka bërë për katër ditë – sqarim për ata që pyesin"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 11,
+			"textAr": "ثُمَّ اسْتَوَىٰ إِلَى السَّمَاءِ وَهِيَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ائْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَا أَتَيْنَا طَائِعِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Mandej e mësyu qiellin (krijim e qiellit) e ai ishte tym (mmjegullinë që ishte si materie e parë) dhe atij e edhe tokës i tha: “Qasuni urdhërit Tim me dëshirë ose me dhunë!” Ato të dyja thanë: “Po i qasmi me dëshirë!”",
+				"sqi-hasanefendinahi": "Pastaj, vendosi (të rregullojë) qiellin, e ai ishte në gjendje mjegullire, e i tha atij (qiellit) dhe Tokës: “Dukuni (ejani të përulur) me dashje ose me dhunë!” e ata u përgjigjë: “Erdhëm vullnetarisht!”",
+				"sqi-fetimehdiu": "Pastaj vazhdon ngritja e qiellit kur ishte mjegullinë, dhe i tha atij edhe tokës: “Qasuni me dëshirë a me dhunë!” “Po qasemi me gjithë dëshirë”, thanë ata të dy"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 12,
+			"textAr": "فَقَضَاهُنَّ سَبْعَ سَمَاوَاتٍ فِي يَوْمَيْنِ وَأَوْحَىٰ فِي كُلِّ سَمَاءٍ أَمْرَهَا ۚ وَزَيَّنَّا السَّمَاءَ الدُّنْيَا بِمَصَابِيحَ وَحِفْظًا ۚ ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe ata i krijoi shtatë qiej brenda dy ditëve dhe secilit qiell icaktoi atë që i nvojitej. Qiellin më të afërt (të dynjasë) Ne e stolisë me yje ndriçuese dhe e bëmë të mbrojtur. Ky është caktm i plotfuqishmit, i të dijshmit",
+				"sqi-hasanefendinahi": "Dhe, Ai krijoi (të jenë) shtatë qiej në dy ditë (periudha kohore), dhe çdo qielli i caktoi detyrat e tij. E, qiellin më të afërm e kemi zbukuruar me yje të shkëlqyer dhe i ruajmë ato. Kjo është dispozita e të Plotëfuqishmit dhe të Gjithëdijshmit",
+				"sqi-fetimehdiu": "Dhe i krijoi për dy ditë shtatë qiej, dhe u shpalli se çka do të gjendet në secilin qiell. Kurse qiellin më të afërt e zbukuruam me yje të shkëlqyeshëm dhe mbrojtje. Ai është ligj i të Fortit të Gjithdijshmit"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 13,
+			"textAr": "فَإِنْ أَعْرَضُوا فَقُلْ أَنْذَرْتُكُمْ صَاعِقَةً مِثْلَ صَاعِقَةِ عَادٍ وَثَمُودَ",
+			"translations": {
+				"sqi-sherifahmeti": "Në qoftë se ata nuk përgjigjen, ti thuaj: “Unë tërhoqa vërejtjen e një rufeje (dënimi), si rrufeja e Adit dhe Themudit!”",
+				"sqi-hasanefendinahi": "Nëse shmangen (refuzojnë besimin), ti thuaju: “Ju paralajmëroj me bubullimë (dënimin e tmerrshëm)) aso dënimi çfarë e goditi Adin e Themudin",
+				"sqi-fetimehdiu": "Dhe në qoftë se kthejnë shpinën, thuaju! “U tërheq vërejtjen me një vetëtimë, si vetëtima e Adit dhe Themudit"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 14,
+			"textAr": "إِذْ جَاءَتْهُمُ الرُّسُلُ مِنْ بَيْنِ أَيْدِيهِمْ وَمِنْ خَلْفِهِمْ أَلَّا تَعْبُدُوا إِلَّا اللَّهَ ۖ قَالُوا لَوْ شَاءَ رَبُّنَا لَأَنْزَلَ مَلَائِكَةً فَإِنَّا بِمَا أُرْسِلْتُمْ بِهِ كَافِرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Kur atyre u erdhën të dërguar nga të gjitha anët, i këshilluan: “Të mos adhroni tjetër po vetëm All-llahun”, ata thanë: “Sikur Zoti ynë të kishte dëshiruar (ta dëgjonim) do të dërgonte engjëll, e kësaj m çka jeni dërguar ju, ne nuk i besojmë!”",
+				"sqi-hasanefendinahi": "kur atyre u erdhën pejgamberët – para tyre dhe pas tyre (duke thënë): “Mos adhuroni (asgjë) përveç Zotit!” e ata thanë: “Sikur të kishte dashtë Zoti ynë, Ai do të kishte dërguar engjëj. Ne nuk besojmë në atë që është dërguar me ju”",
+				"sqi-fetimehdiu": "Kur u vinin profetët nga të gjitha anët “Mos adhuroni askë përpos All-llahut!” “Po të kish dashur Zoti ynë – thonë ata – ai do t’i dërgonte engjujt, ne nuk besojmë në atë që dërgon përmes teje”"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 15,
+			"textAr": "فَأَمَّا عَادٌ فَاسْتَكْبَرُوا فِي الْأَرْضِ بِغَيْرِ الْحَقِّ وَقَالُوا مَنْ أَشَدُّ مِنَّا قُوَّةً ۖ أَوَلَمْ يَرَوْا أَنَّ اللَّهَ الَّذِي خَلَقَهُمْ هُوَ أَشَدُّ مِنْهُمْ قُوَّةً ۖ وَكَانُوا بِآيَاتِنَا يَجْحَدُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Sa i përket Adit, ata pa pasur kurrfarë të drejte, u treguan mendjemdhënj ndaj banorëve në tokë dhe thanë: “Kush ka fuqi më të fortë se ne?” A nuk e diten ata se All-llahu, i cili i krijoi ka fuqi më të fortë se ata?! Ata mohuan argumentet tona",
+				"sqi-hasanefendinahi": "Sai përket Adit, ata janë madhështuar në Tokë pa kurrfarë baze dhe thonin: “Kush është më i fortë se ne?” Vallë a nuk shohin ata se All-llahu që i ka krijuar, është më i fuqishëm se ata, - e ata i kanë mohuar argumentet Tona",
+				"sqi-fetimehdiu": "Ad u rrit mendësh në tokë pa të drejtë dhe thanë: “Kush është më i fortë se ne?” A nuk e kanë parë se All-llahu, i cili i ka krijuar, është më i fortë se ata? Ata edhe argumentet tona i mohuan"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 16,
+			"textAr": "فَأَرْسَلْنَا عَلَيْهِمْ رِيحًا صَرْصَرًا فِي أَيَّامٍ نَحِسَاتٍ لِنُذِيقَهُمْ عَذَابَ الْخِزْيِ فِي الْحَيَاةِ الدُّنْيَا ۖ وَلَعَذَابُ الْآخِرَةِ أَخْزَىٰ ۖ وَهُمْ لَا يُنْصَرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Andaj Ne kundër tyre lëshuan një erë shumë të ftohtë gjatë disa ditëve fatzeza për t’u dhënë të pëjetojnë dënimin nënçmuesnë jetë e kësaj bote, ndërsa dënimi në botën tjetër do të jetë edhe më i shëmtuar dhe ata nuk do të ndihmohen",
+				"sqi-hasanefendinahi": "Dhe, Ne u dërguam atyre në ditët e shëmtuara (fatkeqësisë) erë të ftohtë, për ta shijuar dënimin poshtërues që në këtë jetë, e dënimi në jetën tjetër është edhe më poshtërues dhe atyre nuk do t’u ndihmohet",
+				"sqi-fetimehdiu": "Prandaj, ne dërguam kundër tyre erën e akullt, në ditët e fatkeqësisë që ta shijojnë vuajtjen e turpshme qysh në këtë botë, kurse vuajtja në botën tjetër do të jetë, me siguri, më e turpshme – dhe askush nuk do t’u ndihmojë"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 17,
+			"textAr": "وَأَمَّا ثَمُودُ فَهَدَيْنَاهُمْ فَاسْتَحَبُّوا الْعَمَىٰ عَلَى الْهُدَىٰ فَأَخَذَتْهُمْ صَاعِقَةُ الْعَذَابِ الْهُونِ بِمَا كَانُوا يَكْسِبُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Sa i përket Themudit. Ne atyre u patëm treguar rrugën e drejtë, por ata megjithatë më shumë e deshën verbërinë, andaj ata i kapi tmerri i dënimit të turpshëm për shkak të asaj që vepruan",
+				"sqi-hasanefendinahi": "Dhe, Themudit, Ne ia kemi treguar rrugën e drejtë, por ata e deshën (preferuan) verbërimin e jo rrugën e drejtë, andaj ata i goditi dënimi i stuhishëm, poshtërues, për atë që kanë punuar",
+				"sqi-fetimehdiu": "Edhe Themudin e drejtuam në rrugë të drejtë, por ata e deshtën më shumë verbërinë, përkundër rrugës së drejtë, prandaj i përfshiu rrëmuja e dënimit të turpshëm, sipas asaj që e kishin fituar"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 18,
+			"textAr": "وَنَجَّيْنَا الَّذِينَ آمَنُوا وَكَانُوا يَتَّقُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ndërkaq, Ne ishpëtuam ata që kishin besuar dhe që ishin të ruajtur",
+				"sqi-hasanefendinahi": "e, i shpëtuam ata që besuan dhe që janë ruajtë (prej të këqiave)",
+				"sqi-fetimehdiu": "Por i shpëtuam ata të cilët kanë besuar dhe janë ruajtur"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 19,
+			"textAr": "وَيَوْمَ يُحْشَرُ أَعْدَاءُ اللَّهِ إِلَى النَّارِ فَهُمْ يُوزَعُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E ditën kur armiqtë e All-llahut tubohen për në zjarr dhe ata janë të rrethuar",
+				"sqi-hasanefendinahi": "(Kujtoju atyre) Ditën kur do të tubohen armiqët e Perëndisë te zjarri (në vendin e llogarisë), e do të tubohen duke u shtyrë me forcë (dhunë)",
+				"sqi-fetimehdiu": "Ndërsa, atë ditë, kur armiqtë e All-llahut do të mblidhen në zjarr, ata do të frenohen"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 20,
+			"textAr": "حَتَّىٰ إِذَا مَا جَاءُوهَا شَهِدَ عَلَيْهِمْ سَمْعُهُمْ وَأَبْصَارُهُمْ وَجُلُودُهُمْ بِمَا كَانُوا يَعْمَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E derisa afrohen atij, kundër tyre dëshmojnë: të dëgjuarit e tyre, të parit e tyre dhe lëkurat e tyre për çdo gjë që ata kanë punuar",
+				"sqi-hasanefendinahi": "dhe kur të vijnë tek ai (zjarri), kundër tyre do të dërshmojnë, veshët e tyre, sytë e tyre, dhe lëkurat e tyre – për atë që kanë punuar",
+				"sqi-fetimehdiu": "Që të vijnë aty e të dëshmojnë kundër tyre: veshët e tyre, sytë e tyre edhe lëkurët e tyre për atë se ç’kanë punuar"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 21,
+			"textAr": "وَقَالُوا لِجُلُودِهِمْ لِمَ شَهِدْتُمْ عَلَيْنَا ۖ قَالُوا أَنْطَقَنَا اللَّهُ الَّذِي أَنْطَقَ كُلَّ شَيْءٍ وَهُوَ خَلَقَكُمْ أَوَّلَ مَرَّةٍ وَإِلَيْهِ تُرْجَعُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata lëkurave të tyre u thonë: “Përse dëshmuat kundër nesh?” Ato thonë: “All-llahu që çdo sendi ia ka dhënë të folur na dha edhe neve, e Ai është që u krijoi juve herën e parë dhe vetëm te Ai do të ktheheni”",
+				"sqi-hasanefendinahi": "Ata u thonë lëkurave të tyre: “Pse dëshmuat kundër nesh?” e ato përgjigjen: “All-llahu, na ka bërë që të flasim – ashtu siç i ka dhënë aftësinë e të folurit çdo sendi. Ai u ka krijuar për herë të parë dhe tek Ai do të ktheheni (përsëri)”",
+				"sqi-fetimehdiu": "“Pse dëshmuat kundër nesh”? do t’u thonë lëkurëve të veta. Ata do të përgjegjen: “All-llahu i cili i ka dhënë aftësi për të folur çdo sendi, edhe neve na ka bërë që të flasim. Ai iu krijoi edhe juve herën e parë dhe te Ai po ktheheni"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 22,
+			"textAr": "وَمَا كُنْتُمْ تَسْتَتِرُونَ أَنْ يَشْهَدَ عَلَيْكُمْ سَمْعُكُمْ وَلَا أَبْصَارُكُمْ وَلَا جُلُودُكُمْ وَلَٰكِنْ ظَنَنْتُمْ أَنَّ اللَّهَ لَا يَعْلَمُ كَثِيرًا مِمَّا تَعْمَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ju nuk fshiheshit (kur bënit mëkate) se do të dëshmojnë kundër jush të dëgjuarit tuaj, të parit tuaj dhe lëkurat tuaja, bile ju menduat se All-llahu nuk di shumë gjëra që ju bënit",
+				"sqi-hasanefendinahi": "Ju nuk jeni fshehur (nga frika), që kundër jush të mos dëshmojnë veshët tuaj, dhe sytë tuaj dhe lëkura juaj, por ngase keni besuar se All-llahu nuk do t’i dijë shumë ato që i keni punuar",
+				"sqi-fetimehdiu": "Ju nuk keni mundur të fshiheni që të mos dëshmojnë kundër jush veshët e tuaj dhe sytë tyaj, si edhe lëkurët tuaja, por keni menduar se All-llahu nuk do të dijë për shumë gjëra që i keni bërë"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 23,
+			"textAr": "وَذَٰلِكُمْ ظَنُّكُمُ الَّذِي ظَنَنْتُمْ بِرَبِّكُمْ أَرْدَاكُمْ فَأَصْبَحْتُمْ مِنَ الْخَاسِرِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "mendimi juaj i gabuar, të cilin e patët ndaj Zotit tuaj, është ai që ju shkatërroi dhe tani jeni më të dëshpruarit",
+				"sqi-hasanefendinahi": "Dhe, kjo bindje e juaj, që keni pasur në Zotin tuaj, u ka shkatërruar juve, e u bëtë prej atyre që janë në humbje",
+				"sqi-fetimehdiu": "Dhe ai mendim i juaji, që keni menduar për Zotin tuaj, u ka shkatërruar dhe tani jeni nga të humburit”"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 24,
+			"textAr": "فَإِنْ يَصْبِرُوا فَالنَّارُ مَثْوًى لَهُمْ ۖ وَإِنْ يَسْتَعْتِبُوا فَمَا هُمْ مِنَ الْمُعْتَبِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Nëse bëjnë durim, zjarri është vend i tyre, e nëse kërkojën të kthehen në atë që e dëshironë (në kënaqësinë e Zotit), atë nuk do të arrijnë",
+				"sqi-hasanefendinahi": "E, nëse ata bëhen (edhe) të durueshëm, zjarri është vendstrehim për ta; e nëse kërkojnë kthim, nuk do t’u lejohet kthimi",
+				"sqi-fetimehdiu": "Pra, nëse qëndrojnë, vendbanimi i tyre është zjarri por nëse kërkojnë mëshirë, kërkesa e tyre nuk merret parasysh"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 25,
+			"textAr": "۞ وَقَيَّضْنَا لَهُمْ قُرَنَاءَ فَزَيَّنُوا لَهُمْ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَحَقَّ عَلَيْهِمُ الْقَوْلُ فِي أُمَمٍ قَدْ خَلَتْ مِنْ قَبْلِهِمْ مِنَ الْجِنِّ وَالْإِنْسِ ۖ إِنَّهُمْ كَانُوا خَاسِرِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne u patëm mundësuar atyre të kenë asi shokësh që ua hijeshojnë atë që e bënin në atë kohë (në dynja) dhe atë që do t’u vijë më vonë dhe ashtu dënimi ndaj tyre u bë me vend si ndaj popujve që ishin para tyre nga xhinët dhe njerëzit, se vërtet ata ishin të humbur",
+				"sqi-hasanefendinahi": "Ne, u kemi pas caktuar atyre (mohuesve) shokët e këqinj, të cilët ua zbukuronin atyre – ato që janë para tyre dhe ato që janë pas tyre, e në ta u realizua fjala (e dënimit), së bashku me popujt që kanë qenë para tyre – prej xhindëve dhe njerëzve. Këta, me të vërtetë, kanë qenë të shkatërruar",
+				"sqi-fetimehdiu": "(Ne u kemi imponuar shokë që ua kanë zbukuruar të tashmen dhe të pastajshmen, dhe ndaj atyre është zbatuar fjala për dënim) për popujt, exhinët dhe njerëzit, të cilët kanë qenë para atyre. Me të vërtetë ata janë të humbur"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 26,
+			"textAr": "وَقَالَ الَّذِينَ كَفَرُوا لَا تَسْمَعُوا لِهَٰذَا الْقُرْآنِ وَالْغَوْا فِيهِ لَعَلَّكُمْ تَغْلِبُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata që nuk besuan thanë: “mos dëgjoni këtë Kur; an dhe kur të lexohet ai, ju bëni zhurmë (bërtitni) ashtu që ta pengoni!”",
+				"sqi-hasanefendinahi": "Mohuesit kanë thënë: “Mos e dëgjoni këtë Kur’an dhe flisni me zë të lartë, për ta mund atë!”",
+				"sqi-fetimehdiu": "Ata që nuk besojnë, thonë: “Mos e dëgjoni këtë Kur’an por bëni zhurmë, ndoshta e mposhtni!”"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 27,
+			"textAr": "فَلَنُذِيقَنَّ الَّذِينَ كَفَرُوا عَذَابًا شَدِيدًا وَلَنَجْزِيَنَّهُمْ أَسْوَأَ الَّذِي كَانُوا يَعْمَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E, Ne atyre që nuk besuan pa tjetër do t’u japim të përjetojnë dënim të ashpër dhe do t’i shpërblejmë me më të keqen e asaj që punuan",
+				"sqi-hasanefendinahi": "Do të bëjmë Ne, që ta shijojnë mohuesit dënimin e ashpër dhe do t’i dënojmë ata me më të keqen, për veprat që kanë bërë",
+				"sqi-fetimehdiu": "Prandaj ne gjithsesi do të bëjmë që mosbesimtarët të shijojnë dënim të tmerrshëm dhe do t’i shpërblejmë me më të keqën që e kanë bërë"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 28,
+			"textAr": "ذَٰلِكَ جَزَاءُ أَعْدَاءِ اللَّهِ النَّارُ ۖ لَهُمْ فِيهَا دَارُ الْخُلْدِ ۖ جَزَاءً بِمَا كَانُوا بِآيَاتِنَا يَجْحَدُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe ai ndëshkim i armiqve të All-llahut është zjarri, aty është vendi i tyre i përhershëm, si shpërblim për shkak se ata refuzuan argumente tona",
+				"sqi-hasanefendinahi": "Ky zjarri është dënimi i armiqve të Perëndisë. Në te është vendbanimi i përhershëm i tyre. Ky është dënim për ta, ngase kanë qenë mohues të ajeteve Tona",
+				"sqi-fetimehdiu": "Ai është shpërblim i armiqve të All-llahut, zjarri. Ata do të kenë aty shtëpinë e përhershme, si shpërblim që i kanë mohuar argumentet tona"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 29,
+			"textAr": "وَقَالَ الَّذِينَ كَفَرُوا رَبَّنَا أَرِنَا اللَّذَيْنِ أَضَلَّانَا مِنَ الْجِنِّ وَالْإِنْسِ نَجْعَلْهُمَا تَحْتَ أَقْدَامِنَا لِيَكُونَا مِنَ الْأَسْفَلِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata që nuk besuan thonë: “O Zoti ynë, na itrego ata të dy nga xhinët dhe jerëzit, të cilët na bënë të jemi të humbur, e t’i shkelim me këmbët tona dhe le të jenë prej më të poshtërve!”",
+				"sqi-hasanefendinahi": "(Atëherë) mohuesit do të thonë: “O Zoti ynë, tregona ata (dy grupe) prej xhindëve dhe njerëzve, që na kanë shpënë në humbje, që t’i shtrojmë nën këmbët tona, e të bëhen ndër më të fundmit (në zjarr)!”",
+				"sqi-fetimehdiu": "Kurse mosbesimtarët do të thonë: “O Zoti ynë, na i trego ata dy, nga njerëzit dhe exhinët që na kanë humbur, t’i vëmë nën këmbët tona, le të jenë nga më të poshtërit”"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 30,
+			"textAr": "إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا تَتَنَزَّلُ عَلَيْهِمُ الْمَلَائِكَةُ أَلَّا تَخَافُوا وَلَا تَحْزَنُوا وَأَبْشِرُوا بِالْجَنَّةِ الَّتِي كُنْتُمْ تُوعَدُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "S’ka dyshim se ata që thanë: “Zoti ynë është All-llahu”, pastaj nuk u luhatën, atyre u zbresin melaiket (në prag të vdekjes dhe u thonë): “Mos u frikësoni dhe mos u pikëlloni, keni myzhde Xhennetin që ju premtohej",
+				"sqi-hasanefendinahi": "Me të vërtetë, ata që thonë: “Zoti ynë është All-llahu, e pastaj vazhdojnë në të drejtë (sipas urdhërit të Perëndisë), do t’ju zbresin atyre engjëjt (dhe do t’ju thonë): “Mos u frikësoni dhe mos u pikëlloni! Dhe gëzojuni xhennetit që ju është premtuar",
+				"sqi-fetimehdiu": "Atyre që thonë: “Zoti ynë është All-llahu”, e pastaj qëndrojnë në këtë, u vijnë engjujt: “Mos u frikësoni dhe mos u pikëlloni, por gëzohuni xhennetit që u është premtuar"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 31,
+			"textAr": "نَحْنُ أَوْلِيَاؤُكُمْ فِي الْحَيَاةِ الدُّنْيَا وَفِي الْآخِرَةِ ۖ وَلَكُمْ فِيهَا مَا تَشْتَهِي أَنْفُسُكُمْ وَلَكُمْ فِيهَا مَا تَدَّعُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne jemi miqtë e juaj në jetën e dunjasë dhe në ahiret, ku do të keni atë që dëshironi dhe gjithçka kërkoni",
+				"sqi-hasanefendinahi": "Ne jemi të afërmit tuaj në jetën e kësaj bote dhe të së ardhmes; ju në te (xhennet) do të keni çka të dëshironi dhe çka të kërkoni",
+				"sqi-fetimehdiu": "Ne jemi miqtë tuaj në jetën e kësaj bote edhe në botën tjetër. Atje do të keni tërë ato që dëshirojnë shpirtërat tuaj dhe çdo send që të kërkoni"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 32,
+			"textAr": "نُزُلًا مِنْ غَفُورٍ رَحِيمٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Pritje nga Falësi, Mëshiruesi!”",
+				"sqi-hasanefendinahi": "si gosti prej Atij që falë shumë dhe që është mëshirues”",
+				"sqi-fetimehdiu": "Si qerasje nga ai i cili fal dhe është mëshirëplotë”"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 33,
+			"textAr": "وَمَنْ أَحْسَنُ قَوْلًا مِمَّنْ دَعَا إِلَى اللَّهِ وَعَمِلَ صَالِحًا وَقَالَ إِنَّنِي مِنَ الْمُسْلِمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "E kush ka fjalën më të mirë prej atij që thërret te All-llahu, vepron (punë) të mira dhe thotë: “Unë jam prej muslimanëve?”",
+				"sqi-hasanefendinahi": "E, kush flet më bukur se ai që thërret te All-llahu, bënë vepra të mira dhe thotë: “Unë, me të vërtetë, jam musliman!”",
+				"sqi-fetimehdiu": "Po kush flet më bukur se ai i cili të thërret tek All-llahu, bën vepra të mira dhe thotë: “Unë jam me të vërtetë musliman”"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 34,
+			"textAr": "وَلَا تَسْتَوِي الْحَسَنَةُ وَلَا السَّيِّئَةُ ۚ ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Nuk është e barabartë e mira dhe e keqja. Andaj, (të keqen) ktheje me mirësi, se atëherë ai, mes teje dhe të cilit ka armiqësi, do të bëhet (si) mik i afërt",
+				"sqi-hasanefendinahi": "Nuk barazohet e mira dhe e keqja! Të keqen ktheje me të mirë e atëherë – armiku yt do të të bëhet menjëherë mik i ngushtë",
+				"sqi-fetimehdiu": "E mira dhe e keqja nuk janë njëlloj. Të keqen ktheje me të mië, andaj armiku yt menjëherë do të bëhet mik i sinqertë"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 35,
+			"textAr": "وَمَا يُلَقَّاهَا إِلَّا الَّذِينَ صَبَرُوا وَمَا يُلَقَّاهَا إِلَّا ذُو حَظٍّ عَظِيمٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Mirëpo, këtë nuk e arrin kush, pos atyre të durueshmëve, dhe nuk e arrin kush, pos atyre me virtyt të lartë",
+				"sqi-hasanefendinahi": "Këtë mund ta arrijnë vetëm ata që durojnë dhe këtë mund ta arrijnë vetëm ata që janë të pajisur (me virtyte të bukura)",
+				"sqi-fetimehdiu": "Atë nuk mund ta arrijë tjetër veçse durimtarët, dhe atë nuk mund ta arrijë tjetër veçse ai që ka shumë fat"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 36,
+			"textAr": "وَإِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّهِ ۖ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ",
+			"translations": {
+				"sqi-sherifahmeti": "E nëse ty të ngacmon ndonjë ngacmim prej shejtanit, kërko mbrojtje në All-llahun, vërtet Ai është Dëgjuesi, i Dijshmi",
+				"sqi-hasanefendinahi": "E, nëse djalli fillon të të mashtrojë, kërko mbështetje te All-llahu. Me të vërtetë, Ai i dëgjon të gjitha dhe i di të gjitha",
+				"sqi-fetimehdiu": "Dhe nëse djalli fillon të të mashtrojë, ti kërko mbështetje tek All-llahu, sepse Ai njëmend dëgjon dhe sheh shumë"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 37,
+			"textAr": "وَمِنْ آيَاتِهِ اللَّيْلُ وَالنَّهَارُ وَالشَّمْسُ وَالْقَمَرُ ۚ لَا تَسْجُدُوا لِلشَّمْسِ وَلَا لِلْقَمَرِ وَاسْجُدُوا لِلَّهِ الَّذِي خَلَقَهُنَّ إِنْ كُنْتُمْ إِيَّاهُ تَعْبُدُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Nga faktet e madhështisë së Tij janë nata, dita, dielli e hëna. Mos i bëni sexhde as diellit, as hënës! Bëni sexhde vetëm All-llahut, i cili krijoi ato, nëse adhuroni vetëm Atë",
+				"sqi-hasanefendinahi": "Argumente të Tij janë edhe nata dhe dita, edhe Dielli dhe Hëna. Mos bëni sexhde (mos bini me fytyrë për tokë) as për Diellin as për Hënën, por bëni sexhde për Perëndinë, i cili i ka krijuar ato, nëse jeni adhurues të Atij",
+				"sqi-fetimehdiu": "Njëri nga argumentet e Tij janë nata dhe dita, edhe dielli dhe hëna, mos bëni sexhde as para Diellit as para Hënës, por bini në sexhde për All-llahun, i cili i krijoi ata, nëse dëshironi që vetëm Atë ta adhuroni"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 38,
+			"textAr": "فَإِنِ اسْتَكْبَرُوا فَالَّذِينَ عِنْدَ رَبِّكَ يُسَبِّحُونَ لَهُ بِاللَّيْلِ وَالنَّهَارِ وَهُمْ لَا يَسْأَمُونَ ۩",
+			"translations": {
+				"sqi-sherifahmeti": "Po nëse ata (kufarët) janë kryeneç (e nuk bëjnë sexhde), atëherë ata që janë pranë Zotit tënd (engjëjt më të lartë), Atij i bëjnë tesbih natën e ditën dhe ata nuk mërziten prej adhurimit",
+				"sqi-hasanefendinahi": "E, nëse ata madhështohen, - po, ata që janë te Zoti yt (engjëjt), e lavdërojnë Atë natën dhe ditën, e kurrë nuk mërziten",
+				"sqi-fetimehdiu": "Por nëse bënë mendjemadhësi, ani! Ata, të cilët janë te Zoti yt (engjujt), lavdërojnë natën dhe ditën dhe nuk lodhen"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 39,
+			"textAr": "وَمِنْ آيَاتِهِ أَنَّكَ تَرَى الْأَرْضَ خَاشِعَةً فَإِذَا أَنْزَلْنَا عَلَيْهَا الْمَاءَ اهْتَزَّتْ وَرَبَتْ ۚ إِنَّ الَّذِي أَحْيَاهَا لَمُحْيِي الْمَوْتَىٰ ۚ إِنَّهُ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Nga argumentet e Tij është edhe toka që ti e sheh atë të thatë (shkretëtirë), e kur Ne i lëshojmë asaj shiun, ajo gjallërohet e shtohet. E, s’ka dyshim se Ai që e ngjalli atë, do t’i ringjallë të vdekurit, pse Ai ka mundësi për ‘do gjë",
+				"sqi-hasanefendinahi": "Njëri nga argumentet e Tij është edhe ai që ti e sheh tokën të përulur – të thatë, e kur e lëshojmë në të shiun, toka lëvizë dhe gjallohet. Me të vërtetë Ai që e ngjallë atë, i ngjallë edhe të vdekurit. Me të vërtetë, Ai është i pushtetshëm për çdo gjë",
+				"sqi-fetimehdiu": "Një nga argumentet e Tij shtë edhe ai që ti sheh tokën e tharë, por kur në të lëshojmë shiun ajo kthehet dhe mugullon. Ai që e ngjallë atë do t’i ngjallë me siguri edhe të vdekurit, sepse Ai është i gjithfuqishëm për çdo gjë"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 40,
+			"textAr": "إِنَّ الَّذِينَ يُلْحِدُونَ فِي آيَاتِنَا لَا يَخْفَوْنَ عَلَيْنَا ۗ أَفَمَنْ يُلْقَىٰ فِي النَّارِ خَيْرٌ أَمْ مَنْ يَأْتِي آمِنًا يَوْمَ الْقِيَامَةِ ۚ اعْمَلُوا مَا شِئْتُمْ ۖ إِنَّهُ بِمَا تَعْمَلُونَ بَصِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata që sulmojnë argumente Tona, nuk mund të na fshihen. Pra, a më mirë i ka punët ai që do të hudhet në zjarr, apo ai që në në ditë e kijametit vjen i sigurt? E ju pra veproni si të dëshironi, e ta dini se Ai sheh atë që punoni",
+				"sqi-hasanefendinahi": "Me të vërtetë, ata që i shtrembërojnë argumentet Tona, nuk do të jenë të fshehtë te Ne. e, a është më e mirë ai që do të hidhet në zjarr apo ai që në Ditën e Kijametit do të vie i qetë? Punoni çka të doni (se ju gjen ajo çka ju takon), e Ai, me të vërtetë, i sheh të gjitha çka punoni ju",
+				"sqi-fetimehdiu": "Ata të cilët i shtrembërojnë argumentet tona, nuk do të na fshihen. A do të jetë më mirë ai që të hudhet në zjarr apo ai i cili në Ditën e Gjykimit vjen i sigurt? Punoni çka të doni, Ai pa dyshim sheh se çka punoni"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 41,
+			"textAr": "إِنَّ الَّذِينَ كَفَرُوا بِالذِّكْرِ لَمَّا جَاءَهُمْ ۖ وَإِنَّهُ لَكِتَابٌ عَزِيزٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata që e mohuan Kur’anin kur u erdhi, janë të marrë; ai është një libër ngadhnjyes (i pashoq)",
+				"sqi-hasanefendinahi": "Me të vërtetë, ata që e kanë mohur Këshillën (Kur’anin), kur u ka ardhur atyre (do të dënohen). Me të vërtetë, ai (Kur’ani), është Libër i madhërueshëm",
+				"sqi-fetimehdiu": "Ata që e mohuan Kur’anin, pasi që u pat ardhur, e ai është me të vërtetë libër i dashur"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 42,
+			"textAr": "لَا يَأْتِيهِ الْبَاطِلُ مِنْ بَيْنِ يَدَيْهِ وَلَا مِنْ خَلْفِهِ ۖ تَنْزِيلٌ مِنْ حَكِيمٍ حَمِيدٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Atij nuk mund t’i mvishet e pavërteta nga asnjë anë; është i zbritur prej të Urtit, të lavdishmit",
+				"sqi-hasanefendinahi": "të cilit nuk mund t’i vie gënjeshtra, nga asnjëra anë (as përpara, as përmbrapa). Kjo është shpallja prej të Gjithëdijshmit, të Falenderuarit",
+				"sqi-fetimehdiu": "Që nuk i vjen gënjeshtër nga asnjë anë, është shpallje nga një i Urtë i Lavdishëm"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 43,
+			"textAr": "مَا يُقَالُ لَكَ إِلَّا مَا قَدْ قِيلَ لِلرُّسُلِ مِنْ قَبْلِكَ ۚ إِنَّ رَبَّكَ لَذُو مَغْفِرَةٍ وَذُو عِقَابٍ أَلِيمٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Ty nuk po të thuhet tjetër përveç asaj që u është thënë të dërguarve para teje. Vërtet, Zoti yt është ai që falë, po është edhe Ai që ndëshkon rëndë",
+				"sqi-hasanefendinahi": "Nuk të thuhet ty (o Muhammed) asgjë, përpos asaj që u është thënë pejgamberëve – para teje. Me të vërtetë, Zoti yt (edhe) falë shumë, por edhe dënon dhembshëm",
+				"sqi-fetimehdiu": "Ty nuk do të thuhet asgjë që nuk u është thënë profetëve përpara teje. Zoti yt njëmend fal, por edhe ndëshkon keq"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 44,
+			"textAr": "وَلَوْ جَعَلْنَاهُ قُرْآنًا أَعْجَمِيًّا لَقَالُوا لَوْلَا فُصِّلَتْ آيَاتُهُ ۖ أَأَعْجَمِيٌّ وَعَرَبِيٌّ ۗ قُلْ هُوَ لِلَّذِينَ آمَنُوا هُدًى وَشِفَاءٌ ۖ وَالَّذِينَ لَا يُؤْمِنُونَ فِي آذَانِهِمْ وَقْرٌ وَهُوَ عَلَيْهِمْ عَمًى ۚ أُولَٰئِكَ يُنَادَوْنَ مِنْ مَكَانٍ بَعِيدٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Sikur Ne tabënim Kur’anin në gjuhë të huaj, ata do të thoshin: “Përse nuk janë ajetet e tij të kuptueshme (të shkoqitura), a është ai (Kur’ani) në gjuhë të huaj, kurse ai (pejgamberi) është arab?” Thuaj: “Ai është për besimtarët udhëzues e shërues. E ata që nuk besojnë në veshët e tyre kanë shurdhim, dhe ai për ta është verbërim. Të tillët janë sikurse thirren prej një vendi të largët e nuk dëgjojnë”",
+				"sqi-hasanefendinahi": "Sikur ta kishim shpallur Kur’anin në gjuhë të huaj, ata do të thonin: “Të ishin ajetet e shpallura të kuptueshme! Vallë, (a Kur’ani) të jetë në gjuhën joarabe, (e pejgamberi) të jetë arab!? Thuaj: “Ai, për besimtarët është udhërrëfyes dhe ilaç”. Dhe, ata që nuk besojnë, kanë pengesa në veshë (janë të shurdhër) dhe ai (Kur’ani), për ta është verbëri (ata janë të verbër), thuajse thirrën prej vendeve të largëta",
+				"sqi-fetimehdiu": "Dhe sikur ta bënim Kur’anin në gjuhën e huaj, ata me siguri do të thonin: “Të kishin qenë ajetet e tij të shpjeguar”. A gjuhë e huaj, e ai vetë arab, a?! thuaj: “Ai është për besimtarët udhëzim dhe bar”. Kurse ata që nuk besojnë – janë të shurdhër e të verbër, ata sikur thirren nga një vend i largët"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 45,
+			"textAr": "وَلَقَدْ آتَيْنَا مُوسَى الْكِتَابَ فَاخْتُلِفَ فِيهِ ۗ وَلَوْلَا كَلِمَةٌ سَبَقَتْ مِنْ رَبِّكَ لَقُضِيَ بَيْنَهُمْ ۚ وَإِنَّهُمْ لَفِي شَكٍّ مِنْهُ مُرِيبٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne edhe Musait i patëm dhënë librin, lidhur me të cilin pati kundërshtime. Sikur të mos ishte vendimi më parë prej Zotit tënd (të shtyhet ndëshkimi), puna mes tyre do të kryhej, pse ata janë në një dyshim ndaj tij",
+				"sqi-hasanefendinahi": "Dhe, Ne, me të vërtetë, ia kemi dhënë Musait Librin, e ata janë përçarë në të – dhe sikur të mos ishte Fjala e Zotit tënd e thënë më parë, atyre do t’u gjykohej menjëherë (në këtë jetë). Me të vërtetë, ata (mohuesit) dyshojnë thellë në këtë Libër",
+				"sqi-fetimehdiu": "Edhe Musaut i patëm dhënë libër, por e kundërshtuan. Po sikur të mos ishte fjala e mëparshme e Zotit tënd, me këta do të ishte puna e kryer, sepse ata shumë dyshojnë në të"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 46,
+			"textAr": "مَنْ عَمِلَ صَالِحًا فَلِنَفْسِهِ ۖ وَمَنْ أَسَاءَ فَعَلَيْهَا ۗ وَمَا رَبُّكَ بِظَلَّامٍ لِلْعَبِيدِ",
+			"translations": {
+				"sqi-sherifahmeti": "Kush bën mirë, ai e ka për vete, e kush bën keq, ai vepron kundër vetes, e Zoti yt nuk u bën padrejtësi robërve",
+				"sqi-hasanefendinahi": "Kush bën mirë, bën për dobi të vet, e kush punon keq, punon në dëm të vet. E, Zoti yt, nuk u bën zullum robërve (të Vet)",
+				"sqi-fetimehdiu": "Kush bën mirë, e bën për vete, e nëse bën keq, e bën kundër vetes. Mirëpo, Zoti yt nuk është i padrejtë ndaj njerëzve"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 47,
+			"textAr": "۞ إِلَيْهِ يُرَدُّ عِلْمُ السَّاعَةِ ۚ وَمَا تَخْرُجُ مِنْ ثَمَرَاتٍ مِنْ أَكْمَامِهَا وَمَا تَحْمِلُ مِنْ أُنْثَىٰ وَلَا تَضَعُ إِلَّا بِعِلْمِهِ ۚ وَيَوْمَ يُنَادِيهِمْ أَيْنَ شُرَكَائِي قَالُوا آذَنَّاكَ مَا مِنَّا مِنْ شَهِيدٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Vetëm Ai e di për katastrofën (për kijametin). Asnjë frut nuk del prej lëvozhgës së vet dhe asnjë femër nuk mbart e as nuk lind pa dijen e Tij. E ditën kur Ai thërret ata se ku janë ata qëm’i bënit shok? Ata thonë: “Ne të kemi njohur Ty, nuk na ndonjë prej nesh që dëshmon se ke shok!”",
+				"sqi-hasanefendinahi": "Vetëm All-llahu është i dijshëm kur do të ndodhë Çasti (Kijameti). Kurrfarë fruti nuk mund të dalë prej kupës së lules, as femra nuk mund të mbetet shtatzënë, as të lind, - pa dijeninë e Tij. E, atë Ditë kur Ai i thërret (idhujtarët): “Ku janë shokët e Mi, që m’i përshkruanit Mua?” Ata përgjigjen: “Na të lajmërojmë Ty se prej nesh nuk ka asnjë dëshmitar për ta (se janë shok të Tu)”",
+				"sqi-fetimehdiu": "Vetëm ai e di se kur do të bëhet shkatërrimi i botës. As frytet nuk dalin nga syza e lules së vet dhe asnjë femër nuk mbarset dhe nuk lind e ai të mos e dijë. Kurse në ditën kur ai thërret e thotë: “Ku janë shokët e mi?” – thonë: “Të njoftojmë se ne këtë nuk e dëshmojmë”"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 48,
+			"textAr": "وَضَلَّ عَنْهُمْ مَا كَانُوا يَدْعُونَ مِنْ قَبْلُ ۖ وَظَنُّوا مَا لَهُمْ مِنْ مَحِيصٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe humb prej tyre ajo që më parë adhuronini, e binden se ata nuk kanë shpëtim",
+				"sqi-hasanefendinahi": "Humbën (prej tyre) ata që i adhuronin më parë, dhe ata (tani), e dinë se nuk ka strehim për ta",
+				"sqi-fetimehdiu": "Dhe u humbën ata të cilëve më parë u janë falur, por e dinë se askund nuk mund të shmangen"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 49,
+			"textAr": "لَا يَسْأَمُ الْإِنْسَانُ مِنْ دُعَاءِ الْخَيْرِ وَإِنْ مَسَّهُ الشَّرُّ فَيَئُوسٌ قَنُوطٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Njeriu nuk lodhet prej kërkesës për mirë, e kur atë e godit e keqja, ai keqësohet shumë dhe humb shpresën",
+				"sqi-hasanefendinahi": "Njeriu nuk mërzitet kurrë duke kërkur të mirën (te All-llahu), e nëse e godet e keqja, ai menjëherë bie në dëshpërim dhe humbë shpresën",
+				"sqi-fetimehdiu": "Njeriut nuk i vjen vështirë të lutet për mirë, por kur e godet e keqja atëherë zhgënjehet dhe humb shpresën"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 50,
+			"textAr": "وَلَئِنْ أَذَقْنَاهُ رَحْمَةً مِنَّا مِنْ بَعْدِ ضَرَّاءَ مَسَّتْهُ لَيَقُولَنَّ هَٰذَا لِي وَمَا أَظُنُّ السَّاعَةَ قَائِمَةً وَلَئِنْ رُجِعْتُ إِلَىٰ رَبِّي إِنَّ لِي عِنْدَهُ لَلْحُسْنَىٰ ۚ فَلَنُنَبِّئَنَّ الَّذِينَ كَفَرُوا بِمَا عَمِلُوا وَلَنُذِيقَنَّهُمْ مِنْ عَذَابٍ غَلِيظٍ",
+			"translations": {
+				"sqi-sherifahmeti": "E nëse pas të këqiave që e goditë, Ne i japim të mira nga ana Jonë, ai me këmbëngulje do të thotë: “Këtë e kam arritur vet (këtë do ta kemë gjithnjë), e nuk mendoj se do të bëhet kijameti, po, edhe nëse do të kthehem te Zoti im, unë te Ai do të kemë edhe më mirë!” Ne pa tjetër do t’i njoftjmë ata që nuk besuan për atë që punuan dhe do t’u japim të përjetojnë dënim të rëndë",
+				"sqi-hasanefendinahi": "Nëse i japim atij (njeriut) që ta shijojë mëshirën Tonë, pas një fatkeqësie që e ka goditur atë, ai me siguri, do të thotë: “Këtë e meritoj, dhe unë nuk besoj se do të ndodhë Çasti (Dita e Kijametit), e nëse kthehem te Zoti im, tek Ai më takon e mira e madhe”. Me të vërtetë, Ne do t’i lajmërojmë mohuesit, për atë që kanë punuar dhe do t’u japim ta shijojnë dënimin e rëndë",
+				"sqi-fetimehdiu": "Kur e bëjmë të shijojë mëshirën Tonë, pas fatkeqësisë që e godit, ai e pohon kategorikisht: “Këtë e kam merituar edhe nuk mendoj se do të vijë momenti i ringjalljes. Por, edhe nëse kthehem te Zoti im, te ai kam vepra të mira”. Ndërsa Ne do t’i lajmërojmë me siguri ata që kanë mohuar se çka kanë punuar dhe pa dyshim do t’i bëjmë të shijojnë dënim të rëndë"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 51,
+			"textAr": "وَإِذَا أَنْعَمْنَا عَلَى الْإِنْسَانِ أَعْرَضَ وَنَأَىٰ بِجَانِبِهِ وَإِذَا مَسَّهُ الشَّرُّ فَذُو دُعَاءٍ عَرِيضٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne kur e begatojmë njeriun, ai nuk falënderon dhe largohet, e kur e godet e keqja, ai përulet dhe lutet shumë",
+				"sqi-hasanefendinahi": "Kur njeriut i dhurojmë dhuntitë Tona, ai shmanget dhe largohet me një anë, (nga të adhuruarit Neve), e kur ta godet e keqja, (atëherë) ai lutet gjerë e gjat",
+				"sqi-fetimehdiu": "Kur i dhurojmë njeriut dhuntinë Tonë, ai kthen shpinën, mirëpo sapo e prek e keqja ai lutet shumë gjatë"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 52,
+			"textAr": "قُلْ أَرَأَيْتُمْ إِنْ كَانَ مِنْ عِنْدِ اللَّهِ ثُمَّ كَفَرْتُمْ بِهِ مَنْ أَضَلُّ مِمَّنْ هُوَ فِي شِقَاقٍ بَعِيدٍ",
+			"translations": {
+				"sqi-sherifahmeti": "Thuaj: “Më tregoni, nëse ai (Kur’ani) është prej All-llahut, e ju e mohuat atë, kush është më i humbur se ai që është në kundërshtim të fortë?”",
+				"sqi-hasanefendinahi": "Thuaju (atyre) o Muhammed: “A po shihni? Nëse ai (Kur’ani) është prej Perëndisë, e ju nuk e besuat; kush është në humbje më të madhe se ai që është në kundërshtim, larg (së vërtetës)?”",
+				"sqi-fetimehdiu": "Thuaj: “A e shihni? Nëse është nga All-llahu e ju atë e mohoni, kush është në humbje më të madhe se ai që është në kundërshtim të thellë?”"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 53,
+			"textAr": "سَنُرِيهِمْ آيَاتِنَا فِي الْآفَاقِ وَفِي أَنْفُسِهِمْ حَتَّىٰ يَتَبَيَّنَ لَهُمْ أَنَّهُ الْحَقُّ ۗ أَوَلَمْ يَكْفِ بِرَبِّكَ أَنَّهُ عَلَىٰ كُلِّ شَيْءٍ شَهِيدٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ne do t’u bëjmë atyre të mundshme që të shohin argumentet Tona në horizonte dhe në veten e tyre deri që t’u bëhet e qartë se ai (Kur’ani) është i vërtetë. A nuk mjfton që Zoti yt është dëshmitar për çdo gjë",
+				"sqi-hasanefendinahi": "Na, atyre, do t’u dëftojmë argumentet Tona në hapësirat tokësore e qiellore, si dhe te vet ata, deri sa t’u bëhet plotësisht e qartë, se ai (Kur’ani), është i vërtetë. Vallë, a nuk të mjafton ty, që Zoti yt është, me të vërtetë, dëshmues i çdo gjëje",
+				"sqi-fetimehdiu": "Ne do t’u tregojmë argumentet tona në horizont si edhe në vetë ata, derisa t’u bëhet krejt e qartë se ai (Kur’ani) është i vërtetë. A nuk mjafton që Zoti yt të jetë për çdo send dëshmitar"
+			}
+		},
+		{
+			"surah": 41,
+			"number": 54,
+			"textAr": "أَلَا إِنَّهُمْ فِي مِرْيَةٍ مِنْ لِقَاءِ رَبِّهِمْ ۗ أَلَا إِنَّهُ بِكُلِّ شَيْءٍ مُحِيطٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Vini re! Ata janë në dyshim për takimin me Zotin e tyre (me botën tjetër), e ta dini se Ai ka përfshirë me dijen e vet çdo send",
+				"sqi-hasanefendinahi": "E, ata, me siguri, dyshojnë në takimin me Zotin e tyre. Dinie se, Ai (All-llahu), i përfshinë të gjitha gjërat (me fuqi dhe dijeni)",
+				"sqi-fetimehdiu": "Kujdes! Ata dyshojnë në takimin me Zotin e tyre – ani. Ai ngërthen çdo send"
+			}
+		}
+	]
+}

@@ -1,0 +1,223 @@
+{
+  "surah": 92,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 92,
+      "number": 1,
+      "textAr": "وَاللَّيْلِ إِذَا يَغْشَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha natën që me errësirë mbulon gjithësinë",
+        "sqi-hasanefendinahi": "Betohem në natën që e mbulon terri",
+        "sqi-fetimehdiu": "Pasha natën kur mbulon"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 2,
+      "textAr": "وَالنَّهَارِ إِذَا تَجَلَّىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha ditën kur ajo shkrepëtin",
+        "sqi-hasanefendinahi": "dhe ditën që agon",
+        "sqi-fetimehdiu": "Pasha ditën kur agon"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 3,
+      "textAr": "وَمَا خَلَقَ الذَّكَرَ وَالْأُنْثَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha Atë që krijoi mashkullin e femrën",
+        "sqi-hasanefendinahi": "dhe që ka krijuar mashkullin dhe femrën –",
+        "sqi-fetimehdiu": "Dhe çka e ka krijuar mashkullin dhe femrën"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 4,
+      "textAr": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Vërtet, veprimi juaj është i lloj-llojtë",
+        "sqi-hasanefendinahi": "me të vërtetë, veprat tuaja janë të ndryshme",
+        "sqi-fetimehdiu": "Mundi juaj, njëmend, është shumëfarësh"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 5,
+      "textAr": "فَأَمَّا مَنْ أَعْطَىٰ وَاتَّقَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "E sa i përket atij që jep dhe ruhet",
+        "sqi-hasanefendinahi": "atij që jep (për bamirës) dhe ruhet (prej gabimeve)",
+        "sqi-fetimehdiu": "Sa i përket atij që jep edhe ruhet"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 6,
+      "textAr": "وَصَدَّقَ بِالْحُسْنَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe vërteton bindshëm për më të mirën",
+        "sqi-hasanefendinahi": "dhe i cili dëshmon (vërteton) atë që është më e bukur (besimin)",
+        "sqi-fetimehdiu": "Edhe e dëshmon më të bukurën"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 7,
+      "textAr": "فَسَنُيَسِّرُهُ لِلْيُسْرَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Ne do ta përgatisim atë për më të lehtën",
+        "sqi-hasanefendinahi": "Na, atij do t’ia lehtësojmë rrugën e lumturisë (xhennetit)",
+        "sqi-fetimehdiu": "Atij do t’ia lehtësojmë (rrugën) për lehtësim"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 8,
+      "textAr": "وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "E sa i përket atij që bën koprraci dhe ndien veten të pavarur (nga Zoti)",
+        "sqi-hasanefendinahi": "kurse atij që është koprrac dhe e konsideron veten të pavarur (nga Zoti)",
+        "sqi-fetimehdiu": "Kurse ai që koprracon dhe kërkon të pasurohet"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 9,
+      "textAr": "وَكَذَّبَ بِالْحُسْنَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe që mohon atë më të mirën",
+        "sqi-hasanefendinahi": "dhe e përgënjeshtron atë më të bukurën (besimin)",
+        "sqi-fetimehdiu": "Dhe e përgënjeshtron të bukurën"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 10,
+      "textAr": "فَسَنُيَسِّرُهُ لِلْعُسْرَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Ne do ta përgatisim për më të vështirën",
+        "sqi-hasanefendinahi": "Na, atij, do t’ia lehtësojmë rrugën e rëndë (skëterrës)",
+        "sqi-fetimehdiu": "Atij do t’ia lehtësojmë (rrrugën) në vështërsi"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 11,
+      "textAr": "وَمَا يُغْنِي عَنْهُ مَالُهُ إِذَا تَرَدَّىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "E pasuria e tij nuk do t’i bëjë dobi, kur ai të zhduket",
+        "sqi-hasanefendinahi": "e kur të hedhet (në varr), pasuria e tij nuk do t’i bën dobi",
+        "sqi-fetimehdiu": "Dhe pasuri e tij, kur të shkatërrohet, nuk do t’i bëjë dobi"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 12,
+      "textAr": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Detyrë e jonë është vetëm të udhëzojmë",
+        "sqi-hasanefendinahi": "Neve na përket, që ta tregojmë rrugën e drejtë",
+        "sqi-fetimehdiu": "Është detyrë jona të përudhim"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 13,
+      "textAr": "وَإِنَّ لَنَا لَلْآخِرَةَ وَالْأُولَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe vetëm e Jona është bota tjetër si dhe kjo",
+        "sqi-hasanefendinahi": "dhe, me të vërtetë, e Jona është ajo botë dhe kjo botë",
+        "sqi-fetimehdiu": "Dhe vetëm neve na takon ajo edhe kjo botë"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 14,
+      "textAr": "فَأَنْذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Unë ua kam tërhequr vërejtjen për zjarrin të ndezur fort",
+        "sqi-hasanefendinahi": "Andaj Unë, ju kam tërhequr vërejtjen me zjarrin që ndizet",
+        "sqi-fetimehdiu": "Prandaj u kam tërhequr vërejtjen me zjarr të këndellur"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 15,
+      "textAr": "لَا يَصْلَاهَا إِلَّا الْأَشْقَى",
+      "translations": {
+        "sqi-sherifahmeti": "Që aty nuk hyn tjëtërkush, pos atij që është më i prishuri",
+        "sqi-hasanefendinahi": "në të cilin do të hidhet vetëm më i keqi",
+        "sqi-fetimehdiu": "Aty nuk digjet tjetërkush përveç fatziut"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 16,
+      "textAr": "الَّذِي كَذَّبَ وَتَوَلَّىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "I cili përgënjeshtroi dhe u zmbraps",
+        "sqi-hasanefendinahi": "i cili ka përgënjeshtruar dhe është larguar nga besimi",
+        "sqi-fetimehdiu": "Ai i cili mohon dhe kthen shpinënn"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 17,
+      "textAr": "وَسَيُجَنَّبُهَا الْأَتْقَى",
+      "translations": {
+        "sqi-sherifahmeti": "Ndërsa ai që është më i devotshëm do të jetë larg tij",
+        "sqi-hasanefendinahi": "e do të jetë larg nga ai (zjarri), ai që i druan Perëndisë",
+        "sqi-fetimehdiu": "Do të jetë larg tij ai i cili ruhet"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 18,
+      "textAr": "الَّذِي يُؤْتِي مَالَهُ يَتَزَكَّىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Ai që e jep pasurinë e vet e pastrohet",
+        "sqi-hasanefendinahi": "ai që ndanë nga pasuria e tij, duke e pastruar veten (nga të këqiat)",
+        "sqi-fetimehdiu": "Ai i cili jep (sadakë) nga pasuria e vet, e pasurohet"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 19,
+      "textAr": "وَمَا لِأَحَدٍ عِنْدَهُ مِنْ نِعْمَةٍ تُجْزَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "E jo për ta shpërblyer ndokë që i ka bërë mirë më parë",
+        "sqi-hasanefendinahi": "e nuk e jep atë – për t’ia kthyer ndokush",
+        "sqi-fetimehdiu": "Dhe jo atij prej të cilit do të shpërblehet me ndonjë dhunti"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 20,
+      "textAr": "إِلَّا ابْتِغَاءَ وَجْهِ رَبِّهِ الْأَعْلَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Por vetëm për të fituar kënaqësinë e Zotit të vet, më të lartit",
+        "sqi-hasanefendinahi": "por vetëm që të fitojë kënaqësinë e Zotit të tij të Lartëmadhërueshëm",
+        "sqi-fetimehdiu": "Por vetëm që të përfitojë afërsinë e Zotit të vet të lartmadhërishëm"
+      }
+    },
+    {
+      "surah": 92,
+      "number": 21,
+      "textAr": "وَلَسَوْفَ يَرْضَىٰ",
+      "translations": {
+        "sqi-sherifahmeti": "Për Zotin, ai do të gëzojë atë kënaqësi",
+        "sqi-hasanefendinahi": "dhe ai, me siguri, do të jetë i kënaqur",
+        "sqi-fetimehdiu": "Dhe ai, pa mëdyshje, do të kënaqet"
+      }
+    }
+  ]
+}

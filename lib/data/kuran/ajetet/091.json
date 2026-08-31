@@ -1,0 +1,163 @@
+{
+  "surah": 91,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 91,
+      "number": 1,
+      "textAr": "وَالشَّمْسِ وَضُحَاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha diellin dhe dritën e tij",
+        "sqi-hasanefendinahi": "Betohem në Diellin dhe dritën e tij",
+        "sqi-fetimehdiu": "Pasha diellin dhe shkëlqimin e tij"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 2,
+      "textAr": "وَالْقَمَرِ إِذَا تَلَاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha hënën kur vjen pas tij",
+        "sqi-hasanefendinahi": "dhe Hënën që e përcjellë",
+        "sqi-fetimehdiu": "Pasha hënën kur atë e ndjek"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 3,
+      "textAr": "وَالنَّهَارِ إِذَا جَلَّاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha ditën kur ai (dielli) e shndrit",
+        "sqi-hasanefendinahi": "dhe ditën që e bën të dukshëm atë",
+        "sqi-fetimehdiu": "Pasha ditën kur ai shëndrit"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 4,
+      "textAr": "وَاللَّيْلِ إِذَا يَغْشَاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha natën kur ajo e mbulon atë (dritën e diellit)",
+        "sqi-hasanefendinahi": "dhe natën kur e mbulon",
+        "sqi-fetimehdiu": "Pasha natën kur e kaplon"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 5,
+      "textAr": "وَالسَّمَاءِ وَمَا بَنَاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha qiellin dhe Atë që e ndërtoi atë",
+        "sqi-hasanefendinahi": "dhe qiellin dhe Atë që e ka ndërtuar (atë)",
+        "sqi-fetimehdiu": "Pasha qiellin dhe gjithçka e ndërton"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 6,
+      "textAr": "وَالْأَرْضِ وَمَا طَحَاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha tokën dhe Atë që e shtriu atë (e sheshoi)",
+        "sqi-hasanefendinahi": "dhe Tokën dhe Atë që e ka shtruar atë (Tokën)",
+        "sqi-fetimehdiu": "Pasha tokën dhe atë çka e zgjeron"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 7,
+      "textAr": "وَنَفْسٍ وَمَا سَوَّاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha njeriun dhe Atë që e krijoi atë",
+        "sqi-hasanefendinahi": "dhe shpirtin (njeriun e parë) dhe Atë që e krijoi",
+        "sqi-fetimehdiu": "Pasha shpirtin dhe atë çka e lartëson"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 8,
+      "textAr": "فَأَلْهَمَهَا فُجُورَهَا وَتَقْوَاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe ia mësoi se cilat janë të këqijat dhe të mirat e tij",
+        "sqi-hasanefendinahi": "e ua ka shpjeguar të mirën e të keqen",
+        "sqi-fetimehdiu": "Ia bëri të ditur mospëruljen dhe devotshmërinë"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 9,
+      "textAr": "قَدْ أَفْلَحَ مَنْ زَكَّاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Pra, ka shpëtuar ai që e pastroi vetveten",
+        "sqi-hasanefendinahi": "me të vërtetë, ai që e pastron atë (shpirtin), do të jetë i lumtur",
+        "sqi-fetimehdiu": "Ka shpëtuar vetëm ai që atë e pastron"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 10,
+      "textAr": "وَقَدْ خَابَ مَنْ دَسَّاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "E ka dështuar ai që e poshtëroi vetveten",
+        "sqi-hasanefendinahi": "e, me të vërtetë do të humbë ai që e devijon atë (shpirtin)",
+        "sqi-fetimehdiu": "Ka mbaruar ai, i cili e deformon"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 11,
+      "textAr": "كَذَّبَتْ ثَمُودُ بِطَغْوَاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Themudi përgënjeshtroi për shkak të arrogancës së vet",
+        "sqi-hasanefendinahi": "Populli i Themudit, nga shfrenimi i vet – ka përgënjeshtruar",
+        "sqi-fetimehdiu": "Themud përgënjeshtroi për shkak të tërbimt të tij"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 12,
+      "textAr": "إِذِ انْبَعَثَ أَشْقَاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Kur më i keqi i tyre u ngrit me të shpejtë",
+        "sqi-hasanefendinahi": "kur nga mesi i tyre u ngrit një fatzezë",
+        "sqi-fetimehdiu": "Kur u ngrit një fatzi"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 13,
+      "textAr": "فَقَالَ لَهُمْ رَسُولُ اللَّهِ نَاقَةَ اللَّهِ وَسُقْيَاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "e Pejgamberi atyre u pat thënë: “Kinie kujdes devenë e All-llahut dhe ndaj pengimit të saj që të pijë ujë",
+        "sqi-hasanefendinahi": "i dërguari i Perëndisë (Salihu), ju tha atyre: “Lëreni deven e Perëndisë dhe kujdesuni për kohën kur duhet të pijë ajo!”",
+        "sqi-fetimehdiu": "U tha atyre Profeti i All-llahut: “Lëreni deven e All-llahut edhe te rendi i ujit”"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 14,
+      "textAr": "فَكَذَّبُوهُ فَعَقَرُوهَا فَدَمْدَمَ عَلَيْهِمْ رَبُّهُمْ بِذَنْبِهِمْ فَسَوَّاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Ata nuk i besuan atij dhe atë (devenë) e therrën dhe Zoti i tyre për shkak të mëkatit të tyre ua rreshtoi ndëshkimet dhe i rrafshoi",
+        "sqi-hasanefendinahi": "Por ata nuk i besuan (atij), madje e prënë atë (devën) – dhe Zoti i tyre shkatërroi ata për mëkatet e tyre, duke i zhdukur deri në të fundit",
+        "sqi-fetimehdiu": "Por ata nuk i besuan por e prenë atë (deven), e Zoti i tyre, për shkak të mëkatit të tyre, i rrafshoi ata"
+      }
+    },
+    {
+      "surah": 91,
+      "number": 15,
+      "textAr": "وَلَا يَخَافُ عُقْبَاهَا",
+      "translations": {
+        "sqi-sherifahmeti": "Duke mos iu frikësuar prapavisë së atij (ndëshkimi)",
+        "sqi-hasanefendinahi": "se, Ai, nuk i druan pasojës nga ajo",
+        "sqi-fetimehdiu": "Pa iu frikësuar pasojave të tij"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+	"surah": 98,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 98,
+			"number": 1,
+			"textAr": "لَمْ يَكُنِ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ مُنْفَكِّينَ حَتَّىٰ تَأْتِيَهُمُ الْبَيِّنَةُ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata nga ithtarët e librit dhe idhujtarët, të cilët nuk besuan, nuk iu ndanë (besimit të tyre) derisa atyre u erdhi argumenti i qartë",
+				"sqi-hasanefendinahi": "Nuk u larguan nga feja e tyre – mohuesit, që ishin nga idhtarët e Librit, si dhe paganët, deri sa ju erdhi argumenti i qartë",
+				"sqi-fetimehdiu": "Ata të cilët mohuan, nga pasues të librit dhe politeistët, nuk largoheshin deri kur u erdh argumenti i qartë"
+			}
+		},
+		{
+			"surah": 98,
+			"number": 2,
+			"textAr": "رَسُولٌ مِنَ اللَّهِ يَتْلُو صُحُفًا مُطَهَّرَةً",
+			"translations": {
+				"sqi-sherifahmeti": "I dërguari prej All-llahut, që lexon fletë të pastra",
+				"sqi-hasanefendinahi": "Pejgamberi nga All-llahu, i cili lexon broshurat e pastra (nga gabimet)",
+				"sqi-fetimehdiu": "Një Profet nga All-llahu i cili lexon broshura të pastërta"
+			}
+		},
+		{
+			"surah": 98,
+			"number": 3,
+			"textAr": "فِيهَا كُتُبٌ قَيِّمَةٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Në të cilat ka vetëm dispozita të drejta",
+				"sqi-hasanefendinahi": "në të cilat ka kapituj me dispozita të çmueshme",
+				"sqi-fetimehdiu": "Ku ka norma të drejta e stabile"
+			}
+		},
+		{
+			"surah": 98,
+			"number": 4,
+			"textAr": "وَمَا تَفَرَّقَ الَّذِينَ أُوتُوا الْكِتَابَ إِلَّا مِنْ بَعْدِ مَا جَاءَتْهُمُ الْبَيِّنَةُ",
+			"translations": {
+				"sqi-sherifahmeti": "Dhe ata të cilëve u është dhënë libri, nuk u ndanë vetëm pasi që u erdhi argumenti",
+				"sqi-hasanefendinahi": "E u ndanë (nuk u pajtuan) ata që patën Librin, vetëm atëherë kur u erdhi argumenti i qartë",
+				"sqi-fetimehdiu": "Dhe ata të cilëve u qe dhënë Libri nuk u ndanë dei atëherë kur u erdh argumenti i qartë"
+			}
+		},
+		{
+			"surah": 98,
+			"number": 5,
+			"textAr": "وَمَا أُمِرُوا إِلَّا لِيَعْبُدُوا اللَّهَ مُخْلِصِينَ لَهُ الدِّينَ حُنَفَاءَ وَيُقِيمُوا الصَّلَاةَ وَيُؤْتُوا الزَّكَاةَ ۚ وَذَٰلِكَ دِينُ الْقَيِّمَةِ",
+			"translations": {
+				"sqi-sherifahmeti": "E duke qenë se ata nuk ishin të urdhëruar me tjetër, pos që ta adhuronin All-llahun me një adhurim të sinqertë ndaj Tij, që të largohen prej çdo besimi të kotë, ta falin namazin, të japin zeqatin, se ajo është feja e drejtë",
+				"sqi-hasanefendinahi": "e janë urdhëruar ata që t’i luten vetëm Perëndisë, që sinqerisht, si besimtarë të vërtetë, të predikojnë fenë dhe të bëjnë namaz, dhe të ndajnë lëmoshën (zeqatin); e kjo është feja e drejtë",
+				"sqi-fetimehdiu": "Porse u qe urdhëruar të adhurojnë vetëm All-llahun, që si besimtarë të sinqertë, me sinqeritet t’i rrëfejnë fenë, edhe të kryejnë të falurit, edh të japin zeqatin, e ajo është fe stabile"
+			}
+		},
+		{
+			"surah": 98,
+			"number": 6,
+			"textAr": "إِنَّ الَّذِينَ كَفَرُوا مِنْ أَهْلِ الْكِتَابِ وَالْمُشْرِكِينَ فِي نَارِ جَهَنَّمَ خَالِدِينَ فِيهَا ۚ أُولَٰئِكَ هُمْ شَرُّ الْبَرِيَّةِ",
+			"translations": {
+				"sqi-sherifahmeti": "S’ka dyshim se ata, të cilët nuk besuan nga ithtarët e librit dhe nga idhujtarët, do të jenë në zjarrin e Xhehennemit, aty do të jenë përgjithmonë. Të tilët janë krijesa më e dëmshme",
+				"sqi-hasanefendinahi": "Ata që nuk besojnë, si ata që patën Libër ashtu edhe paganët, ata, me siguri do të gjenden në zjarrin e skëterrës, në te do të mbeten përherë, ata janë krijesat më të këqia",
+				"sqi-fetimehdiu": "Ata të cilët nuk besojnë nga ithtarët e librit edhe politeistët, do të jenë, me siguri në zjarrin e xhehennemit, ku do të mbesin përgjithmonë. Ata janë krijesa më të këqia"
+			}
+		},
+		{
+			"surah": 98,
+			"number": 7,
+			"textAr": "إِنَّ الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ أُولَٰئِكَ هُمْ خَيْرُ الْبَرِيَّةِ",
+			"translations": {
+				"sqi-sherifahmeti": "Ndërsa, ata që besuan dhe bënë vepra të mira, të tillët janë krijesa më e dobishme",
+				"sqi-hasanefendinahi": "E, me të vërtetë, ata që besojnë dhe punojnë vepra të mira – ata janë krijesat më të mira",
+				"sqi-fetimehdiu": "Kurse ata që besojnë dhe bëjnë vepra të mira ata janë, njëmend, krijesat më të mira"
+			}
+		},
+		{
+			"surah": 98,
+			"number": 8,
+			"textAr": "جَزَاؤُهُمْ عِنْدَ رَبِّهِمْ جَنَّاتُ عَدْنٍ تَجْرِي مِنْ تَحْتِهَا الْأَنْهَارُ خَالِدِينَ فِيهَا أَبَدًا ۖ رَضِيَ اللَّهُ عَنْهُمْ وَرَضُوا عَنْهُ ۚ ذَٰلِكَ لِمَنْ خَشِيَ رَبَّهُ",
+			"translations": {
+				"sqi-sherifahmeti": "Shpërblimi për ta te Zoti i tyre janë: vendet ne Xhennete nëpër të cilët burojnë lumenj, e aty janë përgjithmonë, pakëputur. All-llahu është i kënaqur ndaj tyre, e edhe ata të kënaqur prej Tij. E ky është për atë, që i ka pasur frikën Zotit të vet",
+				"sqi-hasanefendinahi": "shpërblimi i tyre te Zoti i tyre janë kopshtet (xhennetet) e Adnit, nëpër të cilat rrjedhin lumenjt ku do të banojnë përherë dhe përgjithmonë. All-llahu është i kënaqur me ta, si dhe ata janë të kënaqur me Te. Kjo është dhuratë për ata që i druajnë Zotit të vet",
+				"sqi-fetimehdiu": "Shpërblimi i tyre, te Zoti i tyre, janë xhennete të Adënit, nëpër të cilët do të rrjedhin lumenj, ku do të mbesin të banojnë përgjithmonë. All-llahu do të jetë i kënaqur me ata, por edhe ata do të jenë të kënaqur me Te. Ajo është për ata i cili ka pasur droje nga Zoti i vet"
+			}
+		}
+	]
+}

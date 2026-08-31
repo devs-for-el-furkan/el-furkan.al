@@ -1,0 +1,123 @@
+{
+  "surah": 100,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 100,
+      "number": 1,
+      "textAr": "وَالْعَادِيَاتِ ضَبْحًا",
+      "translations": {
+        "sqi-sherifahmeti": "Pasha vrapuesit e shpejtë (kuajt) që hingëllojnë",
+        "sqi-hasanefendinahi": "Betohem në atë (kuajt) që vrapojnë duke dihatur",
+        "sqi-fetimehdiu": "Pasha kalorësinë që po tërfëllon"
+      }
+    },
+    {
+      "surah": 100,
+      "number": 2,
+      "textAr": "فَالْمُورِيَاتِ قَدْحًا",
+      "translations": {
+        "sqi-sherifahmeti": "E që me thundrat e tyre nxjerrin xixëllima zjarri nga gurët",
+        "sqi-hasanefendinahi": "e që qesin xixa nga thundrat e tyre",
+        "sqi-fetimehdiu": "Edhe flakërimën e zjarrit që po veton"
+      }
+    },
+    {
+      "surah": 100,
+      "number": 3,
+      "textAr": "فَالْمُغِيرَاتِ صُبْحًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe të cilët vërsulen herët në agim",
+        "sqi-hasanefendinahi": "dhe sulmojnë (armikun) në mëngjes",
+        "sqi-fetimehdiu": "Dhe që në agim sulmon"
+      }
+    },
+    {
+      "surah": 100,
+      "number": 4,
+      "textAr": "فَأَثَرْنَ بِهِ نَقْعًا",
+      "translations": {
+        "sqi-sherifahmeti": "E me të (vërsulje) atëherë çojnë pluhur",
+        "sqi-hasanefendinahi": "dhe n’atë rast çojn pluhur",
+        "sqi-fetimehdiu": "Dhe atëherë ngreh pluhur"
+      }
+    },
+    {
+      "surah": 100,
+      "number": 5,
+      "textAr": "فَوَسَطْنَ بِهِ جَمْعًا",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe ashtu hidhen në mesin e grumbullit (të armikut)",
+        "sqi-hasanefendinahi": "të cilët futen në radhët e armikut",
+        "sqi-fetimehdiu": "Dhe vërsulen së bashku në të"
+      }
+    },
+    {
+      "surah": 100,
+      "number": 6,
+      "textAr": "إِنَّ الْإِنْسَانَ لِرَبِّهِ لَكَنُودٌ",
+      "translations": {
+        "sqi-sherifahmeti": "Vërtet, njeriu është përbuzës ndaj Zotit të vet",
+        "sqi-hasanefendinahi": "me të vërtetë, njeriu është jomirënjohës ndaj Zotit të vet",
+        "sqi-fetimehdiu": "Njeriu është, me të vërtetë, bukëshkelë ndaj Zotit të vet"
+      }
+    },
+    {
+      "surah": 100,
+      "number": 7,
+      "textAr": "وَإِنَّهُ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "translations": {
+        "sqi-sherifahmeti": "Edhe vetë është dëshmues i asaj (përbuzje)",
+        "sqi-hasanefendinahi": "dhe ai, me të vërtetë, për këtë, është i vetëdijshëm",
+        "sqi-fetimehdiu": "Edhe vetë ai, pa dyshim, e dëshmon këtë"
+      }
+    },
+    {
+      "surah": 100,
+      "number": 8,
+      "textAr": "وَإِنَّهُ لِحُبِّ الْخَيْرِ لَشَدِيدٌ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe ai është që shumë e do pasurinë",
+        "sqi-hasanefendinahi": "dhe, ai është lakmues i madh i pasurisë",
+        "sqi-fetimehdiu": "Edhe ai është i shtrënguar ngase e do pasurinë"
+      }
+    },
+    {
+      "surah": 100,
+      "number": 9,
+      "textAr": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِي الْقُبُورِ",
+      "translations": {
+        "sqi-sherifahmeti": "A nuk e di ai se kur të nxirret çka ëstë në varreza",
+        "sqi-hasanefendinahi": "E, vallë, a nuk e di ai (njeriu), kur do të përzihen (ringjallen) ata që gjenden në varreza",
+        "sqi-fetimehdiu": "Po a nuk e di se kur të ngjallen gjithë çka janë në varre"
+      }
+    },
+    {
+      "surah": 100,
+      "number": 10,
+      "textAr": "وَحُصِّلَ مَا فِي الصُّدُورِ",
+      "translations": {
+        "sqi-sherifahmeti": "Dhe të tubohet (të dalë në shesh) ajo që ishte në gjoksa",
+        "sqi-hasanefendinahi": "dhe kur të dali në shesh ajo që është në zemra (e mira dhe e keqja)",
+        "sqi-fetimehdiu": "Dhe të dalë në shesh çka ka në zemra"
+      }
+    },
+    {
+      "surah": 100,
+      "number": 11,
+      "textAr": "إِنَّ رَبَّهُمْ بِهِمْ يَوْمَئِذٍ لَخَبِيرٌ",
+      "translations": {
+        "sqi-sherifahmeti": "E atë ditë, pa dyshim Zoti i tyre është i njohur për punën e tyre",
+        "sqi-hasanefendinahi": "Zoti i tyre, me siguri, atë Ditë do të dijë çdo gjë për ta",
+        "sqi-fetimehdiu": "Zoti i tyre, atë ditë, gjithsesi, do të jetë i informuar për ata"
+      }
+    }
+  ]
+}

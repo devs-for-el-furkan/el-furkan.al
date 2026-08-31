@@ -1,0 +1,189 @@
+{
+	"surah": 49,
+	"editions": {
+		"arabic": "ara-quransimple",
+		"translations": ["sqi-sherifahmeti", "sqi-hasanefendinahi", "sqi-fetimehdiu"]
+	},
+	"ayahs": [
+		{
+			"surah": 49,
+			"number": 1,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تُقَدِّمُوا بَيْنَ يَدَيِ اللَّهِ وَرَسُولِهِ ۖ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ سَمِيعٌ عَلِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "O besimtarë, mos bëni asgjë para (se të orientoheni në udhëzimet e) Zotit dhe të dërguarit të Tij, keni kujdes All-llahun, se me të vërtetë All-llahu i dëgjon të gjitha dhe i di të gjitha",
+				"sqi-hasanefendinahi": "O ju që keni besuar! Mos nxitoi para urdhërit (dispozitës) së Perëndisë dhe Pejgamberit të Tij dhe druani Perëndisë! All-llahu, me të vërtetë, i dëgjon të gjitha dhe i di të gjitha",
+				"sqi-fetimehdiu": "O besimtarë, mos nxitoni (të vendosni) para All-llahut dhe Profetit të Tij, dhe frikësohuni All-llahut! All-llahu me të vërtetë dëgjon dhe është shumë i dijshëm"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 2,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَرْفَعُوا أَصْوَاتَكُمْ فَوْقَ صَوْتِ النَّبِيِّ وَلَا تَجْهَرُوا لَهُ بِالْقَوْلِ كَجَهْرِ بَعْضِكُمْ لِبَعْضٍ أَنْ تَحْبَطَ أَعْمَالُكُمْ وَأَنْتُمْ لَا تَشْعُرُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që keni besuar, mos ngritni zërin tuaj mbi zërin e Pejgamberit dhe mos iu ngërmoni atij si i ngërmoheni njëri-tjetrit, e të zhduken veprat tuaja duke mos ditur ju",
+				"sqi-hasanefendinahi": "O ju që keni besuar! Mos ngritni zërin tuaj mbi zërin e Pejgamberit dhe mos bisedoni me të me zë të lartë, ashtu si flitni zëshëm njëri me tjetrin, në mëhyrë që mos t’u humbin veprat tuaja – e që ju të mos i hetoni",
+				"sqi-fetimehdiu": "O besimtarë, mos ngritni zërin tuaj më lart se zëri i Profetit dhe me të mos bisedoni me zë të lartë, siç bisedoni, me zë, njëri me tjetrin, që të mos zhduken veprat tuaja e ju të mos e hetoni fare"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 3,
+			"textAr": "إِنَّ الَّذِينَ يَغُضُّونَ أَصْوَاتَهُمْ عِنْدَ رَسُولِ اللَّهِ أُولَٰئِكَ الَّذِينَ امْتَحَنَ اللَّهُ قُلُوبَهُمْ لِلتَّقْوَىٰ ۚ لَهُمْ مَغْفِرَةٌ وَأَجْرٌ عَظِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata që ulin zërat e tyre paranë të dërguarit të All-llahut. All-llahu zemrat e tyre i ka përshtatur për devotshmëri, ata kanë falje mëkatesh dhe shpërblim të madh",
+				"sqi-hasanefendinahi": "Me të vërtetë, ata që ulin zërin para (në prezencën e) Pejgamberit të Perëndisë – e ata janë (ata), zemrat e të cilëve All-llahu i ka kalitur për besim. Për ta ka falje dhe shpërblim të madh",
+				"sqi-fetimehdiu": "Ata që ulin zërat e tyre para profetit të All-llahut – e ata janë, zemrat e të cilëve All-llahu i ka kalitur në devotshmëri – vërtet i pret falja dhe shpërblim i madh"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 4,
+			"textAr": "إِنَّ الَّذِينَ يُنَادُونَكَ مِنْ وَرَاءِ الْحُجُرَاتِ أَكْثَرُهُمْ لَا يَعْقِلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata që thërrasin përtej mureve, shumica e tyre janë që nuk kuptojnë",
+				"sqi-hasanefendinahi": "Me të vërtetë, ata që të thërrasin ty pas (mureve) të dhomave (tuaja), shumica e tyre nuk mendojnë",
+				"sqi-fetimehdiu": "Ata që të thërrasin prapa dhomave, shumica prej tyre nuk janë të mençur (s’kanë mendje për të kuptuar)"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 5,
+			"textAr": "وَلَوْ أَنَّهُمْ صَبَرُوا حَتَّىٰ تَخْرُجَ إِلَيْهِمْ لَكَانَ خَيْرًا لَهُمْ ۚ وَاللَّهُ غَفُورٌ رَحِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "E sikur ata të bënin durim derisa të kishe dalë ti vetë, do të ishte më edukative për ta, po All-llahu është mëkatfalës, mëshirues",
+				"sqi-hasanefendinahi": "E sikur të durojnë ata deri sa t’ju dalish ti atyre, do të ishte më mirë për ta; e All-llahu ësht falës dhe mëshirues",
+				"sqi-fetimehdiu": "Sikur ata të duronin deri sa ti të dilje vetë, do të ishte më mirë; megjithatë All-llahu fal dhe është shumë i mëshirshëm"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 6,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا إِنْ جَاءَكُمْ فَاسِقٌ بِنَبَإٍ فَتَبَيَّنُوا أَنْ تُصِيبُوا قَوْمًا بِجَهَالَةٍ فَتُصْبِحُوا عَلَىٰ مَا فَعَلْتُمْ نَادِمِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që keni besuar, nëse ndonjë i pandërgjegjshëm u sjell ndonjë lajm, ju shqyrtonie mirë, ashtu që të mos e goditni ndonjë popull pa e ditur realitetin, e pastaj të pendoheni për atë që keni bërë",
+				"sqi-hasanefendinahi": "O ju që keni besuar! Nëse ndonjë njeri i pandershëm ju sjell ndonjë lajm, analizoni mirë, për të mos i bërë dëm ndokujt nga mosdijenia, e të pendoheni pastaj për atë që keni punuar",
+				"sqi-fetimehdiu": "O besimtarë, nëse ndonjë njeri i pandershëm u sjell ndonjë lajm, sqarone mirë, që të mos e goditni (dikë) nga padijenia e pastaj të pendoheni për shkak të asaj që keni bërë"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 7,
+			"textAr": "وَاعْلَمُوا أَنَّ فِيكُمْ رَسُولَ اللَّهِ ۚ لَوْ يُطِيعُكُمْ فِي كَثِيرٍ مِنَ الْأَمْرِ لَعَنِتُّمْ وَلَٰكِنَّ اللَّهَ حَبَّبَ إِلَيْكُمُ الْإِيمَانَ وَزَيَّنَهُ فِي قُلُوبِكُمْ وَكَرَّهَ إِلَيْكُمُ الْكُفْرَ وَالْفُسُوقَ وَالْعِصْيَانَ ۚ أُولَٰئِكَ هُمُ الرَّاشِدُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "E, dijeni se në mesin tuaj e keni të dërguarin e All-llahut. sikur ai t’ju dëgjonte juve në shu, ë çështje, ju do të pësonit vuajtje, por All-llahu juve ua bëri të dashur besimin dhe ua zbukuroi atë në zemrat tuaja, ndërsa mosbesimin, shfrenimin dhe kundërshtimin, ua bëri që t’i uureni. Të tillë janë ata që gjetën rrugën e drejtë",
+				"sqi-hasanefendinahi": "Dhe, dijeni se në mes jush gjendet Pejgamberi i Perëndisë; sikur ai t’ju dëgjonte juve në shumë gjëra, ju do të kishit pësuar; por All-llahu disave prej jush ua ka bërë të këndshëm besimin dhe ua ka zbukuruar atë në zemrat tuaja, e ua ka urryer juve mohimin, ngatërresat dhe mëkatet. Të tillët janë në rrugën e drejtë",
+				"sqi-fetimehdiu": "Dhe ta dini se në mesin tuaj është Profeti i All-llahut. Po t’u dëgjonte juve, me të vërtetë, në shumë çka do t’ju rrezikonte; por All-llahu juve ju shtini simpati ndaj besimit dhe ua zbukuroi në zemrat tuaja, kurse mosbesimin, mosdëgjimin dhe mosmirënjohjen ua bëri të urrejtura. Të atillë janë në rrugë të drejtë"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 8,
+			"textAr": "فَضْلًا مِنَ اللَّهِ وَنِعْمَةً ۚ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Kjo është dhuratë dhe begati prej All-llahut, e All-llahu është i dijshëmdhe i urtë",
+				"sqi-hasanefendinahi": "me mirësinë dhe dhuntinë e Perëndisë. – E, All-llahu është i Plotëdijshëm dhe i Gjithëdijshëm",
+				"sqi-fetimehdiu": "Me mirësinë dhe dhuntinë e All-llahut, sepse All-llahu është shumë i dijshëm dhe i urtë"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 9,
+			"textAr": "وَإِنْ طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا ۖ فَإِنْ بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ ۚ فَإِنْ فَاءَتْ فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا ۖ إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Nëse dy grupe besimtarësh tentojnë të luftojnë ndërmjet vete, ju pajtoni ata, e në qoftë se ndonjëri prej tyre e sulmon tjetrin, atëherë luftonie atë grup që vërsulet me pa të drejtë, derisa t’i bindet udhëzimit të All-llahut, e nëse ktheheni, atëherë me drejtësi bëni pajtimin ndërmjet tyre, mbanie drejtësinë, se vërtet All-llahu i do të drejtit",
+				"sqi-hasanefendinahi": "Nëse dy grupe muslimanësh luftojnë në mes vete, pajtoni ata, e nëse njëra prej tyre sulmon atë tjetrën, atëherë luftoni kundër sulmuesit, përderisa të mos kthehet në dispozitat e Perëndisë. E, nëse kthehet, atëherë pajtoni ata mes tyre, me të drejtë dhe bëhuni të drejtë. All-llahu, me të vërtetë, i do të drejtët",
+				"sqi-fetimehdiu": "Nëse dy grupe besimtarësh bien në kundërshtim, pajtoni ata, e në qoftë se njëri nga ata, megjithatë i bën dëm tjetrit, atëherë luftone atë (grup) i cili ka bërë krime derisa t’u bindet normave të All-llahut. Nëse binden, atëherë pajtoni ata pa mbajtur anën e askujt, dhe jini të drejtë! All-llahu njëmend i do të drejtët"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 10,
+			"textAr": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ فَأَصْلِحُوا بَيْنَ أَخَوَيْكُمْ ۚ وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُرْحَمُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "S’ka dyshim se besimtarët janë vëllezër, pra bëni pajtim ndërmjet vëllezërve tuaj dhe kinie frikë All-llahun, që të jeni të mëshiruar (na Zoti)",
+				"sqi-hasanefendinahi": "Me të vërtetë, muslimanët janë vëllezër, andaj pajtoni vëllezërit tuaj në mes vete dhe druajuni Perëndisë, për t’u mëshiruar ju",
+				"sqi-fetimehdiu": "Pa dyshim besimtarët janë vëllezër, prandaj pajtoni dy vëllezër tuaj dhe kini frikë e ruajuni All-llahut, ndoshta u mëshiron"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 11,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا يَسْخَرْ قَوْمٌ مِنْ قَوْمٍ عَسَىٰ أَنْ يَكُونُوا خَيْرًا مِنْهُمْ وَلَا نِسَاءٌ مِنْ نِسَاءٍ عَسَىٰ أَنْ يَكُنَّ خَيْرًا مِنْهُنَّ ۖ وَلَا تَلْمِزُوا أَنْفُسَكُمْ وَلَا تَنَابَزُوا بِالْأَلْقَابِ ۖ بِئْسَ الِاسْمُ الْفُسُوقُ بَعْدَ الْإِيمَانِ ۚ وَمَنْ لَمْ يَتُبْ فَأُولَٰئِكَ هُمُ الظَّالِمُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që besuat, nuk bën të tallet një popull me një popull tjetër, meqë të përqeshurit mund të jenë më të mirë nga ata të cilët përqeshin dikë tjetër, e as gratë me gratë e tjera, sepse mund të ndodhë që gratë e tjera të jenë më të mira se ato që përqeshin (duke nënçmuar njëri-tjetrin) dhe mos etiketoni njëri-tjetrin me llagape. Pas besimit është keq të përhapet llagapi i keq. E ata që nuk pendohen, janë mizorë",
+				"sqi-hasanefendinahi": "O ju që keni besuar! Le të mos e përqeshin një popull atë tjetrin. Ndoshta ata të përqeshurit janë më të mirë se ata, e as gratë mos të përqeshin të tjerat. Ndoshta ato (të përqeshurat) janë më të mira se ato, dhe mos e nënçmoni njëri-tjetrin dhe mos e thirrni njëri-tjetrin me llagape (të këqia)! I shëmtuar është emri i keq pas besimit! E, ata që nuk pendohen, ata, me të vërtetë, janë zullumqarë",
+				"sqi-fetimehdiu": "O besimtarë, mos të tallen burrat njëri me tjetrin, mbase ata janë më të mirë se këta; por as gratë njëra me tjetrën, ndoshta ato janë më të mira se këto. Mos shkagoni vetvetën dhe mos i ngjitni njëri-tjetrit llagape (të këqia)! Pas besimit është shumë keq vënia e lagapit të keq. Dhe ata që nuk pendohen, ata janë mizorë"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 12,
+			"textAr": "يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ ۖ وَلَا تَجَسَّسُوا وَلَا يَغْتَبْ بَعْضُكُمْ بَعْضًا ۚ أَيُحِبُّ أَحَدُكُمْ أَنْ يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ ۚ وَاتَّقُوا اللَّهَ ۚ إِنَّ اللَّهَ تَوَّابٌ رَحِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju që keni besuar, largohuni prej dyshimeve të shumta, meqë disa dyshime janë mëkat dhe mos hulumtoni për zbulimin e të metave të njeri tjetrit, dhe mos përgjoni njëri tjetrin; a mos ndonjëri prej jush dëshiron të hajë mishin e vëllait të vet të vdekur? Atë pra e urreni! Kini frikë nga ndëshkimi i All-llahut, e All-llahu është mëshrues, Ai pranon shumë pendimin",
+				"sqi-hasanefendinahi": "O ju që keni besuar! Shmanguni prej shumë dyshimeve, meqë disa dyshime janë mëkat. Mos i hulumtoni të metat (e njëri-tjetrit) dhe mos e përgojoni njëri-tjetrin! Mos vallë dëshiron ndokush prej jush të hajë mishin e vëllait të vet të vdekur, e juve kjo u është e neveritshme! Druajuni Perëndisë! Me të vërtetë, All-llahu është pranues i pendimit dhe mëshirues",
+				"sqi-fetimehdiu": "O besimtarë, shmanguni një mori parashikimesh! Disa parashikime, me të vërtetë janë mëkat. Dhe mos spiunoni njëri-tjetrin e as mos përgojoni njëri-tjetrinnnn! A do dikush prej jush të hajë mishin e vëllaut të vet të vdekur – ju atë e dini se është shumë keq – prandaj, ruajuni All-llahut; All-llahu, vërtetë, pranon pendimet dhe është shumë i mëshirshëm"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 13,
+			"textAr": "يَا أَيُّهَا النَّاسُ إِنَّا خَلَقْنَاكُمْ مِنْ ذَكَرٍ وَأُنْثَىٰ وَجَعَلْنَاكُمْ شُعُوبًا وَقَبَائِلَ لِتَعَارَفُوا ۚ إِنَّ أَكْرَمَكُمْ عِنْدَ اللَّهِ أَتْقَاكُمْ ۚ إِنَّ اللَّهَ عَلِيمٌ خَبِيرٌ",
+			"translations": {
+				"sqi-sherifahmeti": "O ju njerëz, vërtetë Ne ju krijuam ju prej një mashkulli dhe një femre, ju bëmë popuj e fise që të njiheni ndërmjet vete, e s’ka dyshim se te All-llahu më i ndershmi ndër ju është ai që më tepër është ruajtur (këqijat) e All-llahu është i dijshëm dhe hollësisht i njohur për çdo gjë",
+				"sqi-hasanefendinahi": "O njerëz! Ne, me të vërtetë, u krijuam juve prej një mashkulli dhe një femre dhe u bëmë juve popuj dhe fise, për t’u njohur (në mes vete). Më i lavdërueshëm te All-llahu është ai që i druan më së shumti Atij. Me të vërtetë, All-llahu është i Plotëdijshëm dhe asgjë nuk i është e fshehtë Atij",
+				"sqi-fetimehdiu": "O njerëz, Ne ju kemi krijuar juve prej një mashkulli dhe një femre dhe u kemi bërë popuj e fise që ta njihni njëri-tjetrin. Më fisniku tek All-llahu është ai i cili më së shumti i ruhet Atij; All-llahu, me të vërtetë, është shumë i dijshëm dhe i informuar mirë"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 14,
+			"textAr": "۞ قَالَتِ الْأَعْرَابُ آمَنَّا ۖ قُلْ لَمْ تُؤْمِنُوا وَلَٰكِنْ قُولُوا أَسْلَمْنَا وَلَمَّا يَدْخُلِ الْإِيمَانُ فِي قُلُوبِكُمْ ۖ وَإِنْ تُطِيعُوا اللَّهَ وَرَسُولَهُ لَا يَلِتْكُمْ مِنْ أَعْمَالِكُمْ شَيْئًا ۚ إِنَّ اللَّهَ غَفُورٌ رَحِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Beduinët thanë: “Ne kemi besuar!” Thuaj: “Ju nuk keni besuar ende, por thuani: ne jemi dorëzuar, e ende nuk po hyn besimi në zemrat tuaja. E nëse e respektoni All-llahun dhe të dërguarin e Tij, Ai nuk ju pakëson asgjë nga veprat tuaja, se All-llahu është shumë mëkatfalës, shumë mëshirues”",
+				"sqi-hasanefendinahi": "Beduinët (arabët e shkretëtirës) thanë: “Na besojmë”. Thuaju (atyre): “Nuk keni besuar!” Por, thoni: “Na jemi përulur!” meqë në zemrat tuaja ende nuk ka hyrë feja si duhet. E, nëse i përuleni Perëndisë dhe Pejgamberit të Tij, nuk do t’ju pakësohet juve asgjë prej veprave tuaja. Me të vërtetë, All-llahu është falës dhe mëshirues",
+				"sqi-fetimehdiu": "Disa beduinë thonë: “Ne besojmë!” thuaj: “Ju nuk besoni, por thuani: “Ne dorëzohemi!” sepse akoma në zemrat tuaja nuk ka hyrë besimi. Por nëse e dëgjoni All-llahun dhe Profetin e tij, Ai aspak nuk do t’ua zvoglojë shpërblimet për veprat tuaja. All-llahu, vërtetë, fal dhe është shumë i mëshirshëm"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 15,
+			"textAr": "إِنَّمَا الْمُؤْمِنُونَ الَّذِينَ آمَنُوا بِاللَّهِ وَرَسُولِهِ ثُمَّ لَمْ يَرْتَابُوا وَجَاهَدُوا بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ فِي سَبِيلِ اللَّهِ ۚ أُولَٰئِكَ هُمُ الصَّادِقُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "Besimtarë janë vetëm ata që besuan All-llahut, të dërguarit të Tij, e mandej nuk dyshuan dhe për hirë të All-llahut luftuan me pasurinë dhe me jetën e tyre. Të tillë janë ata të vërtetit",
+				"sqi-hasanefendinahi": "Besimtarë të vërtetë janë vetëm ata që besojnë Perëndinë dhe Pejgamberin e Tij, dhe pastja nuk dyshojnë dhe luftojnë në rrugën e Perëndisë me pasurinë dhe jetën e tyre. Këta janë besimtarë të sinqertë",
+				"sqi-fetimehdiu": "Besimtarë janë vetëm ata të cilët i besojnë All-llahut dhe Profetit të Tij, e pastaj nuk dyshojnë dhe luftojnë për hirë të All-llahut edhe me pasurinë dhe me jetën e tyre. Ata janë të sinqertë"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 16,
+			"textAr": "قُلْ أَتُعَلِّمُونَ اللَّهَ بِدِينِكُمْ وَاللَّهُ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ ۚ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+			"translations": {
+				"sqi-sherifahmeti": "Thuaj: “A ju ia bëni me dije All-llahut fenë tuaj (duke thënë: ne besuam), kur All-llahu është Ai që e di ç’ka në qiej dhe ç’ka në tokë dhe All-llahu është i dijshëm për çdo send”",
+				"sqi-hasanefendinahi": "Thuaju (atyre): “Vallë, a ju ta lajmëroni Perëndinë për besimin tuaj, e All-llahu i di të gjitha çka ka në qiej dhe në Tokë! All-llahu është i dijshëm për çdo gjë",
+				"sqi-fetimehdiu": "Thuaj: “Vallë a ju t’ia mësoni All-llahut fenë tuaj, kurse All-llahu i di ç’ka në qiej dhe në tokë. All-llahu di çdo gjë”"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 17,
+			"textAr": "يَمُنُّونَ عَلَيْكَ أَنْ أَسْلَمُوا ۖ قُلْ لَا تَمُنُّوا عَلَيَّ إِسْلَامَكُمْ ۖ بَلِ اللَّهُ يَمُنُّ عَلَيْكُمْ أَنْ هَدَاكُمْ لِلْإِيمَانِ إِنْ كُنْتُمْ صَادِقِينَ",
+			"translations": {
+				"sqi-sherifahmeti": "Ata të shprehin ty mirënjohës (ta përmendin) që u bënë myslimanë. Thuaj: “Pranimin tuaj të fesë islame mos ma njihni (mos ma përmendni) mua, por nëse jeni të sinqertë All-llahu juve ju bëri mirë, kur ju udhëzoi për besim”",
+				"sqi-hasanefendinahi": "Ata të përkujtojnë ty, (mirësitë), ngase kanë pranuar islamizmin. Thuaju (atyre): “Mos më përkutjoni ju për atë që keni pranuar islamizmin; përkundrazi, All-llahu ju ka dhuruar mirësi dhe ju ka orientuar në besim, nëse flisni të vërtetën",
+				"sqi-fetimehdiu": "Ata që kanë pranuar fenë islame të shprehin mirësi ty. Thuaj: “Mos më shprehni mua falënderim që keni pranuar fenë islame, përkundrazi All-llahu juve ju ka shpërblyer me mirësi, që u ka udhëzuar në besim, nëse jeni të sinqertë”"
+			}
+		},
+		{
+			"surah": 49,
+			"number": 18,
+			"textAr": "إِنَّ اللَّهَ يَعْلَمُ غَيْبَ السَّمَاوَاتِ وَالْأَرْضِ ۚ وَاللَّهُ بَصِيرٌ بِمَا تَعْمَلُونَ",
+			"translations": {
+				"sqi-sherifahmeti": "S’ka dyshim se All-llahu e di fshehtësinë e qiejve e të tokës, All-llahu sheh atë që punoni ju",
+				"sqi-hasanefendinahi": "All-llahu, me të vërtetë; i di fshehtësitë e qiejve dhe Tokës. All-llahu i sheh të gjitha ato që punoni ju",
+				"sqi-fetimehdiu": "All-llahu i di me siguri fshehtësitë e qiejve dhe të tokës, dhe All-llahu sheh mirë se çka punoni"
+			}
+		}
+	]
+}

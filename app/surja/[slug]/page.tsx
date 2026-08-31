@@ -4,21 +4,24 @@ import { Metadata } from 'next';
 import React from 'react';
 
 export async function generateMetadata({ params }: any): Promise<Metadata> {
-	const { slug } = params; // ✅ Removed unnecessary await
+	const { slug } = await params;
+	const surah = surahs.find((s) => s.slug === slug);
 
 	return {
-		title: `Surja ${slug} - Lexo Kuran`,
-		description: `This is the Quran  ${slug}.`,
+		title: surah ? `Surja ${surah.nameAl} (${surah.name}) - Kurani Fisnik` : `Surja ${slug} - Kurani Fisnik`,
+		description: surah
+			? `Lexo suren ${surah.nameAl} (${surah.name}) në arabisht dhe shqip, ajet për ajet.`
+			: `This is the Quran ${slug}.`,
 	};
 }
 
 export async function generateStaticParams() {
 	return surahs.map((s) => ({
-		slug: s.nameAl,
+		slug: s.slug,
 	}));
 }
 const page = async ({ params }: any): Promise<any> => {
-	const { slug } = params; // ✅ Removed unnecessary await
+	const { slug } = await params;
 
 	return <SurahPage slug={slug} />;
 };

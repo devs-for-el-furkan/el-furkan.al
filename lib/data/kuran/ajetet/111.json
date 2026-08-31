@@ -1,0 +1,63 @@
+{
+  "surah": 111,
+  "editions": {
+    "arabic": "ara-quransimple",
+    "translations": [
+      "sqi-sherifahmeti",
+      "sqi-hasanefendinahi",
+      "sqi-fetimehdiu"
+    ]
+  },
+  "ayahs": [
+    {
+      "surah": 111,
+      "number": 1,
+      "textAr": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
+      "translations": {
+        "sqi-sherifahmeti": "Qoftë i shkatërruar Ebi Lehebi, e ai më është shkatërruar",
+        "sqi-hasanefendinahi": "Ju thafshin duart Ebu Lehebit, dhe iu thánë",
+        "sqi-fetimehdiu": "Ju thafshin dy duart Abu Lehebit, siç iu kanë tharë"
+      }
+    },
+    {
+      "surah": 111,
+      "number": 2,
+      "textAr": "مَا أَغْنَىٰ عَنْهُ مَالُهُ وَمَا كَسَبَ",
+      "translations": {
+        "sqi-sherifahmeti": "Atij nuk i bëri dobi pasuria e vet, as ajo çka fitoi",
+        "sqi-hasanefendinahi": "Nuk i ka ndihmuar atij as pasuria, e as fitimet tjera",
+        "sqi-fetimehdiu": "Nuk e bëri pasanik pasuria e tij, e as ajo çka e ka fituar"
+      }
+    },
+    {
+      "surah": 111,
+      "number": 3,
+      "textAr": "سَيَصْلَىٰ نَارًا ذَاتَ لَهَبٍ",
+      "translations": {
+        "sqi-sherifahmeti": "Ai do të hyjë në një zjarr të ndezur flakë",
+        "sqi-hasanefendinahi": "Ai, me siguri, do të hudhet në zjarrin flakërues",
+        "sqi-fetimehdiu": "Ai do të hyjë në zjarr të këndellur"
+      }
+    },
+    {
+      "surah": 111,
+      "number": 4,
+      "textAr": "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+      "translations": {
+        "sqi-sherifahmeti": "E edhe gruaja e tij, ajo që barti dru (ferra)",
+        "sqi-hasanefendinahi": "ashtu dhe gruaja e tij – dru-bartëse",
+        "sqi-fetimehdiu": "Edhe gruaja e tij, drubartësja"
+      }
+    },
+    {
+      "surah": 111,
+      "number": 5,
+      "textAr": "فِي جِيدِهَا حَبْلٌ مِنْ مَسَدٍ",
+      "translations": {
+        "sqi-sherifahmeti": "E në qafën e saj ajo ka një litar të përdredhur",
+        "sqi-hasanefendinahi": "në qafën e saj ka një litar të bërë prej fijeve (të palmës)",
+        "sqi-fetimehdiu": "Në qafën e saj ka një litar të përdredhur"
+      }
+    }
+  ]
+}
