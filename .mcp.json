@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "quranhub": {
+      "type": "http",
+      "url": "https://mcp.quranhub.com/mcp"
+    }
+  }
+}

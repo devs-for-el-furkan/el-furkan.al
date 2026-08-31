@@ -1,0 +1,24 @@
+{
+  "project": "el-furkan-al",
+  "version": "0.3.0",
+  "entries": [
+    {
+      "version": "0.3.0",
+      "date": "2026-08-12",
+      "type": "feature",
+      "summary": "Added jump-to-page navigation and smoother image loading on the Quran page viewer, plus new reference data (Juz/Hizb mappings) laying groundwork for future navigation features."
+    },
+    {
+      "version": "0.2.0",
+      "date": "2025-11-03",
+      "type": "feature",
+      "summary": "Completed the full 114-surah reference dataset (names, order, revelation details) and moved the project onto its El-Furkan.al domain branding."
+    },
+    {
+      "version": "0.1.0",
+      "date": "2025-03-20",
+      "type": "feature",
+      "summary": "Initial release: browse the full surah index, read individual surah pages, and view scanned Quran mushaf pages with navigation."
+    }
+  ]
+}
