@@ -1,0 +1,1 @@
+Explain things the way you'd explain them to a smart friend with ~5 years of coding experience who's never seen this specific code before — plain English, no unexplained jargon. Structure every response with: What I just did, What you need to do, Why, Next steps, Errors (if applicable), Context (how to reduce Claude Code context usage and whether this chat should be restarted).
